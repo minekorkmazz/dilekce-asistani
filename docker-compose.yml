@@ -1,0 +1,86 @@
+services:
+
+  chroma:
+    image: chromadb/chroma:0.5.3
+    container_name: dilekce_chroma
+    ports:
+      - "8000:8000"
+    volumes:
+      - chroma_data:/chroma/chroma
+    environment:
+      - IS_PERSISTENT=TRUE
+      - ANONYMIZED_TELEMETRY=FALSE
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/v1/heartbeat"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+    restart: unless-stopped
+
+  rustfs:
+    image: rustfs/rustfs:latest
+    container_name: dilekce_rustfs
+    user: root
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    volumes:
+      - rustfs_data:/data/rustfs
+    environment:
+      - RUSTFS_ROOT_USER=${RUSTFS_ROOT_USER}
+      - RUSTFS_ROOT_PASSWORD=${RUSTFS_ROOT_PASSWORD}
+      - RUSTFS_VOLUMES=/data/rustfs
+      - RUSTFS_ADDRESS=:9000
+      - RUSTFS_CONSOLE_ADDRESS=:9001
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9000/minio/health/live"]
+      interval: 10s
+      timeout: 5s
+      retries: 15
+      start_period: 15s
+    restart: unless-stopped
+
+  # Sadece bir kez çalışır, indexleme yapar, çıkar
+  indexer:
+    build: .
+    container_name: dilekce_indexer
+    volumes:
+      - ./chunks.json:/app/chunks.json:ro
+    environment:
+      - CHROMA_HOST=chroma
+      - CHROMA_PORT=8000
+    command: ["python3", "/app/indexer.py"]
+    depends_on:
+      chroma:
+        condition: service_healthy
+    restart: "no"   # bir kez çalışır yeniden başlamaz
+
+  streamlit:
+    build: .
+    container_name: dilekce_app
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./chunks.json:/app/chunks.json:ro
+    env_file:
+      - .env
+    environment:
+      - CHROMA_HOST=chroma
+      - CHROMA_PORT=8000
+      - RUSTFS_ENDPOINT=http://rustfs:9000
+      - RUSTFS_ACCESS_KEY=${RUSTFS_ROOT_USER}
+      - RUSTFS_SECRET_KEY=${RUSTFS_ROOT_PASSWORD}
+      - RUSTFS_BUCKET=dilekce-ciktilari
+    command: ["streamlit", "run", "/app/app.py", "--server.port=8501", "--server.address=0.0.0.0"]
+    depends_on:
+      chroma:
+        condition: service_healthy
+      rustfs:
+        condition: service_healthy
+      indexer:
+        condition: service_completed_successfully
+    restart: unless-stopped
+
+volumes:
+  chroma_data:
+  rustfs_data:
