@@ -7,3 +7,5 @@ chromadb==0.5.3
 sentence-transformers==3.0.1
 python-dotenv==1.0.1
 boto3==1.34.0
+mcp>=1.0.0
+rank_bm25>=0.2.2

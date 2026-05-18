@@ -32,12 +32,6 @@ services:
       - RUSTFS_VOLUMES=/data/rustfs
       - RUSTFS_ADDRESS=:9000
       - RUSTFS_CONSOLE_ADDRESS=:9001
-    healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:9000/minio/health/live"]
-      interval: 10s
-      timeout: 5s
-      retries: 15
-      start_period: 15s
     restart: unless-stopped
 
   # Sadece bir kez çalışır, indexleme yapar, çıkar
@@ -76,7 +70,7 @@ services:
       chroma:
         condition: service_healthy
       rustfs:
-        condition: service_healthy
+        condition: service_started
       indexer:
         condition: service_completed_successfully
     restart: unless-stopped
