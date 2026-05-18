@@ -1,0 +1,12 @@
+Hat Kiralama Sözleşmesi
+Kiraya Veren:
+Kiracı:
+Hat İsmi :
+Başlangıç Tarihi:
+Kira Süresi:
+Kira Bedeli:
+Ödeme Şekli:
+1- Kiraya verenin sahibi bulunduğu … güzergâhındaki .. isimli hat kiracı tarafından … süre için … bedel ile kiralanmıştır.
+2- Kira süresince bu hattın bütün hak ve yükümlülükleri kiracıya aittir. Ödenmesi gereken her türlü vergi ve harçlar kiracı tarafından ödenecektir.
+Kiraya Veren                                     Kiracı                                                                    Adı ve Soyadı                            Adı ve Soyadı
+İmza                                            İmza

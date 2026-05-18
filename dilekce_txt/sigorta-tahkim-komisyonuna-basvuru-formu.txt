@@ -1,0 +1,185 @@
+Sigorta Tahkim Komisyonuna Başvuru Formu[1]
+SİGORTA TAHKİM KOMİSYONU BAŞVURU FORMU
+I - Başvuru Sahibi Gerçek Kişi ile İlgili Bilgiler
+Eğer başvuruyu bir gerçek kişi sıfatı ile yapıyorsanız aşağıdaki bilgileri doldurunuz.
+Adı
+:
+Cinsiyeti
+:     Kadın
+Erkek
+Soyadı
+:
+T.C.Kimlik Numarası
+:
+Mesleği
+(Eğer emekli iseniz önceki işiniz)
+:
+Öğrenim Durumu
+:
+Doğum Tarihi
+:
+Bildirim Adresi
+:
+İkamet Edilen İlçe
+:
+İkamet Edilen İl
+:
+İş Telefonu
+:
+Cep Telefonu
+:
+Ev Telefonu
+:
+E-posta Adresi  :                           @
+Kayıtlı Elektronik Posta (KEP) Adresi
+@
+II – Başvuru Sahibi Tüzel Kişi ile İlgili Bilgiler
+Eğer başvuruyu bir şirket, dernek vakıf veya bir başka tüzel kişi adına yapıyorsanız aşağıdaki bilgileri doldurunuz ve söz konusu tüzel kişiliği temsil yetkiniz bulunduğuna dair imza sirküleri ve / veya yetki belgelerinizi ekleyiniz.
+Tüzel Kişinin Resmi Unvanı
+:
+Vergi Dairesi ve
+Vergi Numarası
+:
+Bildirim Adresi
+:
+Tüzel Kişiyi Temsilen
+Başvuran Kişinin
+Adı Soyadı ve Unvanı
+:
+İrtibat  Numarası
+E-posta Adresi  :                        @
+Kayıtlı Elektronik Posta (KEP) Adresi
+@
+III - Vekile İlişkin Bilgiler (Başvuru vekaleten yapılıyor ise bu bölüm de ayrıca doldurulacaktır.)
+Vekil Adı Soyadı
+:
+T.C.Kimlik Numarası     :
+Bildirim Adresi
+:
+İrtibat Telefonu
+:
+E-posta Adresi
+@
+Kayıtlı Elektronik Posta (KEP) Adresi
+@
+* Tahkim sürecindeki tüm bildirimler bu alanda belirtilen posta adresine veya elektronik posta adresine yapılacaktır. (Vekaleten yapılan başvurularda bildirimler vekilin adresine yapılacaktır.) Posta adresindeki bir yanlışlıktan, elektronik posta adresinin yanlış yazılmasından veya herhangi bir sebeple çalışmamasından doğacak zararlardan Komisyonumuzun ve hakemlerin sorumluluğu bulunmamaktadır.
+IV - Başvuru Konusuna İlişkin Bilgiler
+Hakkında Başvuru Yaptığınız  Davalı Sigorta Kuruluşunun Adı / Ticari Unvanı :
+Poliçe Türü
+(Trafik, Kasko, Yangın vs.)
+:
+Poliçe No                 :
+Hasar Dosya No                   :
+Plaka No                          :
+(Kendi Aracınız )
+Hasarın / Rizikonun              :
+Gerçekleşme Tarihi
+Uyuşmazlık/ Dava Tutarı :
+(Talep Edilen Tutar)
+Sigorta Kuruluşuna : Talebinizle ilgili Yapılan Başvuru Tarihi
+Sigorta Kuruluşu Kısmi ödeme   yapmış ise belirtiniz :
+TL
+Poliçe Başlangıç Tarihi
+:
+Poliçe Bitiş Tarihi
+:
+Sigorta Kuruluşu başvurunuzla ilgili olarak nihai cevabını verdi mi?
+EVET
+HAYIR
+Başvuru konunuz ile ilgili olarak mahkemeye veya Tüketici Sorunları Hakem Heyeti’ne müracaat ettiniz mi?
+EVET
+HAYIR
+Başvuru konusuna ilişkin devam eden bir ceza davası veya savcılık soruşturması mevcut mudur?
+EVET
+HAYIR
+Başvuru konunuz ile ilgili olarak Hazine Müsteşarlığı’na veya başka bir şikâyet merciine müracaat ettiniz mi?
+EVET
+HAYIR
+Daha önce aynı uyuşmazlık ile ilgili olarak Sigorta Tahkim Komisyonuna başvuru yapıldı mı ?
+EVET
+HAYIR
+Aynı uyuşmazlık ile ilgili olarak daha önce başvuru yapıldı ise başvuru numarası ve sonucunu lütfen aşağıda belirtiniz.
+“Evet” seçeneğini işaretlediğiniz sorulara ilişkin belgeleri ekleyiniz.
+V - Komisyona Başvuru Ücretine İlişkin Bilgiler
+Uyuşmazlıkta tutarına göre yatırılması gereken başvuru ücreti
+Uyuşmazlığa Konu Miktar (TL)
+Başvuru Ücreti (TL)
+0 – 5.000
+320 TL
+5.001 – 10.000
+715 TL
+10.001 – 50.000
+1030 TL
+50001 -…
+Uyuşmazlık tutarının %1,5’u ( En az 1030 TL olmak üzere
+üEFT yoluyla yatırılan ücretlerde açıklama alanına kimin adına başvuru yapılıyorsa Ad Soyadı bilgisi veya tüzel kişi ise kuruluş adının yazılması gerekmektedir.
+üBaşvuru ücretleri T.C. Ziraat Bankası’nın tüm şubelerinden Kurumsal tahsilat üzerinden yatırıldığında, hiçbir şekilde masraf alınmayacaktır. Ücret yatırırken bankaya “Kurumsal tahsilat” menüsünden yatırılacağını belirtiniz.
+ü Dekontu Başvuru formunun ekinde göndermeyi unutmayınız.
+………………  TL tutarındaki başvuru ücreti T.C Ziraat Bankası’nda bulunan Sigorta Tahkim Komisyonu hesabına yatırılmıştır.
+İnternet üzerinden yatırılacak başvuru ücretlerinin IBAN: TR080001000824502567015015 no.lu Komisyon hesabına yatırılması mümkündür.
+Başvuru ücretinin tarafınıza iadesi halinde kullanacağınız bankanın hesap bilgileri:
+Hesap Sahibi
+:
+Banka Adı
+:
+IBAN
+:
+VI -  Başvuru Konusu İhtilafın Nedenine İlişkin Beyanlarınızı ve
+Sigorta Kuruluşundan Olan Talebinizi Açık Olarak Belirtiniz
+Bu bölüm mutlaka doldurulmalıdır. Bu bölüme sığmayacağını düşündüğünüz beyanlarınızı, imzalı bir “ek beyan” ile başvurunuza ekleyebilirsiniz.
+Netice Ve Talep (Talebinize konu miktarın mutlaka açıkça belirtilmesi gerekmektedir):
+VII- Önemli Hatırlatmalar
+MUTLAKA OKUYUNUZ;
+üBaşvuru ile ilgili olarak Başvuru Formunu eksiksiz olarak doldurduğunuzdan emin olunuz.
+üSigorta kuruluşundan talebinize karşılık verilen cevabi yazı, sigorta poliçesi ve başvuru ücreti ödeme dekontu örneği başvurunuz ekinde ibraz edilmelidir.
+üBaşvuru sahibi gerçek kişilerin geçerli bir kimlik belgesinin (Nüfus cüzdanı, ehliyet, pasaport vb.) fotokopisi eklenmelidir.
+üBaşvuru Formu, istenilen bilgiler eksiksiz bir şekilde doldurulduktan sonra ıslak imzalı olarak, ekleri ile birlikte şahsen ya da posta yolu ile gönderilmelidir.
+üİhtilaf konusu talebinize ilişkin mevcut diğer tüm belgeler de başvurunuz ekinde ibraz edilmelidir.
+üTahkim yeri Komisyon merkezidir. Ancak taraflar aralarında yapacakları yazılı bir sözleşmeye aksini kararlaştırabilirler.
+üTahkim sürecinde yapılacak bildirimler Tebligat Kanunu hükümlerine tabi değildir.
+üTahkim sürecinde meydana gelecek adres değişikliklerinin derhal Komisyona bildirilmesi gerekmektedir. Aksi halde bildirim yalnızca başvuru formundaki ilgili alanda belirtilen adrese yapılacak olup, bildirimin yapılamaması başvuranın sorumluluğundadır.
+üÖdenmesi gereken Komisyon Başvuru ücreti, uyuşmazlığa konu miktara göre formda yer alan “Komisyona başvuruya ilişkin bilgiler” alanında belirtildiği gibidir:
+üTahkim sürecindeki tüm bildirimler iş bu formda beyan etmiş olduğunuz posta adresine veya elektronik posta adresine yapılacaktır. (Vekaleten yapılan başvurularda ise bildirimler vekilin adresine yapılacaktır.) Posta adresindeki bir yanlışlıktan, elektronik posta adresinin yanlış yazılmasından veya herhangi bir sebeple çalışmamasından doğacak zararlardan Komisyonumuzun ve hakemlerin sorumluluğu bulunmamaktadır.
+üNihai kararlar formda belirtmiş olduğunuz adrese gönderilecektir. (KEP bildirimleri sadece KEP adresine yapılabilmektedir. Bu sebeple, yetkili servis sağlayıcısından KEP adresi temin etmeniz gerekmektedir.)
+üKişisel Verilerin Korunması Kanunun 10’uncu maddesi çerçevesinde oluşturulan Aydınlatma Metnine http://www.sigortatahkim.org.tr/files/aydinlatmametni.pdf adresinden ulaşabilirsiniz.
+VIII – Sigorta Tahkim Komisyona Müracaata İlişkin Başvuru Sahibinin İmzalı Beyanı
+Sigorta Tahkim Komisyonu Başkanlığı’na,
+Başvuru formunda yer alan tüm açıklamaları dikkatlice okuyup anladığımı,
+Başvuru konusuna ilişkin sahip olduğum tüm bilgi ve belgeleri işbu başvuru formu ve ekinde doğru ve eksiksiz olarak ibraz ettiğimi,
+5.000 TL’nin altındaki uyuşmazlıklar hakkında verilen hakem kararlarının kesin olduğunu, 5.000 TL ve daha üzerindeki uyuşmazlıklar hakkında verilen hakem kararlarına karşı kararın Komisyonca ilgiliye bildiriminden itibaren on gün içinde bir defaya mahsus olmak üzere Komisyon nezdinde itiraz edilebileceğini, 5.000 TL ve daha üzerindeki uyuşmazlıklar hakkında verilen hakem kararlarının süresinde itiraz başvurusunda bulunulmaması hâlinde kesinleşeceğini, 40.000 TL’nin üzerindeki uyuşmazlıklar hakkında itiraz üzerine verilen kararlar için temyize gidilebileceğini bildiğimi,
+Uyuşmazlığın sigortacılıkta tahkim mevzuatı çerçevesinde neticelendirilmesini ve Hukuk Muhakemeleri Kanunu’nun ilgili hükmü uyarınca hakem/hakem heyeti kararında taraflara yükletilebilecek yargılama giderlerini kabul ettiğimi,
+İşbu uyuşmazlığın mahkemeye, Hukuk Muhakemeleri Kanunu’na göre Tahkime veya Tüketici Sorunları Hakem Heyeti’ne intikal etmediğini,
+Sigorta Tahkim Komisyonu veya hakemler tarafından, tarafıma yapılacak tüm bildirimlerin yukarıda beyan etmiş olduğum yazışma adresime veya elektronik posta (e-posta) adresime veya 7201 sayılı Tebligat Kanunu’nun 7/a maddesi ve 09.01.2013 tarihli Elektronik Tebligat Yönetmeliğinin ilgili hükümleri uyarınca, Kayıtlı Elektronik Posta (KEP) adresime yapılmasını, bu şekilde yapılacak bildirimlerin tarafıma yapılmış yasal bir tebligat olduğunu ve tüm sonuçları ile tarafımı bağlayacağını,
+beyan eder, işbu başvurumun Sigorta Tahkim Komisyonu tarafından işleme konulmasını arz ve talep ederim.
+TARİH                      :
+İSİM                          :
+(Tüzel kişi başvurularında mutlaka tüzel kişiliğin tam unvanını belirtiniz.)
+İMZA
+Vekilsiz Tüzel Kişi başvurularında imza ile beraber Kaşe vurulması da gerekmektedir.
+BAŞVURU SAHİBİNE AİT
+ÖZEL NİTELİKLİ KİŞİSEL VERİLERİN İŞLENMESİNE DAİR
+AÇIK RIZA BEYANI
+Uyuşmazlığın, “Sigorta Tahkim Komisyonu” aracılığıyla çözümü adına yapılan işbu başvuruya istinaden, “Sağlık” ve “Ceza Mahkumiyeti / Güvenlik Tedbirlerine” ilişkin veriler başta olmak üzere, 6698 Sayılı Kanun’un 6’ıncı maddesinde sayılan ve işlenmesi açık rızaya bağlanan “Özel Nitelikli Kişisel Verilerin”, veri sorumlusu “Sigorta Tahkim Komisyonu” ve bu hususta yetkilendirilmiş ilgili birimleri tarafından, işbu açık rıza beyanından önce elektronik ortamda tarafıma sunulan aydınlatma metninde belirtilen yöntemler kullanılarak, 6698 saylı Kişisel Verilerin Korunması Kanunu’nda öngörülen usul ve esaslar ile Anayasal güvenceler çerçevesinde,
+İşbu tahkim başvurusunun işleme alınması, kayıt işlemlerinin gerçekleştirilmesi, 5684 sayılı Sigortacılık Kanunun 30’uncu maddesi ve 6100 sayılı Hukuk Muhakemeleri Kanunu çerçevesinde yürütülecek yargılama faaliyetlerinin sağlıklı, etkin ve mevzuata uygun bir şekilde icra edilmesi amaçlarıyla işlenebileceğine, otomatik veya otomatik olmayan yollarla elde edilebileceğine (toplanabileceğine), kaydedilebileceğine, işlenme amacıyla uygun süre zarfında fiziksel veya elektronik ortamda güvenli bir şekilde depolanabileceğine, muhafaza edilebileceğine, değiştirilebileceğine, yeniden düzenlenebileceğine, mevzuata uygun biçimde açıklanabileceğine, devralınabileceğine, sınıflandırılabileceğine ya da verilerin kullanılmasının engellenebileceğine;
+Komisyon çalışanlarına, görevlilerine, kanunen yetkili kamu kurum ve kuruluşlarına, adli ve idari yargı mercilerine, savcılıklara, asli ve fer’i müdahiller de dahil olmak üzere uyuşmazlığın taraflarına ve bunların yasal temsilcilerine, listeye kayıtlı hakemlere, sicile kayıtlı bilirkişi ve uzmanlara, raportörlere, faaliyetin gereği gibi yerine getirilmesi için veri paylaşımının elzem olduğu hallerde hizmet veren üçüncü kişilere, Sigorta Bilgi ve Gözetim Merkezi Yönetmeliğinin 17’inci maddesinin beşinci fıkrası kapsamında dış veri işleyen sıfatıyla Sigorta Bilgi ve Gözetim Merkezine aktarılmasına veya paylaşılmasına,
+AÇIK RIZAM doğrultusunda ONAY VERİYORUM.
+VERİ SAHİBİ
+(Açık Rıza Beyanı Veren Bizzat Veri Sahibi İse Bu Alan, Veri Sahibi Tarafından Doldurulmalıdır)
+VERİ SAHİBİNİ TEMSİLEN
+(Açık Rıza Beyanı Veren, Bu Hususta Veri Sahibi Adına Hareket Etmeye Yetkili Temsilci İse Bu Alan Temsilci Tarafından Doldurulmalıdır)
+Ad- Soyad:
+Ad- Soyad:
+T.C. Kimlik No:
+T.C. Kimlik No:
+Tarih:
+Tarih:
+Adres:
+Adres:
+Telefon:
+Telefon:
+İmza:
+İmza:
+SİGORTA TAHKİM KOMİSYONU
+Altunizade Mahallesi Kuşbakışı Caddesi No:4 Rainbow Plaza Kat :3 Üsküdar / İstanbul
+EK: Başvuru Formu Eki Belgeler (Başvuru Formu hariç toplam …… sayfa)
+[1] Bu form, 16/7/2024 tarihinde http://www.sigortatahkim.org.tr/ adresinden alınmıştır.

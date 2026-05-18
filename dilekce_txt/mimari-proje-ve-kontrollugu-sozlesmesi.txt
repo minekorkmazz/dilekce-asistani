@@ -1,0 +1,196 @@
+Mimari Proje ve Kontrollüğü Sözleşmesi[1]
+Madde 1- BAŞLANGIÇ
+Bu sözleşme....................................................….…………………….……………………. adresinde ikamet eden …………………………………..……………. (Bundan sonra İŞVEREN olarak anılacaktır) ile ……………………………… adresinde ikamet eden ……………………………………………….. adına …………………. (Bundan böyle PROJE MÜELLİFİ olarak anılacaktır) arasında aşağıdaki şartlarla düzenlenmiştir.
+Madde 2- KONU
+Bu sözleşmenin konusunu, İŞVEREN’in yatırım yapacağı aşağıda mutabık kalınan şartlar dahilinde …… ili, …… ilçesi, ……. mahallesinde kain ve tapunun …… pafta, …… ada, …… parselde kayıtlı ve …… adresinde bulunan arsa üzerinde inşa edilecek ……… m² inşaat alanlı “……………………………..” ne ait mimari, elektrik, mekanik projelerinin PROJE MÜELLİFİ tarafından hazırlanması, hazırlattırılması, ihale dosyasının hazırlanması, ihale sürecinin tamamlanması ve mimari kontrolluğun yapılması, inşaatın kontrol edilmesi bunun karşılığında İŞVEREN tarafından PROJE MÜELLİFİ’ne bir bedel ödenmesidir.
+Madde 3- PROJE MÜELLİFİNİN HİZMET KAPSAMI[2]
+a) PROJE MÜELLİFİ tarafından yapılacak hizmetler aşağıda belirlenmiş etaplardan oluşacaktır .
+• Bina programının hazırlanması,
+• Avan projenin hazırlanması ve İŞVEREN’den onay alınması, (Proje kapsamında) (Proje dışı)
+• Kesin projelerin hazırlanması ve İŞVEREN’den onay alınması, (Proje kapsamında) (Proje dışı)
+• Uygulama projelerinin hazırlanması, (Proje kapsamında) (Proje dışı)
+• Detay projelerin hazırlanması, (Proje kapsamında) (Proje dışı)
+• İmalat ve malzeme tanımlarının yapılması, (Proje kapsamında) (Proje dışı)
+• İhale dosyalarının hazırlanması, (Proje kapsamında) (Proje dışı)
+• İhale yapılması, (Proje kapsamında) (Proje dışı)
+• İnşaat sürecinin kontrollüğü (Proje kapsamında) (Proje dışı)
+b) PROJE MÜELLİFİ tarafından yapılacak ve yaptırılacak hizmetler 16.07.1985 gün ve 18883 sayılı Resmi Gazetede yayınlanmış bulunan Bayındırlık Bakanlığı Mimarlık ve Mühendislik Hizmetleri Şartnamesi hükümlerine uygun olacaktır.
+c) Mimari, Statik, Mekanik ve Elektrik projelerinin PROJE MÜELLİFİ tarafından üçüncü kişilere hazırlatılması halinde yapılacak ödemelerden PROJE MÜELLİFİ sorumlu olup ihtilaf anında İŞVEREN, PROJE MÜELLİFİ’ni muhatap kabul edecektir.
+d) Sözleşmenin 13. maddesine göre PROJE MÜELLİFİ’ne vekaletname verildiği takdirde; PROJE MÜELLİFİ, hazırladığı veya hazırlatacağı projelerin Tedaş, İzsu, Türk Telekom, Belediyeler vd. kuruluşlarca onaylanmasını sağlayacaktır. Bu onaylara ait vergi ve harçlar İŞVEREN’e aittir.
+e) PROJE MÜELLİFİ, projelerin Meslek Odaları onaylarını yaptıracaktır.
+f) PROJE MÜELLİFİ’ne tasarım için gerekli resmi evrak İŞVEREN tarafından verilecektir.
+Madde 4- İŞ PROGRAMI
+PROJE MÜELLİFİ sözleşme konusu hizmetleri aşağıdaki iş programına uygun gerçekleştirecektir. Tüm proje işleri …. gün içerisinde bitirilecektir. Resmi tatil günleri ve Pazar günleri, belirlenen süreye dahil değildir.
+• Bina programı yapılması sözleşme tarihinden itibaren …. gün içinde,
+• Avan proje sözleşme tarihinden itibaren …. gün içinde,
+• Kesin Projeler sözleşme tarihinden itibaren …. gün içinde, ruhsat alınacak şekilde,
+• Uygulama projeleri ve detaylar kesin projelerin onayından itibaren …. gün içinde,
+• İhale dosyası ve orijinallerin teslimi …. gün içinde,
+• İnşaatın kontrollüğü …… ay süre ile,
+Bir projenin yapılması için bir başka projenin idari mercilerce onaylanması gerekiyorsa; idari merciler nezdinde geçecek olan tasdik süresi, Sözleşmede belirlenen sürelerden hariç tutulacaktır (Örneğin Mimari Proje Ön Proje Onayı). Ayrıca sürelerin hesabında madde 9.3 saklıdır.
+PROJE MÜELLİFİ, her bir aşama sonrasında hazırladığı veya hazırlatacağı projeyi bir tutanak ile İŞVEREN’in yazılı onayına sunacaktır. İŞVEREN’in onay süresi, tutanak tarihinden sonra …. gündür. İŞVEREN, onay süresi sonunda olumlu/olumsuz herhangi bir görüş bildirmez ise, başkaca bir işleme gerek kalmaksızın PROJE MÜELLİFİ’nin sunduğu proje onaylanmış sayılır. Her aşama için onay süresi sonundaki İŞVEREN’in tavsiye ve katkıları bir sonraki safhada tasarıma yansıtılacaktır. Onaylı bir takım proje, PROJE MÜELLİFİ’ne iade edilecektir.
+Madde 5- PROJE TANIMLARI
+PROJE MÜELLİFİ tarafından yapılacak ve/veya yaptırılacak işler .
+PROJE TÜRÜ                  PROJE HAZIRLAYICISI                          BEDELİ
+1- MİMARİ PROJE           ……………………..Şti.                                         ….-TL
+Mimar…………………
+2- STATİK PROJE            …………….Mühendislik Şti.                                ….-TL
+(Prefabrik olmaz ise)         İnş.Müh. ………………
+3- MEKANİK PROJE        …………. Mühendislik Şti.                                   ….-TL                                                                  Mak.Müh. ……………….
+4- ELEKTRİK PROJESİ    …..…… Mühendislik Şti.                                     ….-TL                                                                         Elek.Müh. …….
+5- İHALE DOSYASI          ……..…… Şti.                                                       ….-TL
+HAZIRLANMASI
+6- JEOLOJİK ETÜD           (İşveren tarafından) (müellif tarafından)             ….-TL
+7- HARİTA, PLANLAMA İŞLERİ   (İşveren tarafından) (müellif tarafından)  ….-TL
+8- YAPI DENETİM İŞLERİ
+ORGANİZASYONU                    (İşveren tarafından) (müellif tarafından)           ….-TL
+9- PEYZAJ ve ALT YAPI PROJESİ (İşveren tarafından) (müellif tarafından) ….-TL
+10- KONTROLLÜK BEDELİ                                                                            ….-TL
+….-TL
++KDV                                                                                                                                                        (Toplam)
+11- MESLEK SİGORTASI (teklif dışında olup İŞVEREN’ce istenildiği taktirde mutabık kalındığı şekilde bedeli İŞVEREN’ce karşılanarak yapılacaktır.)
+Madde 6- PROJE KAPSAMI DÖKÜMÜ (örnek olarak verilmiştir)
+1-MİMARİ PROJE
+AVAN PROJE
+-1/500 vaziyet planı
+-1/200 zemin kat planı
+-1/200 kat planları
+-1/200 kesitler
+-1/200 görünüşler
+-Malzeme öneri listesi
+KATİ PROJE
+-1/500 vaziyet planı
+-1/100 kat planları
+-1/100 kesitler
+-1/100 görünüşler
+-1/20 sistem detayı
+-1/100 tefriş öneri planı
+-Mahal listesi
+UYGULAMA PROJESİ
+- 1/500 vaziyet planı
+- 1/500 alt yapı koordinasyon prensip planı
+- 1/100 peyzaj prensip projesi
+- 1/100 kat planları
+- 1/50 kısmi zemin ve 1. kat planı
+- 1/100 kesitler
+- 1/100 görünüşler
+- 1/20 sistem detayı
+- 1/1, 1/ 2, 1/10 kısmi detaylar
+- 1/20 WC plan ve açılınımları
+- 1/20 merdiven plan ve kesitleri
+- 1/100, 1/50 tavan koordinasyon planları  (Klima, aydınlatma, yangın)
+- 1/100, 1/50 zemin kaplama planları
+- 1/20 giriş holü plan ve kesitleri
+- 1/20 giriş holü merdiveni
+-1/20 izolasyon prensip resimleri
+- Kapı pozisyon resimleri
+- Doğrama pozisyon resimleri
+- Mahal listesi
+- Özel şartname
+- Teknik şartname
+- Birim fiyat tarifleri
+- Metrajlar
+- Keşif
+- 3D görünüşler
+- İhale dosyası
+2- STATİK PROJE
+KESİN PROJE
+- Kalıp planları 1/100
+- Kati proje temel etüdü ve raporu
+UYGULAMA PROJELERİ
+- Kalıp planları 1/100-1/50
+- İmalat resimleri
+- Betonarme statik hesapları
+3- MEKANİK PROJE
+KESİN PROJE
+- Cihaz yerleşim planları 1/100
+- Soğutma / ısıtma grupları hesapları
+- Cihaz seçimleri
+UYGULAMA PROJELERİ
+- Isıtma / soğutma kat planı 1/100-1/50
+- Isıtma / soğutma çatı planı 1/100
+- Isıtma / soğutma kolon şemaları
+- Sıhhi tesisat kat planı 1/100-1/50
+- Sıhhi tesisat kolon şeması
+- Yağmur tesisatı kat planları 1/100
+- Yangın tesisatı kat planı 1/100
+- Isıtma / soğutma hesapları
+- Sıhhi tesisat hesapları
+- Yağmur tesisatı hesapları
+- Sığınak havalandırma projesi
+4- ELEKTRİK PROJE
+UYGULAMA PROJELERİ
+- Topraklama tesisatı projeleri 1/100
+- Aydınlatma tesisatı projeleri 1/100-1/50
+- Acil aydınlatma ve çıkış 1/100-1/50
+- Priz tesisatı projeleri 1/100-1/50
+- Mekanik sistemler elektrik besleme projeleri 1/100
+- Ekipman besleme projesi 1/100-1/50
+- AG tablolar tek kutuplu projeleri
+- Telefon dağıtım tesisatı projeleri 1/100
+- CCTV dağıtım tesisatı projeleri 1/100
+- Galvaniz kablo taşıyıcı tesisatı projeleri 1/100
+- Paratoner projesi 1/100
+- Yangın ihbar tesisatı projeleri 1/100
+- Data dağıtım projeleri 1/100
+Yukarda belirtilen hizmet kapsamı dışında PROJE MÜELLİFİ’nin verdiği her türlü danışmanlık hizmeti, işbu Sözleşme konusu dışında kalıp ayrıca ücretlendirilir. Gerektiği takdirde, danışmanlık hizmetleri için taraflar arasında bir sözleşme düzenlenecektir.
+Madde 7- HİZMET BEDELLERİ ve ÖDEME ŞEKLİ
+a) Proje kapsamında yapılacak işlerin bedeli ………..-TL (Yalnız ………………………….. Türk Lirası)+KDV olarak belirlenmiştir.
+b) İşin toplam bedeli olan …………………..-TL+KDV aşağıdaki iş bitim dilimleri ve belirtilen oranlar dâhilinde İŞVEREN tarafından PROJE MÜELLİFİ’ne ödenecektir. Madde 4 uyarınca İŞVEREN tarafından işin onaylanmasını takiben PROJE MÜELLİFİ aşağıda belirlenen orandaki faturayı düzenleyip İŞVEREN’e tebliğ edecektir. Faturanın tebliğini takiben [.] gün içinde İŞVEREN, PROJE MÜELLİFİ’nin …… Bankası …… şubesi nezdinde bulunan …… IBAN no’lu banka hesabına fatura bedelini ödeyecektir.
+• Sözleşme imzalanması ile birlikte avans % (…)
+• Kesin proje tesliminde % (…)
+• Uygulama projesinin tesliminde % (…)
+• İhale dosyasının tesliminde % (…)
+• İhale yapılıp sözleşme imzalandığında % (…) (sözleşme dosya tesliminden itibaren 5 ay içinde yapılmazsa bu bedel ödenir.)
+• Kontrollük bedeli % (….) inşaat başlamasından geçici kabule kadar (…. ay) aylık eşit ödemeler ile
+PROJE MÜELLİFİ’nden kaynaklanmayan nedenlerden dolayı meydana gelen her türlü gecikme hariç olmak üzere, işin belirtilen sürede bitirilememesi halinde PROJE MÜELLİFİ geçen her bir gün için 500-TL’ yi İŞVEREN’e gecikme bedeli olarak ödeyecek veya gecikme bedeli ihale dosyası tesliminde ödenmesi gereken tutardan düşülecek en fazla bu tutar kadar olacaktır .
+Madde 8- MİMARİ KONTROLLUK
+8.1. Tasarlanan binanın inşaat sırasında mimari kontrollüğü yapılacaktır. Temel amaç, PROJE’nin, en doğru ve en uygun şekilde inşa ettirilmesi ve buna yönelik faaliyetlerin denetlenmesidir.  Bu bölümde mimar, “KONTROL” olarak vasıflandırılacaktır.
+8.2. KONTROL, …. günlük periyotlardan az olmamak üzere şantiyeyi ziyaret ederek hazırlayacağı raporu İŞVEREN’e iletecektir.
+8.3. PROJE’nin kontrollüğü ve yürütülmesi ile ilgili her türlü program ve tarifler KONTROL tarafından oluşturulacak, ihale aşamasında YÜKLENİCİ ve İŞVEREN ekipleri tarafından oluşturulmuş olanlar kontrol edilerek İŞVEREN’e görüş sunulacaktır.
+8.4. KONTROL, inşa edilecek yapının inşaat işleri dışında, PROJE’nin yatırım maliyetini oluşturan varsa arıtma, bio enerji, vs. işler ile ilgili inşaat işlerinin müşterek noktalarını tespit edecek ve bunlar için de İŞVEREN’i planlama açısından uyaracaktır. Ancak, bu tip işler KONTROL’ün uzmanlık konuları dışında kaldığından, gerektiğinde üçüncü kişilerden İŞVEREN tarafından ödenecek ücreti karşılığında hizmet alınmasını da önerebilecektir.
+8.5. Taraflar, genel prensip olarak, ilgili mevzuatı gereğince ruhsata bağlanmış mühendislik hizmetlerinin KONTROL tarafından yapılacak kontrollerin, KONTROL’ü bağlamayacağı, mühendislik hizmetlerinden doğabilecek hatalarından KONTROL’ün sorumlu tutulamayacağı konusunda mutabıklardır.
+8.6. İşbu Sözleşme kapsamındaki ruhsat projeleri, revizyonları ve mimari detay revizyonları dışında kalan diğer proje ve “as-built” proje hizmetleri, bu sözleşme bedeli haricindedir. Bu tip hizmetlerin üretimi sırasında gerekirse, İŞVEREN’in talebi üzerine uygun göreceği sair danışmanların görüş ve onayları da alınacaktır. Bu danışmanlara ödenmesi gereken ücretler İŞVEREN tarafından ayrıca ödenir; sözleşme bedeline dahil değildir. Yüklenici’nin hazırlayacağı “as-built” projeler KONTROL’ce denetlenir.
+8.7. PROJE’nin yürütümü için ruhsat projeleri dışında hazırlanması gereken statik, elektrik, mekanik, arıtma, çevre düzenlemesi, vs. projelerin mimari proje ile uyumu KONTROL tarafından denetlenecektir.
+8.8. PROJE’nin yürütümü esnasında alınması gereken bütün ruhsatların alınabilmesi için gereken her türlü resmi bilgi, belge, tapu senet örnekleri vs. gibi evrakın hazırlanması ve değerlendirilmesi taraflarca müştereken yapılacaktır. İŞVEREN’in bu işlemlerinin KONTROL tarafından takibi talep edildiği takdirde, taraflar arasında mutabık kalınacak yetkileri havi bir vekaletname İŞVEREN tarafından KONTROL’a tevdi edilecektir.
+8.9. PROJE’nin yürütümünde, yapı denetimi için mevzuat gereğince zorunlu olarak görevlendirilmesi şart olabilecek firmayı İŞVEREN belirlemiştir. Yapı denetimi ile görevlendirilmiş olan firmanın görev ve yetkileri, ilgili yasal düzenlemelerde tarif edilenlerle sınırlıdır. KONTROL, sözleşme konusu iş ve işlemlerle kendisine tevdi edilen hususlara ilişkin bilgi ve/veya meslek sırlarını hiçbir şekilde yapı denetim firması ile paylaşmayacaktır. KONTROL’ün yapı denetim görevlisine karşı herhangi bir sorumluluğu veya yükümlülüğü bulunmamaktadır. Yapı denetim firması ile KONTROL arasında herhangi bir anlaşmazlık çıkması halinde, bunlar İŞVEREN tarafından çözümlenecektir. Bu çözümlemede, KONTROL ve yapı denetim firmasının hak ve yetkileri mutlaka temel nokta olarak değerlendirilecektir. Yapı denetim firması, KONTROL’ün üstü veya amiri değildir.
+8.10. İŞVEREN, iş sağlığı ve güvenliği konusunda uzman bir şirketten yardım alacaktır. KONTROL, iş sağlığı ve güvenliği konuları ile ilgili herhangi bir sorumluluğu bulunmamaktadır.
+Madde 9- DİĞER HÜKÜMLER
+9.1. Taraflar, birbirlerine ait gizli bilgileri, işbu Sözleşme yürürlükte olduğu sürece ve Sözleşme sona erdikten sonra dahi saklamakla, üçüncü şahıslara ifşa etmemekle yükümlüdür. Mahkemeler dahil resmi kurumlar tarafından yapılan talepler sonucu istenen gizli bilgilerin veya gizli bilgi içeren belgelerin verilmesi bu maddenin ihlali anlamına gelmez.
+9.2. Gerektiği takdirde İŞVEREN ile PROJE MÜELLİFİ arasında gerekirse Mimarlar Odasına verilmek üzere bir tip sözleşme akdedilecektir.
+9.3. Proje çalışmaları İŞVEREN ile koordineli şekilde yapılacak ve PROJE MÜELLİFİ gerektiğinde İŞVEREN veya temsilcisine bilgi verecektir. Sözleşmenin imzalanmasını takip eden 3 gün içinde İŞVEREN, MÜELLİFLE çalışacak BİR yetkiliyi bildirecektir. Proje süreleri bu bildirimden sonra başlar. Belirtilen süre içinde yetkilinin bildirilmemesi halinde, İŞVEREN bu hakkını kullanmaktan vazgeçmiş sayılacaktır.
+9.4. İŞVEREN proje aşamaları onay safhaları için profesyonel danışmanlık hizmeti alacak ise bunu ve danışmanın kanuni kimliğini ve yetkili bir kişinin adını program hazırlanması öncesinden yazılı olarak bildirecektir. Böyle bir bildirim yapılması koordinasyon hizmetlerini arttırdığı için hizmet toplam bedeli otomatikman %5 arttırılmış sayılacaktır.
+9.5. Mimar isteklerini İŞVEREN’ine tarif ettirmekle yükümlüdür. Bu yükümün yerine geldiğini her aşama sonundaki imzalı belge ve çizimler bağıtlar. Bina programı yapımında ve ileriki aşamalarda İŞVEREN isteklerini nitelik olarak tanımlamaya özen gösterecektir. (Örneğin 36 m² lik çalışma odası yerine 4 kişilik çalışma odası gibi)
+9.6. PROJE MÜELLİFİ İŞVEREN bütçesine ve arzulanan toplam bina büyüklüğüne uymaya azami özeni gösterecektir.
+9.7. İŞVEREN, PROJE MÜELLİFİ’nden ilme ve fenne, yasa ve yönetmeliklere aykırı isteklerde bulunmayacaktır.
+9.8. Her iş aşamasının onayından sonra işin bir sonraki aşamasında yapılacak olan iyileştirme, geliştirme ve revizyonlar gerçekleştirildikten sonraki aşamada İŞVEREN tarafından vazgeçilmesi ve/veya değiştirilmesi istenilmesi hali, işin toplam bedelinin ve süresinin taraflarca revize edilmesi nedenidir.
+9.9. İŞVEREN tarafından kaynaklanan gecikmelerin (imar durumu değişikliği, program revizyonu, yatırım kararının askıya alınması v.b.) altı ayı aşması halinde PROJE MÜELLİFİ işin, 7 c maddesinde belirtilen safhalarına uygun, kalan kısmı için bedelin enflasyon ortalaması bazında düzeltilmesini talep edebilir.
+9.10. PROJE MÜELLİFİ’den çalıştığı yerden başka bir şehre sunum yapmak, danışmanlarla toplantı yapmak, İŞVEREN’in vermekle yükümlü olduğu bilgileri onun adına toplamak için seyahat etmesi istenirse yol, yemek ve konaklama giderleri İŞVEREN’ce karşılanır. Mimarın yaptığı seyahat sayısı üçü aştığı taktirde, İşveren yol, yemek ve konaklama giderlerine ek olarak ayrıca günlük [.] tutarındaki mesai ücretini  de mimara öder.
+9.11. PROJE MÜELLİFİ’nin ihale dosyası hazırlanması ödevi sözleşmenin F maddesi (proje kapsamı dökümü maddesi) ile sınırlıdır. Daha kapsamlı bir ihale dosyası isteği bu liste dışında ilave çizimler gerektirir ise ilave hizmet bedeli taraflarca revize edilir.
+9.12. İŞVEREN tarafından talep edilirse 5 no’lu madde ve yukarıdaki maddeler kapsamında Mesleki Sorumluluk Sigortası yaptıracaktır.
+9.13. Bu sözleşmede hüküm bulunmayan hallerde Bayındırlık Bakanlığı, Mimarlar ve Mühendislik Hizmetleri Şartnamesi hükümleri uygulanacaktır.
+9.14. Bu sözleşmeden doğacak Damga Vergisi, taraflarca yarı yarıya ödenecektir.
+Madde 10- FESİH VE SONUÇLARI
+Taraflardan birinin Sözleşme ile üstlendiği edimlerden birini Sözleşme’ye uygun şekilde yerine getirmemesi halinde, ilgili taraf, noter aracılığı ile göndereceği ihtarname ile karşı taraftan ihtarnamenin kendisine tebliğinden itibaren 3 (üç) gün içinde Sözleşme’ye aykırılığı gidererek edimini yerine getirmesini ister. Verilen süre içinde Sözleşme’ye aykırılığın giderilmemesi halinde ilgili taraf, Sözleşme’yi derhal ve tek taraflı olarak feshettiğini karşı tarafa noter aracılığı ile bildirir. Sözleşme’yi fesheden tarafın, uğramış olduğu tüm zararları, ferileri ile birlikte diğer taraftan talep etme hakkı saklıdır. İşbu Sözleşmenin İŞVEREN tarafından haklı bir sebebe dayanmaksızın feshedilmesi halinde; İŞVEREN, PROJE MÜELLİFİ’ne fesih tarihine kadar ödediği Sözleşme bedelinin kendisine iade edilmesini talep etmeyecektir.
+Madde 11 - ANLAŞMAZLIKLARIN ÇÖZÜMÜ
+A) Taraflar arasında bu sözleşmeden veya bu Sözleşme ile ilgili olarak doğacak ihtilaflar Serbest Mimarlar Derneği Tahkim Tüzüğü hükümleri ve Hukuk Muhakemeleri Kanunu’nun (“HMK“) ilgili hükümleri uyarınca tahkim yoluyla çözülür. Bütün ihtilaflar, üç kişilik hakem heyeti tarafından kesin olarak verilecek kararla çözümlenir. Heyette yer alan hakemlerden birisi KONTROL, diğeri ise İŞVEREN tarafından teknik alanda değerlendirmeleri yapmak üzere seçilecektir. Seçilen iki hakem de, HMK gereğince kendi alanında en az 5 yıllık mesleki tecrübeye sahip bir hukukçuyu hakem olarak atayacaktır. Böylelikle hakem heyeti teşkil ettirilecektir. Hakem heyetinin karar verme süresi dört aydır. Hakem heyetinin çalışma yeri İzmir’dir.
+B) Taraflar arasında bu sözleşmeden veya bu Sözleşme ile ilgili olarak doğacak ihtilaflar İZMİR Mahkemelerine başvurabileceklerdir.
+Madde 12- MÜCBİR SEBEP
+Doğal afetler ile harp, grev, lokavt, terör, enerji yokluğu, isyan, resmi dairelerin emirleri ve uygulamaları, ekonomik ya da finansal kriz, devrim (ihtilâl), ayaklanma, ekonomik abluka, olağanüstü durumların yol açtığı yağmacılık, çapulculuk gibi insan ve toplum olayları ile Devletçe konulmuş hukuki yasaklar gibi taraflardan birinin ya da ikisinin işbu sözleşmede yükümlendikleri edimleri kısmen ve/veya tamamen yerine getirmelerini imkansızlaştıran ya da zorlaştıran haller “mücbir sebepler” olarak kabul edilecektir. Mücbir sebepler dolayısıyla Sözleşme’de belirlenmiş olan yükümlülüklerini yerine getiremeyecek veya yerine getirmede gecikecek olan taraf, durumu, mücbir sebebin ortaya çıkmasından itibaren yedi (7) gün içinde diğer tarafa bildirmekle yükümlüdür. Mücbir sebeplerin sona ermesinden sonra Sözleşmenin uygulanmasına devam edilecektir. Ancak mücbir sebepler 1 (bir) ayı aşan bir sürede halen son bulmamışsa, taraflar işbu Sözleşme’yi herhangi bir tazminat ödeme yükümlülüğü altına girmeden feshedebilecektir.
+MADDE 13- TEBLİGAT ADRESLERİ
+Sözleşme gereğince yapılacak tebligatlar tarafların madde 1’de yazılı adreslerine yapılacaktır. Adreslerde yapılacak değişiklikler, Noter kanalıyla bildirilmediği takdirde, mevcut adreslere yapılacak tebligatlar geçerli kabul edilecektir. Gönderilen tebligatın adreste bulunmama sebebiyle iadesi hallerinde, Posta İdaresi'nin tebliğ evrakının üzerine yazdığı iade tarihi tebligat tarihi kabul edilecektir.
+MADDE 14- DEVİR VE TEMLİK YASAĞI
+İŞVEREN, işbu Sözleşme’den doğan hak ve mükellefiyetlerinden hiçbirini, PROJE MÜELLİFİ’nin yazılı ön muvafakatı olmaksızın tamamen veya kısmen üçüncü şahıslara devir veya temlik edemez.
+MADDE 15- DEĞİŞİKLİKLER
+İşbu Sözleşme’de (veya işbu Sözleşme’de atıf yapılan belgelerin herhangi birinde) yapılması öngörülen değişiklikler, yazılı olmadıkça ve taraflarca veya onlar adına usulünce imzalanmadıkça geçerli olmayacaktır. “Değişiklikler” kelimesi, nasıl yapıldığına bakılmaksızın her türlü ilave, değişiklik, iptal veya ikame işlemlerini kapsayacaktır.
+MADDE 16- HÜKÜMLERİN BAĞIMSIZLIĞI
+İşbu Sözleşme’nin hükümlerinden herhangi birinin geçersiz veya hükümsüz sayılması halinde bu hüküm, (geçersiz veya hükümsüz olduğu ölçüde) uygulanmayacak ve işbu Sözleşme’nin kapsamı dışında addedilecektir. Ancak bu durum, işbu Sözleşme’nin diğer hükümlerini etkilemeyecek ve bunları geçersiz kılmayacaktır. Esaslı hükümlerden herhangi birinin geçersiz addedilmesi halinde Taraflar, söz konusu geçersiz hükmü, bu hükmün içerdiği amaca mümkün olduğunca en yakın sonuçları öngören benzer bir hüküm ile ikame etmek için azami çabayı göstereceklerdir.
+MADDE 17- FERAGAT ETMEME
+Tarafların kanunlar veya işbu Sözleşme tarafından öngörülen herhangi bir hak ya da hukuki yolun uygulanmasındaki bir ihlalleri veya gecikmeleri, söz konusu hak veya hukuki yolun uygulanmasını etkilemeyecek ve bunlardan feragat edildiği anlamına gelmeyecek ya da bunların değiştirilmesi olarak addedilmeyecektir ve bu hakların daha sonra uygulanmalarını engellemeyecektir ve bu hak ve hukuki yolların tek bir kez uygulanmaları, bunların veya diğer hak ve hukuki çarelerin uygulanmalarını engellemeyecektir.
+MADDE 18- SÖZLEŞME’NİN BÜTÜNLÜĞÜ
+İşbu Sözleşme ve Ekleri taraflar arasındaki anlaşma ve anlayışın bütününü teşkil ederler.
+MADDE 19- İMZA
+İşbu Sözleşme, …/…/…… tarihinde tanzim ve imza edilmiştir.
+PROJE MÜELLİFİ                                                   İŞVEREN
+[1] Bu sözleşme 06.06.2023 tarihinde https://www.izmir-smd.org.tr/ sitesinden alınmıştır.
+[2] Kapsam dışı parantez kaldırılacaktır.

@@ -1,0 +1,30 @@
+İnternet Sitesi Tasarım Sözleşmesi
+Bu internet sitesi tasarım sözleşmesi, ... Web Geliştirme Şirketi ve ... ile ... tarihinde imzalanmıştır.
+MÜŞTERİ                                                                       TASARIM ŞİRKETİ
+(….)                                                                                 (… Web Tasarım Şirketi)
+ONAY
+Müşteri, şirketi için internet sitesi tasarım hizmetlerini uygulamak için … Web Tasarım Şirketi ile çalışmayı kabul eder.
+Projenin başlangıç tarihi (sözleşme başlangıç). Hedef tamamlama tarihi (bitiş tarihi) olacaktır.
+HİZMETLER
+Müşteri tarafından seçilen web tasarım hizmetleri şunlardır:
+1) Ağ sağlayıcısı
+2) Grafik dizayn
+3) Arama motoru optimizasyonu
+4) Web sayfası analizi
+FİYATLANDIRMA
+Web sitesi, alan adı, saatlik ücretler vb. dahil fiyatlandırma dökümü için ayrı bir belge oluşturulacaktır.
+ÖDEMELER
+İnternet sitesi tasarım hizmetinin toplam tutarı … TL'dır.
+İlk ödeme … TL'dir.
+Ödemeler … ile yapılacaktır.
+Ödeme yönteminin fatura seçilmesi halinde, şirket saat ücretini ve diğer masrafları  gösteren bir fatura iletecektir.
+Müşteri, aylık hizmet veya sürekli hizmete kaydolmaya karar verirse, farklı bir sözleşme ve fiyatlandırma yapılacaktır.
+GARANTİ
+… Web Geliştirme Şirketi, sunulan hizmetlerin mükemmel, üstün ve birinci sınıf kalitede olacağını garanti eder.
+Hizmetimizi sunma şeklimizdeki değişiklikler için lütfen bizi bilgilendirin. Çalışmamızdan memnun değilseniz, size daha fazla yardımcı olabilmemiz için lütfen bize bildirin.
+HİZMET TESLİMATI
+Onaylanan tasarıma/plana dayalı olarak projeyi tamamladıktan sonra, projenin tamamlanmış veya eksik olup olmadığına karar vermesi için müşteriye 24-48 saat süre verilecektir. Eksik olması durumunda, … Web Geliştirme Şirketi müşteriye yardımcı olacak ve müşterinin isteklerine göre değişiklikleri uygulayacaktır.
+MÜLKİYET HAKLARI
+... Web Geliştirme Şirketi tarafından oluşturulan tüm çalışmalar, Telif Hakkı Yasası kapsamında müşteriye aittir. Bu sözleşmeyi imzaladıktan sonra, ... Web Geliştirme Şirketi bu proje kapsamında sağlanan çalışma üzerindeki tüm haklarını kaybedecektir. ... Web Geliştirme Şirketi tarafından oluşturulan tüm çalışmalar, Telif Hakkı Yasası kapsamında müşteriye aittir. Bu sözleşmeyi imzaladıktan sonra, ... Web Geliştirme Şirketi bu proje kapsamında sağlanan çalışma üzerindeki tüm haklarını kaybedecektir.
+GİZLİLİK
+Bu sözleşmede belirtilen proje veya hizmetler kesinlikle gizli kabul edilir. Sağlanan web tasarım hizmetleri ile ilgili bilgiler, her iki tarafın yazılı izni olmadan her iki tarafça da üçücü kişilerle paylaşılmamalıdır.

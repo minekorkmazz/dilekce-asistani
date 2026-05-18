@@ -1,0 +1,94 @@
+Kişisel Verilerin Yurt Dışına Aktarılmasında Kullanılacak Standart Sözleşme – 4 (Veri İşleyenden Veri Sorumlusuna)[1]
+BİRİNCİ BÖLÜM
+Genel Hükümler
+Madde 1- Amaç ve Kapsam
+(a) Bu standart sözleşmenin amacı, kişisel verilerin yurt dışına aktarılmasında 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu (bundan sonra “Kanun” olarak anılacaktır) ile 10/7/2024 tarihli ve 32598 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren Kişisel Verilerin Yurt Dışına Aktarılmasına İlişkin Usul ve Esaslar Hakkında Yönetmelik (bundan sonra “Yönetmelik” olarak anılacaktır) hükümlerine riayet edilmesini sağlamaktır.
+(b) Kişisel verileri yurt dışına aktaran veri işleyen (bundan sonra “veri aktaran” olarak anılacaktır) ve veri aktarandan kişisel verileri alan yurt dışındaki veri sorumlusu (bundan sonra “veri alıcısı” olarak anılacaktır) bu standart sözleşmeyi (bundan sonra “Sözleşme” olarak anılacaktır) kabul etmişlerdir.
+(c) Bu Sözleşme, Ek I’de detaylarına yer verilen yurt dışına kişisel veri aktarımı ile ilgili olarak uygulanır.
+(d) Bu Sözleşmenin ekleri (bundan sonra “Ekler” olarak anılacaktır), bu Sözleşmenin ayrılmaz bir parçasını oluşturur.
+Madde 2- Sözleşmenin Etkisi ve Değişmezliği
+(a) Herhangi bir ekleme, çıkarma veya değişiklik yapılmaması kaydıyla bu Sözleşme, Kanunun 9 uncu maddesinin dördüncü fıkrası ve Yönetmelik uyarınca ilgili kişinin aktarımın yapılacağı ülkede de haklarını kullanma ve etkili kanun yollarına başvurma imkânının bulunması dahil olmak üzere kişisel verilerin yurt dışına aktarılmasında sağlanacak uygun güvenceleri öngörür.
+(b) Bu Sözleşme; Kanun, Yönetmelik ve ilgili diğer mevzuat uyarınca veri aktaranın tabi olduğu yükümlülüklere halel getirmez.
+Madde 3- Üçüncü Taraf Yararlanıcı Hakları
+(a) İlgili kişiler, aşağıdaki istisnalar dışında, üçüncü taraf yararlanıcı olarak bu Sözleşme hükümlerini veri aktarana ve/veya veri alıcısına karşı ileri sürebilir:
+i) Madde 1, Madde 2, Madde 3 ve Madde 6.
+ii) Madde 7.1 (b) ve Madde 7.3 (b).
+iii) Madde 16.
+(b) (a) fıkrası, ilgili kişilerin Kanun kapsamındaki haklarına halel getirmez.
+Madde 4- Yorum
+(a) Kanun, Yönetmelik ve ilgili diğer mevzuatta yer alan terimlerin, bu Sözleşmede kullanıldığı durumlarda ilgili düzenlemede yer alan tanım geçerlidir.
+(b) Bu Sözleşme; Kanun, Yönetmelik ve ilgili diğer mevzuata uygun olarak yorumlanır.
+(c) Bu Sözleşme; Kanun, Yönetmelik ve ilgili diğer mevzuatta öngörülen hak ve yükümlülüklerle çelişecek şekilde yorumlanamaz.
+Madde 5- Çatışma Kuralı
+Bu Sözleşmenin hükümleri ile Taraflar arasında bu Sözleşmenin kabul edildiği tarihte var olan veya daha sonra yürürlüğe giren ilgili diğer sözleşmelerin hükümleri arasında bir çelişki olması durumunda bu Sözleşme hükümleri uygulanır.
+Madde 6- Aktarımın Detayları
+Aktarıma konu kişisel veri kategorileri, aktarımın hukuki sebebi ve aktarımın amacı veya amaçları başta olmak üzere bu Sözleşme çerçevesinde gerçekleştirilecek yurt dışına kişisel veri aktarımının detayları, Ek I’de belirtildiği şekildedir
+İKİNCİ BÖLÜM
+Tarafların Yükümlülükleri
+Madde 7- Kişisel Verilerin Korunmasına Yönelik Güvenceler
+Veri aktaran; veri alıcısının, uygun teknik ve idari tedbirleri almak suretiyle bu Sözleşmeden doğan yükümlülüklerini yerine getirebilecek yeterliliğe sahip olduğunu belirlemek için makul çabayı gösterdiğini taahhüt eder.
+Madde 7.1- Talimatlar
+(a) Veri aktaran, kişisel verileri yalnızca adına kişisel veri işleme faaliyetinde bulunduğu veri sorumlusu niteliğindeki veri alıcısının talimatlarına göre işler.
+(b) Veri aktaran, talimatların Kanun, Yönetmelik ve ilgili diğer mevzuata aykırılık teşkil ettiği durumlar dâhil olmak üzere bu talimatları yerine getiremeyeceği durumda veri alıcısına derhâl bilgi verir.
+(c) Veri alıcısı, veri aktaranın alt kişisel veri işleme faaliyetleri veya Kişisel Verileri Koruma Kurumu (bundan sonra “Kurum” olarak anılacaktır) ile iş birliği dâhil olmak üzere Kanun kapsamındaki yükümlülüklerini yerine getirmesini engelleyecek herhangi bir eylemden kaçınır.
+(d) Veri aktaranın veri alıcısı adına gerçekleştirdiği kişisel veri işleme faaliyetlerinin son bulması hâlinde; veri aktaran, veri alıcısının tercihine bağlı olarak veri alıcısı adına işlediği kişisel verileri yedekleriyle birlikte veri alıcısına geri göndereceğini veya veri alıcısı adına işlediği bütün kişisel verileri tamamen yok edeceğini taahhüt eder. Veri aktaran kişisel verilerin yok edildiğini veri alıcısına belgelendirir.
+Madde 7.2- Veri Güvenliği
+(a) Taraflar, aktarım aşaması dahil olmak üzere, kişisel verilerin hukuka aykırı olarak işlenmesini önlemek, kişisel verilere hukuka aykırı olarak erişilmesini önlemek, kişisel verilerin muhafazasını sağlamak ve kişisel verilerin sehven kaybını, yok edilmesini veya zarar görmesini önlemek amacıyla kişisel verinin niteliğine göre uygun güvenlik düzeyini temin etmeye yönelik gerekli her türlü teknik ve idari tedbirleri alır. Söz konusu tedbirlerin belirlenmesinde; teknolojik gelişmişlik düzeyi, uygulama maliyeti, kişisel veri işleme faaliyetinin niteliği, kapsamı, bağlamı ve amaçları ve ilgili kişilerin temel hak ve özgürlüklerine karşı ortaya çıkabilecek riskler göz önünde bulundurulur.
+(b) Veri aktaran, (a) fıkrası uyarınca kişisel verilerin uygun güvenliğini temin etmeye yönelik her türlü teknik ve idari tedbirin alınmasında veri alıcısına yardımcı olur. Bu Sözleşme uyarınca veri aktaran tarafından işlenen kişisel verilerin hukuka aykırı yollarla başkaları tarafından elde edilmesi hâlinde, veri aktaran, bu durumu herhangi bir gecikmeye yer vermeksizin veri alıcısına bildirir ve veri alıcısının ihlalin muhtemel olumsuz etkilerini gidermesi amacıyla gerekli tedbirleri almasına yardımcı olur.
+(c) Veri aktaran, kişisel verilere erişim hususunda yetkilendirmiş olduğu gerçek kişilerin, öğrendikleri kişisel verileri bu Sözleşmeye aykırı olarak üçüncü taraflara açıklamamasını ve işleme amacı dışında kullanmamasını sağlar.
+Madde 7.3- Belgeleme ve Uyumluluk
+(a) Taraflar, bu Sözleşme kapsamındaki yükümlülüklerine uyum sağladığını gösterebilmelidir.
+(b) Veri aktaran, bu Sözleşmede yer alan yükümlülüklere uyum sağladığını göstermek için gerekli olan tüm bilgi ve belgeleri veri alıcısına sağlar, denetimlere izin verir ve bu sürece destek olur.
+Madde 8- İlgili Kişinin Hakları
+Taraflar, ilgili kişilerin, veri alıcısının tabi olduğu yerel hukuka göre veya Türkiye’de mukim veri aktaranın işleme faaliyetleri bakımından Kanun kapsamında ileteceği soru ve taleplerin sonuçlandırılmasında birbirine yardımcı olur.
+Madde 9- Hak Arama Yöntemleri
+İlgili kişi ile veri alıcısı arasında bu Sözleşme kapsamındaki üçüncü taraf yararlanıcı haklarına ilişkin olarak bir uyuşmazlığın doğması durumunda ilgili kişi, bu konuya ilişkin taleplerini veri alıcısına iletebilir. Veri alıcısı, şeffaf ve kolay erişilebilir bir formatta, ilgili kişilere bizzat bildirimde bulunarak veya internet sitesinde yayımlayarak taleplerini sonuçlandırmak için yetkilendirilmiş bir irtibat noktası hususunda ilgili kişileri bilgilendirir. Veri alıcısı, ilgili kişilerin taleplerini gecikmeksizin ele alır.
+[Tarafların tercihine bağlı olarak sözleşmede yer verilebilir: Veri alıcısı, ilgili kişilerin ücretsiz olarak ayrıca bağımsız bir uyuşmazlık çözüm kuruluşuna şikâyette bulunabileceğini kabul eder.
+Veri alıcısı, bu tür bir hak arama yönteminin varlığı ve bu yönteme başvurmalarının veya öncelikle bu yönteme başvurmalarının zorunlu olmadığı hususunda ilgili kişileri yukarıda belirtilen şekilde bilgilendirir.]
+Madde 10- Sorumluluk
+(a) Taraflardan her biri, bu Sözleşmenin herhangi bir şekilde ihlal edilmesiyle ortaya çıkan zararlardan diğer Tarafa karşı sorumludur.
+(b) Taraflardan her biri ilgili kişiye karşı sorumludur. İlgili kişi, Tarafların bu Sözleşme kapsamındaki üçüncü taraf yararlanıcı haklarını ihlal ederek ilgili kişiye verdiği maddi veya manevi zararlar için tazminat alma hakkına sahiptir. Bu durum, veri aktaranın Kanun kapsamındaki sorumluluğuna halel getirmez.
+(c) Bu Sözleşmenin ihlali sonucunda ilgili kişiye verilen herhangi bir zarardan her iki Tarafın sorumlu olduğu durumlarda, Tarafların ikisi de ilgili kişiye karşı müteselsilen sorumludur ve ilgili kişi bu Taraflardan herhangi birine karşı yargı yoluna başvurma hakkına sahiptir.
+(d) Taraflardan birinin (c) fıkrası uyarınca ilgili kişinin zararını tamamıyla tazmin etmesi durumunda, kusuru oranında diğer tarafa rücu etme hakkı saklıdır.
+(e) Veri alıcısı, veri işleyenin veya alt veri işleyenin kusurlu olduğunu öne sürerek sorumluluktan kurtulamaz.
+ÜÇÜNCÜ BÖLÜM
+Ulusal Hukuk ve Kamu Makamları Tarafından Erişim Hâlinde Yükümlülükler
+(Veri aktaran veri işleyenin, veri alıcısı veri sorumlusundan aldığı kişisel verileri, Türkiye’den elde ettiği kişisel verilerle birleştirmesi durumunda sözleşmede bu bölüme yer verilir.)
+Madde 11- Sözleşmeye Uyumu Etkileyen Ulusal Hukuk ve Uygulamalar
+Veri alıcısı, bu Sözleşme kapsamında aktarılacak kişisel verilere ilişkin olarak, bu Sözleşmeye aykırı herhangi bir ulusal düzenleme veya uygulama olmadığını kabul, beyan ve taahhüt eder.
+Bu Sözleşme süresince veri alıcısının, bu Sözleşmede yer alan taahhütlerini yerine getirmesini etkilemesi muhtemel bir mevzuat veya uygulama değişikliği olması hâlinde durumu veri aktarana derhâl bildirir ve bu durumda veri aktaranın veri aktarımını askıya alma veya bu Sözleşmeyi feshetme hakkına sahip olacağını kabul eder.
+Madde 12- Kamu Makamlarının Erişimi Durumunda Veri Alıcısının Yükümlülükleri
+Veri alıcısı; bu Sözleşme kapsamında aktarılan kişisel verilere ilişkin olarak idari veya adli bir makamdan gelen talepler hususunda veya bu Sözleşme kapsamında aktarılan kişisel verilere idari veya adli bir makamın doğrudan erişiminden haberdar olması hâlinde derhâl veri aktarana bildirimde bulunur. Bu durumda veri aktaranın, talebin veya erişimin niteliğine göre veri aktarımını askıya alma veya bu Sözleşmeyi feshetme hakkına sahip olacağını kabul eder.
+DÖRDÜNCÜ BÖLÜM
+Son Hükümler
+Madde 13- Sözleşmeye Uyulmaması ve Fesih
+(a) Veri alıcısı, her ne sebeple olursa olsun bu Sözleşmeye uygunluk sağlayamaması hâlinde, veri aktaranı derhâl bilgilendirir.
+(b) Veri alıcısının bu Sözleşmeyi ihlal etmesi veya bu Sözleşmeye uygunluk sağlayamaması hâlinde, veri aktaran uygunluk tekrar sağlanıncaya veya Sözleşme sona erdirilene kadar kişisel verilerin veri alıcısına aktarılmasını askıya alır. Madde 11 ve Madde 12 hükümleri saklıdır.
+(c) Veri aktaran, bu Sözleşme kapsamında kişisel verilerin işlenmesiyle ilgili olduğu ölçüde aşağıdaki durumlarda sözleşmeyi feshetme hakkına sahiptir:
+i) Veri aktaranın, (b) fıkrası uyarınca kişisel verilerin veri alıcısına aktarılmasını askıya almış olması ve makul bir süre içinde ve her durumda askıya almadan itibaren bir ay içinde bu Sözleşmeye uygunluk sağlanmaması.
+ii) Veri alıcısının bu Sözleşmeyi önemli ölçüde veya sürekli olarak ihlal etmesi.
+iii) Veri alıcısının, bu Sözleşme kapsamındaki yükümlülüklerine ilişkin olarak yetkili mahkemenin kararını yerine getirmemesi.
+Bu durumlarda, veri aktaran Kişisel Verileri Koruma Kurulu’nu bilgilendirir.
+(d) (c) fıkrası kapsamında sözleşmenin feshedilmesi hâlinde veri alıcısı, veri aktaran tarafından Türkiye’de toplanan ve aktarılan kişisel verileri yedekleri ile birlikte tamamen yok eder. Veri alıcısı, mevzuatta bu yükümlülüğü yerine getirmesini engelleyen hükümler yer alıyor olsa bile bu Sözleşmeye uyum sağlamaya devam edeceğini, aktarıma konu kişisel verilerin gizliliğini güvence altına almak için gerekli teknik ve idari tedbirleri alacağını ve yalnızca mevzuatın gerektirdiği ölçü ve süre boyunca işleme faaliyetine devam edeceğini taahhüt eder. Veri alıcısı, verilerin yok edildiğini veri aktaran için belgelendirir. Veriler geri gönderilene veya tamamen yok edilene kadar, veri alıcısı bu Sözleşmeye uyum sağlamaya devam eder.
+Madde 14- Sözleşmenin Kurum’a Bildirilmesi (Tarafların tercihine bağlı olarak sözleşmede yer verilebilir.)
+[Veri aktaran/Veri alıcısı] bu Sözleşmeyi, imzaların tamamlanmasından itibaren beş iş günü içinde Kurum’a bildirir.
+Madde 15- Uygulanacak Hukuk
+Bu Sözleşme, üçüncü taraf yararlanıcı haklarını kabul eden _____ [ülkeyi belirtiniz] hukukuna tabidir.
+Madde 16- Görevli ve Yetkili Mahkeme
+Bu Sözleşmeden kaynaklanan herhangi bir uyuşmazlık, _____ [ülkeyi belirtiniz] mahkemeleri tarafından görülür.
+EKLER
+EK I
+AKTARIMIN DETAYLARI
+Veri Aktaranın Bu Sözleşme Kapsamında Aktarılan Kişisel Verilere İlişkin Faaliyetleri
+………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………
+Veri Alıcısının Bu Sözleşme Kapsamında Aktarılan Kişisel Verilere İlişkin Faaliyetleri
+………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………
+İlgili Kişi Grubu veya Grupları
+………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………
+Aktarılan Kişisel Veri Kategorileri ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………
+(Varsa) Aktarılan Özel Nitelikli Kişisel Veri Kategorileri
+………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………
+Aktarımın Hukuki Sebebi
+………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………
+Aktarım Sıklığı (Örneğin, verilerin bir defaya mahsus veya sürekli olarak aktarılıp aktarılamayacağı) ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………
+[1] Bu metin 12/7/2024 tarihinde https://www.kvkk.gov.tr/ sitesinden alınmıştır.

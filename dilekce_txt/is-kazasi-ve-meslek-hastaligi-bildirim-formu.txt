@@ -1,0 +1,120 @@
+İş Kazası ve Meslek Hastalığı Bildirim Formu[1]
+T.C. SOSYAL GÜVENLİK  KURUMU
+Emeklilik Hizmetleri Genel Müdürlüğü
+Belgenin Düzenlendiği Tarih :.. /…. / ....
+Belgenin Düzenlendiği Sayı   : . . . ….. . .
+İŞ KAZASI VE MESLEK HASTALIĞI BİLDİRİM FORMU
+İşyeri Bilgileri:
+İş Yeri No:
+İşyeri bağlı Bulunduğu Ünite:
+İşyeri bağlı Bulunduğu İl:
+Vergi Dairesi Adı:
+Vergi Dairesi No:
+Kaza Günü İşyeri Vardiya Başlangıç Saati:
+Kaza Günü İşyeri Vardiya Bitiş Saati:
+İş Yeri Adres:
+İş Yeri Unvan:
+İş Yeri Tel:
+İş Yeri Faks:
+Kaza Sonrası İş Yerinin Durumu:
+Sigortalı Bilgileri:
+Adı Soyadı:
+Tc Kimlik No:
+Sicil No:
+Doğum Tarihi:
+Medeni Hali:
+Uyruğu:
+Son İşe Giriş Tarihi:
+İlk İşe Giriş Tarihi:
+Öğrenim Durumu:
+Mesleği:
+Görevi:
+Ücretli İzin Gün Sayısı:
+Prim Ödeme Durumu:
+Adresi:
+İl/İlçe:
+İstihdam Durumu:
+Faks:
+Tel:
+E-posta:
+Sigortalını Yakınının
+Adı Soyadı:
+T.C. Kimlik Numarası:
+Adresi:
+Mesleki Eğitim Almış mı?:
+İş Sağlığı ve Güvenliği Eğitimi Almış mı?:
+Kaza Günü İşbaşı Saati:
+Sigortalı Kazadan Sonra Ne Yaptı?:
+İşi Bırakma Tarihi:
+İşi Bırakma Saati:
+Kaza Anında Yürütmekte Olduğu Genel Faaliyet:
+Kaza Anında Yürütmekte Olduğu Özel Faaliyet:
+Özel Faaliyet Sırasında Kullandığı Araç/Gereç:
+Yaralanmaya Neden Olan Olay:
+Yaranın Türü:
+Yaranın Vücuttaki Yeri:
+Yaralanmaya Neden Olan Araç/Gereç:
+Kaza Sonucu İş Göremezliği:
+Kaza Sonucu İş Göremezlik Durumu:
+Kazadan Dolayı İşgünü Kaybı:
+Kazanın Gerçekleştiği Yer:
+Kazanın Gerçekleştiği Ortam:
+Çalışılan Ortam:
+Çalışılan Çevre:
+Tıbbi Müdehale Yapıldı mı? :
+Tıbbi Müdehale Yapan Kişi:
+Tıbbi Müdehale Yapılan Yer:
+Tıbbi Müdehale Yapılan İl:
+Tıbbi Müdehale Yapılan İlçe:
+Tıbbi Müdehale Yapılan Tarih:
+Tıbbi Müdehale Yapılan Saat:
+Bildirim Tarihi:
+Bildirim Saati:
+İş Kazası Bildirim Bilgileri:
+Bildirimi Hazırlayan:
+Tc Kimlik No:
+Adı:
+Soyadı:
+Tel:
+Faks:
+E-posta:
+Bildirilen İşçi Sayısı:
+Erkek:
+Kadın:
+Çocuk:
+Hükümlü:
+Eski Hükümlü:
+Terör Mağduru:
+Stajyer/
+Çırak:
+Özürlü:
+Toplam:
+İş Kazası Bilgileri:
+Kazaya Uğrayan Kişi Sayısı:
+Kaza İl:
+Kaza İlce:
+Kaza Saati:
+Kaza Tarihi:
+Kaza Adres:
+Kazanın Gerçekleştiği Yer/Bölüm:
+Kaza Sebebi Açıklama:
+Kaza Sebebi:
+Kazaya Sebep Olan Araç/Gereç:
+İş Kazası Şahit Bilgileri:
+Tc Kimlik No
+Ad Soyad
+e-posta
+Tel
+Adres
+Meslek Hastalığı Halinde Doldurulacaktır:
+Çalışılan Ortam:
+Meslek Hastalığı Saptanma Şekli:
+Meslek Hastalığı Etkeni:
+Meslek Hastalığı Etken Süresi:
+İş Göremezlik Seviyesi:
+Meslek Hastalğı Tanısı:
+Meslek Hastalğı Tanı Tarihi:
+Bildirim Tarihi:
+Bildirim Saati:
+Not: İşverenler işyerinde meydana gelen iş kazasını  Kanunun 4 üncü maddesi birinci fıkrsı (a) bendi  ile 5 inci madde kapsamındaki sigortalıları  o yer kolluk kuvvetlerine derhal Kuruma da en geç kazadan sonraki üç iş günü  içinde, (b) bendi kapsamında sigortalının kendisi tarafından 1 ayı geçmemek şartıyla rahatsızlığının bildirim yapmaya engel olmadığı günden sonra ki  üç işgünü içinde ayrıca işveren sigortalının  meslek hastalığına tutulduğunu öğrendiği veya bu durum kendisine bildirildiği günden başlayarak üç iş günü içinde (b) bendi kapsamındaki  sigortalı ise bu durumu öğrendiği günden başlayarak üç iş günü içinde Kuruma bildirmesi zorunludur.
+[1] Bu form, 30.04.2019 tarihinde www.sgk.gov.tr adresinden alınmıştır.

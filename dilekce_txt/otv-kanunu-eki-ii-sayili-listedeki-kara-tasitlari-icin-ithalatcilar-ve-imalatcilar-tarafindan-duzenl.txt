@@ -1,0 +1,72 @@
+ÖTV Kanunu Eki (II) Sayılı Listedeki Kara Taşıtları İçin İthalatçılar ve İmalatçılar Tarafından Düzenlenecek Bildirim Formu[1]
+TAŞITA İLİŞKİN BİLGİLER
+ARACIN
+Markası
+(Seçmeli)
+Model Yılı
+(Seçmeli)
+Üst Yapı Gövde Tanımı
+(Seçmeli)
+Ticari Adı
+Araç Sınıfı Kategorisi
+(Seçmeli)
+G.T.İ.P  Numarası
+(Seçmeli)
+Araç Şasi Numarası
+Motor Seri Numarası
+Motor Silindir Hacmi (cm3)
+Teknik Açıdan İzin Verilen Azami Yüklü Ağırlık (Kg)
+Azami Katar Ağırlığı (kg)
+Motor Gücü (kw)
+Yüksüz Ağırlık (kg)
+Yakıt Türü
+(Seçmeli)
+Bütün Tekerleklerin Motordan Güç Alıp Almadığı
+Alıyor
+Almıyor
+Dingil Uzaklığı (mm) (Sadece "N" sınıfı açık kasa çift sıra koltuklu araçlar için iki dingil arası uzunluk)
+Kasa Uzunluğu (mm) (Sadece "N" sınıfı açık kasa çift sıra koltuklu araçlar için yük alanının uzunluğu)
+Euro Standardı
+(Seçmeli)
+İstiap Haddi (Aracın güvenle taşıyabileceği sürücü ve yolcu dahil toplam yük ağırlığı)
+Katalitik Konvertör
+Var
+Yok
+Koltuk Sayısı
+Şoför Sırasında
+Toplam
+Şoför Sırasının Arkasında
+Tekerlek Sayısı (Sadece "L" sınıfı araçlar için)
+EŞYA TAŞIMASINDA KULLANILIP AZAMİ YÜKLÜ KÜTLESİ 4700 KİLOGRAMI GEÇMEYEN ARAÇLAR İÇİN DÜZENLENECEK BÖLÜM
+KASA
+Açık         Kapalı
+SÜRÜCÜ SIRASININ ARKASINDAKİ KISIMDA ÖZELLİKLER
+Emniyet Kemeri Veya Montajı İçin Sabit Tertibat
+Var             Yok
+Koltuk Veya Montaj İçin Sabit Tertibat Sayısı
+Yolcu Bölümündeki Konfor Özellikleri
+Var             Yok
+Yolcu Bölümü ile Yük Bölümü Arasında Sabit Panel Veya Bariyer
+Var             Yok
+Sürücü Sırası Dışında Yan Panelde Pencere
+Var             Yok
+ARACIN İTHAL EDİLDİĞİ VE SATILDIĞI FİRMALARA AİT BİLGİLER
+ARACIN  İTHAL EDİLDİĞİ FİRMANIN (*)
+ARACIN SATILDIĞI FİRMANIN
+Adı Soyadı  / Unvanı
+Adı Soyadı / Unvanı
+Gümrük Beyannamesi Tarihi
+Vergi Kimlik Numarası (**)
+Gümrük Beyannamesi Numarası
+Adresi
+Alış Faturası Tarihi
+İthalatçı/İmalatçı Satış faturası Tarihi
+Alış Faturası No.
+İthalatçı/İmalatçı Satış Faturası No.
+(*) Bu sütunu sadece ithalatçılar düzenleyecektir.
+BİLDİRİMİ DÜZENLEYEN İTHALATÇI VEYA İMALATÇININ
+Adı Soyadı / Unvanı
+Vergi Kimlik Numarası (**)
+Adresi
+(* *) T.C. vatandaşı olan gerçek kişilerde T.C. kimlik numarası, yabancı kimlik numarası bulunan yabancı gerçek kişilerde yabancı kimlik numarası yazılacaktır
+[1] Bu beyanname “http://www.gib.gov.tr/yardim-ve-kaynaklar/beyanname-formlari-bildirimler” adresinden 07.06.2017 tarihinde alınmıştır.

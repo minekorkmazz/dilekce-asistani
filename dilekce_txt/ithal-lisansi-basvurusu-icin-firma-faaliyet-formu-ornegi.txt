@@ -1,0 +1,33 @@
+İthal Lisansı Başvurusu için Firma Faaliyet Formu Örneği [1]
+FİRMA FAALİYET FORMU ÖRNEĞİ
+Tarih…/…/…
+Aşağıda unvanı ve vergi numaraları belirtilen firmanın başvurusu üzerine, firmanın muhasebe kayıtlarının ve ilgili diğer belgelerin tetkiki sonucunda firmanın faaliyetlerine ilişkin aşağıda yer alan bilgilere ulaşılmış olup, söz konusu bilgilerin doğru olduğunu ve bilgilerin doğru olmaması halinde doğacak hukuki sorumluluktan müştereken ve müteselsilen sorumlu olduğumuzu kabul ve taahhüt ederiz.
+Firma Yetkilisi Adı Soyadı                                         YMM Adı Soyadı
+Unvan                                                                  Mühür
+İmza ve Kaşe                                                     İmza ve Kaşe
+1- Firmaya İlişkin Bilgiler
+Firma Unvanı
+Vergi Numarası/ T.C. Kimlik No
+Adres ve Telefon/Faks Numarası
+2- Talep Konusu Maddenin Tüketim Faaliyetine İlişkin Bilgiler
+2018
+2019
+2020
+Tüketim Kapasitesi (kg)
+Fiili Sarfiyatı (kg)
+3- Üretim Faaliyetine İlişkin Bilgiler
+Talep konusu Madde Kullanılarak Üretilen Ürünün Adı(*)
+2018
+2019
+2020
+Üretilen Ürünün Üretim Kapasitesi (kg)
+Üretilen Ürün Miktarı (kg)
+4- Ek-l’dekİ Özel Tanımlı Madde İthalat Bilgileri (2018-2019-2020 yılları)
+Beyan ame Sayı
+Beyaname Tarih
+Miktar (Birim)
+Fatura No
+Fatura Tarih
+Toplam Miktar
+(*): Talep konusu madde kullanılarak üretimi gerçekleştirilen birden fazla ürün olması durumunda, her bir ürün için bu maddenin ayrı ayrıdoldurulması gerekmektedir.
+[1] Form örneği 14 Temmuz 2021 Tarihli ve 31541 Sayılı Mükerrer Resmî Gazete’de yayımlanan İthalatta Kota ve Tarife Kontenjanı İdaresine İlişkin Tebliğ (No: 2021/5)’nde yer alan Ek-4 ekinden alınmıştır.

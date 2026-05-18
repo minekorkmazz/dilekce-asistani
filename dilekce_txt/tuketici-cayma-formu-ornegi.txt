@@ -1,0 +1,12 @@
+Tüketici Cayma Formu Örneği
+TÜKETİCİ CAYMA FORMU
+(Bu form, sadece sözleşmeden cayma hakkı kullanılmak istendiğinde doldurulup gönderilecektir.)
+-Kime: (Satıcı veya sağlayıcı tarafından doldurulacak olan bu kısımda satıcı veya sağlayıcının adı veya unvanı, adresi, varsa faks numarası ve e-posta adresi yer alacaktır.)
+- Bu formla aşağıdaki malların satışına veya hizmetlerin sunulmasına ilişkin sözleşmede cayma hakkımı kullandığımı beyan ederim.
+-Sözleşme Tarihi                                              :
+-Mal veya hizmetin teslim veya ifa tarihi         :
+-Cayma hakkına konu mal veya hizmet         :
+-Tüketicinin adı soyadı                                     :
+-Tüketicinin adresi                                           :
+-Tüketicinin imzası                                           : (Sadece kağıt üzerinde gönderilmesi halinde)
+-Tarih                                        :

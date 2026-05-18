@@ -1,0 +1,8 @@
+Devlet Memurları İstirahat Raporu Görüntüleme ve İş Kazası/Meslek Hastalığı Bildirimi Uygulaması Yetki Talep Formu[1]
+AÇIKLAMALAR:
+1-Resmi işyeri kullanıcı; görüntüleme uygulaması için yetki talep edilen kişidir. Resmi işyeri yetkilisi ise kullanıcının amiridir.
+2- Kurum Kodu; Hitap uygulamasında tanımlı kurum kodunu ifade etmektedir.
+3- Saymanlık Kodu; Hitap uygulamasında tanımlı saymanlık kodunu ifade etmektedir.
+4- Kullanıcı ile yetkilinin kurum kodu ve saymanlık kodlarının aynı olması gerekmektedir. Uygulama tarafından eşleştirme sağlanamaz ise kullanıcı tanımına izin verilmemektedir.
+5- Yetki düzeyi, istirahat raporu görüntüleme ve/veya iş kazası ve meslek hastalığı bildirimi yetkisinden hangisinin veya hangilerinin talep edildiğini ifade etmektedir. Aynı kullanıcı için iki yetki birden talep edilebilir ve tanımlama yapılabilmektedir.
+[1] Bu dilekçe 23.07.2024 tarihinde https://www.sgk.gov.tr/Diger/FormveDilekceler/fed1b24a-9610-4ec1-8a4c-2d51dbb6db2c/ adresinden alınmıştır.

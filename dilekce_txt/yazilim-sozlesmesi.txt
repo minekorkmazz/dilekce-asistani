@@ -1,0 +1,36 @@
+Yazılım Sözleşmesi
+Madde 1: Taraflar Ve Tanımlar
+İşbu sözleşme …/…/…… tarihinde ticari merkezi …………. adresinde mukim … Bilişim Yazılım Geliştirme Teknolojileri ile ……………… Adresinde mukim …… (Müşteri olarak anılacaktır) arasında imzalanmıştır.
+Madde 2: Sözleşmenin Konusu
+İşbu sözleşme Müşteri’nin iş süreçleri, kurum içi yönetim sistemleri, takip sistemleri vb. kısaca ticari faaliyetlerini sürdürürken ki ihtiyaç duyduğu tüm yazılım hizmetleri yürütebilmek amacıyla ihtiyaç duyduğu yazılımlarının … Bilişim Yazılım Geliştirme Teknolojiler tarafından hazırlaması hizmetini kapsamaktadır.
+Madde 3: Müşteri’nin Yükümlülükleri
+3.1. Müşteri, masa üstü ve web tabanlı yazılımların yükleneceği sunucu (sunucu/ hosting) sistemini ve bu sistemin çalışabilmesi için gerekli donanım/yazılım gereksinimlerini kendisi tedarik etmekle yükümlüdür. Müşteri barındırma hizmetini ve alan adı tescilini … Bilişim Yazılım Geliştirme Teknolojileri ’den talep ederse o yılın ücret tablosu üzerinden hesaplanacak ve ek ücret sözleşme bedeline yansıtılacaktır.
+3.2. Yazılım süresi boyunca … Bilişim Yazılım Geliştirme Teknolojileri’nin talep ettiği bilgi,evrak ve yazılı dokümanları kendisi tedarik etmeli veya ettirmelidir. Müşterinin gerekli dokümanları zamanında vermemesinden kaynaklanan gecikmeden dolayı … Bilişim Yazılım Geliştirme Teknolojileri  sorumlu tutulamaz.
+3.3. Müşteri, … Bilişim Yazılım Geliştirme Teknolojileri  tarafından üretilen yazılımlarda kullanılan özel yazılım tekniklerinin telif hakkının … Bilişim Yazılım Geliştirme Teknolojileri‘ne ait olduğunu, bu yazılımların hiçbir şekilde çoğaltılıp, dağıtılmayacağını kabul ve beyan eder.
+3.4. Müşteri, dile getirdiği tüm fikir, düşünce, ifade, yorum ve yazıların kendisine ait olduğunu, … Bilişim Yazılım Geliştirme Teknolojileri ’in hiçbir şekilde sorumlu olmadığını kabul ve beyan eder.
+Madde 4: … Bilişim Yazılım Geliştirme Teknolojilerinin Yükümlülükleri
+4.1. Müşteri’nin ihtiyaç duyduğu yazılımları hazırlamakla yükümlüdür.
+4.2. Müşteri’ye sağlanmakta olan hizmetlerle ilgili oluşabilecek yazılım hatalarını ve sorunları 1 hafta içerisinde düzeltmekle yükümlüdür. Bu düzeltmeler için ücret talep edilmeyecektir.
+4.3. Müşteri için hazırlanmış tasarımdaki mevcut bölümlerdeki basit değişiklikler için, gerekli çalışmayı tamamladıktan sonra … Bilişim Yazılım Geliştirme Teknolojileri’nin belirleyeceği en kısa süre içinde gerekli düzenleme ve ilaveleri sisteme entegre edeceğini beyan eder. Bu düzeltmeler için ücret talep edilmeyecektir.
+4.4. Müşteri tarafından talep edilen ek tasarım (tasarım ve kod değişikliği gerektiren düzeltmeler, sayfa eklemeler) için, gerekli çalışmayı tamamladıktan sonra belirleyeceği en kısa süre içinde gerekli düzenleme ve ilaveleri ek ücret mukabilinde sisteme entegre edeceğini beyan eder.
+Madde 5: Gizlilik Ve Güvenlik
+Hem … Bilişim Yazılım Geliştirme Teknolojileri  hem de Müşteri birbirlerinin gizlilik kurallarına saygı göstermelidir. Üçüncü şahıslarla paylaşılması zorunlu olmayan ve zaten diğer kişilerin ulaşımına açık olmayan tüm bilgiler gizli kabul edilip başka kişilerle paylaşılmamalıdır.
+5.1. … Bilişim Yazılım Geliştirme Teknolojileri , Dosya Transfer Yetkisi (FTP), Veri tabanı, Yönetim Kontrol Paneli şifreleri ile yazılım içeriğine ve veri tabanına kayıtlı bilgileri ve özel bilgileri 3. kişi ve kuruluşlarla paylaşmayacağını ve kullandırmayacağını beyan ve taahhüt eder.
+5.2. Müşteri, kendi çalışanlarının, herhangi bir kasıt, ihmal ya da kusurundan dolayı şifrelerin 3. kişi veya kuruluşların eline geçmesi halinde doğabilecek zararlardan … Bilişim Yazılım Geliştirme Teknolojileri  mesul değildir.
+Madde 6: Elektronik Kayıtların Geçerliliği
+Taraflar arasında ve tarafların yetkililerince yapılan e-posta, anlık mesaj ve faks gibi elektronik yazışma kayıtları, kanunen geçerli delil sayılarak, usul hukuku bağlamında kesin ve bağlayıcı delil olarak kabul edilmiştir.
+Madde 7: Tebligatlar
+İşbu sözleşme ve uygulanması ile ilgili olarak yapılacak her türlü tebligat için, taraflar, işbu sözleşmede yazılı adresleri, yasal ikametgâh olarak belirlemişlerdir. Taraflar, bu adreslerde vaki değişiklikleri, diğer tarafa, noter kanalı veya iadeli taahhütlü mektup yolu ile bildirmedikleri takdirde, bu adreslerine yapılacak tebligatların geçerli, usulüne uygun ve kendilerine yapılmış sayılacağını kabul, beyan ve taahhüt ederler.
+Madde 8: Garanti
+Yazılımın, istenilen her türlü fonksiyonu yerine getirecek şekilde testleri tamamlandıktan sonra çalışır durumda yayımlandığı tarihten itibaren başlayacak ve toplam garanti süresi 1 yıl olacaktır.
+… Bilişim Yazılım Geliştirme Teknolojileri  tarafından titizlikle geliştirilecek ve test aşamasında olası hatalardan arındırılacak yazılımda, 1 yıllık garanti süresi içerisinde olabilecek yazılım veya tasarım hatalarının düzeltilmesinde veya yazılımın çalışmaması durumunda müdahale edilip çalışır duruma getirilmesi esnasında herhangi bir ücret talep edilmeyecektir.
+Madde 9: İşin Tamamlanması/İptali
+Sistemin hazırlanması Müşteri haricinde bir sebepten dolayı iş tamamlanmayacak ise … Bilişim Yazılım Geliştirme Teknolojileri  aldığı tüm ücretleri iade etmek zorundadır.
+Madde 10: Proje Amacı
+Günümüz teknolojisine uygun gerek görsel gerekse de teknolojik olarak kurumu en iyi şekilde işleyişini sürdürecek ve yönetimsel marj sağlayacak müşterinin ihtiyaçları doğrultusunda yazılımın müşteriye hazırlanıp sunulmasını ve kurulum start-up kapsamaktadır.
+Madde 12: Proje Yapı Şekli Ve Süreci
+… Bilişim Yazılım Geliştirme Teknolojileri  müşteriye sağlayacağı internet adresi aracılığıyla müşterinin yazılım yapım aşamasını ve yapılan çalışmayı takip edebilmesini sağlayacaktır.
+Madde 13: Yetkili Mahkeme Ve İcra Daireleri
+İşbu sözleşmenin uygulanmasından doğabilecek her türlü uyuşmazlıkların çözümünde … Mahkemeleri ve İcra Daireleri yetkilidir. 12 (on iki) maddeden oluşan işbu sözleşme …/…/…… tarihinde 2 (İki) nüsha olarak düzenlenmiş olup, okunmuş ve altına imza alınmıştır.
+Ad Soyadı                                                                          Ad Soyadı
+……                                                                                       ……

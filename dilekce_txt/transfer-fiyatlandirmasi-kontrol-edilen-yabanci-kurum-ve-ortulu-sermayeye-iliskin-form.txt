@@ -1,0 +1,119 @@
+Transfer Fiyatlandırması, Kontrol Edilen Yabancı Kurum ve Örtülü Sermayeye İlişkin Form[1]
+Ek : 2
+KURUMA İLİŞKİN GENEL BİLGİLER
+Vergi Kimlik No
+Kurum Sicil No
+Kurum Unvanı
+Faaliyet Kodu
+İrtibat Telefonu ve Faks No
+Vergilendirme Dönemi
+I-TRANSFER FİYATLANDIRMASI KAPSAMINDAKİ İLİŞKİLİ KİŞİLERE İLİŞKİN BİLGİLER
+Yurt İçinde Bulunan İlişkili Kişi Adı-Ünvanı
+Vergi Kimlik No/T.C. Kimlik No
+Yurt Dışında Bulunan İlişkili Kişi Adı-Ünvanı
+İlişkili Kişinin Bulunduğu Ülke
+1.
+2.
+3.
+4.
+5.
+II-İLİŞKİLİ KİŞİLERLE GERÇEKLEŞTİRİLEN TRANSFER FİYATLANDIRMASINA İLİŞKİN İŞLEMLER
+Alım
+(YTL)
+Satım
+(YTL)
+Varlıklar
+1.
+Hammadde-Yarı Mamul
+2.
+Mamul-Ticari Mallar
+3.
+Gayri Maddi Haklar/Varlıklar (Edinilen veya kullanılan)
+4.
+Kiralamalar
+5.
+Diğer (Belirtiniz)
+Hizmetler
+6.
+İnşaat-Onarım-Teknik
+7.
+Araştırma ve Geliştirme
+8.
+Komisyon
+9.
+Diğer (Belirtiniz)
+Mali İşlemler
+10.
+Ödünç Para/Kredi- Faiz
+11.
+Gayri Nakdi Krediler
+12.
+Mevduat/Repo-Faiz
+13.
+Vadeli İşlemler (Türev ürünler)
+14.
+Menkul Kıymetler
+15.
+Sigorta
+16.
+Diğer (Belirtiniz)
+Diğer İşlemler
+17.
+İkramiye ve Benzeri Ödemeler
+18.
+Grup İçi Hizmetler
+19.
+Diğer (Belirtiniz)
+Yapılan İşlemlerin Toplamı
+III-TRANSFER FİYATLANDIRMASINA KONU OLAN İŞLEMLERDE KULLANILAN YÖNTEMLER
+Alım
+(YTL)
+Satım
+(YTL)
+Karşılaştırılabilir Fiyat Yöntemi
+Maliyet Artı Yöntemi
+Yeniden Satış Fiyatı Yöntemi
+Kâr Bölüşüm Yöntemi
+İşleme Dayalı Net Kâr Marjı Yöntemi
+Mükellefçe Belirlenen Yöntem
+Toplam İşlem Tutarı
+IV-KURUMUN YURTDIŞI İŞTİRAKLERİNE İLİŞKİN BİLGİLER
+Yurtdışı İştirakin Unvanı
+Kanuni veya İş Merkezinin Bulunduğu Ülke
+Kurumun Sermaye, Oy veya Kâr Payı Oranı
+Yurtdışı İştirakin Gayrisafi Hasılatı
+1.
+2.
+3.
+4.
+5.
+V-ÖRTÜLÜ SERMAYE UYGULAMASINA İLİŞKİN BİLGİLER
+Aktif Toplamı
+Toplam Borçlar
+Öz Sermaye Tutarı
+Toplam Faiz Giderleri
+Toplam Kur Farkı Giderleri
+Ortak veya Ortakla İlişkili Kişilerden
+Temin Edilen Borçların En Yüksek Olduğu Tarihteki Toplam Tutarı
+AÇIKLAMLAR:
+Bu form, kurumlar vergisi mükellefleri tarafından doldurulacaktır. Formda yer alan transfer fiyatlandırması, kontrol edilen kurum kazancı ve örtülü sermayeye ilişkin işlemlerin bir veya birkaçının bulunması durumunda sadece bu işleme ilişkin kısım doldurulacak olup, formda belirtilen söz konusu işlemlerin bulunmaması durumunda bu form doldurulmayacak ve beyanname ekinde de gönderilmeyecektir.
+I. “TRANSFER FİYATLANDIRMASI KAPSAMINDAKİ İLİŞKİLİ KİŞİLERE İLİŞKİN BİLGİLER” bölümüne 1 seri numaralı Transfer Fiyatlandırması Yoluyla Örtülü Kazanç Dağıtımı Hakkında Genel Tebliğ gereğince ilişkili kişi kapsamında değerlendirilen ve gerek yurt içinde gerekse yurt dışında bulunan gerçek kişi ve kurumlara ilişkin bilgiler yazılacaktır. Örneğin, bir şirketin hem yurt içinde hem yurt dışında ilişkili olduğu gerçek kişi ve kurumlar bulunmasına rağmen ilgili hesap döneminde sadece yurt dışında bulunan ilişkili kişilerle işlem yapmış olması durumunda, forma sadece yurt dışında bulunan ilişkili kişi adı ve ünvanı ile bulunduğu ülke yazılacaktır.
+II. “İLİŞKİLİ KİŞİLERLE GERÇEKLEŞTİRİLEN TRANSFER FİYATLANDIRMASINA İLİŞKİN İŞLEMLER” bölümünde yer alan işlemlerin alım ve satımından kastedilen; alım satımın yapılması ya da hizmetin alınıp verilmesi olarak anlaşılmalıdır. Örneğin, kiralama veya kiraya verme işlemleri, ödünç para alınması ve verilmesi, ikramiye, ücret ve benzeri ödemeleri gerektiren işlemler mal veya hizmet alım ya da satımıdır.
+“Alım” sütununa, ilişkili kişi tarafından sağlanan işlem tutarı, “Satım” sütununa ise ilişkili kişiye sağlanan işlem tutarı yazılacak olup, kurumlar vergisi mükelleflerinin bir hesap dönemi içerisinde ilişkili kişilerle gerçekleştirdikleri tüm işlemlerine ilişkin alım ve satım tutarlarının yazılması gerekmektedir.
+“Varlıklar” bölümünün 3 numaralı satırında yer alan Gayri Maddi Haklar/Varlıklar, patent, ticari marka, ticari unvan, tasarım ya da model gibi sınaî varlıkların kullanım hakkı ile edebi, sanatsal eserlerin mülkiyet hakları ve ticari bilgi birikimi (know how), ticari sırlar gibi fikri hakları kapsamaktadır.
+“Diğer İşlemler” bölümünün 18 numaralı satırında yer alan Grup İçi Hizmetler, ilişkili şirketler arasında gerçekleşen, genellikle aynı gruba bağlı şirketlerden birinin diğerlerine verdiği hizmetleri ifade etmektedir.
+III. “TRANSFER FİYATLANDIRMASINA KONU OLAN İŞLEMLERDE KULLANILAN YÖNTEMLER” bölümüne, ilişkili kişilerle yapılan işlemlerde kullanılan yöntemlere ilişkin alım ve satım tutarları yazılacaktır.
+IV. “KURUMUN YURT DIŞI İŞTİRAKLERİNE İLİŞKİN BİLGİLER” bölümü, kurumlar vergisi beyannamesinin verildiği hesap döneminde, kurumların yurtdışı iştiraklerinin bulunması halinde doldurulacaktır.
+Tablodaki sütunlar itibarıyla, iştirak edilen her bir yurtdışı iştirak için ayrı ayrı olmak üzere, yurtdışı iştirakin;
+Unvanı,
+Kanuni veya iş merkezinin bulunduğu ülke,
+Toplam gayrisafi hasılatı
+ile yurtdışı iştirakte kurumun sermaye, oy veya kâr payı oranı (hangi oran daha yüksekse o oran dikkate alınacaktır) yazılacaktır.
+V. “ÖRTÜLÜ SERMAYE UYGULAMASINA İLİŞKİN BİLGİLER” bölümü, kurumlar vergisi beyannamesinin verildiği hesap döneminde ortak veya ortakla ilişkili kişilerden temin edilen bir borç bulunması halinde aşağıda yer alan açıklamalar çerçevesinde doldurulacaktır.
+“Aktif Toplamı”: Kurumun hesap dönemi başında çıkartılmış olan bilânçosunda yer alan bilgilere göre doldurulacaktır.
+“Toplam Borçlar”: Kurumun hesap dönemi başında çıkartılmış olan bilânçosunda yer alan bilgilere göre doldurulacaktır.
+“Öz Sermaye Tutarı”: Kurumun öz sermayesi bu tabloda yer alan Aktif Toplamı ve Toplam Borçlar dikkate alınarak, 1 Seri No.lu Kurumlar Vergisi Genel Tebliğinin "12.1.5" bölümünde yapılan açıklamalar çerçevesinde hesaplanacaktır.
+“Toplam Faiz Giderleri”: Ortak veya ortakla ilişkili kişilerden temin edilen borç nedeniyle hesap dönemi içinde gerçekleşen ve maliyetlere veya faaliyet giderlerine intikal etmiş olan faiz giderlerinin toplamı yazılacaktır.
+“Toplam Kur Farkı Giderleri”: Ortak veya ortakla ilişkili kişilerden temin edilen borç nedeniyle hesap dönemi içinde gerçekleşen ve maliyetlere veya faaliyet giderlerine intikal etmiş olan kur farkı giderlerinin toplamı yazılacaktır.
+“Ortak veya Ortakla İlişkili Kişilerden Temin Edilen Borçların En Yüksek Olduğu Tarihteki Toplam Tutarı”: İlgili hesap döneminde ortak veya ortakla ilişkili kişilerden temin edilen borçların en yüksek olduğu tarihteki toplam tutarı yazılacaktır.
+[1] Bu form “http://www.gib.gov.tr/yardim-ve-kaynaklar/beyanname-formlari-bildirimler” adresinden 07.06.2017 tarihinde alınmıştır.

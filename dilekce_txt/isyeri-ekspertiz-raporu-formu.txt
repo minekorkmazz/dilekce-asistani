@@ -1,0 +1,38 @@
+İşyeri Ekspertiz Raporu Formu
+SATILACAK/KİRALANACAK EMLAKIN AÇIK ADRESİ VE ADRESİN TARİFİ:
+İl:
+İlçe:
+Semt:
+Arsanın Açık Adresi:
+Yerinin Tarifi:
+Krokisi:
+MAL SAHİBİNİN:
+Adı, Soyadı:
+TC Kimlik No:
+Mesleği:
+Açık Adresi:
+Telefonu:
+İŞYERİNİN ÖZELLİKLERİ:
+Cinsi: (Dükkan- Ofis- Depo)
+Yapıldığı Tarih:
+Arsası Otoparkı Var mı:
+Aidatı Var mı:
+Bina Adı:
+Kaçıncı Kat:
+Dış Cephesi:
+İskan var mı:
+Ulaşımı:
+Manzarası: (Deniz/Göl/Dağ/Şehir)
+Belediyesi:
+Metrekaresi:
+Cephesi: (Kuzey-Güney- Doğu- Batı)
+Tapu Kaydı: (Mirasçılık-Kendisine Ait)
+Tapuda Şerh Var Mı: (Haciz – İpotek)
+Asansör:
+Ne maksatla kullanılabilir: …..
+EXPER GÖRÜŞÜ:
+Exper Adı:
+TC Kimlik No:
+Expertiz Tarihi: …/…/…
+(Bu belgeye Tapu fotokopisi, Nüfus Cüzdanı Fotokopisi Ekleyiniz)
+(Aşağıdaki hususları rapor sonunda belirtiniz: Anahtar Alındı; Afiş Asılabilir, Sözleşme Yapıldı mı, Reklamdan Sonra Alınan Telefon Sayısı)

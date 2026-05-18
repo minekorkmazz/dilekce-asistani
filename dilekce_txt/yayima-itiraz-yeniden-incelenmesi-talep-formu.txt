@@ -1,0 +1,70 @@
+Yayıma İtiraz Yeniden İncelenmesi Talep Formu[1]
+M117  YAYIMA  İTİRAZIN  YENİDEN  İNCELENMESİ
+TALEP  FORMU
+Referans No:
+Toplam  Sayfa Sayısı
+(İtiraz Sahibi Tarafından
+Doldurulacak)
+Toplam  Sayfa Sayısı
+(Kurum Tarafından
+Doldurulacak)
+Bu Alanı Boş Bırakınız
+(1)  İTİRAZ EDİLEN MARKA BİLGİLERİ
+Başvuru Numarası
+Marka Adı
+Bülten Tarihi ve Numarası
+-
+(2) İTİRAZ SAHİBİ
+TÜRKPATENT Müşteri No (*)
+Adı Soyadı/Unvanı
+Adres
+Semt
+İlçe
+İl / Ülke
+Posta Kodu
+Telefon No.
+Faks No.
+Uyruğu
+E-Posta Adresi
+Kayıtlı Olduğu Ülke
+T.C.Kimlik No
+Vergi Dairesi
+Vergi No
+(3) VEKİL
+Yok
+Var (Önceden Atanan)
+Var (Yeni Atanan)
+Vekil Sicil No (**)
+Adı Soyadı
+Firma Ünvanı
+Adres
+Semt
+İlçe
+İl
+Posta Kodu
+Telefon No.
+Faks No.
+Vekaletname (***)
+Ektedir
+(4) ÖDEME ve FATURA BİLGİLERİ
+Ödemeyi  Yapan
+Vekil
+İtiraz Sahibi
+Ödemenin Yapıldığı Banka ve Şubesi
+Dekont Numarası
+Dekont Tarihi
+(5) İTİRAZ GEREKÇELERİ
+İtiraz Gerekçesi
+Benzer Marka:
+Eskiye Dayalı Kullanım:
+Diğer :
+İtiraz nedeni benzer marka ise neden olarak gösterilen marka numaraları
+İtiraz gerekçeleri ile birlikte  ek delil , belge ve bilgiler sunulmuştur.
+İTİRAZ GEREKÇELERİ:
+Adı Soyadı/Unvanı
+Tarih
+İmza
+(*)TÜRKPATENT tarafından önceki başvuruda verilmiş olan müşteri numarasıdır
+(**)TÜRKPATENT tarafından vekil için verilen sicil numarasıdır.
+(***)Vekil ile yürütülen işlemler bakımından vekil bilgisinin formda belirtilmesi yeterli olup; vekaletname sunma zorunluluğu bulunmamaktadır.
+[1] Bu form, 30.07.2019 https://www.turkpatent.gov.tr/TURKPATENT/forms/informationDetail?id=100adresinden alınmıştır.

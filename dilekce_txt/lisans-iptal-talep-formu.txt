@@ -1,0 +1,58 @@
+Lisans İptal Talep Formu[1]
+M111  LİSANS   İPTAL   TALEP   FORMU
+Referans No:
+Toplam  Sayfa Sayısı
+(Başvuru Sahibi Tarafından
+Doldurulacak)
+Toplam  Sayfa Sayısı
+(KurumTarafından
+Doldurulacak)
+Bu Alanı Boş Bırakınız
+(1)  İPTAL EDİLECEK LİSANSLARIN KAYITLI OLDUĞU MARKALAR
+Başvuru/Tescil Numaraları
+Başvuru Sahibi
+(2) LİSANS SAHİBİ
+Gerçek Kişi
+Tüzel Kişi
+TÜRKPATENT Müşteri No (*)
+Adı Soyadı/Unvanı
+Uyruğu
+Kayıtlı Olduğu Ülke
+T.C.Kimlik No
+Vergi Dairesi
+Vergi No
+Adres
+Semt
+İlçe
+İl
+Posta Kodu
+Telefon No.
+Faks No.
+İptal edilecek lisans sahibi  birden fazla ise bu kutuyu işaretleyiniz ve diğer sahipleri Ek Sayda belirtiniz.
+(3) VEKİL
+Yok
+Var (Önceden Atanan)
+Var (Yeni Atanan)
+Vekil Sicil No (**)
+Adı Soyadı
+Firma Ünvanı
+Adres
+Semt
+İlçe
+İl
+Posta Kodu
+Telefon No.
+Faks No.
+Vekaletname (***)
+Ektedir
+(4) ÖDEME ve FATURA BİLGİLERİ
+Ödemeyi  Yapan
+Vekil
+Başvuru Sahibi
+Ödemenin Yapıldığı Banka ve Şubesi
+Dekont Numarası
+Dekont Tarihi
+Adı Soyadı/Unvanı
+Tarih
+İmza
+[1] Bu form, 30.07.2019 https://www.turkpatent.gov.tr/TURKPATENT/forms/informationDetail?id=100adresinden alınmıştır.

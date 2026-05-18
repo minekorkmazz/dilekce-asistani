@@ -1,0 +1,39 @@
+Arsa İçin Ekspertiz Raporu Formu
+ARSANIN BULUNDUĞU:
+İl:
+İlçe:
+Semt:
+Arsanın Açık Adresi:
+Yerinin Tarifi:
+Krokisi:
+MAL SAHİBİNİN:
+Adı, Soyadı:
+TC Kimlik No:
+Mesleği:
+Açık Adresi:
+Telefonu:
+ARSANIN ÖZELLİKLERİ:
+Cinsi: (Depolama/Kat Karşılığı/ Konut/Sanayii/Tarla/Turistik)
+Mevkii:
+Ulaşımı:
+Manzarası:
+(Deniz/Göl/Dağ/Şehir)
+Belediyesi:
+İmarı:
+Alt Yapısı: (Elektrik/Su/Doğalgaz)
+TAKS:
+KAKS:
+Taban Alanı:
+Blok En-Boy:
+Metrekaresi:
+Toplam İnşaat Alanı:
+Cephesi: (Kuzey-Güney- Doğu- Batı)
+Tapu Kaydı: (Mirasçılık-Kendisine Ait)
+Tapuda Şerh Var Mı: (Haciz – İpotek)
+Ne Maksatla İnşaat Yapılabilir: (Daire- Sanayii- Kooperatif)
+EXPER GÖRÜŞÜ:
+Exper Adı:
+TC Kimlik No:
+Expertiz Tarihi: …/…/…
+(Bu belgeye Tapu fotokopisi, Nüfus Cüzdanı Fotokopisi Ekleyiniz)
+(Aşağıdaki hususları rapor sonunda belirtiniz: Anahtar Alındı; Afiş Asılabilir, Sözleşme Yapıldı mı, Reklamdan Sonra Alınan Telefon Sayısı)

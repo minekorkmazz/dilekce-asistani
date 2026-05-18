@@ -1,0 +1,42 @@
+ATM Kiralanması Sözleşmesi
+Taraflar;
+Kiraya Veren
+Adı ve Soyadı               :
+Adresi                            :
+Kiralayan
+Adı ve Soyadı (Unvanı):
+Adresi                           :
+Kiralanan Yer
+………………………………………………… olan yerde ATM ünitesi kurulacaktır.
+Kiralanan Yerin Kullanım Amacı
+Kiralanan yere …………………………. Bankası A.Ş.’nin ATM sistemine ait kendi standartlarında ........ ünitesi ve bu üniteye bağlı teknik aksam monte edilerek ve bu mahalde .......... sistemine ait para yatırma, para çekme vb. işlemler yapılacak ve ………………………… Bankası A.Ş.’ne ait ünite üzerine reklamlar yerleştirilecektir.
+ATM tesisine para nakli yapılması amacıyla kiralanan yere veya o yerin eklentisine gelen, kiracıya ait zırhlı aracın, ATM tesisine en yakın olacak şekilde ve süre sınırı olmaksızın park etmesi için kiralanan yer ve çevresinde gerekli şartlar KİRALAYAN tarafından sağlanacaktır.
+Kiranın Başlangıcı
+Kira sözleşmesinin başlangıç tarihi ……/……../…….. ’dur.
+Kiralama Süresi
+Sözleşmenin süresi ...... (….)  yıldır. Kira sözleşmesinin sona ermesinden … hafta taraflar sözleşmenin feshini yazılı olarak diğer tarafa bildirmedikleri sürece, sözleşme kendiliğinden aynı bedel ve şartlarla bir yıl daha uzayacaktır.
+KİRACI, kira sözleşmesi süresi içerisinde dilediği takdirde sebep göstermeksizin ve kira sözleşmesi sonunu beklemeksizin bir ay evvel kiralayana yazılı olarak bildirimde bulunmak kaydıyla kira sözleşmesini tek taraflı olarak fesh edebilecektir. Bu durumda kiralayana sözleşme feshi tarihinden sonra kira bedeli ödenmeyecek olup, peşin ödenmiş olan ve işlememiş kısma isabet eden kira bedeli tutarı kiralayan tarafından derhal ve defaten kiracıya iade edilecektir.
+Belediye, vergi dairesi ve benzeri diğer resmi kurumlarla oluşabilecek sorunların çözümlenememesi durumunda sözleşme kiracı tarafından tek taraflı fesh edilecektir. Bu durumda işlememiş müddete ait kira bedeli geri alınacaktır.
+Kira Bedeli
+Kiralananın ……………………….. dönemi için kararlaştırılan kira bedeli yıllık net ……………………… TL.) dir.
+Müteakip yılın kira bedeli ise dönem başında Türkiye İstatistik Kurumu’nca açıklanan Üretici Fiyatları İndeksinin Bir Önceki Yılın Aynı Ayına Göre Değişim (Yüzdesi) oranı kadar arttırılarak belirlenecektir.
+İş bu sözleşme kapsamında yapılan ödemeler 7. maddede belirtildiği şekilde yapılacaktır.
+Kira Bedelinin Ödenmesi
+Tüm kira bedelleri, her dönem başlangıcının ilk .... işgünü içinde, birer yıllık peşin olarak ödenecektir.
+Tüm kira bedelleri, kiralayanın göstereceği ……. Bankası hesabına makbuz karşılığında yatırılacaktır.
+Tesis ve İşletim Masrafları
+ATM’nin her türlü tesis masrafrı KİRACI’ya aittir.
+ATM ünitesi için gerekli olan elektrik enerjisi KİRALAYAN tarafından sağlanacak ve KİRALAYAN’ın göstereceği elektrik tablosundan alınacaktır. Ünite ile ilgili elektrik ve kablo tesisatı KİRACI tarafından yapılacaktır. Kiralanan mahaldeki ATM makinesinin elektrik skullanımından kaynaklanan masraflar KİRACI’ya aittir.
+Data ve telefon hatlarının tesis ve kullanım masrafları KİRACI’ya aittir.
+Bakım ve Onarım Masrafları
+ATM ünitesinin bakım ve onarım masrafları KİRACI’ya aittir. Bakım ve onarım masrafları için KİRACI, KİRALAYAN’dan herhangi bir bedel talep etmeyecektir.
+KİRALAYAN, ATM ünitesinin görünüşünü engellemeyecek, ATM makinesı için gelen yetkililere görevleri başında müdahale etmeyecektir.
+KİRACI’ya tahsis edilen alan dışında,başka banka ATM cihazları için KİRALAYAN yer gösterebilir. KİRACI’nın ön onayı bulunmakta olup,itiraz hakkı yoktur.
+Yetkili Mahkeme ve İcra Dairesi
+İş bu sözleşmenin tadillerinin uygulanmasından veya yorumundan doğan ihtilaflarda T.C. Kanunları uygulanır ve bu hususlarda ………… Mahkemeleri ve İcra Daireleri yetkilidir. Sözleşmenin veya bazı hükümlerinin veya işbu hükmün geçersizliği iddialarının ileri sürülmesi halinde de yine Türk Kanunlarına gore bu iddialar sonuçlandırılır ve bu hususta da …… Mahkemeleri ve İcra Daireleri yetkilidir.
+Tebligat Adresleri
+KİRALAYAN’ın tebligat adresi yukarıda yazılı olan adrestir.
+KİRACI’nın tebligat adresi yukarıda yazılı olan adrestir.
+İşbu Sözleşme 2 nüsha halinde taraflar arasında ……/……./……. tarihinde imzalanmıştır.
+KİRAYA VEREN                                                        KİRACI
+İmza                                                                       İmza

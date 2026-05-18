@@ -1,0 +1,53 @@
+Katı Atık Formu[*]
+KADIKÖY BELEDİYE BAŞKANLIĞI’NA
+İL/İLÇE/KASABA :
+TC.KİMLİK :
+MÜKELLEF SİCİL NO    :
+VERGİ NO  :
+1 – MÜKELLEF KİMLİK ve ADRES BİLGİLERİ
+SOYADI (UNVANI)
+İKAMETGAH
+İŞYERİ
+ADI
+BABA ADI
+MAHALLE
+ANNE ADI
+CADDE
+DOĞUM YERİ
+SOKAK
+DOĞUM TARİHİ
+BİNA DAİRE NO
+TELEFON NO
+İLÇE / İL
+2 – BİNAYA VE VERGİLENDİRMEYE AİT BİLGİLER
+1.BİNA
+2.BİNA
+3.BİNA
+BİNA SAHİBİNİN ADI SOYADI
+EMLAK VERGİSİ SİCİL NO
+BULUNDUĞU KÖY/MAHALLE
+CADDE/SOKAK
+KAPI ve DAİRE NO
+KULLANILIŞ ŞEKLİ  (KONUT/İŞYERİ)
+İŞYERİNDE FAALİYETİN TÜRÜ
+MÜKELLEFİYETİN BAŞLANGIÇ TARİHİ
+KULLANILMAYA BAŞLANDIĞI TARİH
+BİNA HİSSELİ İSE HİSSE ORANI
+ÖĞRENCİ SAYISI
+YATAK KAPASİTESİ
+KULLANIM ALANI
+KOLTUK SAYISI
+PERSONEL SAYISI
+GURUBU
+DERECESİ
+AYLIK VERGİ TUTARI
+YILLIK VERGİ TUTARI  (Aylık vergi x 12)
+1) 5393 Sayılı Kanun 15. Maddesinin. “g” bendi (katı atıkların toplanması, taşınması, ayrıştırılması, geri kazanımı, ortadan kaldırılması ve depolanması ile ilgili bütün hizmetleri yapmak ve yaptırmak.
+2) 2872 Sayılı Kanunun 11. Maddesinin 14. Fıkrası ve Evsel Katı Atık Yönetmeliğinin 2/ç maddesindeki toplama, taşıma, aktarma hizmetleri için uygulanır.
+Sözleşmenin Veriliş Nedeni:
+İlk Defa:
+Değişiklik Nedeni İle:
+Tarih
+Talep Eden
+Adı Soyadı, İmzası
+[*] Bu dilekçe https://www.kadikoy.bel.tr/Kurumsal/Dilekce-Ornekleri .adresinden alınmıştır. Erişim Tarihi: 26.07.2023

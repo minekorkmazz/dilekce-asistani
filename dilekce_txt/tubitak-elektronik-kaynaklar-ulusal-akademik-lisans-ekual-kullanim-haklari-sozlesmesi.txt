@@ -1,0 +1,92 @@
+TÜBİTAK Elektronik Kaynaklar Ulusal Akademik Lisans Ekual Kullanım Hakları Sözleşmesi [1]
+Bu Kullanım Hakları Sözleşmesi; Türkiye Bilimsel ve Teknolojik Araştırma Kurumu’na (TÜBİTAK) bağlı bir AR-GE Kolaylık Birimi olan, Ulusal Akademik Ağ ve Bilgi Merkezi (ULAKBIM) ile …………………………………. Rektörlüğü arasında …/…/…….. tarihinde imzalanmıştır.
+Madde 1. AMAÇ
+Bu Kullanım Hakları Sözleşmesi; Türkiye Bilimsel ve Teknolojik Araştırma Kurumu’na (TÜBİTAK) bağlı bir AR-GE Kolaylık Birimi olan, Ulusal Akademik Ağ ve Bilgi Merkezi (ULAKBIM) tarafından yürütülen, TÜBİTAK “Elektronik Kaynaklar Ulusal Akademik Lisansı” (EKUAL) projesi kapsamında erişime açık olan tam metin ve bibliyografik veri tabanlarının kullanımına yönelik usul ve esasları saptamak amacıyla düzenlenmiştir.
+Madde 2. KAPSAM
+Bu kullanım hakları sözleşmesi TÜBİTAK EKUAL kapsamında hizmet verilen Kullanıcı Kurumlara ve Yetkili Kullanıcılara sağlanan hizmete ilişkin esasları kapsar.
+Madde 3. TANIMLAR
+TÜBİTAK EKUAL:
+TÜBİTAK ULAKBİM tarafından, bazı tam metin ve bibliyografik veri tabanlarının, Türkiye’deki ilgili akademik ve araştırma kurumlarının erişimine açılması için 2006 yılında başlatılan ve açık adıyla “Elektronik Kaynaklar Ulusal Akademik Lisansı” olarak bilinen projenin adıdır.
+Kullanıcı Kurum:
+TÜBİTAK EKUAL hizmetlerinden yararlanmak amacıyla bu sözleşmeye taraf olan ve bu sözleşmenin koşullarına bağlı kalmayı kabul etmiş olan üniversite, Sağlık Bakanlığı Eğitim Araştırma Hastanesi, eğitim kuruluşu veya araştırma kurumudur.
+Yetkili Kullanıcı:
+Kullanıcı kurumlar ve kurumlarda çalışan sürekli, geçici, sözleşmeli personel, mevcut öğretim elemanları, öğrencileri ve diğer personelidir. Söz konusu yetkili kişiler; evleri, lojmanları, öğrenci yurtları da dahil olmak üzere, kullanıcı kurumların kütüphane binalarındaki, çalıştıkları veya eğitim gördükleri tüm mekanlarındaki Güvenli Ağa erişmelerine izin verilen veya kullanıcı kurum tarafından şifre ya da başka bir yetki verilmiş kişilerdir.
+Ayrıca, kullanıcı kurumun personeli olmadığı halde, kütüphane ya da bilgi hizmetlerinden yararlanmasına, kullanıcı kurumun yerleştiği bina alanı içindeki bilgisayar terminallerinden Güvenli Ağa erişmesine izin verilen kişiler (geçici kullanıcılar) de yetkili kullanıcılardır.
+Veri Tabanı:
+TÜBİTAK EKUAL kapsamında kullanıcı kurumların erişimlerine açılan elektronik dergiler koleksiyonu ve/veya bibliyografik kayıtlar sunan bilgi kaynakları koleksiyonudur.
+Lisanslı Materyaller:
+TÜBİTAK EKUAL kapsamında Eser veya Hak Sahipleri ile TÜBİTAK ULAKBİM arasında söz konusu materyallerin sınırlı kullanımına ilişkin devredilemez ve inhisarı olmayan bir lisans anlaşması bulunan, elektronik bilgi kaynakları ve veri tabanlarıdır.
+Ticari Kullanım:
+Kullanıcı kurum ve bunun yetkili kullanıcısı için veya bunlardan biri tarafından, Lisanslı Materyallerin para kazanmak amacıyla satışı, ödünç verilmesi, transferi, kiralanması veya başka bir şekilde kullanımını ifade eder.
+Fikri Mülkiyet Hakları:
+Patentler, ticari markalar, ticari isimler, tasarımlarda dahil olmak üzere bütün sinai mülkiyet hakları ve 5846 sayılı Fikir ve Sanat Eserleri Kanunu’nda düzenlenen telif haklarının tamamını (veri tabanları ve bilgisayar yazılımlarındaki haklar da dahil olmak üzere) ifade eder.
+Erişim Sağlanacak Alan:
+Kullanıcı Kurumlar tarafından işletilen kütüphane binaları, okullar ve hastanelerdir.
+Güvenli Ağ:
+Sadece kullanıcı kurum tarafından onaylanmış, ağa girişte ve ağda kaldığı sürece kimliği düzenli olarak ve mümkün olan en iyi şekilde doğrulanan (şifreler vb.ile) ve davranışları kullanıcı kurum tarafından düzenlenen yetkili kullanıcıların erişebildiği bir ağdır.
+Eser Sahipleri veya Hak Sahipleri:
+TÜBİTAK EKUAL kapsamında kullanıma açılan Veri Tabanları üzerindeki hakların sahibi olan ve TÜBİTAK ULAKBİM ile lisans anlaşması yapan kişi, kurum veya kuruluşlardır.
+Madde 4. KULLANIM HAKLARI
+4.1 TÜBİTAK ULAKBİM, bu sözleşme ile kullanıcı kurum ve yetkili kullanıcılarına, kendi tekelinde olmayan ve başkasına devredilmesi mümkün olmayan Lisanslı Materyallere, Yetkili Kullanıcıların Güvenli Ağ yoluyla ve araştırma, öğretim, kişisel çalışma, kullanıcı kurum ve yetkili kullanıcılarının olağan uygulama ve faaliyetleri ile ilgili erişim hakkı verir.
+4.2 Kullanıcı Kurum;
+4.2.1 Lisanslı Materyallerin etkin kullanımını sağlamak amacıyla, Yetkili Kullanıcıların çoklu kopya almasına izin vermeden, Lisanslı Materyallerin belli bölümlerinin yerel elektronik kopyalarını yapabilir,
+4.2.2 Yetkili Kullanıcılarının Lisanslı Materyallere Güvenli Ağ yoluyla Sunucudan erişimine izin verebilir,
+4.2.3 Yetkili Kullanıcılarının, akademik çalışmalarda kullanım amacıyla Lisanslı Materyallere güvenli ağ üzerinden erişimini sağlayabilir,
+4.2.4 5846 sayılı Kanun ile basılı eserler bakımından öngörülen şartlara uygun kullanmaları şartı ile, Yetkili Kullanıcı olmayan bir kişiye ait bir araştırma için ya da kişisel çalışma amacıyla istenen tek makalelerin tek basılı kopyalarını sağlayabilir,
+4.2.5 Yetkili Kullanıcıları veya Yetkili Kullanıcı gruplarını eğitme amacıyla, Lisanslı Materyallerin belirli bölümlerini bilgisayarda görüntüleyip, yükleyebilir veya basabilir.
+4.3 Yetkili Kullanıcılar, Madde 5’e uygun olarak;
+4.3.1 Lisanslı Materyalleri araştırabilir, görebilir, ekrana geri getirebilir, bilgisayarda açabilir,
+4.3.2 Lisanslı Materyallerden bazı bölümleri veya tek makaleleri kişisel kullanımı için elektronik ortamda saklayabilir, bunları seminer, konferans, çalıştay ve benzeri çalışmalarda, kaynak belirtmek koşuluyla kullanabilir,
+4.3.3 Lisanslı Materyallerin bazı bölümlerinden basılı bir kopya alabilir,
+4.3.4 Lisanslı Materyallerden bazı bölümleri veya tek makalelerin bir kopyasını basılı ya da elektronik olarak diğer Yetkili Kullanıcılara gönderebilir.
+4.3.5 Lisanslı Materyallerden, bazı bölümleri veya tek makalelerin bir kopyasını basılı ya da elektronik olarak, ticari amaç dışındaki bir araştırma için ya da akademik bir çalışma amacıyla gönderebilir.
+4.3.6 Bu Sözleşmedeki hiç bir hüküm, Kullanıcı kurumun ya da herhangi bir Yetkili Kullanıcının, 5846 Sayılı Fikir ve Sanat Eserleri Kanunu ya da Türkiye’nin taraf olduğu herhangi bir uluslararası telif hakları sözleşmesinin Eser Sahipleri ve Hak Sahiplerine tanıdığı yasal hakların ihlal etmesine cevaz verecek şekilde yorumlanamaz.
+Madde 5. YASAKLANMIS KULLANIMLAR
+5.1 Ne Kullanıcı Kurum, ne de herhangi bir Yetkili Kullanıcısı:
+5.1.1 Yazarların isimlerini, Lisanslı Materyallerde görülen Eser Sahibi veya Hak Sahibinin telif hakkı ile ilgili notlarını veya diğer tanımlama ve hakları belirten izleri silemez veya değiştiremez,
+5.1.2 Madde 4’de izin verilenler dışında, Lisanslı Materyallerden, herhangi bir amaçla sistematik olarak çok sayıda baskı veya elektronik kopya yapamaz ve bunun için kullanılan robot yazılımlar ve bunların benzeri araçlar kullanamaz,
+5.1.3 Lisanslı Materyallerin hiç bir parçasını Güvenli Ağ dışında, internet ve world wide web dahil, herhangi bir elektronik ağ üzerine yükleyemez ve dağıtamaz.
+5.2 Aşağıdaki durumlarda Yayıncı/Derleyici/Aracı’nın açık yazılı izni gerekli olduğundan, Lisans Sahibi TÜBİTAK ULAKBİM ile iletişime geçilmesi zorunludur:
+5.2.1 Lisanslı Materyallerin tümünü ya da bir kısmını ticari bir amaçla kullanmak,
+5.2.2 Bu sözleşmenin izin verdiği haller dışında, Lisanslı Materyallerin tümünü ya da bir kısmını, Yetkili Kullanıcılar dışındaki kişilere sistematik olarak dağıtmak,
+5.2.3 Lisanslı Materyalleri, Lisanslı Materyaller temel alınarak veya onların başka Materyallerle birleştirilmesiyle hazırlanmış eserleri, bu Sözleşmeyle izin verilen koşullar dışında yayımlamak, dağıtmak veya edinilmesini sağlamak,
+5.2.4 Lisanslı Materyalleri, bilgisayar ekranında görülmelerini kolaylaştırmak için gerekebilecek müdahaleler veya başka bir nedenle Yetkili Kullanıcılara bu Sözleşmede verilmiş izinlerin dışında, değiştirmek, kısaltmak, uyarlamak, telif hakları ile ilgili notlar ve uyarı sözcüklerinin veya bu sözcüklerin yerlerini değiştirmek.
+5.3 Kullanıma yönelik ihlallerin tespit edilmesi durumunda Kullanıcı Kurumun erişimi işbu sözleşmenin 9. maddesi uyarınca kesilir.
+Madde 6. BELGE SAĞLAMA
+Kullanıcı Kurumlar, diğer bir Kullanıcı Kuruma ve/veya Kullanıcı Kurum olmayan bir kuruma ya da bu kurumun kullanıcısına ya da bireysel olarak başvuran kişilere, TÜBİTAK EKUAL kapsamındaki Lisanslı Materyallerle, TÜBİTAK ULAKBİM’in yazılı izni olmadan, sistematik şekilde Belge Sağlama Hizmeti veremez.
+Madde 7. KURS PAKETLERİ VE ELEKTRONİK REZERV
+Yukarıdaki Madde 5’e uygun olarak, Kullanıcı Kurumlar, Lisanslı Materyallerin bölümlerini, ticari amaç dışında, bir Kullanıcı Kurumda yapılan eğitim sırasında Yetkili Kullanıcıların yararlanabilmesi için, basılı Ders Paketleri veya Elektronik Rezerve koleksiyonlarına dahil edebilir.
+Bu tür materyallerin her biri kaynak hakkında yeterli bilgi taşımalı, alınan kısmın başlık ve yazarı, eserin adı, Eser Sahibi ve/veya Hak Sahibinin adı verilmelidir. Kullanıcı Kurum, bu amaçla kullanımı sona erdiği zaman, bu tür materyallerin kopyalarını silmelidir.
+Madde 8. KULLANICI KURUMUN YÜKÜMLÜLÜKLERİ
+8.1 Kullanıcı Kurum;
+8.1.1 Yetkili Kullanıcılarını bu Sözleşmenin koşullarından haberdar edecek ve gerekli önlemleri alacaktır,
+8.1.2 Bu Sözleşmenin koşullarından herhangi birinin ihlaline dair bir bilgi alırsa, ihlali yapan Yetkili Kullanıcı ile derhal görüşerek gerekli uyarılarda bulunacak ve ihlalin tekrarlanmaması için gerekli önlemleri alacaktır,
+8.1.3 Bu Sözleşmenin koşullarından herhangi birinin ihlaline dair bir bilgi alırsa TÜBİTAK ULAKBİM’i durumdan haberdar edecektir,
+8.1.4 Tüm Yetkili Kullanıcıların, Lisanslı Materyallerle ilgili Fikri Mülkiyet Haklarına saygı göstermelerinin önemi ve bunu yapmadıkları takdirde her Kullanıcı Kurum ve Yetkili Kullanıcının maruz kalacağı cezai müeyyideler konusunda haberdar edecektir,
+8.1.5 Yetkili Kullanıcıları bu Sözleşmenin şartlarından haberdar edecek ve Lisanslı Materyalleri yetkisiz kullanımdan ve Lisansın diğer şekillerde ihlal edilmesinden korumak için gereken önlemleri alacaktır,
+8.1.6 Yetkisiz kullanım ya da herhangi bir ihlalin tespit edilmesi halinde en geç 10 gün içerisinde TÜBİTAK ULAKBİM’i haberdar edecek ve bu olayın hemen son bulmasını sağlamak ve tekrarını önlemek için, disiplin önlemleri dahil, gereken makul ve uygun işlemleri yapacaktır,
+8.1.7 Şifre ve diğer erişim bilgilerini sadece Yetkili Kullanıcılara verecek (geçici kullanıcılar hariç), ve Yetkili Kullanıcıların bu bilgileri üçüncü şahıslara açıklamalarını önleyecektir,
+8.1.8 Kuruma ait tüm IP adreslerinin tam ve güncel kayıtlarını tutarak, yapılan değişikliklerden TÜBİTAK ULAKBİM’i haberdar edecektir,
+8.1.9 Lisanslı Materyallere, “sadece” Yetkili Kullanıcıların erişimini sağlayacaktır.
+Madde 9. LİSANSLI MATERYALLERE ERİŞİMİN KESİLMESİ
+9.1 Aşağıdaki hallerde Kullanıcı Kurumun Lisanslı Materyallere erişimi kesilir:
+9.1.1 Kullanıcı Kurum, bu sözleşmede geçen koşulları kabul etmez ve ayrıca bu sözleşme kurum yetkilisi tarafından imzalanıp TÜBİTAK ULAKBİM’e gönderilmezse,
+9.1.2 Kullanıcı Kurum ve onun bütün Yetkili Kullanıcıları, Eser Sahibi veya Hak Sahibinin telif haklarını veya diğer Fikri Mülkiyet Haklarını veya bu sözleşmede geçen hükümleri ihlal eder ve Eser Sahibi veya Hak Sahibi ya da TÜBİTAK ULAKBİM tarafından yazılı olarak uyarılmasından itibaren on beş (15) gün içinde bunu telafi etmezse,
+9.1.3 Kullanıcı Kurumun, yıllık abonelik dönemleri içinde kullanım  istatistiklerinin düşüklüğünden kaynaklanan kurum bazındaki birim maliyetin yükselmesi durumunda, Lisanslı Materyallere erişimi iptal edilebilir,
+9.1.4 ULAKBIM, Kullanıcı Kuruma 15 gün öncesinden sebeplerini bildirmek  koşuluyla, bu sözleşme uyarınca sağladığı erişimi kesebilir.
+Madde 10. GENEL
+10.1 Bu Sözleşmede yapılacak değişiklikler ancak yazılı olarak hazırlanıp her iki tarafın da imzalanması halinde geçerli sayılırlar,
+10.2 Bu Sözleşme’nin hükümlerinden herhangi birinin geçersiz ve uygulama dışı kalması, geri kalan kısmının devamlılığını ve geçerliliğini etkilemez,
+10.3 Eğer taraflar, bu Sözleşmenin yorumlanması üzerinde veya bir tarafın ya da Kullanıcı Kurumun Sözleşmenin herhangi bir kısmını ihlal ettiği konusunda ihtilafa düşerlerse, taraflar görüşmelere başlayacak ve hukuki veya idari süreçleri başlatmadan önce anlaşma yoluyla sorunu çözümlemeye çalışacaklardır,
+10.4 Taraflar, bu Sözleşmeyle ilgili ortaya çıkabilecek bütün anlaşmazlıkların çözümlenmesinde Ankara Mahkemelerinin yetkili olduğunu kabul ve beyan ederler.
+Madde 11. SORUMLULUK
+11.1 İşbu sözleşmenin hiçbir hükmü, TÜBİTAK ULAKBİM’in bu sözleşme uyarınca Kullanıcı Kurumlara veya Yetkili Kullanıcılara karşı sorumlu tutulabileceği şeklinde yorumlanamaz. Lisanslı Materyalin ve sözleşme kapsamında erişime açılan materyalin kullanımından doğabilecek bütün sorumluluk söz konusu materyali kullanan kişi veya kurumlara aittir.
+11.2 TÜBİTAK ULAKBİM, Lisanslı Materyalin ve sözleşme kapsamında erişim olanağı sağlanan materyalin doğruluğu, kullanıldığı alana ve amaca uygunluğu konusunda hiçbir taahhüdü veya garantisi bulunmamaktadır.
+11.3 Kullanıcı Kurum aracılığıyla veri tabanından faydalanan veya Kullanıcı Kurumun kasıt veya ihmali neticesinde veri tabanına erişim sağlayan 3. kişilerin, bu erişimleri ile eser sahiplerinin mevzuattan doğan haklarını ihlal etmesi ve bu durumdan TÜBİTAK ULAKBİM’in sorumlu tutulması halinde, bundan doğan her türlü zarar, Kullanıcı Kurum tarafından herhangi bir dava veya takip neticesi beklenmeksizin, TÜBİTAK ULAKBİM’in bildirimi üzerine karşılanır. Bu sözleşme kapsamındaki yükümlülüklerini yerine getirmeyen Kullanıcı Kurum, bu kişi ve kuruluşlarla birlikte müştereken ve müteselsilen sorumludur.
+Madde 12. YÜRÜRLÜK VE SÜRE
+12.1 İşbu Sözleşme imzalandığı tarihte yürürlüğe girer.
+12.2 Bu sözleşme, Lisanslı Materyale erişim hakkı olduğu sürece yürürlükte kalır. Ancak, bir ihlal olması durumunda, TÜBİTAK ULAKBİM tarafından Sözleşmenin 9. maddesi uyarınca Kullanıcı Kurumun Lisanslı Materyale erişiminin kesilmesine kadar yürürlükte kalır.
+TÜBİTAK ULAKBİM                            .................. Üniversitesi
+Adına                                                    Adına
+...................................                              ........................................
+[1] Bu sözleşme 20.06.2023 tarihinde bezmialem.edu.tr sitesinden alınmıştır.

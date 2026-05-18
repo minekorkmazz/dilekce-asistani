@@ -1,0 +1,122 @@
+ITC (Uluslararası Ticaret Merkezi) Uluslararası Model Ticari Satış Sözleşmesi - Sözleşme
+1. TARAFLAR
+İHRACATÇI
+İsim…
+Adres…Eğer farkIı ise, bu sözleşmede esas olarak alınacak iş adresi…
+Telefon…Faks…E-mail…
+Yetkili imza (isim ve görevi)
+İTHALATÇI
+İsim…
+Adres… Eğer farkIı ise, bu sözleşmede esas olarak alınacak iş adresi …
+Telefon…Faks…E-mail…
+Yetkili imza (isim ve görevi) …
+2. MALLAR
+Malların tanımı (Malların gerekli standartları, özellikleri, sertifikalar ve ülke  menşei)…
+(Malların adı, varsa teknik isimleri, malların boyutları, uygulanması gereken ulusal ve uluslararası standartlar, alıcının talep ettiği özel koşullar, numunelere ilişkin özel düzenlemeler açıkca belirtilmelidir)
+Miktar (Rakam ve yazı ile geçerli birim ölçüsü belirtilmek suretiyle)
+•  Toplam miktar …
+•  Parti başına miktar …
+• Kabul edilebilir yüzde sapması (- / +):…%
+Malların gözetimi (Eğer taraflar her hangi bir aşamada malların sözleşme şartlarına uygunluğunu kontrol ettirmeyi gerekli görüyorlarsa, malların özelliklerini ve/veya miktarını kontrol edecek ve tarafların üzerinde mutabık kaldıkları denetim organizasyonu hakkında detaylı bilgiler, denetimin nasıl yapılacağı, hangi hususları içereceğ,i  denetimin tarih ve süresi ile denetim masraflarının hangi taraf tarafından karşılanacağı detaylı bir şekilde belirtilecektir…….
+Paketleme ve diğer benzeri özellikler ile ilgili detaylar (Paketleme, etiketleme ve işaretleme koşulları açıkca belirtilmelidir) …
+Diğer başka spesifikasyonlar….
+3. TESLİMAT
+Uygulanacak ICC (Uluslararası Ticaret Odası) Incoterm’ü (Sözleşmenin imzalanma tarihinde mevcut Incoterms’lerin en son versiyonu referans olarak alınacaktır)…
+Teslimat yeri (Malın gönderildiği ve teslim alınacağı yer açıkca belirtilmelidir) ….
+Teslimat tarihi veya süresi (Teslim döneminin sözleşme tarihinden itibaren mi, ihracatçının peşin olarak ödenen parayı alış tarihinden itibaren mi, yoksa satıcının ithalat lisansının çıktığı bildirimini aldığı tarihten itibaren mi başlayacağı açıkca belirtilmelidir)  …
+Nakliyenin şekli, nakliyecinin isim ve adresi (Tarafların nakliye yöntemlerinden hangisi üzerinde anlaştıkları açıkca belirtilmelidir)…
+Aksi belirtilmedikçe, teslimat ihracatçının yukarıda belirtilen iş yeri adresinde Ex Works (İş yerinde teslim) olarak (Referans olarak gösterilen ICC Incoterm’ünde belirtildiği şekilde) yapılacaktır.
+4. FİYAT
+Fiyat (Toplam fiyat ve/veya birim ölçü başına fiyat, gerek rakam gerekse harfle para birimi belirtilmek suretiyle yazılacaktır)…
+Fiyatı belirleme methodu (Gerekli görüldüğü takdirde)….
+Fiyatın spesifik olarak belirlenmediği veya belirlenemedigi durumlarda varsa daha önce aynı ithalatçıya aynı malların benzer koşullarda ihracatında belirlenen fiyat üzerinden değerlendirme yapılır. Ancak, daha önce tecrübe edilmiş böyle bir örnek yoksa, tarafları kabul edeceği makul bir fiyat belirlenir
+5. ÖDEME
+Ödeme biçimi (peşin, çek, banka havalesi vs.)…
+İhracatçının banka hesabının detayları (Gerekli görüldüğü takdirde)…
+Aksi belirtilmedikçe, ödeme online aktarım (teletransmission) yoluyla ihracatçının banka hesabına aktarılacaktır ve ithalatçı ödeme sorumluluklarını anılan miktar ihracatçının bankasına ulaşana kadar eksiksiz yerine getirecektir.
+Ödeme … sürece …  fatura kesim tarihinden sonra 30 gün içerisinde gerçekleştirilecektir.
+TARAFLAR AŞAĞIDA BELİRTİLEN ÖDEME ŞEKİLLERİNDEN BİRİSİNİ SEÇEBİLİRLER. ANCAK BU DURUMDA HANGİ ÖDEME ŞEKLİNİ SEÇECEKLERİNİ VE GEREKLİ DETAYLARI BELİRTMEK ZORUNDADIRLAR.
+(…) PEŞİN ÖDEME
+Hak edilen değer (Ödemenin hepsi veya bir kısmı, veya toplam değerin  yüzdesi olarak belirtilmiş şekilde)
+……..
+Ödemenin ihracatçının bankasına ulaşması için son tarih …..
+Ödemeye ilişkin özel durumlar (Eğer varsa) …..
+Toplam ödemenin sadece bir kısmının peşin olarak ödeneceği durumlarda, geri kalan miktar, …. taraflar burada belirtilecek farklı bir süre konusunda anlaşmadıkları sürece…. fatura kesim tarihinden itibaren 30 gün içerisinde tahsil edilecektir
+(…)  VESAİK MUKABİLİ ÖDEME
+Ödenecek miktar (Toplam değer mi yoksa parti başına değer mi belirtilecek)….
+Ödemenin son günü …….
+Ödeme biçimi: Vesaik mukabili ödeme, …taraflar burada belirtilecek vesaik mukabili kabul methodu üzerinde anlaşmadıkları sürece….
+Vesaik mukabili ödeme ICC (Uluslararası Ticaret Odası)’nin belirlediği standart kurallara tabi olacaktır. İlgili gerekli dökümanlar sözleşmenin 6. maddesinde belirtilmiştir
+(…) GERİ DÖNÜLEMEZ (GAYRİKABİLİRÜCU) AKREDETİFLİ ÖDEME
+İthalatçı, ihracatçı lehine, bir bankadan ICC (Uluslararası Ticaret Odası)’nin akreditifler için standart gelenek ve uygulamalarına tabi olacak geri dönülemez bir akreditif açtıracaktır. Bu durum ilgili tarafa sözleşmenin 3. maddesinde belirtilen teslimat zamanından veya kararlaştırılmış teslim süresinin başlangıcından, … taraflar burada belirtilecek farklı bir süre konusunda anlaşmadıkları sürece… 14 gün önce bildirilecektir. En son bildirim tarihi ….’dir.
+Söz konusu akreditif, sözleşmenin 3. maddesinde belirtilen teslim tarihi veya süresi sonundan 14 gün sonra, …taraflar burada belirtilecek farklı bir süre konusunda anlaşmadıkları sürece.., geçersiz kalacaktır.
+Söz konusu akreditif, ____ taraflar burada belirtilecek aksi bir şekilde anlaşmadıkları sürece______, teyitli olmak zorunda değildir.
+Teyitle ile ilgili bütün maliyetler, … taraflar aksi burada belirtilecek farklı bir şekilde anlaşmadıkları sürece… ihracatçı tarafından karşılanacaktır.
+Söz konusu akreditif,… taraflar burada belirtilecek aksi bir şekilde anlaşmadıkları sürece… görüldüğünde ödemeli akteditif (payable at sight) olacak ve kısmi yüklemeye veya transit yüklemeye imkan verecektir.
+(…)KABUL KREDİLİ ÖDEME
+İthalatçı, sözleşmenin 3. maddesinde belirtilen teslimat tarihinden veya kararlaştırılmış teslim süresinin başlangıcından, …taraflar burada belirtilecek farklı bir süre konusunda anlaşmadıkları sürece… en az 30 gün önce ya ICC’nin talep garantileri için standart kuralarına uygun bir bir banka garantisi veya ICC’nin akreditifler için belirlediği standart gelenek ve uygulamalar kurallarına tabi bir teminat mektubu sağlayacaktır.
+(…)  DİĞER ÖDEME ŞEKİLLERİ
+……
+Değişik ödeme şekilleri belirlenirken, fiyatların cari kur üzerinden mi, yoksa başka bir ülkenin döviz kuru üzerinden mi hesaplanacağı, döviz kurundaki dalgalanmaların nasıl hesaba katılacağı ve hangi tarafın sorumluluğu altında olacağı açıkca belirtilmelidir.
+…..
+İskonto ve komisyon miktarları ve bunların kimin tarafından ödeneceği sözleşmede açıkca belirtilmelidir. Gerekirse, komisyon hesabının nasıl ve hangi oran üzerinden yapılacağı belirtilmelidir.
+6. DÖKÜMANLAR
+İhracatçı, ithalatçıya veya gerekli olduğu takdirde ithalatçının bankasına aşağıda belirtilen belgeleri eksiksiz olarak teslim etmek zorundadır (ilgili kutuları işaretleyiniz ve ilgili olduğu durumlarda gerekli evrak adedini belirtiniz):
+(…) Ticari Fatura …..
+(…) Gümrük Dökümanları …
+(…) Gerekli Nakliye Belgeleri (detaylı olarak belirtilecek) ….
+(…) Koli Listesi …
+(…) Sigorta Belgeleri …
+(…) Menşe Şahadetnamesi ….
+(…) Gözetim Raporu …..
+(…) Diğer Dökümanlar ….
+İhracatçı, taraflar başka bir şekilde anlaşmadıkları sürece, ithalatçıya söz konusu dökümanları duzenleyerek uygulamada olan Incoterm’e uygun olarak teslim edecektir.
+7. ZAMANINDA ÖDEME YAPILMASINDA BAŞARISIZLIK DURUMU
+İthalatçının belirlenen tarihte ödeme yapmada başarısız olması durumunda, ihracatçı, belirlenen son ödeme tarihi ile ödemenin tahsil edildiği tarih arasında geçen süre için faiz işletme hakkına sahiptir. Uygulanacak faiz oranı, taraflar başka bir şekilde anlaşmadıkları sürece, ödemenin yapıldığı ülkede sözleşmede belirtilen para birimine uygulanan ortalama kısa dönem banka faiz oranının % 2 üzerinde uygulanacak, eğer ödemenin yapılacağı  yerde böyle bir orana ulaşılamıyorsa veya taraflar spesifik bir faiz oranında anlaşmamışlar ise, söz konusu faiz oranı ödeme yapılacak para birimini resmi olarak kullanan ülkede uygulanan ortalama kısa dönem banka faiz oranlarına göre belirlenecektir. Taraflar arasında anlaşma sağlanan diğer faiz oranı:…’dır. İhracatçının bu sözleşmeyi, ödemenin, herhangi bir sebeple (14 gün içerisinde ( …taraflar burada belirtilecek farklı bir süre konusunda anlaşmadıkları sürece… ) ortaya çıkabilecek mücbir sebepler / force majeure’den kaynaklanan geçici engeller dışında)  son ödeme tarihinden sonra yapılamaması durumunda, ithalatçıyı yazılı olarak uyarmak suretiyle, iptal etme hakkı bulunmaktadır.
+8. ZAMANINDA TESLİM YAPILMASINDA BAŞARISIZLIK DURUMU
+İthalatçı, ihracatçının malları zamanında teslim edememesi durumunda, zararının telefisi için, anlaşılan teslim tarihinden veya anlaşılan teslim süresinin son gününden itibaren geçen her tam gün için, ihracatçıyı gecikmeyle ilgili olarak yazılı bir uyarı göndermek kaydı ile, malların toplam bedelinin % 0.5’i oranında bir değere hak kazanır.
+İthalatçının, ihracaçıyı teslim tarihinden veya teslim süresinin son gününden itibaren 7 gün içerisinde  yazılı olarak uyarması ile zarar hakkı teslim tarihinden veya anlaşılan teslim süresinin son gününden itibaren işleme geçer. Eğer İthalatçı, ihracatçıyı teslim tarihinden veya teslim süresinin son gününden itibaren 7 gün içerisinde  yazılı olarak uyarmaz ise, zarar hakkı uyarı tarihinden itibaren işleme geçer. Eğer taraflar yukarıda sözü edilen 7 günlük bildirim kuralını değiştirmek isterlerse bu süre bundan böyle … burada belirtilen süre….olacaktır. Gecikme cezaları toplam mal bedelinin % 20’sini veya ….burada belirtilen oranı…aşamayacaktır. İthalatçının, bu sözleşmeyi, teslimatın herhangi bir sebeple (14 gün içerisinde ( ….. taraflar burada belirtilecek farklı bir süre konusunda anlaşmadıkları sürece….) ortaya çıkabilecek mücbir mebepler / force majeure’den kaynaklanan geçici engeller dışında)  son teslim tarihinden sonra yapılamaması durumunda, ihracatçıyı yazılı olarak uyarmak suretiyle, iptal etme hakkı bulunmaktadır.
+9. MÜCBİR SEBEPLER (FORCE MAJEURE)
+Taraflardan birisi aşağıda belirtilen mücbir sebeplerden birine maruz kaldığı durumda, yükümlülüklerini yerine getirme sorumluğu kalkar.
+•Başarısızlık taraflardan birisinin kendi kontrolü dışındaki engellerden  ortaya çıkmış ise,
+•Bu sözleşme imzalanırken mantıki olarak hiç bir şekilde tahmin edilemiyecek bir olay vuku bulduğunda ve bu olayın taraflardan birisinin üzerinde iş yapamayacak etkisi olması halinde,
+•Böyle bir engelden kaçınmanın veya üstesinden gelmenin mantiki olarak bir yolu yoksa
+ve ilgili taraf bu durumu kanıtlarsa, söz konusu yükümlülükten dolayı sorumlu tutulmayacaktır:
+Taraflardan birisinin mücbir sebep durumuna maruz kalması durumunda, ilgili taraf bu durumun ve etkilerinin kendisine engel teşkil ettiği an, zaman geçirmeden ortaya çıkan engeller ve etkilerini ilgili belge ve kanıtlarla karşı tarafa yazılı bir uyarı ile iletmekle sorumludur. Mücbir sebep durumunun sona ermesi halinde ilgili taraf karşı tarafı yine bir yazılı uyarı ile bilgilendirecektir. Söz konusu bildirimlerin veya belgelerin karşı tarafa iletilmemesi durumunda, mücbir sebep durumuna maruz kaldığını iddia eden ilgili taraf normalde kaçılabilinecek zararlardan sorumlu tutulacaktır.
+Eğer mücbir sebep sonucu ortaya çıkan engel geçicilik arz ediyorsa,…taraflar burada belirtilecek farklı bir süre konusunda anlaşmadıkları sürece_... 30 gün içerisinde, ortadan kalkma ihtimali  var ise yükümlülük süresi söz konusu süre veya söz konusu süre içerisinde engel ortadan kalkana kadar (hangi durum önce olursa) uzatılacaktır.
+Eğer mücbir sebep durumunun söz konusu süre içerisinde ortadan kalkma ihtimali görünmüyor ise veya yükümlülüğün yerine getirilmesi bu şartlar altında kesinlikle imkansiz ise, taraflardan herhangi birisi bu sözleşmeyi, karşı tarafa son verme kararını belirten yazılı bir uyarı yapmak suretiyle, bitirebilir.
+10. TEMEL YETERSİZLİK DURUMU
+Taraflardan birisi, bu sözleşmeyi, karşı tarafın yükümlülüklerini yerine getirmede temel bir yetersizlik durumu olduğunu kanıtlaması halinde, karşı tarafa yazılı bir uyarı vermek suretiyle, iptal edebilir.
+Aşağıda temel yetersizliğe örnek teşkil eden durumlar sıralanmıştır;
+•İthalatçı, bu sözleşmenin 5. maddesinde belirtilen son tarihe kadar bir akredetif açtıramaz veya banka garantisi sağlama yükümlülüğünü yerine getiremez ise,
+•İthalatçı, bu sözleşmenin 7. maddesinde belirtilen ve ihracatçıya bitimi durumunda sözleşmeye son verme hakkı veren son tarihe kadar herhangi bir ödeme yapma yükümlülüğünü yerine getiremez ise,
+•İhracatçı, bu sözleşmenin 8. maddesinde belirtilen ve ithalatçıya bitimi durumunda sözleşmeye son verme hakkı veren son tarihe kadar anlaşılan miktar malı teslim etme yükümlülüğünü yerine getiremez ise,
+•Taraflardan birisinin iflas gibi sözleşme sorumluluklarını yerine getirme konusunda açık bir yetersizliğinin görülmesi durumunda,
+Sözleşme, taraflardan birisi tarafından, karşı tarafa yazılı bir uyarı vermek suretiyle, iptal edelebilir.
+Temel yetersizlik durumunda, zarara uğramış taraf sözleşmeyi bitirme ve kusurlu taraftan zararının karşılanmasını talep etme ve / veya malları satma veya satın alma hakkına kavuşur. Bu durumda kusurlu taraf, zarar gören tarafın zararının giderilmesi yönünde elinden geleni yapacaktır.
+Sözleşmenin iptal edilmesi sonucunda ortaya çıkabilecek zararlar ve / veya kayıplarla ilgili herhangi bir anlaşmazlık durumunda bu sözleşmenin anlaşmazlıkların çözümü maddesi (15. madde) uyarınca belirlenen hükümlere başvurulacaktır.
+11. GÖZETİM PROSEDÜRÜ
+İthalatçı, ithal ettiği veya edeceği malların kalitesinden tatmin olmaması durumunda, ihracatçıyı bu tatminsizliği konusunda malların tesliminden sonra, …taraflar burada belirtilecek farklı bir süre konusunda anlaşmadıkları sürece…, 7 gün içerisinde olmak kaydı ile,  mümkün olan en kısa zaman içerisinde, ihracatçıyı yazılı bir uyarı ile bilgilendirmek zorundadır. Bu durumda, ithalatçı zaman geçirmeden bir uzman ataması için …burada belirtilen kuruluşa …başvuracaktır. Eğer burada, taraflar arasında üzerinde anlaşılan bir kuruluş belirtilmemiş ise, ithalatçı ilgili bir bağımsız bir uzmanın atanması için zaman geçirmeden gerekenleri yapacaktır. Atanan uzman iddia edilen kalite uygunsuzluğu durumunu inceleyecek ve taraflara rapor edecektir. Bu amaçla ilgili uzman bütün malları veya örneklerini kontrol etme ve uygun göreceği test ve analizleri yapma yetkisine sahip olacaktır.
+Söz konusu uzman, sonuç gözetim raporunun, tarafların kayıtlı posta adresine gönderilmesini sağlayacaktır. Sonuç raporu, eğer taraflarlardan birisinin, raporun alınmasından itibaren, …taraflar burada belirtilecek farklı bir süre konusunda anlaşmadıkları sürece… 45 gün içerisinde, bu sözleşmenin anlaşmazlıkların çözümü maddesi (15. madde) uyarınca belirlenen hükümlere çerçevesinde bir başvurusu olmaması şartı ile, taraflar açısından nihai ve bağlayıcı olacaktır.
+Söz konusu uzmanın tüm ödemeleri ve harcamaları ithalatçı tarafından denetim prosedürü tamamlanıncaya kadar geçici olarak karşılanacaktır. Denetim sonrasında malların sözleşmede belirtilen satandartlara uygunsuzluğu kanıtlanırsa tüm harcamalar ihracatçı tarafından ithalatçıya geri ödenecektir.
+12. ZARAR AZALTMA
+İthalatçı, teslim edilen malların kalitesinden tatmin olmadığında, malların korunması ile mevcut şartlar altında makul olan ilgili tüm önlemleri almakla sorumludur. Malların sözleşmede belirtilen standartlara uygunsuzluğu kanıtlanırsa, tüm harcamalar ihracatçı tarafından ithalatçıya geri ödenecektir.
+Eğer ihraç edilen mallar çabuk bozunacak cinsten ise veya korunması / depolanması makul olmayan maliyetlere karşılık geliyorsa, ithalatçı ihracatçıya niyetini yazılı olarak belirttikten sonra, malları en uygun koşullarda satmak için gerekli önlemleri almakla yükümlüdür. Ancak, ithalatçı mallardan yeterli miktarda olanı ileride olası bir denetim işleminde kullanılmak üzere tutmak ve ihracatçıya (ve bu sözleşmenin 11. Maddesi hükümlerine uygun olarak atanan her hangi bir denetim uzmanına) bu mal örneklerini gerektiğinde temin etmek zorundadır.
+13. TARAFLAR ARASINDA İLETİŞİM
+Taraflar arasında bu sözleşme ile ilgili olarak yapılacak bütün iletişim faaliyetleri yazılı olacak ve yazışmalar … taraflar burada belirtilecek farklı bir iletişim şekli konusunda anlaşmadıkları sürece… normal posta, faks veya e-mail yolu ile ilgili taraflara gönderilecektir. E-mail olarak gönderilen bütün mesajlar “sadece okunabilir” veya daha sonra değiştirilmeye olanak vermeyecek bir formatta  olmalıdır. Faks veya e-mail ile yapılacak bütün iletişim göndericinin sorumluluğu altındadır.
+Bu sözleşmede geçen bütün tarihlerde takvim günleri esas alınmıştır.
+14. UYGULANACAK HUKUK KURALLARI
+Buraya kadar sözleşme hükümlerinde yer almayan bütün konular için, önem sırası azalır mahiyette olmak kaydı ile aşağıda belirtilen düzenlemelere başvurulacaktır;
+•Birleşmiş Milletler Uluslararası Malların Satış Sözleşmeleri Konvensiyonu
+•UNIDROIT Uluslararası Ticari Sözleşmeler Prensipleri
+•Yukarıda sözü edilen düzenlemeler tarafından kapsanmayan konular var ise, …burada belirtilecek…, düzenlemeler esas alınacaktır. Yukarıda herhangi bir düzenlemeye refereans verilmediği takdirde ise ihracatçının ülkesinde uygulamada olan kanunlar esas alınacaktır.
+15. ANLAŞMAZLIK HALİ
+Bu sözleşmede geçen hükümlerin yerine getirilmesinde ortaya çıkabilecek herhangi bir sorun durumunda, taraflar sorunun öncelikle kendi aralarında iyiniyet ve özveri ile yürütülecek müzakereler ile giderme yoluna başvuracaklardır. Eğer sorun malların belirtilen standartlara uyumu konusunda ise, taraflar herhangi bir işlem öncesi, bu sözleşmenin 11. maddesinde belirilen gözetim işlemlerini izleyeceklerdir. Taraflar, bu işlemler sonucu tatmin olmaz ise, aşağıda belirtilen anlaşmazlık hali çözümü prosedürü çerçevesinde hareket edeceklerdir.
+Taraflar başka bir şekilde anlaşmadıkları sürece, bu sözleşmeden veya bu sözleşme ile ilgili olarak ortaya çıkan bütün anlaşmazlik halleri ICC’nin tahkim yasası kuralları çerçevesinde atanacak bir hakem tarafından çözüme kavuşturulacaktır.
+Taraflar, anlaşmazlığa konu olan sorunun büyüklüğünün 100,000 ABD Dolarından az olması halinde, atanacak hakemin, sadece taraflar tarafından kendine sunulan evrakları baz alarak ve savunma hakkını gözeterek vereceği karara uyma konusunda anlaşma sağlamışlardır.
+Taraflar, anlaşmazlığa konu olan sorunun büyüklüğünün 1 Milyon ABD Dolarından fazla olması halinde, taraflar ICC Uluslararası Tahkim Mahkemesi’nin üç hakemden oluşturacağı bir tahkim mahkemesinin karararına uyma konusunda anlaşma sağlamışlardır
+EĞER VARSA, BU PROSEDÜRE İLİŞKİN KARAR VERİLMİŞ DEĞİŞİKLİKLER: ….
+DİĞER KARAR VERİLEN ANLAŞMAZLIK ÇÖZÜM PROSEDÜRÜ: ……
+16. TARİH VE İTHALATÇI VE İHRACATÇININ İMZALARI
+İHRACATÇI                                                     İTHALATÇI
+İSİM İMZA                                                     İSİM İMZA

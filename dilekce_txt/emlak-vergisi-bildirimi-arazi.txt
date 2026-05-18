@@ -1,0 +1,98 @@
+Emlak Vergisi Bildirimi (Arazi)[*]
+EMLAK VERGİSİ BİLDİRİMİ
+(ARAZİ)
+........................................................
+BELEDİYE BAŞKANLIĞINA
+Emlak Vergisi Sicil No:
+....................................
+........................................................
+İL-İLÇE-BELDE
+Vergi Kimlik Numarası:
+.....................................
+TABLO I-KİMLİK BİLDİRİMİ
+MÜKELLEFİN
+Soyadı                           :
+İKAMETGAH ADRESİ
+Mahalle/Semt :
+Adı (Kurum ise Unvanı):
+Cadde/Sokak:
+Baba Adı                       :
+Kapı No         :
+Daire No:
+Ana Adı                         :
+İl – İlçe          :
+Doğum Yeri/Tarihi         :
+Telefon          :
+Nüfusa K. Olduğu Yer   :
+İŞYERİ ADRESİ
+Mahalle/Semt:
+Uyruğu                          :
+Cadde/Sokak:
+Cilt No                           :
+Kapı No         :
+Daire No:
+Aile Sıra No                   :
+Cinsiyeti:
+Kadın
+İl – İlçe           :
+Sıra No                          :
+Erkek
+Telefon           :
+TABLO II-ARAZİ BİLDİRİMİ
+ARAZİYE AİT BİLGİLER
+1. ARAZİ
+2. ARAZİ
+3. ARAZİ
+ADRES BİLGİLERİ
+1
+Belediye sınırları veya mücavir alanlar içinde ise Belediyenin adı
+2
+Bulunduğu köy veya mahallenin adı
+3
+Bulunduğu semtin veya mevkiin adı
+TAPU BİLGİLERİ
+4
+Tapuda kayıtlı olduğu
+Pafta No          :
+Ada/Parsel No :
+Cilt/Sahife No  :
+VERGİLENDİRMEYE İLİŞKİN BİLGİLER
+5
+Arazinin (Parsel) yüzölçümü (m2)
+6
+Hisseli ise hisse nispeti
+7
+Hisseye isabet eden arazinin yüzölçümü (m2)
+8
+Arazinin cinsi (Kıraç, Taban, Sulak)
+9
+Arazinin iktisap tarihi
+10
+Kısıtlılık hali varsa başlangıç tarihi
+11
+Varsa muafiyetin başlangıç yılı ve uygulama süresi
+II NO’LU  ARAZİ BİLDİRİMİ TABLOSUNUN DOLDURULMASINA İLİŞKİN AÇIKLAMALAR
+1. Arazi hangi belediye sınırları içinde ise bu satıra o belediyenin adı yazılacaktır. Arazi, belediye sınırları içinde değilse bu satır bir çizgi ile iptal edilecektir.
+2. Arazinin bulunduğu köy ve mahallenin adı yazılacaktır.
+3. Arazinin bulunduğu semt veya mevkiin adı yazılacaktır.
+4. Bu satır, tapu belgesinde kayıtlı bilgilerden yararlanılmak suretiyle doldurulacaktır. Tapu kaydı yoksa “Tapusuzdur” notu yazılacaktır.
+5. Bu satıra, arazinin tamamının yüzölçümünün m2 olarak yazılması gerekir. Arazi hisseli ise hisseye düşen miktar değil, diğer hisse sahiplerinin hisseleri de dahil, tamamının yüzölçümü gösterilecektir. (Örneğin; 8 bin metrekarelik bir arazinin 1/4 hisseli 4 ortağı vardır. Her bir mükellef bu satıra, arazinin yüzölçümü olarak 2 bin metrekare değil 8 bin metrekare yazacaklardır.)
+6. Arazi üzerinde mükellefin hisse oranı ne ise o miktar bu satırda gösterilecektir. (1/2,1/4 ibaresi gibi),
+7. Arazinin 5 no.lu satırda yazılı yüzölçümünden, hisseye isabet eden kısmı gösterilecektir. (Örneğin; 20.000x1/4=5000 m2 gibi).  Arazi hisseli değilse bu satıra 5 no.lu satırdaki rakam aynen yazılacaktır.
+8. Kıraç, taban ve sulak ibarelerinden arazinin durumuna uygun olanı yazılır.
+Kıraç arazi: Bariz olarak civardan yüksekte bulunan, meyilli  ve sulanmayan arazidir. Yıllık yağış miktarı yeterli ve yağış dağılımı uygun olmayan düz ve düze yakın, nadas sistemi ile kültür bitkileri yetiştirilmesi mümkün olan ve sulanmayan arazi de kıraç sayılır.
+Taban arazi: Yağışların ve akarsuların toplandığı taban konumunda (pozisyonunda) genellikle düz ve düze yakın meyilde ve iyi, kifayetsiz ve fena drenaj şartlarındaki arazidir.
+Sulak arazi: Kıraç ve taban araziden sulananlara sulak arazi denir.
+9. İktisap tarihi:  Araziye sahip olunulan tarihtir. Sahip olma tarihi ay ve yıl, ay bilinmiyorsa sadece yıl olarak belirtilmelidir.
+10. Varsa belediyece uygulanan kısıtlılık halinin başlangıç tarihi, imar planına dahil ise planın tarih ve no.su yazılacaktır. Kısıtlılığın başlangıç tarihi arazinin tasarrufunun kısıtlandığı tarihtir.
+11. Bildirilen arazi:
+a) Daimi muafiyete tabi ise, “muafiyetin başlangıç yılı” ile “daimi” sözcüğü yazılacaktır. (Örneğin; 2002/daimi, gibi.)
+b) Bildirim sırasında geçici muafiyetten yararlanıyorsa muafiyetin başladığı yıl ve muafiyet süresi gösterilecektir. (Örneğin;  2002/5 yıl, gibi.)
+NOT:  1- Elbirliği (iştirak halinde) mülkiyette müşterek imzalı tek bildirim verildiğinde, mükelleflerin tamamını gösterir bir liste bildirime eklenecek ve mükelleflerin tamamı bildirimi imza edeceklerdir.
+2- Paylı (müşterek) mülkiyette her hissedarın kendi hissesini ayrı bildirim ile bildirmesi gerekir.
+3- Belediye ve mücavir alan sınırları dışında bulunan araziler için de bildirim verilmesi gerekir.
+4- Bir mükellefe ait arazi bildirimlerinin bildirimine bir bildirim yetmemesi halinde yeteri kadar bildirim doldurularak birbirine iliştirilir.
+Tarih
+Talep Eden
+Adı Soyadı, İmzası
+[*] Bu dilekçe https://www.kadikoy.bel.tr/Kurumsal/Dilekce-Ornekleri .adresinden alınmıştır. Erişim Tarihi: 26.07.2023

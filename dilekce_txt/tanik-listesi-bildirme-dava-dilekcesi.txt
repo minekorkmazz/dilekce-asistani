@@ -1,0 +1,24 @@
+Tanık Listesi Bildirme - Dava Dilekçesi
+……...  MAHKEMESİ SAYIN HAKİMLİĞİ’NE
+DAVACI                                                          : (Ad, Soyad, T.C.Kimlik No., Adres)
+VEKİLİ                                                  : Av. (Ad, Soyad, T.C.Kimlik No., Adres)
+DAVALI                                                : (Ad, Soyad, T.C.Kimlik No., Adres)
+VEKİLİ                                                 : Av. (Ad, Soyad, T.C.Kimlik No., Adres)
+KONU                                                  : Tanık listemizin arzıdır.
+T A N I K L A R I M I Z                                   :
+1-
+Adı Soyadı : ……………. …………………
+Adresi : ………………………………………..
+Ne Konuda Tanıklık Yapacağı : …………………………..
+2-
+Adı Soyadı : …………………………….
+Adresi : ……………………………………
+Ne Konuda Tanıklık Yapacağı : …………….
+3-
+Adı Soyadı : ………………………
+Adresi : ……………………………
+Ne Konuda Tanıklık Yapacağı :…………………..
+Saygılarımızla
+(Tarih)
+DAVACI VEKİLİ
+(İmza)

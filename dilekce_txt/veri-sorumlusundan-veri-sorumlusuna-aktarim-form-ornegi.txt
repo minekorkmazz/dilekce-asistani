@@ -1,0 +1,57 @@
+Veri Sorumlusundan Veri Sorumlusuna Aktarım Form Örneği
+Konu: 24/03/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanununun (bundan sonra “6698 sayılı Kanun” olarak anılacaktır) 9 uncu maddesinin ikinci fıkrasının (b) bendi kapsamında kişisel verilerin yurtdışına aktarılmasında veri sorumlularının yapacağı yazılı taahhüt.
+Kişisel verilerin Türkiye’de yerleşik veri sorumlusu tarafından yeterli veri koruması bulunmayan ülkelerde yerleşik veri sorumlusuna aktarımına ilişkin olarak, 6698 sayılı Kanunun 9 uncu maddesinin ikinci fıkrasının (b) bendine istinaden hazırlanacak sözleşmede aşağıdaki hususlara asgari olarak yer verilmesi zorunlu olup, bu sözleşme  hükümleri ile taraflar kişisel verilerin aktarımında kişisel verilerin korunması için gereken yeterli korumayı tesis edeceklerini taahhüt ederler.
+Madde 1- Veri Aktaran Veri Sorumlusunun Yükümlülükleri
+Veri aktaran veri sorumlusu (bundan sonra “veri aktaran” olarak anılacaktır), aşağıda belirtilen yükümlülükleri yerine getirdiğini ve getireceğini taahhüt eder:
+a) Kişisel veriler, 6698 sayılı Kanun ve ilgili diğer mevzuata uygun olarak işlenmiş ve aktarılmış olacaktır.
+b) Veri aktaran; kişisel verilerin hukuka aykırı olarak işlenmesini önlemek, kişisel verilere hukuka aykırı olarak erişilmesini önlemek ve kişisel verilerin muhafazasını sağlamak amacıyla kişisel verinin niteliğine göre uygun güvenlik düzeyini temin etmeye yönelik gerekli her türlü teknik ve idari tedbirleri almalı ve veri alıcısı olan veri sorumlusu (bundan sonra “veri alıcısı” olarak anılacaktır) tarafından da bu tedbirlerin alındığından emin olmalıdır.
+c) Veri aktaran, veri alıcısına; aktarılan kişisel verilerin 6698 sayılı Kanun ile bu sözleşme hükümlerine uygun olarak işleneceğini bildirir.
+d) Veri aktaran, veri alıcısına, tabi olduğu 6698 sayılı Kanun ve ilgili diğer veri koruma düzenlemeleri hakkında bilgi verir.
+e) Veri aktaran; veri alıcısına, aktarılan kişisel verilerin kanuni olmayan yollarla başkaları tarafından elde edilmesi hâlinde, bu durumu en kısa sürede kendisine bildirmek zorunda olduğu hakkında bilgi verir. Veri aktaran bu durumu en kısa sürede ilgilisine ve Kişisel Verileri Koruma Kuruluna (bundan sonra “Kurul” olarak anılacaktır) bildirir. Kurul, gerekmesi hâlinde bu durumu, kendi internet sitesinde ya da uygun göreceği başka bir yöntemle ilan edebilir.
+f) Veri aktaran, veri alıcısından aldığı bildirimleri, ilgili mevzuat hükümleri çerçevesinde Kurula iletir.
+g) Veri aktaran, bu sözleşmede yer alan hükümlerin veri alıcısı tarafından yerine getirilmesi ile ilgili ortaya çıkan sorunlar hakkında en kısa sürede Kurula derhal bilgi verir.
+h) Veri aktaran; veri alıcısının, ilgili kişilerden ve Kuruldan gelen sorulara cevap vereceği konusunda anlaşmaya varılmış olmasına rağmen cevap vermesinin mümkün olmaması halinde, elinde bulunan tüm bilgi ve belgeler ışığında makul bir süre içerisinde ilgili kişi veya Kurula cevap verir.
+i) Veri aktaran; veri alıcısının bu sözleşmede belirtilen yükümlülüklerini ihlâl etmesi halinde, söz konusu ihlâl düzeltilene dek veri aktarımını askıya alabilir ya da sözleşmeyi feshedebilir.
+j) Veri aktaran, veri aktarımının askıya alınması ya da sözleşmenin feshedilmesi halinde bu durumu en kısa sürede Kurula bildirir.
+k) Veri aktaran; veri alıcısının, bu maddelerden doğan yükümlülüklerini yerine getirebilecek idari ve teknik yeterliliğe sahip olduğunu taahhüt eder.
+l) Veri aktaran, 6698 sayılı Kanun gereğince veri aktarımına başlamadan önce,  bu taahhütnameyi Kurula onaylatır.
+Madde 2- Veri Alıcısının Yükümlülükleri
+Veri alıcısı, aşağıda belirtilen yükümlülükleri yerine getirdiğini ve getireceğini taahhüt eder:
+a) Veri alıcısı; kişisel verilerin hukuka aykırı olarak işlenmesini önlemek, kişisel verilere hukuka aykırı olarak erişilmesini önlemek ve kişisel verilerin muhafazasını sağlamak amacıyla kişisel verinin niteliğine göre uygun güvenlik düzeyini temin etmeye yönelik gerekli her türlü teknik ve idari tedbiri alır.
+b) Veri alıcısı, kişisel verilerin kendi adına başka bir gerçek veya tüzel kişi tarafından işlenmesi hâlinde, (a) bendinde belirtilen tedbirlerin alınması hususunda bu kişilerle birlikte müştereken sorumludur. Veri işleyenler de dâhil olmak üzere veri alıcısının yetkisi altında faaliyet gösteren kişiler, kişisel verileri ancak ve sadece veri alıcısından aldıkları talimatlara uygun olarak işlemekle yükümlüdür.
+c) Veri alıcısı; kişisel verileri 6698 sayılı Kanuna ve veri aktaranla arasındaki sözleşmeye uygun olarak işler, herhangi bir sebeple Kanuna ve sözleşmeye uygunluk sağlanamazsa, veri aktaranı konu ile ilgili derhal bilgilendirir. Bu durumda veri aktaranın veri aktarımını askıya alma ve sözleşmeyi feshetme hakkına sahip olacağını kabul eder.
+d) Veri alıcısı, sözleşmeye istinaden aktarılacak kişisel verilere ilişkin olarak, sözleşmeye aykırı herhangi bir ulusal düzenleme olmadığını kabul, beyan ve taahhüt eder. Sözleşme süresince veri alıcısının, sözleşmede yer alan taahhütlerini yerine getirmesini etkilemesi muhtemel bir mevzuat değişikliği yapılması hallerinde, durumu veri aktarana derhal bildirir ve bu durumda veri aktaranın veri aktarımını askıya alma ve sözleşmeyi feshetme hakkına sahip olacağını kabul eder.
+e) Veri alıcısı; aktarılan kişisel verilere ilişkin olarak adli bir makamdan gelen talepleri, derhal veri aktarana bildirir. Bu durumda veri aktaranın talebin niteliğine göre sözleşmeyi askıya alma veya feshetme hakkına sahip olacağını kabul eder.
+f) Veri alıcısı, sözleşme kapsamında veri aktarandan gelen soruları mümkün olan en kısa sürede usulüne uygun olarak cevaplandırır ve aktarıma konu kişisel verilerin işlenmesi hususunda Kurulun karar ve görüşlerine uyar.
+g) Veri alıcısı, veri aktaranın, taahhüt ve yükümlülüklerin yerine getirilip getirilmediğine yönelik denetim yapma ve yaptırma yetkisine sahip olduğunu kabul eder ve bu yönde gerekli kolaylığı sağlar.
+h) Veri alıcısı; bu sözleşmenin feshedilmesi veya yürürlük süresinin sona ermesi halinde, veri aktaranın tercihine bağlı olarak, aktarıma konu kişisel verileri yedekleri ile birlikte veri aktarana geri göndereceğini ya da kişisel verileri tamamen yok edeceğini, mevzuatta veri alıcısının bu yükümlülüğü yerine getirmesini engelleyen hükümler varsa, aktarıma konu kişisel verilerin gizliliğini güvence altına almak için gerekli idari ve teknik tedbirleri alacağını ve veri işleme faaliyetini durduracağını kabul eder.
+i) Veri alıcısı, bu maddelerden doğan yükümlülüklerini yerine getirebilecek idari ve teknik yeterliliğe sahip olduğunu kabul eder.
+j) Veri alıcısı sözleşme konusu hizmeti ifa ederken, sözleşmeye konu kişisel verileri, bir alt işverene aktarması gereken hallerde, veri aktaranı ispat edilebilir şekilde bilgilendirmeli ve onayını almalıdır. Veri alıcısının alt işveren ile yapacağı sözleşmenin, asgari olarak veri aktaran ile veri alıcısı arasındaki sözleşme ve bu taahhütnamedeki hükümleri içermesi şarttır.
+Madde 3- Ortak Hükümler
+Veri aktaran ve veri alıcısı, işledikleri kişisel verileri, 6698 sayılı Kanun hükümlerine aykırı olarak başkasına açıklayamaz ve işleme amacı dışında kullanamazlar.
+Veri aktaran ve veri alıcısı için bu yükümlülük herhangi bir süre ile sınırlı değildir.
+Veri aktaran adına:                                                                         Veri alıcısı adına:
+Ad Soyad:                                                                                        Ad Soyad:
+Açık Adres:                                                                                     Açık Adres:
+İrtibat Numarası:                                                                             İrtibat Numarası:
+E-posta:                                                                                           E-posta:
+İmza/Kaşe                                                                                        İmza/Kaşe
+(Varsa sözleşmenin bağlayıcı olması için belirtilmesi gereken diğer bilgiler.)
+EK 1
+(Taraflarca doldurulacaktır)
+Veri konusu kişi grubu ve grupları
+Aktarılan kişisel veriler, aşağıda belirtilen kişi grubu ve grupları (örneğin; çalışan verisi, müşteri verisi gibi) ile ilgilidir:……………
+Veri kategorileri
+Aktarılan kişisel veriler, aşağıda belirtilen veri kategorileri (kişisel veri veya özel nitelikli kişisel veri) ile ilgilidir:…………
+Veri aktarımının amaçları
+Veri aktarımı, aşağıda belirtilen amaçlarla yapılmaktadır:…………………
+Veri aktarımının hukuki sebebi :………………… …..
+Alıcı ve alıcı grupları
+Aktarılan kişisel veriler, sadece aşağıda belirtilen alıcılarla paylaşılabilir. :…………………
+Veri alıcısı tarafından alınacak teknik ve idari tedbirler:…………
+Özel Nitelikli Kişisel veriler için alınan ek önlemler :………………………
+Veri aktaranın Veri Sorumluları Sicil Bilgi Sistemi (VERBİS) Bilgileri
+(Kayıt yükümlülüğünün bulunması halinde) :…………………
+Ek faydalı bilgiler
+Saklama süreleri ve ilgili diğer bilgiler:……
+İrtibat kişisi iletişim bilgileri: ………………

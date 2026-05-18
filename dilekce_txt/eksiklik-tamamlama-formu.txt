@@ -1,0 +1,56 @@
+Eksiklik Tamamlama Formu[1]
+Referans No:
+Toplam  Sayfa Sayısı
+(Başvuru Sahibi Tarafından
+Doldurulacak)
+Toplam  Sayfa Sayısı
+(Kurum Tarafından
+Doldurulacak)
+Bu Alanı Boş Bırakınız
+(Eksiklik Belge Talebi ile ilgili ise « TÜRKPATENT-M-115 » kodlu Tescil Belgesi Düzenleme Talep Formukullanınız.)
+(1)  EKSİKLİK TAMAMLANACAK  MARKA BAŞVURUSUNUN
+Başvuru/Tescil No.
+Marka Adı
+Eksiklik Bildirim Tarihi
+Eksiklik Çeşidi
+Başvuru:       İtiraz:        Tescil Sonrası İşlem:    Diğer:
+TÜRKPATENT Müşteri No (*)
+T.C.Kimlik No
+Başvuru Sahibi
+Vergi No
+(2)  VEKİL
+Var:
+Yok:
+Vekil Sicil No (**)
+Adı Soyadı
+Firma Ünvanı
+Adres
+Semt
+İlçe
+İl
+Posta Kodu
+Telefon No.
+Faks No.
+Vekaletname
+Ektedir :
+(3)  EKLER:
+Ücret dekont aslı
+Sayfa/Adet
+Tescil belgesi
+Sayfa/Adet
+Vekaletname
+Sayfa/Adet
+Ticaret sicil gazetesi
+Sayfa/Adet
+İmza sirküleri
+Sayfa/Adet
+Devir sözleşmesi
+Sayfa/Adet
+Diğer
+Sayfa/Adet
+Lisans sözleşmesi
+Sayfa/Adet
+Adı Soyadı/Unvanı
+Tarih
+İmza
+[1] Bu form, 30.07.2019 https://www.turkpatent.gov.tr/TURKPATENT/forms/informationDetail?id=100adresinden alınmıştır.

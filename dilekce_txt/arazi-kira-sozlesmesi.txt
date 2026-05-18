@@ -1,0 +1,82 @@
+Arazi Kira Sözleşmesi
+Kiralanacak arazinin/yerin nitelikleri;
+İli           :                                                                                 Cinsi    :
+İlçesi      :                                                                     Kullanma şekli:
+Köyü/Mah:                                                                  Üzerindeki yapı:
+Mevkii   :                                                                                  ve Tesis           :
+Sulanıp/sulanmadığı     :
+Tapu Kaydı;
+Kadastro görmüş ise;
+Pafta     :
+Ada       :
+Parsel    :
+Yüzölçümü :
+Kadastro görmemiş ise;
+Tapu tarihi         :
+Tapu numarası :
+Sınırları Doğusu:
+Batısı:
+Kuzeyi:
+Güneyi
+Kiracının;
+Adı-Soyadı:
+Yasal Yerleşim Yeri:
+Toprak sahibinin;
+Adı Soyadı:
+Yasal yerleşim Yeri:
+Kira süresi        :
+Sürenin başlama tarihi: …../…./…..
+Yıllık kira bedeli           : ….-TL
+Toplam kira bedeli       : ….-TL
+ŞARTLAR;
+Madde 1- Kira süresi;
+Süre arazinin toprak sahibi tarafından kiracıya teslim edildiği veya teslime hazır bulundurulduğu tarihte başlar.
+Madde 2- Kira bedeli;
+Kiracı, ilk yılın kira bedelinin .........-TL’sini sözleşmenin yapılması sırasında peşin, geri kalan miktarını yetiştirilen ana ürünün satışı ile ödemeyi taahhüt eder.
+Takip eden yılların kira bedelleri, ait olduğu yıl yetiştirilen ana ürünün satışı ile defaten ödenir.
+Kiracı, zamanında ödenmeyen kira bedelinin, toprak sahibinin fesih hakkı saklı kalması kaydı ile, ödeme zamanına kadar % .... oranında temerrüt faizi ödemeyi taahhüt eder.
+Madde 3- Yasal Yerleşim Yeri;
+Kiracı ve toprak sahibi belirttikleri adreslerinin yasal yerleşim yeri sayılmasını ve her türlü tebligatın bu adreslere yapılmasını kabul ederler.
+Madde 4- Uyuşmazlıkların çözülmesi;
+Taraflar imzaladıkları kira sözleşmesinden doğan uyuşmazlıkların çözümlenmesinde, arazinin bulunduğu yer mahkemelerinin yetkili olduğunu kabul eder.
+Madde 5- Kiracının yükümlülükleri;
+Kiracı Toprak Koruma ve Arazi Kullanımı Kanununa uygun hareket etme, kiraladığı araziyi bizzat işleme, kira bedelini zamanında ödeme ve arazide ve üzerindeki tesislerde toprak sahibinin yazılı izni olmaksızın hiçbir değişiklik yapmamakla yükümlüdür.
+Kiracı, kiraladığı araziyi hiçbir suret ile tamamen veya kısmen başkasına kiralayamayacağı gibi, ortağa da veremez.
+Madde 6-Toprak sahibinin yükümlülükleri;
+Toprak sahibi, kiracının toprak üzerindeki tarımsal üretimle ilgili çalışmalarını önleyici, zorlaştırıcı veya sözleşme süresince kiracıyı sözleşmeyi feshe zorlayıcı fiillerde bulunmaz.
+Madde 7- Verginin toprak sahibine ödenmesi;
+Toprak ile kiraya verilen tesislerle ilgili bina ve arazi vergilerini toprak sahibi öder.
+Madde 8- Mal sahibi ve kiracının denetlenmesi ve sonuçları;
+Mal sahibi ve kiracı, kanun yönetmelik ve bu sözleşme hükümlerine uygun hareket edip etmediğini, Toprak ve Tarım Reformu Bölge Başkanlığınca her istenildiği zaman ....... Bakanlığı’nca denetlenmesini kabul eder. Toprak sahibi ve kiracı, kendisine yapılan yazılı uyarıya rağmen, hata ve aksaklıkların düzeltmez ise veya bunların düzeltilmesi olanağı bulunamaz ise Müsteşarlık sözleşmeyi feshedebilir.
+Madde 9- Toprak sahibinin süre bitiminden önce fesih hakkı;
+Toprak sahibi,
+a) Kira bedelinin ödenmesinde, ölüm, uzun süreli hastalık, askerlik, tutukluluk, hükümlülük hali veya su baskını, yer kayması, dolu vurması, periyodik kıtlık, yetkililerce belgelendirilmiş benzeri afetler gibi nedenler dışında bir gecikme olmuş ise ve toprak sahibi tarafından verilen otuz günlük ek süre içinde bedel ödenmemiş ise veya yukarıda belirtilen nedenlerle de olsa devamlı ödeme imkansızlığı ortaya çıkmış ise,
+b) Kiracı, toprağın verimli şekilde işletilmesini tehlikeye sokmuş ise veya kiracının savsaması yüzünden topraktan faydalanmak imkanı önemli derecede azalmış ise,
+c) Kiracı, toprak sahibinin olumlu görüşünü almaksızın arazinin tamamını veya bir bölümünü başkasına kiraya veya ortağa vermiş ise yahut bu sözleşmenin 5. maddesinde belirtilen diğer yükümlülüklerini yerine getirmemiş ise,
+d) Kiracı, arazinin Devlet tarafından sulanır hale getirilmesi için yapılacak çalışmaları engeller ise, sözleşmeyi ilk hasat mevsimi sonunda uygulamak üzere süre bitiminden önce fesih hakkına sahiptir.
+Madde 10- Kiracının süre bitiminden önce fesih hakkı;
+Kiracı, uzun süreli hastalık, askerlik, hükümlülük hali veya başkaca mücbir sebep veya doğal afetler gibi zorunlu nedenlerin varlığı halinde, köy ihtiyar kurulundan tasdikli bir dilekçe ile bildirilmesi şartı ile sözleşmeyi, bildirme tarihinden itibaren … ay sonra olmak üzere süre bitiminden önce feshedebilir.
+Madde 11- Sözleşmenin süre bitiminden önce diğer sona erme halleri;
+Sözleşme;
+a) Sözleşme süresi içinde kiracının ölümü üzerine, işletmede kendisi ile birlikte çalışan eşinin veya reşit çocuklarının veya yasal mirasçılarının üç ay içinde sözleşmenin devamını talep etmemiş olmaları halinde,
+b) Kiralanan arazini kamulaştırılmasına karar verilmesi halinde,
+c) Sözleşme süresi içinde toprağın el değiştirmesi veya sahibinin ölümü halinde, toprağın yeni sahibi, toprağı kendi işletmek istiyor ise keyfiyeti alım tarihinden itibaren … ay içinde kiracıya bildirdiği takdirde, süresinden önce kendiliğinden sona erer.
+Madde 12- Arazinin tahliyesi;
+Kiracı, sözleşme hangi sebeple son bulursa bulsun, araziyi o yılın ilk hasat mevsimi sonunda ve bir mahkeme hükmüne ihtiyaç kalmaksızın derhal tahliye etmeyi taahhüt eder.
+Sözleşme sona erdiği halde, arazinin tahliye edilmemesi durumunda kiracı, geçen her gün için ..........-TL’yi cezai şart olarak ödemeyi, bundan başka bir zarar ziyan meydana gelmiş ise onu da tazmin etmeyi kabul eder.
+Madde 13- Özel şartlar;
+1-
+2-
+3-
+4-
+5-
+6-
+7-
+8
+9-
+10-
+Taraflar Toprak ve Tarım Reformu Müsteşarlığınca hazırlanan bu sözleşme hükümlerine uygun hareket etmeyi, ayrıca Kanuna ve Tip Kira Sözleşmesine aykırı olmamak kaydıyla koydukları özel şartlara uymayı taahhüt ederler.
+Sözleşmede, miktarı, niteliği kira bedeli, belirtilen araziyi kiralamakla kiracı, kiraya vermekle toprak sahibi, sözleşmede kendine düşen hak, ödev ve sorumlulukları kabul eder.
+TOPRAK SAHİBİ                                                                  KİRACI
+İmza, mühür                                                                       İmza, mühür
+.../.../.....                                                                             ...../..../.......

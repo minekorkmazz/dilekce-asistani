@@ -1,0 +1,74 @@
+Gizlilik ve İfşa Etmeme Sözleşmesi[1]
+Firma Paraf:
+TARAFLAR
+Kurum : İstanbul Teknik Üniversitesi
+Bilgi İşlem Daire Başkanlığı
+Yetkili :
+Adres :
+İTÜ Ayazağa Yerleşkesi
+Bilgi İşlem Daire Başkanlığı
+Sarıyer / İSTANBUL
+Tedarikçi / İlgili Firma:
+Yetkili personel :
+Adres :
+İşbu Gizlilik Sözleşmesi (“Sözleşme”), yukarıda bilgileri verilen Kurum ve Tedarikçi/İlgili Firma (“Firma”) arasında ……/ .…./ ……… tarihinde yürürlüğe girmek kaydıyla akdedilmiştir.
+Kurum, Kişisel Verilerin Korunması Kanunu gözetilerek yapacağı çalışmaları için alacağı danışmanlık hizmetleri kapsamında, Firma ile kuruma özel bilgilerini yazılı ve sözlü olarak paylaşacaktır.
+İşbu Sözleşme, Kurum’un Firma ile arasındaki bilgi alışverişi esnasında gizli tutulması gereken bilgileri tanımlamak ve bu bilgilerin korunmasına yönelik olarak Kurum’un hak ve Firma’nın yükümlülüklerini tesis etmek amacıyla akdedilmektedir.
+1. Gizli Bilgi’nin Tanımı:
+Sözleşme’ye konu olan ve taraflar arasında tesis edilen gizlilik ilkesi kapsamında; Firma doğrudan veya dolaylı, yazılı veya sözlü, görsel, manyetik veya herhangi başka bir ortamda bulunan ve Kurumun kendisi, işçileri, acentaları ya da çalışanlarınca Firmanın işçileri, acentaları ya da çalışanlarına açıklanan “Gizli Bilgi” olarak tanımlanacak bilgiler;
+a) her türlü Kurum’a özel bilgi, fikir, buluş, iş, metod,
+b) patent, know-how, telif hakkı, marka, ticari sır
+c) yasal korumaya konu olan ya da olmayan her türlü yenilik
+d) Firma ile Kurum arasındaki kurmaya niyetlendikleri ve/veya kurulan danışmanlık hizmetleri
+kapsamında Firma’nın öğreneceği yazılı veya sözlü tüm ticari, mali, teknik bilgiler, hukuki yazılı veya sözlü bilgiler, abonelik ve konuşma bilgileri, maliyet ve gider bilgileri; vergi planları ve tavsiyeleri; mevzuata ilişkin bilgiler; fiyatlandırma bilgileri
+e) ilerlemeye yönelik sair projeler,
+f) kendisinin yazdığı, bulduğu, geliştirdiği, yapmayı veya uygulamaya döktüğü veri tabanı,
+bilgisayar programları ve bunların dokümanları, şifreleme teknikleri, prosesler, reklam, ambalajlama ve pazarlama planları, ürün planları, teknik planlar, mühendislik verileri, personel bilgileri, şartnameler, teklifler, veriler, grafikler, formüller, süreçler, dizaynlar, planlar, örnekler, raporlar, finansal bilgiler, müşteri bilgileri, tanımlar, bilgisayar programları, tasarımlar, analizler, şifreler, teknikler, kavramlar, sistemler, deneysel çalışmalar gizli bilgi olarak kabul edilir.
+h) Bunlarla sınırlı olmama koşulu ile Kurum’un personeli, temsilcisi veya mali ve hukuk danışmanı tarafından hazırlanan ve sözkonusu bilgileri içeren, yansıtan veya onlardan sağlanan tüm belgeler ve diğer bilgiler de dahildir.
+Yukarıda Gizli Bilgi olarak tanımlanan konuların koruma mükellefiyeti ifşa eden tarafın kendisi, işçileri, acentaları ya da çalışanlarınca diğer tarafın işçileri, acentaları ya da çalışanlarına açıklanan bilgileri de kapsar.
+2. Gizli Bilgi’nin Korunması
+Firma işbu Sözleşme çerçevesinde Kurumdan herhangi bir şekilde temin edecekleri Gizli Bilgi’leri;
+• devamlı olarak gizli tutacağını, saklayacağını, koruyacağını,
+• doğrudan ya da dolaylı olarak aralarındaki ilişkinin amaçları dışında kullanmayacaklarını,
+• Kurumun yazılı rızası olmaksızın üçüncü şahıslara açıklamayacaklarını ve
+vermeyeceklerini,
+gayrikabili rücu olarak peşinen beyan ve taahhüt etmektedir.
+Kurum Gizli Bilgi’yi elektronik ortamda paylaşmama, gerektiğinde gösterme fakat bir kopyasını vermeme hakkına sahiptir.
+Firma -Kişiye özel olarak verilen gizli bilgiler hariç- ancak zorunlu hallerde ve işi gereği bu bilgiyi öğrenmesi gereken işçilerine ve alt çalışanlarına bu bilgiyi verebilecekleri gibi, bilginin gizliliği hususunda da işçilerini ve alt çalışanlarını uyarırlar. Firma işçilerinin ve alt çalışanlarının işbu Sözleşme yükümlülüklerine aykırı davranmaları halinde doğrudan sorumlu olacağını peşinen kabul ve taahhüt eder.
+3. Gizli Bilgi Tanımına Girmeyen Bilgiler
+a) Kurumdan birinin kusuru söz konusu olmaksızın kamuya malolmuş bilgiler,
+b) Yürürlükte olan kanun ya da düzenlemeler ya da verilmiş olan bir mahkeme kararı, idari emir gereğince açıklanması gereken bilgiler.
+Firma, Kurum’un Gizli Bilgi’lerinin ve bu bilgilerdeki haklarının yine Kurum mülkiyetinde olduğunu ve bu bilgilerin ifşa edilmesinin ifşa eden tarafa herhangi bir hak vermeyeceğini kabul eder. Kurum, Gizli Bilgisi’nin tamlığı, doğruluğu, kesinliği hakkında bir garanti veremez.
+4. Önlemler
+Kurum, Firma’nın Kurum Gizli Bilgi’si hakkında yetkisiz bir ifşanın varlığına yol açtığından haberdar olursa Firmayı derhal ve yazılı olarak bu yetkisiz ifşa hakkında bilgilendirir ve bu sebeple maruz kalacağı zararları azaltmak için elinden gelen tüm gayreti gösterir. Kurum, gerek kendiliğinden, gerekse Firmanın bildirimi üzerine bu ifşanın varlığını öğrenmesinden itibaren ve masrafları Firma’ya ait olmak kaydıyla kanunlarda belirtilen tüm yollara başvurabileceği gibi, maruz kaldığı her türlü zarar ve ziyanın tazminini de talep edebilir.
+Firma Kurumun maruz kaldığı dolaylı zarar ve ziyanlar dışında doğrudan zarar ve ziyanı karşılamayı peşinen kabul ve taahhüt eder.
+Firma her durumda bu sözleşmeye aykırı davranışlar için en az ………………………………………………………………… para cezası ödemeyi ve Kurum tarafından hesaplanacak olan diğer zararın tazminini de ayrıca ödemeyi taahhüt eder.
+5. Gizli Bilgi’nin İadesi
+Tüm Gizli Bilgiler taraflar arasındaki ilişkinin ya da Sözleşme’nin sona ermesi halinde ve Kurumun yazılı ihtarı üzerine derhal bu bilgiler Kuruma iade edilir.
+İade edilen her türlü bilginin, kopyalandığı, çoğaltıldığının tespiti durumunda 4. Maddede belirtilen cezai müeyyide uygulanır.
+6. Yükümlülük Olmaması
+İşbu Sözleşme ya da İşbu Sözleşme tarihinden sonra yürütülen herhangi bir görüşme ya da müzakere tarafları, bu amaçla iki taraf arasında kesin bir sözleşme tanzim ve imza edilene kadar iş düzenlemeleriyle ilgili herhangi bir işlemi hitam ettirmeye icbar etmez. İşbu Sözleşmede yer alan hiçbir hüküm tarafların kendine ait Gizli Bilgileri herhangi bir amaçla üçüncü taraflara İfşa etme hakkını sınırlamayı amaçlamaz ve bu şekilde tefsir edilemez.
+7. Lisans Verilmemesi
+İşbu Sözleşme ya da Gizli Bilgilerin İfşa edilmesi sonucu halen mevcut ya da gelecekte elde edilecek herhangi bir patent, telif hakkı ya da diğer fikri mülkiyet hakkı çerçevesinde bir lisans verilmiş ya da verilmesi kabul edilmiş sayılmaz ve bu şekilde bir tefsirde bulunulamaz.
+8. İfşaya İzin Verilmesi
+Firma, kanunda açıkça belirtilen haller dışında Gizli Bilgi’yi herhangi bir şekilde ya da herhangi bir yolla dağıtamaz, basın yayın organları ve medya kuruluşları vasıtasıyla açıklayamaz, reklâm amacıyla kullanamaz ve ifşa edemez. Ayrıca görsel ya da yazılı medya aracılığıyla referans olarak gösteremez ya da reklâm aracı olarak kullanamaz.
+Yukarıda ifade edilen sır saklama yükümlülüklerinin tek istisnası 3. madde ile tespit edilen haller ile Kurumun yazılı izni ile sözkonusu bilgilerin açıklanmasıdır.
+9.Değişiklik
+İşbu Sözleşme taraflar arasındaki mutabakatın tamamını temsil eder ve sadece her iki tarafça imzalanmış yazılı bir sözleşme ile değiştirilebilir veya tadil edilebilir.
+10. Devir ve Süre
+Tarafların gizlilik yükümlülükleri, aralarındaki iş ilişkisinin devamı müddetince ve bu ilişkinin herhangi bir nedenle sona ermesini takiben 100 (yüz) yıl süre ile yürürlükte kalmaya devam edecektir. Bu Sözleşme ya da buradaki herhangi bir hak tamamen ya da kısmen devir konusu olamaz.
+11. Uygulanacak Hukuk ve Yetkili Mahkeme
+Bu Sözleşme’nin yorumunda ve işbu Sözleşme sebebiyle ortaya çıkacak olan tüm uyuşmazlıklarda İstanbul mahkemeleri ve icra daireleri yetkili olup, Türk hukuku uygulanır. Davalarda, Kurum defter ve kayıtlarının yegâne delil teşkil edeceği, muhatabın Kurum aleyhine yemin teklif edemeyeceği esası geçerlidir. İşbu Sözleşmenin herhangi bir hükmünün mevcut ya da gelecekteki kanunlar muvacehesinde kanuna aykırı, geçersiz ya da uygulanamaz olması halinde, bu hüküm ya da hükümler tamamen tefrik edilebilecek ve İşbu Sözleşme söz konusu kanuna aykırı, geçersiz ya da uygulanamaz hüküm ya da hükümler İşbu Anlaşmaya hiç dahil edilmemişçesine tefsir ve icra edilecek ve Sözleşmenin geri kalan hükümleri tamamen geçerli ve yürürlükte kalacak ve bu kanuna aykırı, geçersiz ya da uygulanamaz hüküm ya da hükümler veya onların tefrik edilmesinden etkilenmeyecektir.
+12. Kopyalar
+İşbu Sözleşme bir ya da daha fazla sayıda nüsha halinde akdedilebilir ve bu nüshalardan her biri asıl olarak kabul edilir, ancak hepsi birlikte aynı sözleşmeyi teşkil eder. İşbu Sözleşmeyi imzalatan her kişi ve taraf İşbu Sözleşmeyi kendisi ve eğer varsa, aşağıda imza kısmında atıfta bulunulan diğer kuruluş namına imzalamak için tam yetki ve salahiyeti haiz olduğunu beyan ve taahhüt eder. Taraflar İşbu Sözleşmede yazılı olan yükümlülüklerin burada yazılı olan ölçüde tarafların bağlayıcı taahhütleri olduğunu kabul ederler. Ancak, bu taahhütler tarafları herhangi bir işbirliği faaliyetini sürdürmeye icbar etmez.
+13. Geçerlilik
+İşbu Sözleşme maddelerinden herhangi biri geçersiz sayılır ya da iptal edilir veya uygulanmazsa, bu hal Sözleşme’nin diğer maddelerinin geçerliğine etki etmez.
+14. İhtarlar
+Taraflar, aralarında Sözleşme gereğince yapılacak olan tüm bildirimlerin yazılı olması gerektiğini, ayrıca, aksi yazılı olarak bildirilmedikçe yukarıda yazılı adreslerinin kanuni tebligat adresleri olduğunu beyan ile bu adreslere yapılacak yazılı bildirimlerin kanunen geçerli tebligatın bütün hukuki sonuçlarını doğuracağını kabul etmişlerdir.
+15. İşbu Gizlilik Sözleşmesi’nin akdedilmiş olması, Tarafları, yapılması düşünülen İş dâhilherhangi bir sözleşmenin akdedilmesi için kabul ve taahhüt altına sokmaz.
+16. Damga Vergisi
+İş bu sözleşmeden doğan her türlü vergi, resim, harç ve sair mali yükümlülüklerTedarikçi/İlgili Firma tarafından ödenecek olup ödeme makbuzlarının bir nüshası Kurum’ayasal süresi içerisinde ibraz edilecektir.
+İşbu Sözleşme […../…../ ……..] tarihinde, İstanbul’da …… orijinal nüsha halinde hazırlanmışolup, taraflar ve halefleri için bağlayıcıdır.
+İstanbul Teknik Üniversitesi                                      İLGİLİ FİRMA/TEDARİKÇİ
+Bilgi İşlem Daire Başkanlığı
+[1] Bu dilekçe 02.10.2023 tarihinde https://bidb.itu.edu.tr/ sitesinden alınmıştır.

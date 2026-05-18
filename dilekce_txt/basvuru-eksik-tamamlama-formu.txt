@@ -1,0 +1,75 @@
+Başvuru Eksik Tamamlama Formu[1]
+M123  BAŞVURU  EKSİKLİK TAMAMLAMA  FORMU
+Referans No:
+Toplam  Sayfa Sayısı
+(Başvuru Sahibi Tarafından
+Doldurulacak)
+Toplam  Sayfa Sayısı
+(Kurum Tarafından
+Doldurulacak)
+Bu Alanı Boş Bırakınız
+(1)  EKSİKLIK TAMAMLANACAK  MARKA BAŞVURUSUNUN
+Başvuru Numarası
+Marka Örneğinde Yer alan İbare
+TÜRKPATENT Müşteri No (*)
+T.C.Kimlik No
+Başvuru Sahibi
+Vergi No
+(Eksiklikler Belge Talebi ile ilgili ise TÜRKPATENT-M-115 kodlu Belge Talep Formunu kullanınız.)
+(2)  NOKSAN ÇEŞİDİ:
+Marka Örneği
+Sayfa/Adet
+Vekaletname
+Sayfa/Adet
+Başvuru Ücreti
+Sayfa/Adet
+Markanın Latin Alfabesindeki Karşılığı
+Sayfa/Adet
+Ek sınıf Ücreti
+Sayfa/Adet
+Elektronik Ortamda Doldurulmayan Başvuru Formu
+Sayfa/Adet
+Eksik Başvuru Ücreti
+Sayfa/Adet
+Mal/Hizmet Listesi Açıklaması
+Sayfa/Adet
+Mal Hizmet Listesi
+Sayfa/Adet
+Rüçhan Belgesi
+Sayfa/Adet
+İmzalı Form
+Sayfa/Adet
+Rüçhan Ücreti
+Sayfa/Adet
+Başvuru Sahibi Bilgileri (Adı / Soyadı/ Ünvanı/ Adres/  Uyruk/ T.C. Kimlik No. / Vergi No. )
+Teknik Şartname
+Sayfa/Adet
+Ses Kaydı
+Sayfa/Adet
+Renk Kodu
+Sayfa/Adet
+Görüntü/Görüntü Dizisi
+Sayfa/Adet
+3 Boyutlu Gösterim
+Sayfa/Adet
+Diğer
+Sayfa/Adet
+(3)  VEKİL
+Var:
+Yok:
+Vekil Sicil No (**)
+Adı Soyadı
+Firma Ünvanı
+Adres
+Semt
+İlçe
+İl
+Posta Kodu
+Telefon No.
+Faks No.
+Vekaletname(***)
+Ektedir :
+Adı Soyadı/Unvanı
+Tarih
+İmza
+[1] Bu form, 07.08.2019 https://www.turkpatent.gov.tr/TURKPATENT/forms/informationDetail?id=100adresinden alınmıştır.

@@ -1,0 +1,48 @@
+Hukuk Uyuşmazlıklarında Dava Şartı Arabuluculuk Anlaşmama Son Tutanağı [1]
+Arabuluculuk Bürosu                                                :
+Büro Dosya Numarası                                   :
+Arabuluculuk Dosya Numarası                     :
+Arabulucunun                                                            :
+Adı ve Soyadı                                                :
+T.C. Kimlik Numarası                                    :
+Arabulucu Sicil Numarası                             :
+Adresi                                                            :
+Taraf  (Gerçek Kişi ise)                                             :
+Adı ve Soyadı                                               :
+T.C. Kimlik Numarası                                   :
+Adresi                                                            :
+Telefon                                                          :
+E-posta                                                         :
+Taraf (Tüzel Kişi ise)                                                 :
+Unvan                                                          :
+Vergi Kimlik Numarası                                 :
+Adres                                                             :
+Telefon                                                          :
+E-posta                                                          :
+Arabuluculuk Konusu Uyuşmazlık                          :
+(Uyuşmazlık konuları kalem kalem ve net bir şekilde belirtilmelidir.)
+Arabuluculuk Bürosuna Başvuru Tarihi                :
+Arabulucunun Görevlendirildiği Tarih                   :
+Tutanağın Düzenlendiği Tarih                                 :
+Tutanağın Düzenlendiği Yer                                    :
+Arabuluculuk Sonucu                                              :
+Adı geçen taraflar …............................... Arabuluculuk Bürosuna / Merkezine geldiler.
+Taraflara arabuluculuğun temel ilkeleri, arabuluculuk süreci ve arabuluculuk süreci sonunda hazırlanan arabuluculuk son tutanağının hukuki ve mali yönlerden bütün sonuçları hakkında bilgi verildi.
+Taraflar söz alarak arabuluculuğun temel ilkelerini, arabuluculuk sürecini ve arabuluculuk süreci sonunda hazırlanan arabuluculuk son tutanağının hukuki ve mali yönlerden bütün sonuçlarını anladık dediler.
+Alternatif 1
+…. tarihinde yapılan dava şartı arabuluculuk ilk oturumuna Taraf  ……… geçerli mazeret ileri sürmeksizin katılmamıştır.
+Taraf …….’in ilk toplantıya katılmaması ve müzakere yapılamaması sebebiyle arabuluculuk süreci sona ermiş olup taraflar anlaşamamıştır.
+Alternatif  2
+Taraflar müzakereler sonucunda …… tarafın/tarafların …… şeklindeki teklifine/tekliflerine ve arabulucunun ……. şeklindeki son çözüm önerisine rağmen …… ve …… hususlarında anlaşmaya varamamışlardır.
+Alternatif 1 (İş Hukuku Uyuşmazlıkları)
+İşbu arabuluculuk son tutanağı iki sayfa ve dört nüsha olarak 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu m. 17 ve 7036 sayılı İş Mahkemeleri Kanunu m. 3 uyarınca hep birlikte imza altına alındı.
+Alternatif 2 (Ticaret Hukuku Uyuşmazlıkları)
+İşbu arabuluculuk son tutanağı iki sayfa ve dört nüsha olarak 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu m. 17, m. 18/A ve 6102 sayılı Türk Ticaret Kanunu m. 5/A uyarınca hep birlikte imza altına alındı.
+Alternatif 3 (Tüketici Hukuku Uyuşmazlıkları)
+İşbu arabuluculuk son tutanağı iki sayfa ve dört nüsha olarak 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu m. 17, m. 18/A ve 6502 sayılı Tüketicinin Korunması Hakkındaki Kanunun m. 73/A uyarınca hep birlikte imza altına alındı.
+İmzalar
+Taraf                   :
+Taraf                   :
+Adına YetkiliTemsilci/Avukat
+Arabulucu          :
+[1] Bu sözleşme 20.12.2023 tarihinde adb.adalet.gov.tr sitesinden alınmıştır.

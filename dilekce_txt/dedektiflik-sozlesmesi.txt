@@ -1,0 +1,27 @@
+Dedektiflik Sözleşmesi
+MÜŞTERİ:
+Adı Soyadı
+T.C. No.
+Adres
+Telefon
+ARAŞTIRILANIN:
+Adı Soyadı Unvanı
+TC.No.
+Adres
+Telefon
+Yapılacak iş
+Müracaat tarihi ../../..
+Başlama tarihi ../../..
+Bitiş tarihi ../../..
+Hizmet süresi (gün) …
+Hizmet bedeli …TL
+Peşin alınan ücret … TL
+Yukarıda; müşteri, araştırılacak iş veya kişi, yapılacak iş, başlama ve bitiş tarihi, süresi, bedeli ve ödeme şekli belirtilerek, ….. hizmetleri ile, ……… Arasında ../../.. tarihinde düzenlenen bu sözleşme gereğince;
+1-Müşterinin talep ettiği hizmet, genel ahlaka ve kamu güvenliğine, Anayasa, Türk Ceza Kanunu, Ceza Muhakemesi Kanunu ile yürürlükte olan diğer kanunlara aykırı olmayacaktır. Aykırılığın tespiti halinde yapılan takip ve araştırmaya son verilecektir.
+2-…. dedektiflik, araştırmanın her aşamasında gördüğü lüzum üzerine sözleşmeyi tek taraflı iptal etme yetkisine sahip olup, Türk Ceza Kanunun 278 - 284 maddelerin sorumluluğu çerçevesinde hizmet verecektir.
+3-Araştırılacak kişi veya kişilerin özel hayatına girilmeyeceği, suçun oluşabileceği her hangi bir çalışmada bulunmayacağımızı müşteri şimdiden kabul etmiştir.
+4-Talep edilen hizmet, yasaların ve çalışma kurallarımızın el verdiği ölçüde yerine getirilerek elde edilen bilgiler ile yapılan çalışmalar hakkında ayrıntılı dosya hazırlanarak müşteriye verilecektir.
+5-Müşteri çalışmalarımız neticesinde elde ettiği bilgi ve belgeleri açıklayamaz, başkaları aleyhine tehdit veya şantaj aracı olarak kullanamaz. Aksi halde tüm cezai ve maddi-manevi sorumluluk kendisine aittir.
+6-Hizmet bedeli karşılıklı görüşmede belirlenerek kabul edilmiştir.
+Hizmet Sağlayıcısı                                             Müşteri
+Adı, Soyadı, İmzası                                  Adı, Soyadı, İmzası

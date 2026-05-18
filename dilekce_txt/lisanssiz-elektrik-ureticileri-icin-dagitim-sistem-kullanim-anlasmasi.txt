@@ -1,0 +1,87 @@
+Lisanssız Elektrik Üreticileri İçin Dağıtım Sistem Kullanım Anlaşması[*]
+Kullanıcı No:...........................
+Tarih: .../.../......
+Sayısı:
+Bu Anlaşma; isim veya unvanı ile kanuni ikametgah adresi aşağıda belirtilen üreticiye ait üretim tesisinin, 4628 sayılı Elektrik Piyasası Kanunu (Kanun) ve 5346 sayılı Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun (YEK Kanunu) ile bu kanunlar uyarınca çıkarılmış ikincil mevzuat uyarınca dağıtım sistemini kullanması için gerekli hüküm ve şartları içermektedir.
+Bu anlaşma, genel hükümleri içeren birinci bölümü ve özel hükümleri ve ekleri içeren ikinci bölümü ile birlikte ayrılmaz bir bütündür.
+Taraflar             Dağıtım Şirketi                       Kullanıcı:
+Kanuni Adresleri
+Temsile Yetkili Kişiler
+İmzalar
+BİRİNCİ BÖLÜM
+MADDE 1 - TARAFLAR
+Bu anlaşma dağıtım şirketi ile Elektrik Piyasasında Lisanssız Elektrik Üretimine İlişkin Yönetmelik (Yönetmelik) kapsamında elektrik üretim tesisi kuran gerçek veya tüzel kişiler arasında imzalanır. Bu anlaşmanın tarafları …. Dağıtım A.Ş. ile ….. (kullanıcı)dır.
+MADDE 2 - KULLANICIYA ÖZGÜ ŞARTLAR:
+Bu anlaşma Elektrik Piyasasında Lisanssız Elektrik Üretimine İlişkin Yönetmelik kapsamında üretim tesisi kuran kişilerin dağıtım sistemini kullanmasına ilişkin hükümleri içerir.
+Dağıtım sisteminin kullanılmasına ilişkin bilgiler Ek-1’de belirtildiği şekildedir.
+MADDE 3 – ANLAŞMANIN YORUMLANMASI
+Bu Anlaşma öncelikle Yönetmelik ve Elektrik Piyasasında Lisanssız Elektrik Üretimine İlişkin Yönetmeliğin Uygulanmasına Dair Tebliğ’e (Tebliğ) uygun olarak yorumlanır ve uygulanır. Yönetmelik ve Tebliğ’de hüküm bulunmaması halinde Kanun ve YEK Kanununa göre çıkarılmış ikincil mevzuata (ilgili mevzuat) uygun yorum ve uygulama yoluna gidilir.
+MADDE 4 - KARŞILIKLI YÜKÜMLÜLÜKLER:
+A- Mali Yükümlülükler:
+1. Dağıtım Sistemi Kullanım Fiyatı Üzerinden Hesaplanan Bedellerin Ödenmesi:
+(1) a) Üretim ve tüketim tesislerinin aynı yerde olması halinde sisteme verdiği ve sistemden çektiği net enerji miktarları için ayrı ayrı,
+b) Üretim ve tüketim tesislerinin aynı yerde olmaması halinde sisteme verdiği ve sistemden çektiği enerji miktarları için ayrı ayrı,
+dağıtım sistemi kullanım bedeli öder.
+Sistem kullanım fiyatı bağlantı anlaşmasında belirlenen bağlantı anlaşma gücü esas alınarak hesaplanır.
+Dağıtım şirketi, birinci fıkra uyarınca hesaplanacak dağıtım sistem kullanım bedeli ile her türlü vergi ve yükümlülükler de ilave edilmiş ayrıntılı ödeme bildirimini takip eden ay içinde kullanıcıya gönderir.
+Kullanıcı, ödeme bildiriminin kendisine tebliğ edildiği günü izleyen 15 (onbeş) gün içerisinde bildirimde yer alan tutarı, dağıtım şirketine öder. Ödemede gecikilen süre için 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesinde öngörülen gecikme zammı uygulanır.
+Maddi hatalar dışında; ödeme bildirimi içeriğine yapılacak herhangi bir itiraz, ödemeyi durdurmaz. Dağıtım Şirketinin hatası nedeniyle fazla ödenmiş olan tutara, Dağıtım Şirketi tarafından ödeme bildiriminin tebliğ edildiği günden sonraki 8 (sekiz) gün içerisinde itiraz edilebilir. 10 (on) iş günü içerisinde itiraz sonuçlandırılır. İtirazın kısmen veya tamamen haklı bulunması halinde fazla ödenen tutar, ödeme süresinin bitiminden başlamak üzere 6183 sayılı Amme Alacakların Tahsil Usulü Hakkında Kanunun 51 inci maddesine göre hesaplanan gecikme zammı da dahil olmak üzere 3 (üç) iş günü içerisinde kullanıcıya iade edilir. İtirazlar hakkında Yönetmelik hükümleri uygulanır.
+Kullanıcının, dağıtım şirketine karşı bu anlaşmadan kaynaklanan ödeme yükümlülüklerini son ödeme tarihine kadar yerine getirmemesi durumunda dağıtım şirketi tarafından kullanıcıya uyarı bildiriminde bulunulur. Kullanıcı, dağıtım şirketi tarafından yapılan uyarı bildirimine rağmen, ödeme yükümlülüğünü bildirimin yapıldığı tarihi izleyen 8 (sekiz) gün içerisinde yerine getirmezse, kullanıcıdan bu anlaşma kapsamında alınan teminatı kullanıcının borçlarına mahsup edilir. Teminatın kullanıcının borçlarına mahsuben kullanılması durumunda; kullanıcı 30 (otuz) gün içerisinde ek teminat vermek sureti ile teminatını önceki miktara tamamlar. Kullanıcının teminatını zamanında ve yeter miktarda tamamlaması halinde dağıtım şirketi, en az 5 (beş) gün önceden kullanıcıya bildirimde bulunmak suretiyle sisteme enerji vermesini engelleyebilir.
+Dağıtım sistemine bağlantı yapılmasının dağıtım şirketi tarafından ilave yatırım gerektirdiği hallerde veya sistem kullanımı açısından kapasitenin yetersiz olması nedeniyle genişleme yatırımı veya yeni yatırım yapılmasının gerekli olduğu hallerde yatırım dağıtım şirketince yapılır. Ancak yeterli finansmanın mevcut olmaması halinde üretim tesisi tüketim tesisi ile aynı yerde olan kullanıcılar, bu nitelikteki yatırımlar için AG/YG’den Bağlantı Yapan Tüketiciler İçin geçerli Dağıtım Sistemine Bağlantı Anlaşmasında öngörülen hükümlere göre işlem yapabilirler. Ancak üretim tesisi tüketim tesisi ile aynı yerde olmayan üreticiler yeterli finansmanın mevcut olmaması halinde dağıtım şirketi ile akdedecekleri özel hukuka tabi bir sözleşme kapsamında bu yatırımı yapabilir. Bu sözleşme kapsamında yapılan genişleme ve/veya yeni yatırımın gerçekleşen bedelinin veya ne kadarının geri ödeneceği, geri ödemenin esas ve usulleri ile bu anlaşmanın ve yapılacak özel hukuka tabi anlaşmanın feshedilmesi halinde tarafların hak ve yükümlülükleri taraflar arasında akdedilecek anlaşma ile belirlenir.
+2.Diğer Masraflar:
+(1) Bu anlaşmadan doğan vergi, resim, harç gibi yükümlülükler ile mevzuattan kaynaklanan diğer masraflar kullanıcı tarafından karşılanır.
+3.Tazminat:
+(1) Kullanıcı ve varsa işletme sorumlusu bu anlaşma ve ilgili mevzuata aykırı kusurlu davranışları sonucunda dağıtım şirketinin uğradığı zararları tazminden müşterek ve müteselsilen sorumludur. Kullanıcının Dağıtım Şirketinin zararını tazmin etmemesi halinde Dağıtım Şirketi en az beş gün önceden bildirimde bulunmak suretiyle kullanıcının sisteme enerji vermesini engelleyebilir. Dağıtım şirketi de kusurlu davranışından kaynaklanan üreticinin zararını ödemekle yükümlüdür.
+B- Veri Sağlama:
+Kullanıcı, dağıtım sistemi kullanım fiyatının hesaplanması veya ilgili mevzuat gereği talep edilen her türlü bilgi ve belgeyi dağıtım şirketine Yönetmelik ve Tebliğde, hüküm bulunmaması halinde ilgili mevzuatta öngörülen sürede verir.
+İŞLETME KOŞULLARININ DIŞINA ÇIKILMASI
+MADDE 5 - (1) Bu anlaşma kapsamında dağıtım sistemini kullanan üretim tesisi ile bağlantı ekipmanı, şebeke kaybı olması veya kısa devre arızası oluşması durumlarında sistemde adalanmaya sebep olmaksızın dağıtım sisteminden ayrılır.
+(2) Dağıtım şirketi, sisteme bağlı bir üretim tesisini, test ve kontrol, şebekede tadilat, bakım-onarım veya genişletme işleri gerektiği durumlarda ya da can ve mal emniyetinin sağlanması, kaza, sistem arızası, sistem güvenliği ya da işletme koşulları bakımından aciliyet arz eden durumlarda ya da mücbir sebep hallerinde ya da bunlara benzer zaruri hallerde şebekeden ayırabilir. Bu durumlarda kullanıcı tarafından müspet ve menfi zararların tazmini de dâhil olmak üzere mali hak talebinde bulunulamaz.
+MADDE 6 - MÜCBİR SEBEP HALLERİ:
+Taraflar bu anlaşmadan kaynaklanan bir yükümlülüğünü mücbir sebeplerden dolayı yerine getirememeleri halinde; mücbir sebebe yol açan koşulları, mahiyetini ve tahmini süresini açıklayan mücbir sebep bildirim raporunu, mücbir sebebin süresi boyunca yükümlülüklerini yerine getirememe durumunu ortadan kaldırmak için aldığı önlemleri ve güncel bilgileri içeren bir raporu veya süregiden olaylarda periyodik raporları diğer tarafa gönderir. Dağıtım şirketinin raporu ya da raporları resmi internet sitesinde derhal yayımlaması yeterlidir. Ancak raporun bir suretinin istenmesi halinde kullanıcıya derhal gönderilir/ibraz edilir.
+MADDE 7 - DEVİR, TEMLİK VE REHİN:
+Üretici, bu anlaşma kapsamındaki haklarını veya yükümlülüklerini başkalarına devir, temlik ve rehne konu edemez.
+MADDE 8 - HİZMET ALIMI:
+Dağıtım şirketi ile kullanıcı, önceden birbirlerinin yazılı onayını almaksızın, bu anlaşma kapsamındaki yükümlülüklerini hizmet alımı yoluyla başkalarına gördürebilir. Hizmet alımı yoluna gidilmesi, bu anlaşma kapsamındaki yükümlülüklerin devri anlamına gelmez. Hizmet alımında bulunan kullanıcı, bu durumu uygulamanın başlamasından en az üç iş günü öncesinden dağıtım şirketine yazılı olarak bildirir.
+MADDE 9 - GİZLİLİK:
+Taraflar, ilgili mevzuatın uygulanması sonucu veya piyasa faaliyetleri yahut bu anlaşmanın uygulanması sonucunda sahip oldukları ticari önemi haiz bilgilerin gizli tutulması için gerekli tedbirleri almak ve kendi iştirakleri ve/veya hissedarları olan tüzel kişiler dahil üçüncü şahıslara açıklamamak ve ilgili mevzuat ile öngörülen hususlar dışında kullanmamakla yükümlüdür. Taraflar, yeni başlamış veya yürüyen projeleri kapsamında danışmana yahut bağımsız denetim kuruluşuna, işlem denetçisine veya sigorta şirketine sunulan veya kamuya mal olmuş bilgiler ile yürürlükte olan kanun ve düzenlemeler ya da verilmiş olan bir mahkeme kararı, idari emir gereğince açıklanması gereken bilgilerin gizli bilgi tanımına girmediğini kabul ederler.
+MADDE 10 - FERAGAT:
+(1) Kullanıcı yazılı olarak haklarından feragat etmediği sürece; ilgili mevzuat ve bu anlaşma kapsamındaki hakların kullanılmasındaki gecikme, bu haklarını kısmen veya tamamen ortadan kaldırmaz ve bu haklardan feragat edildiği anlamına gelmez. Bir hakkın kısmen kullanılması, bu hakkın veya başka bir hakkın ileride kullanımını engellemez.
+MADDE 11 - EK PROTOKOLLER/EK SÖZLEŞMELER:
+Taraflar, karşılıklı mutabakat sağlamaları halinde aralarında mevzuat çerçevesinde bu anlaşmaya ek olarak ilave ve/veya değişiklik protokolleri/sözleşmeleri yapabilir.
+Bu anlaşmanın birinci bölümünde yer alan genel hükümler, Enerji Piyasası Düzenleme Kurul kararı ile değiştirilebilir.
+MADDE 12 - SONA ERME:
+(1) Bu anlaşma;
+Kullanıcının üretim izninin Yönetmelik ve Tebliğ kapsamında iptal edilmesi veya sona ermesi hallerinde,
+Dağıtım Şirketi ile üretim yapan kullanıcı arasında imzalanan Bağlantı Anlaşmasının sona ermesi halinde,
+Kullanıcının iflasına karar verilmesi, tasfiye memuru atanması, hukuken tasfiyesini gerektiren bir durum ortaya çıkması veya acze düşmesi hallerinde,
+Üretim tesisinin kullanıcının uhdesinden çıkması halinde,
+kendiliğinden sona erer.
+(2) Kullanıcının, bu anlaşmaya konu dağıtım sistemi kullanımını sona erdirmek üzere dağıtım şirketine yazılı olarak başvurması halinde, tarafların mutabık kalacakları tarihte bu anlaşma sona ermiş kabul edilir. Bu durumda kullanıcı, dağıtım sistemi kullanımını sona erdirme talebini en az 2 (iki) ay önceden dağıtım şirketine yazılı olarak bildirir.
+(3) Bu anlaşmanın sona ermesi, doğmuş ve/veya doğacak mali yükümlülükleri ortadan kaldırmaz.
+(4) Kullanıcının, bu anlaşma kapsamında vermiş olduğu teminatların, 90 (doksan) günlük geçmişe dönük düzeltme kaleminden kaynaklanacak borçlarını karşılayacak kadar kısmı süreç sonuçlanıncaya kadar serbest bırakılmaz.
+MADDE 13 - FESİH:
+Taraflar, bu anlaşmada öngörülen yükümlülüklerin yerine getirilmemesi durumunda karşı tarafa fesih bildiriminde bulunabilirler. Bu durumda anlaşma, fesih bildirim tarihini izleyen 15 (onbeş) gün sonra feshedilmiş kabul edilir.
+Bu anlaşmanın feshedilmesi, tarafların fesih bildirimine kadar doğmuş ve/veya anlaşmanın feshedilmiş kabul edileceği tarihe kadar doğacak mali hak ve yükümlülüklerini ortadan kaldırmaz.
+MADDE 14 - KISMİ HÜKÜMSÜZLÜKTE ANLAŞMANIN GEÇERLİLİĞİ:
+Bu anlaşmanın herhangi bir hükmünün, batıl, hükümsüz, geçersiz, uygulanamaz veya mevzuata aykırı olduğu tespit edilirse; bu durum anlaşmanın geri kalan hükümlerinin geçerliğini kısmen veya tamamen ortadan kaldırmaz. Yapılan tespit sonucunda anlaşmanın yürütülmesine engel bir halin ortaya çıktığının anlaşılması durumunda, anlaşma Borçlar Kanunu çerçevesinde geçersiz kabul edilir.
+MADDE 15 - ANLAŞMAZLIKLARIN ÇÖZÜMÜ:
+Dağıtım Şirketi ile kullanıcının bu anlaşmanın hükümleri üzerinde mutabakata varamamaları halinde, taraflar, anlaşmazlığın çözümü konusunda Kuruma yazılı olarak başvuruda bulunabilir. Anlaşmazlıklar Kurum tarafından çözüme kavuşturulur.
+MADDE 16 - BİLDİRİMLER:
+Bu anlaşma uyarınca yapılacak bildirimler, taahhütlü mektup veya telgraf kullanılarak karşı tarafın ikamet adresine yapılır. Faturaya kayıt düşülerek yapılacak bildirimler de geçerlidir.
+Dağıtım şirketinin adres değişikliği, resmi internet sayfasına yayımlanarak bildirilir.
+MADDE 17 - MEVZUATA UYUM:
+Bu anlaşmanın yürürlük tarihinden sonraki mevzuat değişiklikleri taraflar için bağlayıcıdır.
+MADDE 18 - TEMİNAT ALINMASI:
+Kullanıcı, bu Anlaşma kapsamındaki sistem kullanımına ilişkin her türlü ödeme yükümlülüğü ile sistem işletim bedelinin teminat altına alınabilmesini teminen dağıtım şirketine teminat olarak nakit veya kati ve süresiz banka teminat mektubunu Anlaşmanın imza tarihinden itibaren 5 (beş) işgünü içinde verir. Teminat miktarının kullanıcının dağıtım şirketine olan borç ve yükümlülüklerini karşılaması esastır. Teminat miktarı, Kullanıcının anlaşma tarihindeki 2 (iki) aylık sistem kullanım bedeli toplamından az olamaz. Bu anlaşma kapsamında kullanıcıdan alınan teminatlar EK-2’de belirtilmiştir. Bir takvim yılı içerisinde dağıtım sistemi kullanım fiyatında herhangi bir sebeple artış olması halinde kullanıcı tarafından verilen teminatlar dağıtım şirketi tarafından yapılan bildirimi izleyen 15 (onbeş) gün içerisinde tamamlanır veya yenilenir.
+Teminatların belirlenen süre içerisinde yenilenmemesi veya tamamlanmaması durumunda; dağıtım şirketi işbu anlaşmayı feshedebilir. Feshe ilişkin 13 üncü madde hükümleri uygulanır.
+Anlaşmanın sona ermesi halinde kullanıcının doğmuş ve/veya doğacak mali yükümlülüklerini aşan teminat miktarı herhangi bir talep aranmaksızın kullanıcıya iade edilir.
+MADDE 19 - YÜRÜRLÜĞE GİRME:
+Bu anlaşma, kullanıcının teminatları verdiği tarihte yürürlüğe girer.
+Ekler:
+Dağıtım Sisteminin Kullanılmasına İlişkin Bilgiler,
+Teminatlar,
+Dağıtım Sisteminin Kullanılmasına İlişkin Tüketici Listesi.
+DAĞITIM ŞİRKETİ YETKİLİSİ                      KULLANICI
+Adı, Soyadı ve İmza                                Adı, Soyadı ve İmza
+[*] Bu sözleşme epdk.gov.tr adresinden alınmıştır. Erişim Tarihi: 04.04.2023

@@ -1,0 +1,58 @@
+Yayıma İtiraza Ek Bilgi Belge Sunma Formu[1]
+M127  YAYIMA İTİRAZA EK BİLGİ BELGE SUNMA FORMU
+Referans No:
+Toplam  Sayfa Sayısı
+(Başvuru Sahibi Tarafından
+Doldurulacak)
+Toplam  Sayfa Sayısı
+(Kurum Tarafından
+Doldurulacak)
+Bu Alanı Boş Bırakınız
+(1)  İTİRAZ EDİLEN MARKA BİLGİLERİ
+Başvuru Numarası
+Marka Adı
+Bülten Tarihi ve Numarası
+-
+(2) İTİRAZ  SAHİBİ
+TÜRKPATENT Müşteri No (*)
+Adı Soyadı/Unvanı
+Adres
+Semt
+İlçe
+İl / Ülke
+Posta Kodu
+Telefon No
+Faks No
+Uyruğu
+E-Posta Adresi
+Kayıtlı Olduğu Ülke
+T.C.Kimlik No
+Vergi Dairesi
+Vergi No
+(3) EK BİLGİ/BELGE SUNULAN YAYIMA İTİRAZA İLİŞKİN BİLGİLER
+İtiraz Dokümanına Kurumca Verilen Evrak Numarası
+201_ - GE - ______
+İtiraz Dokümanının Kuruma Sunulduğu Tarih
+__ / __ / ____
+(4) VEKİL
+Yok
+Var (Önceden Atanan)
+Var (Yeni Atanan)
+Vekil Sicil No (**)
+Adı Soyadı
+Firma Ünvanı
+Adres
+Semt
+İlçe
+İl
+Posta Kodu
+Telefon No
+Faks No
+Vekaletname (***)
+Ektedir
+(5) EK BİLGİ / BELGE - AÇIKLAMA
+İtiraza ilişkin diğer delil, belge ve bilgiler ekte sunulmuştur.
+Adı Soyadı/Unvanı
+Tarih
+İmza
+[1] Bu form, 09.09.2019 https://www.turkpatent.gov.tr/TURKPATENT/forms/informationDetail?id=100adresinden alınmıştır.

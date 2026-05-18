@@ -1,0 +1,13 @@
+Direnme Kararı Verilmesi İstemi- Dava Dilekçesi
+….. MAHKEMESİ SAYIN HAKİMLİĞİ’NE
+DAVACI                                   : (Ad, Soyad, TC, Adres)
+VEKİLİ                          : (Ad, Soyad, TC, Adres)
+DAVALI                        : (Ad, Soyad, TC, Adres)
+KONU                          : Direnme Kararı Verilmesi İstemimizden İbarettir.
+AÇIKLAMALAR          :
+1. Mahkemenizde görülen ve …/…/… tarihinde karara bağlanan …/… E. …/…K. sayılı dosya …/…/… tarihinde davalı tarafça temyiz edilerek Yargıtaya gitmiş olup söz konusu dosya Yargıtay tarafından karara bağlanmıştır.
+2. Anılan Yargıtay kararı tarafımıza …/…/… tarihinde tebliğ edilmiştir. Ancak Yargıtay tarafından verilen bozma kararı usul ve yasaya aykırı olmakla söz konusu karara mahkemenizce uyulmamasına ve mahkemenizce …/…/… tarihinde verilen kararda direnilmesini mahkemenizden talep etme zorunluluğu hasıl olmuştur.
+SONUÇ VE İSTEM          : Yargıtayca verilen…/…/… T. …/… E. …/… K. sayılı karara uyulmamasını ve mahkemenizce verilen …/…/… T. …/… E. …/… K. sayılı kararda direnilmesini mahkemenizden talep etme zorunluluğu doğmuştur.
+(Tarih)
+DAVACI
+(Ad, Soyad, İmza)

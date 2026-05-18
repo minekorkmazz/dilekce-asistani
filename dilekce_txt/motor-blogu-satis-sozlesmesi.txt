@@ -1,0 +1,21 @@
+Motor Bloğu Satış Sözleşmesi
+Satıcının ;
+Adı:
+Soyadı:
+TC Kimlik Numarası:
+Adresi:
+Satın Alanın;
+Adı:
+Soyadı:
+TC Kimlik Numarası:
+Adresi:
+Motor Bloğunun Bedeli:
+Motor Bloğunun Özellikleri:
+Sahibi bulunduğum, yukarıda cins ve özellikleri yazılı ...... plaka numaralı, ...... model, ...... marka aracımdan indirmiş olduğum, şu anda boşta bulunan ...... seri numaralı, benzinli/dizel motor bloğunu ...... TL bedel karşılığında ...... satarak satın alana teslim ettiğimi ve bedelini nakten, tamamen aldığımı satın alandan herhangi bir hak ve alacağımın kalmadığını, alıcının işbu motor bloğunu kendi adına kayıt ve tescil ettirmekte serbest olduğunu kabul ve beyan ederim.
+Satıcı
+Adı-Soyadı
+İmza
+Satın alan olarak, yukarıda cins ve özellikleri yazılı bulunan motor bloğunu satın alarak bedelini nakden ve tamamen ödediğimi, satıcıya herhangi bir borcumun kalmadığını ve işbu motor bloğunu kendi adıma kayıt ve tescil ettireceğimi kabul ve beyan ederim.
+Alıcı
+Adı-Soyadı
+İmza

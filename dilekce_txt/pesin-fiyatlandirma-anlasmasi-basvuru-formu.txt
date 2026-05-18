@@ -1,0 +1,30 @@
+Peşin Fiyatlandırma Anlaşması Başvuru Formu[1]
+…. GELİR İDARESİ BAŞKANLIĞI’NA
+Başvuruda Bulunan Mükellefin
+Unvanı
+Vergi Dairesi/
+Vergi Kimlik Numarası
+Adresi
+Telefon Numarası
+Anlaşma Sürecine Katılacak Mükellef Temsilcisinin*
+TC Kimlik Numarası
+Adı Soyadı ve Unvanı
+Anlaşmaya Taraf İlişkili Kişiye İlişkin Bilgiler*
+Unvanı
+Vergi Kimlik Numarası
+Adresi
+Anlaşmaya Taraf İlişkili Kişiler Arasındaki Mülkiyet İlişkisi
+Mükellefin Ana Faaliyet Konusu ve İçinde Bulunduğu Sektör
+Mükellef Kurumun Yapısı
+Ortaklık ve Sermaye Yapısı
+Başvuru Kapsamındaki İşlem
+Anlaşmanın Türü
+Yeni                                           Tek Taraflı
+Yenileme                                   İki Taraflı
+Çok Taraflı
+Talep Edilen Anlaşma Süresi
+Mükellefin Ekonomik ve Hukuki Geçmişi Hakkında Özet Bilgiler
+Tarih
+İmza/Kaşe
+* Birden fazla olması halinde gerektiği kadar satır açılabilir.
+[1] Form örneği 05.08.2021 tarihinde  https://www.gib.gov.tr/yardim-ve-kaynaklar/beyanname-formlari-bildirimler adresinden alınmıştır.

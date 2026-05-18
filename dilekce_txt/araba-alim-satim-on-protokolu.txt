@@ -1,0 +1,20 @@
+Araba Alım Satım Ön Protokolü
+1) Taraflar
+Satan :
+Satın Alan :
+2) Satılan Vasıta’nın
+Belgesi:
+Plaka No.Su:
+Cinsi: Tipi:
+Markası: Şasi No.:
+Modeli: Motor No.:
+Taşıt Alım Vergisi
+Ödeme Belgesinin
+Tarih ve No.Su:
+3) Satış Bedeli:
+4) Satıcı, yukarıdaki maddelerde nitelikleri ve özellikleri yazılı vasıtayı diğer taraf alıcıya hâlihazır vaziyeti ile satarak bedelini tamamen aldığını ve vasıtayı alıcıya teslim ettiğini, alıcı da bu vasıtayı hâlihazır vaziyeti ile görüp beğenerek ve bedelini ödeyerek teslim aldığını beyan ve kabul eder.
+5) Satıcı, satış konusu vasıtanın mülkiyetinin bugünden itibaren alıcıya geçmiş olduğunu, alıcının malik sıfatıyla dilediği trafik şubesinde kendi üzerine kayıt ve tescil ettirmeye, dilediği şekilde kullanmaya ve tasarrufta bulunmaya yetkili olduğunu kabul eder.
+6) Taraflar, vasıtanın tahakkuk etmiş ve edecek olan bilumum vergi, resim, sigorta, harç ve bedelleriyle cezalarının bugüne kadar zamana ait olanının satıcıya bugünden sonraya ait olanını da alıcıya aidiyetini ve bu sebeple kendilerine terettüp edecek vecibeyi zamanında yerine getireceklerini vasıtanın satışında engelleyici bir kaydın bulunmadığını beyan ve taahhüt ederler.
+7) Alıcı: Bir ay içinde ….’ya başvurarak Trafik ve Tescil belgesini almayı kabul ve taahhüt eder.
+Alıcı                                                                             Satıcı
+Adı ve Soyadı                                                 Adı ve Soyadı

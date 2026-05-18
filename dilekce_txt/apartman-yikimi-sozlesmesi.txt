@@ -1,0 +1,14 @@
+Apartman Yıkımı Sözleşmesi
+Apartman Yıkımını Talep Edenler      : (Ad, Soyad, T.C. Kimlik No., Adres)
+Apartman Yıkım İşini Üstlenen Firma: (Ünvanı, Adres)
+Yıkım İşinin Yapılacağı Tarih                  : ../../.... - ../../....
+Yıkım Bedeli                                           :….-TL
+Yıkım Bedelinin Ödenme Şekli/Zamanı : ………………….
+Şartlar
+1- Yıkım işini üstlenen .......... A.Ş.. .......... İli, .......... İlçesi, .......... Mahallesi, .......... adresinde bulunan .......... no.lu .......... apartmanın tamamını yıkıp (çevre ve görüntü kirliliği yaratacak hiçbir moloz veya inşaat kalıntısı bırakmadan) molozlarını .......... Belediyesi’nin göstereceği yere nakliyatını yapmayı taahhüt eder.
+2- Bina yıkım öncesi ve yıkım esnasında olası riskleri ortadan kaldırmak için gerekli tüm güvenlik önlemlerini almak/uygulamak/uymayanları uyarmak yıkım işini üstlenen firma .......... A.Ş.’ne ait olacaktır.
+3- Yıkım öncesi, yıkım esnası ve sonrasında kusurlu ya da kusursuz olarak yıkım işinde çalışanlar ve/veya üçüncü şahısların herhangi bir zarara uğraması durumunda her türlü yasal sorumluluk gayrikabili rücu olarak yıkım işini üstlenen .......... A.Ş.’ne aittir. Bu konuda doğabilecek bir ihtilafta, bina maliklerinin karşılaşabileceği olası bir ceza ya da tazminatın tamamını .......... A.Ş. tarafından karşılanacaktır.
+4-  Yıkım beledi olarak kararlaştırılan ...........- TL yıkım işi tamamlandıktan ve bina sahiplerine iş teslim yapıldıktan sonra nakden (belirtilen IBAN’a) ödenecektir. Bina maliklerinden sözleşmede belirtilen ...........-TL’lik bedel dışında hiçbir ücret talep edilemez.
+5- Yıkım işini üstlenen .......... A.Ş. yıkım işini süresi içinde gerçekleştirmez ya da eksik yaparsa .......... .-TL cezai şartı ödemeyi kabul ve taahhüt eder.
+Apartmanın Yıkım İşini Talep Edenler                                Yıkımı Üstlenen Firma
+(Adı, Soyadı, İmza)                                                              (Kaşe – İmza)

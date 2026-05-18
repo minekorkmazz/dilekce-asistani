@@ -1,0 +1,60 @@
+ÇED - Tehlikesiz veya İnert Atık Beyan Formu
+EK-1
+(............) YILINA AİT TEHLİKESİZ VEYA İNERT ATIK BEYAN FORMU
+1
+Atık üreticisi ile ilgili genel bilgiler
+a
+Adı ve Unvanı
+:
+b
+Adresi (Mah., Cad., Sok., Numara, İlçe, İl)
+:
+c
+Telefonu
+:
+ç
+Faksı
+:
+d
+Elektronik posta adresi
+:
+e
+İşyeri Vergi Kimlik No ve Vergi Dairesi
+:
+f
+Ticaret sicil numarası
+:
+2
+Tesise ait bilgiler
+a
+Üretim kapasitesi
+:
+b
+Tesiste atık üreten kaynaklar
+:
+c
+Atığın Kodu
+:
+ç
+Atık miktarı (ton/yıl)
+:
+d
+Atığın genel özellikleri
+:
+3
+Atığın tesis içinde geçici depolanması (stoklanması) halinde
+Atık miktarı (ton/yıl)
+Geçici depolama yöntem ve tekniği
+4
+Atığın geri kazanım tesisine gönderilmesi halinde
+Geri kazanım tesisi çevre lisansı numaraları
+Tesise ne kadar atık gönderildiği (ton)
+5
+Atığın düzenli depolama tesisine gönderilmesi halinde
+Atık miktarı (ton/yıl)
+Firma adına
+Formu dolduran kişinin
+Adı Soyadı
+Görevi
+Tarih/İmza
+Kaşe veya mühür

@@ -1,0 +1,62 @@
+Uzlaştırma Raporu Örnek Formu*
+Mahkeme Adı ve Dosya No__________________           :
+Cumhuriyet Başsavcılığı Uzlaştırma No                          :
+Uzlaştırmacının                                                                  :
+Adı ve Soyadı                                                             :
+Adresi                                                                         :
+Sicil numarası                                                             :
+Görevlendirme tarihi                                                          :
+Dosya içindeki belgelerin birer örneğinin                         :
+verildiği / Uzlaştırma süresinin başladığı tarih                 :
+Ek süre verilme tarihi                                                         :
+Sanığın / Kanunî temsilcisinin                                  ____:
+Adı ve Soyadı                                                            :
+T.C. kimlik numarası                                                 :
+Adresi                                                                        :
+Müdafiin / Vekilin                                                                 :
+Adı ve Soyadı                                                            :
+T.C. kimlik numarası                                                 :
+Kayıtlı olduğu baro ve sicil numarası                         :
+Adresi                                                                        :
+Mağdurun / Müştekinin / Suçtan Zarar Görenin               :
+Adı ve Soyadı                                                            :
+T.C. kimlik numarası                                                 :
+Adresi                                                                        :
+Müdafiin / Vekilin                                                                 :
+Adı ve Soyadı                                                            :
+T.C. kimlik numarası                                                 :
+Kayıtlı olduğu baro ve sicil numarası                         :
+Adresi                                                                        :
+Tercümanın                                                                         :
+Adı ve Soyadı                                                            :
+T.C. kimlik numarası                                                 :
+Adresi                                                                        :
+Taraflardan biri yabancı ülkede oturuyorsa Türkiye ‘de
+göstereceği ikametgahı                                                        :
+Taraflardan biri yabancı ve Türkiye ‘de göstereceği bir
+ikametgahı yoksa ülkesindeki ikametgahı                           :
+Raporun düzenlendiği yer                                                   :
+Raporun düzenlenme tarihi                                                :
+Uzlaştırma süresi                                                                 :   (   ) Gün
+Uzlaşma konusu suç / suçlar                                                :
+Uzlaştırma sonucu                                                               :
+…………………………………………………………………………………………………..
+Tarafların üzerinde anlaştıkları edim, yerine getirilme şekli ve zamanı:
+…………………………………………………………………………………………………..
+Uzlaştırmanın başarısızlıkla sonuçlanması hâlinde nedenleri:
+…………………………………………………………………………………………………..
+İmzalar
+Şüpheli / Sanık          :
+Mağdur / Katılan      :
+Suçtan Zarar Gören :
+Müdafii                      :
+Vekil                            :
+Kanunî Temsilci         :
+Uzlaştırmacı              :
+ONAY ŞERHİ
+Tarih, mühür ve imza
+Cumhuriyet Savcısı / Hâkim
+ONAYLAMAMA GEREKÇESİ:
+Tarih, mühür ve imza
+Cumhuriyet Savcısı / Hâkim
+* Bu form, https://alternatifcozumler.adalet.gov.tr/Home/OrtaDetay/uzlastirma-rapor-ornegi sitesinden 22.12.2022 tarihinde alınmıştır.

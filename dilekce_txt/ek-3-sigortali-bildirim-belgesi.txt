@@ -1,0 +1,78 @@
+Ek-3 Sigortalı Bildirim Belgesi(*)
+Ek-3
+T.C.
+SOSYAL GÜVENLİK KURUMU
+SİGORTALI BİLDİRİM BELGESİ
+SOSYAL GÜVENLİK SİCİL NUMARASI
+(TC KİMLİK NUMARASI)
+A- SİGORTALININ KİMLİK BİLGİLERİ
+1
+Adı
+10
+NÜFUSA KAYITLI OLDUĞU YER
+İl
+2
+Soyadı
+İlçe
+3
+İlk Soyadı
+Mahalle/Köy
+4
+Baba Adı
+Cilt No
+5
+Ana Adı
+Aile Sıra No (Hane-Kütük)
+6
+Doğum Yeri
+Birey Sıra No
+7
+Doğum Tarihi
+11
+Yabancı Uyruklu İse
+Ülke Adı
+8
+Cinsiyeti
+Erkek
+Kadın
+9
+Medeni Hali
+Evli
+Bekar
+12
+İkametgah adresi :
+Bulvar: …………………….……… Cadde: ………………...…..... Sokak:………..  Dış Kapı No:……………..… İç Kapı No:………………....
+Mahalle/Köy:……………………...…. Posta Kodu : ……………………..…… İlçe:…………………………...... İl:…………………………….....
+Ev Tel : ……………. Cep Tel : ……………………… E-mail : ...........................
+B-BEYAN VE TAAHHÜTLER
+İşverenin Adı- Soyadı /Ünvanı :………………… ………………………………………………………
+İŞYERİ SİCİL NUMARASI
+İşletme Adı ……………………………………………..
+İşyeri Adresi :
+Bulvar: ……………………...…… Cadde: ………........
+Sokak:…………….....… Dış Kapı No:…………...…
+İç Kapı No:…………...Mahalle/Köy……………….
+Posta Kodu : ……….… İlçe:………. İl:…………...
+M
+İŞKOLU KODU
+ÜNİTE KODU
+İŞYERİ SIRA NUMARASI
+İl Kodu
+ilçe kodu
+Kontrol Kodu
+alt İşveren
+ESKİ
+YENİ
+T.C.
+SOSYAL GÜVENLİK KURUMU
+……………………………………………………….
+………………..
+Yukarıda ünvanı, adresi ve işyeri sicil numarasını belirttiğim işyerinde ......./....../............ tarihinden itibaren çalışmaya başladığımı ve bu belgedeki bilgilerin gerçeğe uygun olduğunu beyan ederim.   ……./……./……..
+Adı-Soyadı ve İmzası
+AÇIKLAMALAR
+1-Bu belge,  hizmet akti ile sigortalı olarak çalışmaya başlayanların kendilerini 5510 sayılı Kanunun 8’inci maddesi gereği Sosyal Güvenlik Kurumuna bildirmeleri amacıyla kullanılır.
+2- “Sosyal Güvenlik Sicil Numarası” hanesine, T.C kimlik numarası, yabancı uyruklular için ise Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü tarafından verilen kimlik numarası yazılır. Bu alan doldurulurken en soldaki kutucuktan başlamak üzere her kutuya bir rakam gelecek şekilde yazılır.
+3- “ A-Sigortalıların Kimlik Bilgileri ”  bölümünün bütün haneleri nüfus hüviyet cüzdanındaki bilgilere göre tam ve doğru olarak doldurulur.
+4- -"B-Beyan ve Taahhütler ” bölümünde; "İşverenin Adı-Soyadı, Ünvanı" satırında ; işyerinin varsa ünvanı, işyeri kişiye ait ise adı ve soyadı, "İşyeri Sicil Numarası" satırında biliniyorsa çalışmaya başlanılan işyerinin Sosyal Güvenlik Kurumundaki işyeri sicil numarası ile  işyerinde çalışmaya başlanılan tarih, gün, ay, yıl olarak noksansız yazılır.
+5- Bu belgenin,  işe başlanılan tarihten itibaren 30 gün içinde işyerinin bağlı bulunduğu Sosyal GüvenlikMüdürlüğüne/Merkezine verilmesi gerekir.
+(*) Bu form, 13/07/2016 tarihinde “www.sgk.gov.tr” adresinden alınmıştır.

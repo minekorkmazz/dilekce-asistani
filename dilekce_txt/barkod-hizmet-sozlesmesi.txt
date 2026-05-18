@@ -1,0 +1,20 @@
+Barkod Hizmet Sözleşmesi
+Madde 1- İşbu sözleşme ............... adresinde mukim (bu sözleşmede Hizmet Veren olarak anılacak olan) ..... ile ...................... adresinde mukim (bu sözleşmede müşteri olarak anılacak olan) .................. firması arasında akdedilmiştir.
+Madde 2- Müşteri’nin barkod hizmetleri ve barkod çalışmaları konusunda hizmet veren, projelendirme ve Barkod Master Film üretim hizmeti vermek .... ile müşteri adına yazışmalar yapmak, işlemleri takip etmektir.
+Madde 3- Hizmet veren, müşteri tarafından üretilmekte veya ürettirilmekte olan her türlü ürünlerin "barkodlanması konusun da hizmet veren hizmeti verecek ve Barkod Master Filmlerini temin edecektir.
+Bu hizmeti yaparken:
+.... tarafından üyeliğe kabul edilen firmanın, ....’in kendisine tahsis ettiği ve firmanın mal ve hizmetlerine verdiği numaraları hizmet veren sembol haline getirecek ve master film hazırlayacaktır.
+Kodlanmak istenen mal ya da hizmet ambalaj yüzeyi-baskı yapılacak yer-baskı çeşidi-filmin pozitif veya negatif olması-baskı sırasında mürekkep dağılmalarının önüne geçilmesi için çubuk kalınlıklarının ayarlanması (cad widt reduction)-filmin basım yönü-kontrol basamağının hesaplanması-baskı rengi-EAN standartlarına uygun doğru film temin edilmesi.
+Barkod filmlerinin, mücbir sebeplerden dolayı oluşacak gecikmelerinden Hizmet veren sorumlu olmayacaktır. Hizmet veren, söz konusu gecikmeleri önceden müşteriye iletmekle yükümlüdür.
+Madde 4- Müşteri barkod basılacak tüm ürünlerin ambalaj ve etiket örneklerini hizmet verene sağlayacaktır.
+Müşteri barkod basılacak ürününe hizmet veren tarafından hazırlanan master filmleri hizmet verenin belirlediği (dizayn, büyüklük, renk vb.) şartlar doğrultusunda bastıracaktır.
+Barkod filmlerinin basım evlerine dağıtımı, gerekli olan ambalajlar için baskı örneklerinin yaptırılması ve hizmet verene teslimi, tamamıyla müşterinin kontrolünde olacaktır.
+Hizmet veren tarafından sağlanan her "Barkod Master Film"i deneme baskısından çıktıktan sonra, ambalaj örnekleri müşteri veya çalıştığı basımevinin verifier cihazı ile kontrol edilip daimi baskıya geçilecektir.
+Basımevi Verifier (doğrulayıcı) ile kontrol yapmalıdır. Bunu yapamayan matbaalar tercih edilmemelidir. Basımevinden gelen ambalajların okunabilirlik kontrolünü bire bir veya rast gele seçme yöntemine göre kendisi yapacaktır. Verifier yazıcısından dökümünü alarak sevk irsaliyesine (veya kullanılan başka kabul dökümanına) ekleyip saklayacaktır. İlk baskı kontrolü yapılmadan asıl baskıya alınacak ambalajlarda, okunabilirliğin sağlanmasından dolayı oluşacak zararlardan müşteri sorumlu olacaktır.
+Basımevi ya da müşteri tarafından yapılan Verifier (doğrulama) işleminden Hizmet Veren haberdar edilecektir. Ya da hizmet verene verifier konusunda yardımcı olması için ilk baskı örnekleri getirilecektir.
+Madde 5- Master Film ücretleri sipariş tarihindeki hizmet veren tarafından yayınlanan ücretlerdir. Sonraki siparişlerde sipariş anında geçerli olan ücretler uygulanacaktır. Film ücretleri sözleşme anında nakit ya da kredi kartı ile ödenecektir.
+Madde 6- Hizmet ücreti Ücretler sirkülerinde belirtildiği şekildedir.
+Madde 7- Fiyatlara fatura tarihindeki KDV oranları ve müşteri tarafından ödenmesi gerekebilecek vergiler ve harçlar müşterice ödenecektir.
+Madde 8-  Müşteri; hizmet veren tarafından kesilen hizmet ve master film ücret faturalarına itiraz etmez. İhtilaf vukuunda .............. mahkemeleri yetkilidir ve bu sözleşme karşılıklı mutabakatla imza altına alınmıştır.
+Hizmet Veren                                                                        Müşteri
+Adı ve Soyadı                                                                       Adı ve Soyadı

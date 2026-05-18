@@ -1,0 +1,18 @@
+İnternet Hizmetleri Kullanım Başvuru Formu (TÜZEL KİŞİLER) [1]
+Tarih                                                                    İL
+VERGİ DAİRESİ ADI
+KURUM YETKİLİSİNİN                                   Adı Soyadı
+KURUM BİLGİLERİ
+Vergi Kimlik Numarası
+Unvanı
+Kuruluş Yeri
+Kuruluş Tarihi
+Ticaret Sicil Numarası
+Tescil Tarihi
+Adresi
+Telefon Numarası
+Fax Numarası
+Elektronik Posta Adresi            @
+Teslim Alan
+Teslim Eden
+[1] Bu form, 25.04.2019 tarihinde www.gib.gov.tr sitesiden alınmıştır.

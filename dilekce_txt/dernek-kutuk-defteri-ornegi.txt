@@ -1,0 +1,43 @@
+Dernek Kütük Defteri Örneği[1]
+Kütük Defteri
+Kütük No
+:
+Derneğin Adı
+:
+Kısa Adı
+:
+Hukuki Yapısı
+:
+Kuruluş Tarihi
+:
+Türü (Nevi)
+:
+Sona Erme Tarihi
+:
+Sona Erme Şekli, İlgili Kanunun Adı ve Maddesi
+:
+DERNEĞİN KURUCULARI
+Sıra No
+Adı ve Soyadı
+T.C. Kimlik No (1)
+Temsil Edilen Tüzel Kişiliğin  Adı (2)
+Tabiiyeti
+Cinsiyeti
+Öğrenim Durumu
+Mesleği
+1
+2
+3
+4
+5
+6
+7
+8
+“
+“
+“
+“
+“
+(1) Kurucular arasında yabancı kişiler varsa, bu sütuna yabancı gerçek kişiye Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünce verilen yabancı kimlik numarası yazılır.
+(2) Kurucular arasında tüzel kişilerin olması durumunda, kurucu tüzel kişinin adı yazılır.
+[1] Bu metin, 27.11.2018 Tarihinde, www.dernekler.gov.tr sitesinden alınmıştır.

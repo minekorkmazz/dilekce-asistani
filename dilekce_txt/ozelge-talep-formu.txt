@@ -1,0 +1,68 @@
+Özelge Talep Formu[1]
+BİRİNCİ BÖLÜM - KİŞİSEL BİLGİLER
+GERÇEK KİŞİLER/TÜZEL KİŞİLER
+İL                                                                         VERGİ DAİRESİ ADI
+TC KİMLİK NO/VERGİ KİMLİK NO
+ADI SOYADI/UNVANI
+İKAMETGAH ADRESİ/KANUNİ İŞ MERKEZİ ADRESİ
+EV TELEFONU/İŞ TELEFONU
+CEP TELEFONU
+E-POSTA ADRESİ
+BAŞVURAN MÜKELLEF/VERGİ SORUMLUSU
+KAMU KURUMU İSE
+(5018 SAYILI KANUN KAPSAMINDA)
+I SAYILI CETVEL         II SAYILI CETVEL     III SAYILI CETVEL    IV SAYILI CETVEL
+UYRUĞUNUZ
+T.C.                                                                              YABANCI
+MÜKELLEFİYET TÜRÜ
+TAM
+MÜKELLEF
+DAR
+MÜKELLEF
+SORUMLU
+SIFATIYLA
+MÜKELLEF
+DEĞİL
+SÜREKSİZ
+MÜKELLEFİYET
+İKİNCİ BÖLÜM - ÖZELGE TALEBİNİN İÇERİĞİ
+ÖZELGE TALEBİNİZ HANGİ VERGİ
+KANUNU/KANUNLARI İLE İLGİLİDİR ?
+VUK       KVK    GVK    KDV    ÖTV    HARÇ             DAMGA          DİĞER
+TEREDDÜT EDİLEN
+KONUNUN ÖZETİ
+TEREDDÜT EDİLEN KONU HAKKINDAKİ
+HUKUKİ DEĞERLENDİRMENİZ:
+ÖZELGE TALEP ETTİĞİNİZ KONU HAKKINDA
+YANDAKİ İŞLEMLERDEN HANGİSİ
+SÖZ KONUSUDUR?
+İNCELEME       YARGI            UZLAŞMA      HİÇBİRİ
+YAZILI ÖZELGE CEVABININ E-POSTA OLARAK DA GÖNDERİLMESİNİ İSTER MİSİNİZ?
+EVET                                                               HAYIR
+E-POSTA ADRESİ
+ÜÇÜNCÜ BÖLÜM - DİĞER BİLGİLER
+ÖZELGE BAŞVURU DİLEKÇENİZ EKİNDE YER ALAN BELGELER :
+VARSA SMMM, YMM
+YÖNELİK BİLGİLERİ BELİRTİNİZ
+AD-SOYAD:
+T.C. KİMLİK NUMARASI/VERGİ KİMLİK NUMARASI:
+AD-SOYAD:
+T.C. KİMLİK NUMARASI/VERGİ KİMLİK NUMARASI:
+UYARILAR
+ÖZELGEYİ HÜKÜMSÜZ KILAN UNSURLAR:
+Verilen özelgeler, özelgenin talep edildiği ilgili vergilendirme döneminde yürürlükte olan kanunlar çerçesinde geçerlidir. Olayın gerçek mahiyetinin mükellefin özelge talebinde belirttiği hususlardan farklı olduğunun anlaşılması durumunda ve özelge Talep Formunun ve eklerinde yer alan bilgilerin gerçeği yansıtmadığının tespiti durumunda verilmiş olan özelge geçersiz olacaktır.
+AŞAĞIDAKİ HALLERDE İDARE ÖZELGE TALEBİNİ REDDEDEBİLİR:
+1) Başkalarının vergi durumlarına ait bilgi ve açıklama talepleri
+2) Mükelleflerce yargıya intikal ettirilen olaylara ilişkin özelge talepleri
+3) Hakkında vergi incelemesi yapılmakta olan mükelleflerce incelemeye konu olan işlemle ilgili özelge talepleri
+4) Somut bir olaya dayanmayan, teorik hususlara ilişkin bilgi ve açıklama talepleri
+5) Vergi kanunlarının Maliye Bakanlığına yetki verdigi konulara ilişkin talepler
+6) Vergi Usul Kanununun 124 üncü maddesine göre Maliye Bakanlığınca incelenecek olan şikayet yoluyla müracaat talepleri
+7) Başvuru sahibinin kimliği belirlenemiyorsa,
+8) Yetkili makamin talep edecegi ilave belge ya da bilgilerin zamanında verilmemesi durumunda,
+özelge talep formunda yer alan uyarılar da gözönüne alınarak form doldurulmuştur. özelge talep formunda yer alan hususlar gerçeği yansıtmaktadır.
+AD-SOYAD
+İMZA
+TARİH
+(*) Mutlaka mükellef/sorumlu, vekili veya kanuni temsilcilerince imzalanmalıdır.
+[1] Bu form, 29.04.2019 tarihinde www.gib.gov.tr sitesiden alınmıştır.

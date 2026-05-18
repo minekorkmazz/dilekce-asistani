@@ -1,0 +1,14 @@
+Disiplin Soruşturmasında Dizi Pusulası Örneği
+Sıra No:   Tarih:                     Konu:
+1             …../…../………           Soruşturma emri
+2             …../…../.......               Kopya tutanağı ve eki
+3             …../…../.......               Soruşturulan davet yazısı
+4             …../…../.......               Soruşturulan ifade tutanağı
+5             …../…../.......               Tanık davet yazısı
+6             …../…../.......               Tanık ifade tutanağı
+7             …../…../.......               Öğrenci İşleri D.B.na yazılan yazı
+8             …../…../.......               Öğrenci İşleri D.B.’nın cevabi ya¬zısı
+9             …../…../.......               Soruşturma raporu
+Toplam 9 adet belge tarafımızdan teslim edilmiş ve alınmıştır.
+Teslim Eden                                                                                Teslim Alan
+İMZA                                                                                            İMZA

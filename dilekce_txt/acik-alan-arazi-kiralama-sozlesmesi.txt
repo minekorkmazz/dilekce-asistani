@@ -1,0 +1,66 @@
+Açık Alan Arazi Kiralama Sözleşmesi
+KİRALAYAN     :
+ADI VEYA UNVANI     :
+FAALİYET RUHSATI NO        :
+FAALİYET KONUSU   :
+ADRESİ :
+TELEFON :
+KİRACI/KULLANICI     :
+ADI VEYA UVANI        :
+FAALİYET RUHSATI NO        :
+FAALİYET KONUSU   :
+ADRESİ :
+TELEFON :
+KİRALANAN YER        :
+TOPLAM ALAN (m²)   :
+ADA VE/VEYA
+PARSEL NO    :
+KİRA BİRİM FİYATI
+TL/m²/yıl :
+YILLIK KİRA TUTARI  :
+DEPOZİTO TUTARI    :
+YILLIK KİRANIN
+ÖDEME ŞEKLİ :
+KİRA SÖZLEŞMESİNİN
+BAŞLANGIÇ TARİHİ   :
+BİTİM TARİHİ   :
+KİRALANAN YERİN
+KULLANIM AMACI      :
+1. ÖDEME: KULLANICI kirayı, birinci sayfada belirtilen şekil ve surette ödemekle yükümlüdür. Yıl içinde yapılan sözleşmelerde kira faturaları, ertesi yılın kira döneminin ../../.. - ../../.. devresini (1 yıl) kapsamasını teminen KİRALAYAN tarafından sözleşmenin imzalandığı yılın, ../../.. tarihi (yıl sonu) dikkate alınarak tanzim edilir ve KULLANICI tarafından ödenir. KULLANICI, kira ödemesinde geciktiği taktirde ihbar yapılmaksızın, gecikmenin başlangıç tarihinde geçerli olan, TEFE-TÜFE’nin belirtildiği şekilde gecikme faizi uygulanır.
+2. SÜRE: Kira başlangıç ve bitiş tarihleri birinci sayfadaki tabloda gösterilmiştir. Sözleşme maddelerinin yerine getirilmesi halinde, faaliyet ruhsatı süresince sözleşme kendiliğinden yenilenir.
+3. KİRA ARTIŞI: KULLANICI, yıllık kiralarda bir yıl öncesine göre azami %.. oranında olabilecek artışları ve bu kira artışına uygun olarak yıllık kira bedeli üzerinden %.. depozito miktarının eksik kalan kısmını peşin olarak ödemeyi şimdiden kabul eder.
+4. KULLANIM: KULLANICI, kiraladığı arazi üzerinde inşaat ruhsatı almadan, hangi amaçla olursa olsun kalıcı veya geçici hiçbir tesis kuramaz. KULLANICI, kiraladığı araziyi ve bu arazi üzerine yaptırdığı yapı ve tesisleri, KİRALAYAN’dan izin almaksızın başkasına devir edemeyeceği gibi, hiçbir şekil ve surette bir başkasının kullanıcı olarak işletmesine de imkan tanıyamaz ve faaliyet ruhsatı müracaat formunda daha önce bildirdiği faaliyet konusu dışında başka bir maksatla da kullanamaz.
+5. DEĞİŞİKLİKLER: KULLANICI, kiraladığı arazinin hudutlarını hiçbir şekilde aşamaz. Bu arazi üzerinde yaptırdığı bina ve tesislerde KİRALAYAN’a bildirmeden herhangi bir ilave ve/veya değişiklik yapamaz.
+6. BAKIM: KULLANICI, kiraladığı arazi ve bu arazi üzerinde yaptırdığı bina ve tesislerde her türlü emniyet ve sağlık tedbirlerini almakla, Kanuni Müdürlüğü’nün ve KİRALAYAN’ın Bölgenin düzeniyle, çalışma şekli ve usulüyle ilgili talimat, emir ve bildirimlerine uymakla, bina ve tesisler içinde veya çevresinde temizlik, bakım veya onarımdan sorumlu olmakla, varsa sanayi atıklarını usulüne uygun olarak bertaraf etmekle, başkalarına ait (kara ve deniz taşıtları dahil) atıkları kendi arazisine sokmamakla ve bu maksatla KİRALAYAN’dan talep edilen hizmetler ile sair araç ve gereçlerin temin giderlerin KİRALAYAN’ın tarifesine göre karşılamakla yükümlüdür.
+Bahçe ve çevre düzenlemesi ve yol bağlantılarının inşaat projelerinde detaylı olarak gösterilmesi gerekmektedir. Yol bağlantılarının gereği gibi ve tanınan belli bir süre içinde yapılmaması durumunda ise bu işler KİRALAYAN tarafından KULLANICI nam ve hesabına yapılır ve tüm masraflar kendisine fatura edilir.
+7. ORTAK KULLANIM TESİSLERİ: Enerji, iletişim, su, atık su, drenaj kanalı gibi ortak kullanım sistemlerinin bir bölümünün, kiraladığı arazinin altından geçirilmesine KULLANICI’nın itirazı olamaz. KİRALAYAN, KULLANICI tesislerine zarar verilmemesi veya faaliyetinin engellenmemesi koşuluyla kiralanan arazinin altından geçen ortak kullanım sistemlerinin yapım, bakım, işletme ve onarımını yapmaya, bağlantı, vana, pompa ve rögar tesis etmeye yetkilidir.
+8. HİZMETLER: KULLANICI, kiraladığı arazi ve tesislerde KİRALAYAN tarafından sağlanacak su, elektrik, haberleşme, yakıt gibi hizmetleri ücreti karşılığı alıp, bunların bedellerini KİRALAYAN’a zamanında ödemekle yükümlüdür.
+9. SORUMLULUK: KULLANICI, kiraladığı arazi üzerine yaptırdığı bina ve tesislere giren çıkan tüm mallardan ve burada çalıştırdığı işçi ve personelin hal ve davranışlarından, mal getirip götüren araçların, kullanılan makine ve ekipmanın, KİRALAYAN ve üçüncü kişiklere verdiği zararlardan sorumlu olacak, açıklanması istenen hususlar hakkında gerekli bilgi ve belgeleri verecektir. KULLANICI, bina ve tesislerine ham deri koyamaz ve koku yapıcı, yanıcı emtia depolayamaz.
+10. KULLANICININ MÜTESELSİL SORUMLULUĞU: KİRALAYAN’ca sağlanacak hizmetlerin doğrudan KULLANICI’nın personeline verilmesi halinde dahi bu hizmetlerin bedellerinin ödenmesinden, hizmeti doğrudan alan KULLANICI personeli ile birlikte KULLANICI’da müteselsilen sorumludur.
+11. DEVİR: KULLANICI, kiraladığı arazi üzerindeki yatırımını tamamladığı (İskan Ruhsatını aldığı) taktirde, bir başkasına devir işlemleri dolayısıyla geçen süre zarfındaki arazi kiralarından da KİRALAYAN ‘a yönelik yükümlü olacaktır.
+12. YANGIN VE GÜVENLİK: KULLANICI, kiraladığı arazi üzerine yaptığı bina ve tesislerde yangın ve diğer tehlikelere karşı gerekli güvenlik tedbirlerini almakla, bina ve tesisleri yangına ve üçüncü kişilere verilecek zararlara karşı sigorta ettirmekle yükümlü olup, sigorta poliçelerinin bir kopyasını KİRALAYAN’a vermek zorundadır.
+13. FESİH
+13.1. Bu kira sözleşmesi, süresinin dolması ve KULLANICI ‘‘Faaliyet Ruhsatı’’ süresinin sona ermesi veya ‘‘Faaliyet Ruhsatı’’nın Serbest Bölgeler Uygulama Yönetmeliği’nde belirtilen hallerden dolayı iptal edilmesi veya Faaliyet Ruhsatının iade edilmesiyle kendiliğinden fesih olur.
+13.2. KULLANICI’nın yükümlülüklerini yerine getirmemesi, Faaliyet Ruhsatı Müracaat Formu’nda belirtilen proje hazırlık ve inşaat sürelerine uyulmaması durumlarında, kira sözleşmesi KİRALAYAN’ca tek taraflı olarak fesih edilebilir. Fesih halinde peşin ödenen kira tutarı ile depozito iade edilmez.
+13.3. Fesih halinde KULLANICI, yedi gün içinde kiralanmış olan alanı tamamıyla boşaltıp, terk ve KİRALAYAN’a teslim etmediği taktirde, kiralanmış alan KİRALAYAN’ca boşaltılır, bu işlemden dolayı KULLANICI, KİRALAYAN hakkında herhangi bir zarar, ziyan vs.. taleplerde bulunmayacağını peşinen kabul ve taahhüt eder.
+14. KİRA İADESİ
+14.a. Arsa Kira Sözleşmesi ile birlikte Faaliyet Ruhsatı da iptal edilen KULLANICI’lara yapılacak iadeler:
+14.1. Arsa Kirası: Kullanılmayan süreye ait kiranın %....’ı KİRALAYAN tarafından iade edilebilir. Depozito iade edilmez.
+14.2. Proje Tetkik Ücreti: İade edilmez.
+14.3. İnşaat Denetim Ücreti: İnşaat denetimi KİRALAYAN tarafından yapılıyor ise, İnşaat Ruhsatı vize edilmiş ve Belediye onayı alınmış ancak inşaata hiç başlanılmamış ise %..’i iade edilir. İnşaata başlanılmış ise, inşaat hangi safhada olursa olsun denetim ücreti iade edilmez.
+14.4. Jeolojik Etüt Ücreti: İade edilmez.
+14.5. Enerji Tesislerine İştirak Bedeli: Enerji sözleşmesinden sonra bağlantı yapılmamışsa %..’i iade edilir, yapılmışsa iade edilmez.
+14.b. Arsa kira sözleşmesi iptal edilen ancak faaliyet ruhsatı devam eden KULLANICI’lara yapılacak iadeler:
+14.1. Arsa Kirası: Kullanılmış süreye ait kiranın %...’sı ve depozitosu yeni tahsis olunacak arsa veya binanın kira ve depozitosuna KİRALAYAN’dan mahsup edilebilir.
+14.2. Proje Tetkik Ücreti: İade ve mahsup yapılmaz.
+14.3. İnşaat Denetim Ücreti: KİRALAYAN tarafından yapılıyor ise, yeni tahsis edilecek arsada yapılacak inşaatın denetim ücretine mahsup edilir. KULLANICI, KİRALAYAN ile kapalı alan sözleşmesi yaparsa %..’i iade edilir.
+14.4. Jeolojik Etüt Ücreti: İade ve mahsup yapılmaz.
+14.5. Enerji Tesislerine İştirak Bedeli: İade olmaz.
+15. TASFİYE: Bu kira sözleşmesinin sona ermesini müteakip, KULLANICI’nın kiralanan arazi üzerinde yaptırdığı bina, hangar, depo, fabrika gibi bilumum yapı ve tesisleri kapsayan tüm gayri menkuller, mütemmim cüzleriyle birlikte bir ay içinde Hazine’nin mülkiyetine geçecek, KULLANICI’ya ait menkul mallar ve zati eşyalar da aynı süre içinde KULLANICI tarafından götürülecektir. Aksi halde bu mal ve eşyalar Kanuni Uygulama Yönetmeliği hükümleri uyarınca tasfiye işlemine tabi tutulacaktır.
+16. TEKRAR KİRALAMA: KULLANICI tarafından yaptırılıp da bu kira sözleşmesinin sona ermesiyle işletmesi KİRALAYAN’a bırakılan arazi, bina ve tesislerin aynı KULLANICI tarafından sözleşmenin son tarihinden en az bir ay önce tekrar kiralanması talep edildiği taktirde, KİRALAYAN’ın onayı durumunda yapılacak yeni bir kira sözleşmesinde arazi, bina ve tesisler için yeniden tespit edilecek yıllık m² kira bedelleri karşılığında, tercihli olarak, KULLANICI’ya kiralanacaktır.
+17. TAAHHÜT: KULLANICI, bu sözleşmenin eki olarak ayrıca bir taahhütname vermekle yükümlüdür.
+18. ANLAŞMAZLIKLAR: Bu kira sözleşmesinin uygulanmasında doğabilecek anlaşmazlıkların yetkili mercii ……………. Mahkemeleri ve İcra Daireleri’dir.
+19. ÖDEMELER ASKIYA ALINAMAZ: KULLANICI, anlaşmazlık durumunda ve anlaşmazlıkların çözümüne kadar geçecek süre içinde, kira ve hizmet ödemelerini erteleyemez, askıya alamaz. Aksi halde KULLANICI itirazında haklı bile çıksa, anlaşmazlığın çözümüne kadar geçecek sürede tahakkuk edecek borçların uygulanacak gecikme zamlarını ödemeyi peşinen kabul ve taahhüt eder.
+20. ONAY: Bu kira sözleşmesi ve taahhütname Noter’de taraflarca imzalandıktan sonra geçerli olur.
+Kiralayan                                                               Kiracı
+Adı, Soyadı, İmzası                                           Adı, Soyadı, İmzası

@@ -1,0 +1,50 @@
+Yenileme/Kısmi Yenileme Talep Formu[1]
+M102  YENİLEME/KISMİ YENİLEME   TALEP  FORMU
+Referans No:
+Toplam  Sayfa Sayısı
+(Başvuru Sahibi Tarafından
+Doldurulacak)
+Toplam  Sayfa Sayısı
+(Kurum Tarafından
+Doldurulacak)
+Bu Alanı Boş Bırakınız
+(1) MARKA BİLGİLERİ
+Yenilenecek MarkanınTescil No
+Marka Adı
+TÜRKPATENT Müşteri No (*)
+T.C.Kimlik No
+Başvuru Sahibi
+Vergi No
+Tescilin kapsadığı mal ve hizmetlerin tamamı için yenileme talep edilmektedir.
+Tescilin kapsadığı ve ekte belirtilen mal ve /veya hizmetler için yenileme talep edilmektedir. (Bu bölümü işaretlediyseniz yenilenmesini istediğiniz mal ve hizmetleri ek sayfa kullanarak belirtiniz )
+(2) VEKİL
+Yok
+Var (Önceden Atanan)
+Var (Yeni Atanan)
+Vekil Sicil No (**)
+Adı Soyadı
+Firma Ünvanı
+Adres
+Semt
+İlçe
+İl
+Posta Kodu
+Telefon No
+Faks No
+Vekaletname (***)
+Ektedir
+(3) ÖDEME ve FATURA BİLGİLERİ
+Ödemeyi  Yapan
+Vekil
+Talep Sahibi
+Ödemenin Yapıldığı Banka ve Şubesi
+Dekont Numarası
+Dekont Tarihi
+Adı Soyadı/Unvanı
+Tarih
+İmza
+(4) EK SAYFA (Yenilemesi Yapılacak Mal ve Hizmetler İçin)
+(Gerekiyor ise kullanınız.)
+Sınıfı
+Mal ve Hizmetler
+[1] Bu form, 30.07.2019 https://www.turkpatent.gov.tr/TURKPATENT/forms/informationDetail?id=100adresinden alınmıştır.

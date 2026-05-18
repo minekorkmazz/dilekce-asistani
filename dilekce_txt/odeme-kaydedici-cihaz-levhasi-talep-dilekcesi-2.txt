@@ -1,0 +1,31 @@
+Ödeme Kaydedici Cihaz Levhası Talep Dilekçesi - 2[1]
+Tarih
+İL
+VERGİ DAİRESİ ADI
+İşe Başlama Tarihi
+Elkt. Yazar Kasa Kull. Başlama Tarihi
+Adı Soyadı/Unvanı
+ADRES BİLGİLERİ
+MAHALLE
+CADDE
+SOKAK
+SİTE
+BLOK
+BİNA NO
+DAİRE NO
+POSTA KODU
+İLÇE
+İL
+İŞ TEL
+CEP TEL
+E-POSTA ADRESİ      @
+İŞİ
+Yazar Kasanın Kullanılacağı Adres
+Yazar Kasanın Marka ve Modeli
+Sicil Numarası
+Cihazın Satın Alındığı Yetkili Bayi
+Bayinin Bağlı Bulunduğu Vergi Dairesi ve Sicil No
+İL seçiniz
+VERGİ DAİRESİ ADI seçiniz
+Fatura No
+[1] Bu form, 25.04.2019 tarihinde www.gib.gov.tr sitesiden alınmıştır.

@@ -1,0 +1,47 @@
+Vekil Atama Talep Formu[1]
+M114  VEKİL  ATAMA  TALEP  FORMU
+(Bu form Vekaletname yerine kullanılamaz)
+Referans No:
+Toplam  Sayfa Sayısı
+(Başvuru Sahibi Tarafından
+Doldurulacak)
+Toplam  Sayfa Sayısı
+(Kurum Tarafından
+Doldurulacak)
+Bu Alanı Boş Bırakınız
+(1)   VEKALET VERİLEN  MARKA / BAŞVURU  BİLGİLERİ
+(Bu alan sadece, başvuru sahibi adına vekaletname sunulacaksa kullanılacaktır.)
+Başvuru/Tescil Numaraları
+Marka Adları
+TÜRKPATENT Müşteri No (*)
+T.C.Kimlik No
+Başvuru Sahibi
+Vergi No
+(2)   BAŞVURU ÜZERİNDEKİ “YAYIMA İTİRAZ” / “YAYIMA İTİRAZIN YENİDEN İNCELENMESİ” TALEBİ İÇİN VEKALET
+(Bu alan sadece, başvuru dosyası üzerinde “Yayıma İtiraz Talebi” veya “Yayıma İtiraz Talebinin Yeniden İncelenmesi Talebi”          varsa ve bu itirazı yapan itiraz sahibi adına vekaletname sunulacaksa kullanılacaktır.)
+Başvuru Numaraları
+Marka Adları
+İtiraz Sahibi
+T.C. Kimlik No
+Vergi No
+İtiraz Dokümanına Kurumca Verilen Evrak Numarası
+201_ - GE - ______
+İtiraz Dokümanının Kuruma Sunulduğu Tarih
+__ / __ / ____
+(3) VEKİL BİLGİLERİ
+Vekil Sicil No (**)
+Adı Soyadı
+Firma Ünvanı
+Adres
+Semt
+İlçe
+İl
+Posta Kodu
+Telefon Nmr.
+Faks Nmr.
+Vekaletname
+Ektedir
+Adı Soyadı/Unvanı
+Tarih
+İmza
+[1] Bu form, 30.07.2019 https://www.turkpatent.gov.tr/TURKPATENT/forms/informationDetail?id=100adresinden alınmıştır.

@@ -1,0 +1,24 @@
+Pay Alım/Satım İşlemlerine İlişkin Özel Durum Açıklama Formu[1]
+............ tarihinde .................................... A.Ş. payları ile ilgili olarak …….. fiyat aralığından ……… toplam nominal tutarlı alış işlemi ve/veya ……. toplam nominal tutarlı satış işlemi tarafımca/ortaklığımızca gerçekleştirilmiştir. Bu işlemle birlikte ……………….. A.Ş. sermayesindeki paylarım/oy haklarım …………. tarihi itibariyle %…….. sınırına ulaşmıştır/aşmıştır/altına düşmüştür.
+…………………. A.Ş.’nin sahip olduğu %…….. oranındaki paylar/oy hakları da benimle/ortaklığımızla birlikte hareket etmektedir (Paylar/oy hakları bir sermaye piyasası aracından kaynaklanıyorsa belirtilecektir).
+Yönetim kontrolüne sahip olduğum ……………….. A.Ş.’nin sahip olduğu %……. oranındaki paylar/oy hakları da benim kontrolüm/ortaklığımızın kontrolü altındadır (Paylar/oy hakları bir sermaye piyasası aracından kaynaklanıyorsa belirtilecektir).
+İşlemin detaylarına ilişkin bilgiler aşağıdaki tabloda verilmektedir.
+Adı Soyadı (*):
+Unvanı:
+İmza:
+İşlemin Tarihi
+Alım İşlemine Konu Payların Toplam Nominal Tutarı (TL)
+Satım İşlemine Konu Payların Toplam Nominal Tutarı (TL)
+İşlemlerin Net Nominal Tutarı (TL)
+Sahip Olunan Payların Nominal Tutarı
+Sahip Olunan Payların/Oy Haklarının
+Gün Başı (TL)
+Gün Sonu (TL)
+Gün Başı    Bakiyesinin
+Gün Sonu Bakiyesinin
+Sermayeye Oranı            (%)
+Oy      Haklarına     Oranı (%)
+Sermayeye Oranı            (%)
+Oy      Haklarına     Oranı (%)
+(*) Tüzel kişiler için ticaret unvanı ve temsil eden kişinin adı-soyadı”
+[1] Bu belge 17.11.2018 Tarih ve 30598 Sayılı Resmi Gazete’de yayımlanan Özel Durumlar Tebliği (II-15.1)’nde Değişiklik Yapılmasına Dair Tebliğ (II-15.1.c)’in (Ek) ekinden alınmıştır.

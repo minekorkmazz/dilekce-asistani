@@ -1,0 +1,44 @@
+Aile Durumu Bildirimi[1]
+EK: 1
+Bildirimi Verenin
+T.C./Vergi Kimlik No
+Sosyal Güvenlik No/Sicil No/Kurum Sicil No
+Adı Soyadı
+Görevi
+Medeni Hali
+Bekar
+Evli
+Diğer
+EŞİN
+Adı Soyadı
+İş Durumu
+Gelirine/Gelirlerine İlişkin Açıklama
+Çalışıyor
+Çalışmıyor
+Geliri Olan
+Geliri Olmayan
+MÜKELLEFLE OTURAN VEYA MÜKELLEF TARAFINDAN BAKILAN ÇOCUKLARIN DURUMU
+Adı Soyadı
+T.C. Kimlik No
+Doğum Tarihi         (Varsa ay ve günü de yazılacaktır)
+Cinsiyet
+Baba Adı
+Ana
+Adı
+Öz, Üvey, Evlat Edinilmiş, Nafakası Sağlanılan Çocuk, Ana Babasını Kaybetmiş Torun
+Öğretime Devam Ediyorsa
+Açıklama
+Kayıt Tarihi
+Okul Adı
+Sınıfı
+Alt Satırdaki hususları da göz önüne almak suretiyle düzenlediğim asgari geçim indirimine ait bildirimdir.
+Düzenleyenin
+Adı Soyadı
+İmzası/Tarih       /        /
+1-Bu bildirim, işverenlerce yukarıdaki  muhteviyatına uygun olarak çoğaltılıp kullanılabilecektir.
+2-Bildirim, ilk işe girişte verilir. Çalışanın asgari geçim indiriminden yararlanan eş veya çocuk durumunda bir değişiklik meydana gelmesi halinde bildirim yeniden verilir.
+3-Nafakasını sağladıkları çocuklara ait asgari geçim indiriminden yararlanacak olan eş tarafından, mahkeme ilamının onaylı bir örneği bildirime eklenir.
+4-Çocuklar, sosyal güvenlik yönünden tabi oldukları eşin bildirimine dahil edilir.
+5-İndirimin uygulamasında “çocuk” tabiri, mükellefle birlikte oturan veya mükellef tarafından bakılan (nafaka verilenler, evlat edinilenler ile ana veya babasını kaybetmiş torunlardan mükellefle      birlikte oturanlar dâhil) 18 yaşını veya tahsilde olup 25 yaşını doldurmamış çocukları, “eş” tabiri ise, aralarında yasal evlilik bağı bulunan kişileri ifade eder.
+6- Sadece ücret geliri elde eden eş, “çalışmayan ve herhangi bir geliri olmayan eş” kapsamında değerlendirilmeyecektir. Bunlar dışındakiler ise çalışmayan ve herhangi bir geliri olmayan eş    kapsamında değerlendirilecek olup, münhasıran emekli maaşı alanlar da çalışmayan ve herhangi bir geliri olmayan eş olarak kabul edilecektir.
+[1] Bu dilekçe, 13.04.2024 taraihinde canakkale.csb.gov.tr sitesinden alınmıştır.

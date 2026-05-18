@@ -1,0 +1,40 @@
+Satılık ve Kiralık Daireler İçin Ekspertiz Raporu Formu
+SATILACAK/KİRALANACAK EMLAKIN AÇIK ADRESİ VE ADRESİN TARİFİ:
+İl:
+İlçe:
+Semt:
+Arsanın Açık Adresi:
+Yerinin Tarifi:
+Krokisi:
+MAL SAHİBİNİN:
+Adı, Soyadı:
+TC Kimlik No:
+Mesleği:
+Açık Adresi:
+Telefonu:
+ÖZELLİKLERİ:
+Cinsi: (Depolama/Kat Karşılığı/ Konut/Sanayii/Tarla/Turistik)
+Site Adı:
+Bina Adı:
+Kaçıncı Kat:
+Dış Cephesi:
+İskan var mı:
+Ulaşımı:
+Manzarası: (Deniz/Göl/Dağ/Şehir)
+Belediyesi:
+Metrekaresi:
+Cephesi: (Kuzey-Güney- Doğu- Batı)
+Tapu Kaydı: (Mirasçılık-Kendisine Ait)
+Tapuda Şerh Var Mı: (Haciz – İpotek)
+Boş Daire /Kendisi Oturuyor/ Kiracılı:…..
+İç Dekorasyon:
+Islak Zeminler:
+Kuru Zeminler:
+Asansör:
+Ne maksatla kullanılabilir: Ev/Ofis/İşyeri
+EXPER GÖRÜŞÜ:
+Exper Adı:
+TC Kimlik No:
+Expertiz Tarihi: …/…/…
+(Bu belgeye Tapu fotokopisi, Nüfus Cüzdanı Fotokopisi Ekleyiniz)
+(Aşağıdaki hususları rapor sonunda belirtiniz: Anahtar Alındı; Afiş Asılabilir, Sözleşme Yapıldı mı, Reklamdan Sonra Alınan Telefon Sayısı)

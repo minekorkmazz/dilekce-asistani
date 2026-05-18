@@ -1,0 +1,305 @@
+Mal Alımlarına Ait Tip Sözleşme
+Birim Fiyat Mal Alımı Tip Sözleşmesi
+İhale Kayıt Numarası: 2009/000000
+Madde 1 - Sözleşmenin tarafları
+1.1. Bu sözleşme, bir tarafta …… ÜNİVERSİTESİ REKTÖRLÜĞÜ (bundan sonra İdare olarak anılacaktır) ile diğer tarafta ……………. (bundan sonra Yüklenici olarak anılacaktır) arasında aşağıda yazılı şartlar dahilinde akdedilmiştir.
+Madde 2 - Taraflara ilişkin bilgiler
+2.1. İdarenin
+a) Adı           : …. Üniversitesi Rektörlüğü
+b) Adresi      : …………..
+c) Telefon numarası     : 0 000 000 0000
+ç) Faks numarası         : 0 000 000 0000
+d) Elektronik posta adresi (varsa)        : imid@....edu.tr
+2.2. Yüklenicinin
+a) Adı ve soyadı/Ticaret unvanı           : .......................
+b) T.C. Kimlik No                     : ........................
+c) Vergi Kimlik No                    : ........................
+ç) Yüklenicinin tebligata esas adresi: ....................
+d) Telefon numarası                 : ........................
+e) Bildirime esas faks numarası          : ........................
+f) Bildirime esas elektronik posta adresi (varsa) :
+2.3. Her iki taraf 2.1 ve 2.2. maddelerinde belirtilen adreslerini tebligat adresleri olarak kabul etmişlerdir. Adres değişiklikleri usulüne uygun şekilde karşı tarafa tebliğ edilmedikçe en son bildirilen adrese yapılacak tebliğ ilgili tarafa yapılmış sayılır.
+2.4. Taraflar, yazılı tebligatı daha sonra süresi içinde yapmak kaydıyla, kurye, faks veya elektronik posta gibi diğer yollarla da bildirim yapabilirler.
+Madde 3 - Sözleşmenin dili
+3.1. Sözleşme Türkçe olarak hazırlanmıştır.
+Madde 4 - Tanımlar
+4.1. Bu Sözleşmenin uygulanmasında; 4734 sayılı Kamu İhale Kanunu, 4735 sayılı Kamu İhale Sözleşmeleri Kanunu, Mal Alımı İhaleleri Uygulama Yönetmeliği ile Mal Alımları Denetim Muayene ve Kabul İşlemlerine Dair Yönetmelik ve ihale dokümanında yer alan tanımlar geçerlidir.
+Madde 5 - Sözleşmenin konusu işin/alımın tanımı
+5.1. Sözleşmenin konusu; İdarenin ihtiyacı olan ve aşağıda miktarı belirtilen ve teknik özellikleri teknik şartnamede düzenlenen, Bilgisayar, yazıcı, projeksiyon cihazı ve fotokopi makinesi alım işinin ihale dokümanı ile bu sözleşmede belirlenen şartlar dahilinde Yüklenici tarafından temini ve İdareye teslimi işidir.
+5.1.1. Sözleşme kapsamında alımı yapılacak malların miktarı:
+Sıra No  Malzemenin İsmi       Birimi   Miktarı
+1             Bilgisayar       400      Adet
+2             Yazıcı Tip1     50        Adet
+3             Yazıcı Tip2     10        Adet
+4             Projeksiyon Cihazı     100      Adet
+5             Diz Üstü Bilgisayar    15        Adet
+6             Fotokopi Makinesi     2          Adet
+5.1.1.2. Bu Sözleşme ile temin edilecek mallar sözleşme ve eklerinde yer alan düzenlemelere uygun teslim edilecektir.
+Madde 6 - Sözleşmenin türü ve bedeli
+No          Ürün Adı         Miktarı (A)       Sözleşme Birim Fiyatı (YTL)  Tutar (YTL) (AXB)
+1             Bilgisayar       400
+2             Yazıcı Tip1     50
+3             Yazıcı Tip2     10
+4             Projeksiyon Cihazı     100
+5             Diz Üstü Bilgisayar    15
+6             Fotokopi Makinesi     2
+TOPLAM
+6.1. Bu sözleşme birim fiyat sözleşme olup, İdarece hazırlanmış cetvelde yer alan her bir iş kaleminin miktarı ile bu iş kalemleri için Yüklenici tarafından teklif edilen birim fiyatların çarpımı sonucu bulunan tutarların toplamı olan………………bedel üzerinden akdedilmiştir.
+Alınan malların ve yapılan işlerin bedellerinin ödenmesinde, birim fiyat teklif cetvelinde Yüklenicinin teklif ettiği ve sözleşme bedelinin tespitinde kullanılan birim fiyatlar esas alınır.
+Madde 7 - Sözleşme bedeline dahil giderler
+7.1. Sözleşme bedeline dâhil olan vergi, resim ve harçlar
+7.1.1.Taahhüdün yerine getirilmesine ilişkin vergi, resim ve harçlar sözleşme bedeline dahildir.
+7.1.2. İlgili mevzuatı uyarınca hesaplanacak Katma Değer Vergisi sözleşme bedeline dahil olmayıp İdare tarafından yükleniciye ödenecektir.
+7.2. Sözleşme bedeline dahil olan diğer giderler
+7.2.1. Taahhüdün yerine getirilmesine ilişkin ulaşım, montaj ve si-gorta giderleri sözleşme bedeline dahildir.
+Madde 8 - Sözleşmenin ekleri
+8.1. İhale dokümanı, bu sözleşmenin eki ve ayrılmaz parçası olup İdareyi ve Yükleniciyi bağlar. Ancak, sözleşme hükümleri ile ihale dokümanını oluşturan belgelerdeki hükümler arasında çelişki veya farklılıklar olması halinde ihale dokümanında yer alan hükümler esas alınır.
+8.2. İhale dokümanını oluşturan belgeler arasındaki öncelik sıralaması aşağıdaki gibidir:
+1) İdari şartname
+2) Teknik şartname
+3) Sözleşme tasarısı
+4) Yazılı açıklamalar
+5)
+8.3. Yukarıdaki belgelerin zeyilnameleri, ait oldukları dokümanın öncelik sırasına sahiptir.
+Madde 9 - Sözleşmenin süresi
+9.1. Sözleşmenin süresi, işe başlama tarihinden itibaren 22.12.2009 gündür.
+Madde 10 - Malın/İşin teslim alma şekil ve şartları ile teslim prog-ramı
+10.1. Malın teslim edilme/işin yapılma yeri veya yerleri
+10.1.1. Sağlık Kültür ve Spor Dairesi Başkanlığı Depolarına
+10.2. İşe başlama tarihi
+10.2.1. Sözleşmeyi müteakip işe başlanacaktır.
+10.3. Teslim programı ve teslim tarihi
+10.3.1 Malzemeler yerinde montajı tamamlanmış, çalışır hale geti-rildikten sonra teslim alınacaktır. Malzemelerin tamamı teslim edilecektir. Kısmı teslim yapılmayacaktır.
+10.4. Teslim programında değişiklik
+10.4.1.Yüklenici, İdarece onaylanmış teslim programına uymak zorundadır. Ancak zorunlu hallerde İdarenin uygun görüşü ile teslim programında değişiklik yapılabilir. İdarece onaylanan bir süre uzatımı bulunduğu takdirde, yüklenici bu hususun kendisine tebliği tarihinden başlamak üzere beş iş günü içinde yeni duruma göre bir teslim programı düzenlemek zorundadır.
+Madde 11 - Teminata ilişkin hükümler
+11.1. Kesin teminatın miktarı ve süresi:
+11.1.1. Yüklenici ……… teminat olarak vermiştir.
+11.1.2. Kesin teminat mektubunun süresi 31.12.2011 tarihine kadardır. Bu sözleşme hükümleri çerçevesinde yükleniciye süre uzatımı verilmesi halinde kesin teminat mektubunun süresi, uzatılan süre kadar yenilenir.
+11.2. Ek kesin teminat:
+11.2.1. Fiyat farkı ödenmesinin öngörülmesi halinde, fiyat farkı olarak ödenecek bedelin % 6’sı, iş artışı olması halinde artış tutarının %6’sı oranında teminat olarak kabul edilen değerler üzerinden ek kesin teminat alınır. Fiyat farkı olarak ödenecek bedel üzerinden hesaplanan ek kesin teminat miktarı, hakedişlerden kesinti yapılmak suretiyle de karşılanabilir.
+11.2.2. Ek kesin teminatın, teminat mektubu olması halinde, ek kesin teminat mektubunun süresi kesin teminat mektubunun süresinden daha az olamaz.
+11.2.3. Yüklenici tarafından verilen kesin ve ek kesin teminat, 4734 sayılı Kanunun 34 üncü maddesinde belirtilen değerlerle değiştirilebilir.
+11.3. Kesin teminat ve ek kesin teminatın geri verilmesi:
+11.3.1. Taahhüdün, sözleşme ve ihale dokümanı hükümlerine uygun olarak yerine getirildiği ve Yüklenicinin bu işten dolayı İdareye herhangi bir borcunun olmadığı tespit edildikten sonra sözleşmenin konusunun piyasadan hazır halde alınıp satılan mal alımı olması ve bir garanti süresinin öngörülmesi halinde yarısı, garanti süresi dolduktan sonra kalanı, garanti süresi öngörülmeyen hallerde ise tamamı, Yükleniciye iade edilir.
+11.3.2. Yüklenicinin sözleşme konusu iş nedeniyle İdareye ve Sosyal Güvenlik Kurumuna olan borçları ile ücret ve ücret sayılan ödemelerden yapılan kanuni vergi kesintilerinin kesin kabul tarihine kadar ödenmemesi halinde, protesto çekmeye ve hüküm almaya gerek kalmaksızın kesin teminatlar paraya çevrilerek borçlarına karşılık mahsup edilir, varsa kalanı yükleniciye iade edilir.
+11.3.3. Yukarıdaki hükümlere göre mahsup işlemi yapılmasına gerek bulunmayan hallerde; alım konusu malın veya malların kabul tarihinden veya varsa garanti süresinin bitim tarihinden itibaren iki yıl içinde İdarenin yazılı uyarısına rağmen, talep edilmemesi nedeniyle iade edilmeyen kesin teminat mektupları hükümsüz kalır ve düzenleyen bankaya iade edilir. Teminat mektubu dışındaki teminatlar, sürenin bitiminde Hazineye gelir kaydedilir.
+11.3.4. Her ne suretle olursa olsun, İdarece alınan teminatlar haczedilemez ve üzerine ihtiyati tedbir konulamaz.
+Madde 12 - Ödeme yeri ve şartları
+12.1. Ödeme yeri
+12.1.1. İdare tarafından sözleşmeye ilişkin ödemeler Üniversitemiz Strateji Geliştirme Daire Başkanlığınca yapılacaktır. Yüklenici tarafından alım konusu malın, sözleşme ve ihale dokümanına uygun şekilde teslim edilmesi koşuluyla ödemelere ilişkin hususlar ve ödeme zamanı aşağıda düzenlenmiştir.
+12.2. Ödeme koşulları ve zamanı
+12.2.1. Ödemeye esas para birimi Türk Lirası’dır.
+12.2.2.    İdare, Muayene ve Kabul Komisyonunca kabul raporu düzenlenmesinden itibaren Yüklenicinin yazılı talebi üzerine en geç 15 (Onbeş) gün içinde Yükleniciye veya vekiline ödemeyi yapacaktır.
+12.2.3. Bu madde boş bırakılmıştır.
+12.3. Akreditif
+12.3.1. Bu madde boş bırakılmıştır.
+Madde 13 - Avans verilmesi şartları ve miktarı
+13.1. Yükleniciye taahhüdün gerçekleştirilmesi sırasında avans verilmeyecektir.
+Madde 14 - Fiyat Farkı
+14.1. Bu ihalede fiyat farkı hesaplanmayacaktır.
+14.1.1. Sözleşmede yer alan fiyat farkına ilişkin esas ve usullerde sözleşme imzalandıktan sonra değişiklik yapılamaz.
+Madde 15 - Alt yüklenicilere ilişkin bilgiler ve sorumluluklar
+15.1. Bu işte alt Yüklenici çalıştırılmayacak ve işlerin tamamı Yüklenicinin kendisi tarafından yapılacaktır.
+15.3. İdarenin yetkisi
+15.3.1. Yüklenici, İdarenin önceden yazılı olurunu almak suretiyle sair yükümlülüklerinden gerekli gördüklerini alt yüklenici gerçek veya tüzel kişilere yaptırabilir. İdare, yüklenicinin kendisine bildireceği alt yükleniciyi kabul edip etmemekte veya herhangi bir zamanda alt yüklenicinin değiştirilmesini talep etmekte serbesttir. İdare, alt yükleniciler aracılığı ile yapılmasını sakıncalı gördüğü herhangi bir iş bölümünün doğrudan doğruya yüklenici tarafından yapılmasını her zaman isteyebilir. İdare, kendisi tarafından onaylanmış olmasına rağmen alt yüklenici tarafından yerine getirilen işlerin sözleşme ve şartname hükümlerine uygun olmadığı kanaatine varırsa, yükleniciden bu hususların sözleşmeye uygun hale getirilmesini isteme hakkına sahiptir.
+15.4. Alt yüklenici ile yüklenicinin sorumluluğu
+15.4.1. Yüklenici, sözleşme süresi veya garanti süresi içerisinde, alt yükleniciye [yaptırdığı/temin ettirdiği] malda ortaya çıkabilecek arıza, hata ve ayıplar ile montaj, bakım ve onarım ile yedek parça temini konusunda İdareye karşı sorumludur. Yüklenici, işlerin tümünü alt yükleniciye devredemeyeceği gibi işlerin bir kısmını alt yüklenicilere (sözleşmede ismen belirtilenler hariç ) verebilmek için de İdarenin iznini almak zorundadır. İdarenin bu konuda izin vermesi, yükleniciyi sözleşme ile yüklendiği mecburiyet veya sorumluluklarından kurtarmaz. Yüklenici, alt yüklenicilerin, bunların acentelerinin, personelinin her türlü fiil ve ihmalleri ile temerrüde düşmelerinden İdareye karşı sorumludur.
+15.4.2 4734 sayılı Kanun ile 4735 sayılı Kanun ve ilgili mevzuatta ihalelere katılamayacağı belirtilenler alt yüklenici olamazlar.
+Madde 16 - Yüklenicinin yükümlülükleri
+16.1.Yüklenicinin genel yükümlülükleri
+16.1.1. Yüklenici, işlere gereken özen ve ihtimamı göstermeyi, sözleşme konusu malı/işi, sözleşme ve ihale dokümanlarına göre belirlenen süre, miktar ve bedel dahilinde gerçekleştirmeyi ve oluşabilecek kusurları sözleşme hükümlerine uygun olarak gidermeyi kabul ve taahhüt eder. Yüklenici, üstlenmiş olduğu iş ve bu işe ilişkin programa uygun olarak, malın süresinde teslim ve montajı için gerekli her türlü makine, araç ve yardımcı tesisleri hazırlamak, her türlü malzemeyi ve personeli sağlamak zorundadır. İdarenin uyarı ve talimatlarına uymaması veya sözleşmede belirtilen yükümlülüklerin ihlal edilmesi nedeniyle, İdarenin ve/veya üçüncü şahısların bir zarara uğraması halinde, her türlü zarar ve ziyan yükleniciye tazmin ettirilir.
+16.1.2. Yüklenici, işin yapımı sırasında 4735 sayılı Kanun ile yürürlükteki diğer kanun, tüzük, yönetmelik ve benzeri mevzuat hükümlerine de uymakla yükümlüdür. Yüklenicinin bu yükümlülüğünü ihlal etmesi nedeniyle ortaya çıkan zararlar ile üçüncü kişilere, çevreye veya İdare personeline verilen zarar ve ziyandan Yüklenici sorumludur. Bu şekilde meydana gelen zarar ve ziyanın İdarece tazmin edilmesi halinde, tazmin bedeli Yüklenicinin alacaklarından kesilmek suretiyle tahsil edilir. Yükleniciden yapılacak kesintilerin İdare alacağını karşılayamaması durumunda kalan miktar, Yüklenicinin kesin teminatı ile varsa ek kesin teminatı paraya çevrilmek suretiyle karşılanır. İdare ala-cağının bu şekilde dahi tahsil edilemediği durumlarda, alacak miktarı genel hükümlere göre Yükleniciden tahsil edilir.
+16.1.3. Yüklenici, sözleşme konusu malların İdareye teslimine kadar korunmasından sorumludur. Yüklenici, malın İdareye tesliminden önce deprem, su baskını, toprak kayması, fırtına, yangın, hırsızlık, üçüncü kişiler tarafından verilecek zararlar dahil olmak üzere malın zayii, kısmen veya tamamen hasar görmesi gibi durumlarda malı yenisi ile değiştirmek zorundadır.
+16.1.4. Yüklenici, yetkili kuruluşlarca alım konusu malın piyasaya arzına ve ürün güvenliğine ilişkin yaptıkları düzenlemelere uygun mal teslim etmek zorundadır.
+16.2. Yüklenicinin montaja ilişkin yükümlülükleri
+16.2.1. Montaj gerektiren mal alımlarında; Yüklenicinin montaja ilişkin yaptığı hazırlıklar ve aldığı önlemlerin yeterli olup olmadığı İdarece değerlendirilir. Yapılan hazırlıklar veya alınan önlemlerin yeterli olmadığının tespit edilmesi durumunda Yükleniciden ilave hazırlıklar yapması veya önlemler alması istenilir.
+16.2.2. Yüklenici, montaj ve diğer işler için gerekli olan tüm elektrik, su, gaz tesis ve bağlantılarını kullanması sırasında ortaya çıkacak olası zararları tazminle yükümlüdür.
+16.2.3. Yüklenici, montaj sırasında aynı mekan içerisinde çalışmakta olan İdare personeli ve/veya diğer yüklenicilerin personeli ile uyumlu çalışmak zorundadır.
+16.3. İş programı
+16.3.1. Yüklenici personeli, teslim programında yapılan düzenlemeye uygun olarak teslim ve montaj işlemini gerçekleştirecektir. Ancak, İdarece yapılacak alımın montaj, yerinde üretim gibi durumları da kapsayan teslim programında bir değişiklik yapılması halinde Yüklenici de bu yeni programa uygun olarak iş saatlerini İdarenin talebi doğrultusunda değiştirecektir. Ancak, İdare tarafından yapılan değişiklik, iş programının uzamasına sebep olmamalıdır.
+16.3.2. Yüklenici, bir aydan fazla süreli ve montaj gerektiren işlerde her ayın bitiminde üç nüsha faaliyet raporu hazırlayarak İdareye sunacaktır. Yüklenici tarafından raporlama kabul tarihine kadar devam edecektir. Her raporda;
+a) Teslimi gerçekleştirilen mal miktarları, işin aşaması ve alt yükleniciler tarafından yapılan işlerin aşamaları,
+b) Malların montajı, depolanması, işletmeye alınması, eğitim faaliyetleri gibi konularda bilgiler,
+c) Tehlike yaratan olaylar, çevre olayları dahil olmak üzere güvenlik ile ilgili bilgiler,
+ç) İşin bitirilmesini tehlikeye sokan olayların ayrıntıları, teslim programı ile fiili ilerlemenin karşılaştırılması, gecikmeleri gidermek üzere alınmış veya alınacak tedbirler,
+d) Yüklenicinin personeli ile ilgili kayıtlar,
+e) Varsa kalite belgeleri, test sonuçları ve malzemelere ilişkin sertifikalar,
+ile İdarece talep edilecek ilave belge ve bilgiler yer alacaktır.
+16.4. Güvenlik önlemleri
+16.4.1.Yüklenici;
+a) İşle ilgili olarak uyulması gereken tüm güvenlik kurallarına uymak,
+b) İşyerinde bulunma yetkisine sahip tüm personelin güvenliğini sağlamak,
+c) İşyerinin ve bu iş nedeniyle kendisine tevdi edilen her türlü ekipman, malzeme, araç gereç ile bilgi ve belgelerin güvenliğinin sağlanması için her türlü tedbiri almak,
+ç) Malın temini ile sair yükümlülüklerin yerine getirilmesi nedeniyle üçüncü kişilerin can ve mal güvenliğinin sağlanması amacıyla ilgili mevzuat uyarınca her türlü tedbiri almak,
+zorundadır.
+16.4.2. Yüklenicinin bu zorunluluklara uymaması nedeniyle İdarenin ve/veya üçüncü şahısların bir zarara uğraması halinde, her türlü zarar ve ziyan Yükleniciye tazmin ettirilir.
+16.5.Yüklenicinin çalıştırdığı personele ilişkin sorumlulukları
+16.5.1. Yüklenici, işin yerine getirilmesi sırasında yasa, yönetmelik ve tüzükler ile belirlenen standartlara uygun iş ve işçi sağlığı ile ilgili tüm güvenlik önlemlerini almakla yükümlüdür.
+16.5.2. Yüklenicinin ilgili mevzuata göre gerekli önlemleri almasına rağmen olabilecek kazalarda, Yüklenicinin personelinden kazaya uğrayanların tedavilerine ilişkin giderler ile kendilerine ödenecek tazminat Yükleniciye aittir. Ayrıca, personelden iş başında veya iş yüzünden ölenlerin defin giderleri ile ailelerine ödenecek tazminatın tümü de Yüklenici tarafından karşılanır.
+16.5.3. Yüklenicinin teknik ve idari personeli ile Alt Yüklenicileri ve bunların personelinden her ne şekilde olursa olsun, iş başında bulunmasına engel durumları tespit edilenler, İdare tarafından yapılacak bildirim üzerine, Yüklenici tarafından derhal iş başından uzaklaştırılır.
+16.5.4. İhale dokümanında Yüklenici tarafından personel çalıştırılması öngörülmüş ise bu personelin çalıştırıldığına ilişkin belgeleri İdareye vermek zorundadır.
+16.6. Malların taşınması
+16.6.1.Yüklenici, iş için gerekli tüm mal ve malzemenin montajından, ambalajlanmasından, yüklenmesinden, taşınmasından, teslim edilmesinden, boşaltılmasından, depolanmasından ve korunmasından sorumludur. Malzemelerin taşınması sırasında meydana gelebilecek her türlü hasardan Yüklenici sorumludur.
+16.6.2. Yüklenici malın taşınması sırasında kendi personelinden dolayı yolların, köprülerin zarar görmemesi için gerekli çabayı gösterecektir. Bu amaçla uygun taşıtların ve yolların kullanılması esastır. Yolların kullanımı ile ilgili olarak yetkili makamlardan izin alınması gerekiyorsa, gerekli izinler taşıma işleminin başlamasından önce Yüklenici tarafından temin edilir. Erişim yollarının kullanılması nedeniyle, ilgili kurum ve kuruluşlardan gelecek her türlü talep, Yüklenici tarafından karşılanır.
+16.7. Garanti ve bakım, onarım
+16.7.1. Garanti: Yüklenici tarafından teslim edilecek malların kabulünden sonra asgari ................................. ay/yıl garanti süresi olacaktır. Yüklenici bu mallara ait garanti belgelerini İdare adına düzenletmek ve orijinal nüshalarını İdareye teslim etmekle mükelleftir. Alınan mallara ilişkin İdare adına garanti belgesi düzenlenmesinin mümkün olmaması durumunda yüklenici garantiye ilişkin taahhütleri içeren bir belgeyi İdareye sunmak zorundadır. Garanti kapsamındaki malzemede sözleşme süresi içerisinde tespit edilecek hata, ayıp ve eksikliklerin garanti sağlayan kişi veya kuruluş tarafından giderilmesini Yüklenici üstelenecektir. Bu yükümlülüğün Yüklenici tarafından yerine getirilmemesi halinde İdare, garantinin sağlanması için yapacağı tüm giderleri Yüklenicinin alacağından keserek veya teminatını paraya çevirerek tahsil eder.
+16.7.1.1. Yüklenici, malın; garanti süresi içinde, gerek malzeme ve işçilik gerekse montaj hatalarından dolayı arızalanması halinde işçilik masrafı, değiştirilen parça bedeli ya da başka herhangi bir ad altında hiçbir ücret talep etmeksizin tamirini yapmak veya yaptırmakla yükümlüdür.
+16.7.1.2. Yüklenici, garanti süresi boyunca, malın kullanım kılavuzu veya diğer dokümantasyonunda belirtilen periyotlarda bakımını, her türlü sarf malzemesinin bedeli kendine ait olmak üzere gerçekleştirecektir.
+16.7.1.3. Malın arızalanması durumunda tamirde geçen süre garanti süresine eklenir.
+16.7.2. Satış sonrası bakım, onarım ve yedek parça temini
+16.7.2.1. Malın tamir süresi en fazla 2 (iki) iş günüdür. Bu süre mala ilişkin arızanın yükleniciye veya yetkili servise bildirildiği tarihinden başlar. Malın arızasının 7 (Yedi) iş günü içerisinde giderilememesi halinde yüklenici tamir sonuna kadar benzer özelliklere sahip başka bir malı İdareye tahsis eder. İdarece bu mala ilişkin teslim tesellüm belgesi düzenlenir.
+16.7.2.2. Malın İdareye teslim edildiği tarihten itibaren, kullanım hataları dışında yukarıda belirlenen garanti süresi içinde kalmak kaydıyla, bir yıl içerisinde; aynı arızanın 2( İki) fazla tekrarlanması veya farklı arızaların 3(üç) fazla meydana gelmesi veya belirlenen garanti süresi içerisinde farklı arızaların toplamının 5 (Beş) fazla olması ve bu arızaların maldan yararlanamama sonucunu ortaya çıkarması durumunda, yüklenici malı değiştirmekle yükümlüdür.
+16.7.3.Yüklenicinin sözleşmede hüküm altına alınmış olmasına rağmen; bakım ve onarım yükümlülüğünü yerine getirmekten imtina etmesi veya gecikmeli olarak yerine getirmesi nedeniyle malda oluşacak zarar ve hasarların giderilmesinden Yüklenici sorumludur. Yüklenicinin bakım ve onarım yükümlülüğünü tam veya zamanında yerine getirmemesi sebebiyle malın onarımı imkansız hale gelmişse ve bu durum garanti kapsamı dışında ise Yüklenici, malın aynısını ücretsiz temin etmekle yükümlü olacaktır.
+16.7.4. Bu madde boş bırakılmıştır.
+Madde 17 - Eğitim
+17.1. Bu madde boş bırakılmıştır.
+Madde 18 - Alım konusu mala ilişkin dokümantasyon
+18.1. Yüklenici, alım konusu mala ilişkin bakım talimatları, bakım prosedürleri, yeni parçaların montajı için gerekli montaj bilgilerini içeren teknik kılavuzları ve/veya kullanıcı kılavuzunu İdareye sunmak zorundadır.
+18.1.1. Yüklenici alım konusu malın teknik kılavuz ve kullanıcı kılavuzlarının orijinal dili dışında, Türkçe iki kopyasını vermek zorundadır.
+Madde 19 - Yeni model
+19.1. Sözleşme konusu malın özelliği gereği yeni tasarlanan veya üretilen modeline dönüştürülme imkanının mevcut olması halinde; mevcut teknik şartnameye uygun olması, bu değişiklik sebebiyle fiyat farkı veya ek bir maliyet talep edilmemesi ve İdare ile Yüklenicinin mutabakatı halinde, alım konusu mal yeni tasarlanan veya üretilen modeli ile değiştirilebilir.
+Madde 20 - Ambalajlama
+20.1. Sözleşme konusu mal, teknik şartnamesinde aksi kararlaştırılmadığı durumlarda, orijinal ambalajında teslim edilecektir.
+20.2. Malın uygun şekilde ambalajlanmaması nedeniyle meydana gelebilecek ve sigorta tarafından karşılanmayan hasar, zarar ve eksiklikler Yükleniciye aittir.
+Madde 21 - Reklam yasağı
+21.1. Yüklenici, İdare tarafından yazılı olarak izin verilmediği sürece, temin ettiği mal ile ilgili olarak İdarenin adını broşür veya herhangi bir tanıtım vasıtasında kullanamaz, ilan edemez.
+Madde 22 - Fikri ve sınai mülkiyet hakları
+22.1. Yüklenici, Sözleşme hükümlerine göre sağlayacağı mal ve montaj sistemleri ile bunların herhangi bir parçasına ait marka, patent, endüstriyel tasarım ve faydalı model hak bedellerini ödeyecektir.
+22.2. Yüklenici üstlendiği yükümlülükleri yerine getirmesi sırasında veya getirmesi nedeniyle, ilgili mevzuat hükümleri gereğince koruma altına alınmış fikri ve/veya sınai mülkiyet konusu olan bir hak ve/veya menfaatin ihlal edilmesi halinde, bundan kaynaklanan her türlü idari, hukuki, cezai ve mali sorumluluk kendisine aittir. Yüklenici bu konuda İdareden herhangi bir talepte bulunamaz. Buna rağmen İdare hukuksal bir yaptırımla karşı karşıya kalırsa, diğer hakları saklı kalmak kaydıyla Yükleniciye rücu eder. İdarenin talebi üzerine Yüklenici, sözleşme imzalanmadan önce, üstleneceği hizmetin fikri ve sınai mülkiyet konusu olup olmadığını, eğer bu kapsamda ise konuya ilişkin kendisine ve üçüncü kişilere ait hak ve yükümlülükleri, İdareye tam olarak bildirmek ve belgelendirmek zorundadır.
+22.3. Yüklenici, mal üzerindeki fikri ve/veya sınai mülkiyet konusu hak veya eser üzerindeki hakların lisanslarını İdare adına temin edecektir.
+22.4. Sözleşme konusu malın İdare tarafından geliştirilmiş yeni bir patent, tasarım, buluş, faydalı model ve benzeri kapsamda olması halinde Yüklenici, bu fikri ve sınai haklara tecavüz etmeyeceğini, kendisine teslim edilen proje veya teknik belgelere dayalı olarak herhangi bir sınai mülkiyet iddiasında bulunmayacağını kabul ve taahhüt eder.
+22.5. Bu madde boş bırakılmıştır.
+Madde 23 - Sözleşmede değişiklik yapılması
+23.1. Sözleşme imzalandıktan sonra, sözleşme bedelinin aşılmaması ve İdare ile yüklenicinin karşılıklı olarak anlaşması kaydıyla, aşağıda belirtilen hususlarda sözleşme hükümlerinde değişiklik yapılabilir:
+a) Malın montaj veya teslim yeri.
+b) Malın süresinden önce montaj ve teslim edilmesi kaydıyla işin süresi ve bu süreye uygun olarak ödeme şartları.
+23.2. Bu hallerin dışında sözleşme hükümlerinde değişiklik yapılamaz ve ek sözleşme düzenlenemez.
+Madde 24 - Sözleşme kapsamında yaptırılabilecek ilave işler, iş eksilişi ve işin tasfiyesi
+24.1.Öngörülemeyen durumlar nedeniyle iş artışının zorunlu olması halinde, işin;
+a) Sözleşmeye konu alım içinde kalması,
+b) İdareyi külfete sokmaksızın asıl işten ayrılmasının teknik veya ekonomik olarak mümkün olmaması, şartlarıyla, birim fiyat teklif almak suretiyle ihale edilen mal alımlarında sözleşme bedelinin % 20 'sine kadar oran dahilinde, süre hariç sözleşme ve ihale dokümanındaki hükümler çerçevesinde ilave iş aynı Yükleniciye yaptırılabilir.
+24.2. İşin bu şartlar dahilinde tamamlanamayacağının anlaşılması durumunda ise artış yapılmaksızın hesabı genel hükümlere göre tasfiye edilir. Bu durumda, Yüklenicinin sözleşme bedeli tamamlanıncaya kadar işi ihale dokümanı ve sözleşme hükümlerine uygun olarak yerine getirmesi zorunludur.
+24.3. Bu ihalede, 4735 sayılı Kamu İhale Sözleşmeleri Kanununun 24 üncü maddesi çerçevesinde iş eksilişi yapılabilir. İhale konusu işin sözleşme bedelinin % 80'inden daha düşük bedelle tamamlanacağının anlaşılması halinde ise Yükleniciye, yapmış olduğu gerçek giderler ve yüklenici kârına karşılık olarak, sözleşme bedelinin % 80'i ile sözleşme fiyatlarıyla yaptığı işin tutarı arasındaki bedel farkının % 5'i ödenir.
+Madde 25 – Süre uzatımı verilebilecek haller ve şartları
+25.1. Mücbir sebepler nedeniyle süre uzatımı verilebilecek haller aşağıda sayılmıştır.
+25.1.1. Mücbir sebepler:
+a) Doğal afetler.
+b) Kanuni grev.
+c) Genel salgın hastalık.
+ç) Kısmi veya genel seferberlik ilanı.
+d) Gerektiğinde Kamu İhale Kurumu tarafından belirlenecek benzeri diğer haller.
+25.1.2. Yukarıda belirtilen hallerin mücbir sebep olarak kabul edilmesi ve yükleniciye süre uzatımı verilebilmesi için, mücbir sebep olarak kabul edilecek durumun;
+a) Yüklenicinin kusurundan kaynaklanmamış olması,
+b) Taahhüdün yerine getirilmesine engel nitelikte olması,
+c) Yüklenicinin bu engeli ortadan kaldırmaya gücünün yetmemesi,
+ç) Mücbir sebebin meydana geldiği tarihi izleyen yirmi gün içinde yüklenicinin İdareye yazılı olarak bildirimde bulunması,
+d) Yetkili merciler tarafından belgelendirilmesi,zorunludur.
+25.2. İdareden kaynaklanan nedenlerle süre uzatımı verilecek haller
+25.2.1. İdarenin sözleşmenin ifasına ilişkin yükümlülüklerini yüklenicinin kusuru olmaksızın, öngörülen süreler içinde yerine getirmemesi ve bu sebeple sorumluluğu yükleniciye ait olmayan gecikmelerin meydana gelmesi, bu durumun taahhüdün yerine getirilmesine engel nitelikte olması ve yüklenicinin bu engeli ortadan kaldırmaya gücünün yetmemiş olması halinde, işi engelleyici sebeplere ve yapılacak işin niteliğine göre, işin bir kısmına veya tamamına ait süre en az gecikilen süre kadar uzatılır.
+25.2.2. Yükleniciye süre uzatımı verilmesi halinde, yüklenici yeni teslim sürelerini gösterir teslim programını en geç beş iş günü içinde İdareye bildirir.
+25.3 İş artışı yapılması durumunda işin süresi, bu artışla orantılı olarak işin ilgili kısmı veya tamamı için uzatılır.
+Madde 26 - Sigorta
+26.1. Bu madde boş bırakılmıştır.
+26.2. Yüklenici, sigorta poliçelerini teslim programına uygun olarak İdareye vermek zorundadır. Aksi halde yükleniciye ödeme yapılmaz. Sözleşmenin feshi veya tasfiyesi halinde bu sigortalar, iş yeni Yükleniciye ihale edilinceye kadar devam ettirilir ve bu süreye ilişkin sigorta giderleri ilk Yüklenici tarafından karşılanır. Ancak bu süre, fesih veya tasfiye tarihinden başlamak üzere doksan günü geçemez.
+Madde 27 - İdarenin yükümlülükleri
+27.1. Montaj gerektiren işlerde işyerinin yükleniciye teslimi
+27.1.1. İdare, sözleşmenin imzalanmasından sonra işe başlama yazısı ile malın montajının yapılacağı yeri Yüklenicinin kullanımına hazır hale getirir. İşyerinin teslimi sırasında taraflarca işyerinin halihazır durumunu gösteren bir tutanak düzenlenir.
+27.1.2. İdare, Yükleniciye ek mali yük getirmemesi kaydıyla malın montajının yapılacağı yeri her zaman değiştirebilir. Yüklenicinin montaj yerinin değişikliğine yönelik talebinin ise İdare tarafından uygun görülmesi zorunludur.
+27.1.3. İşyeri değişikliği ve malın teslim veya montajının yapılacağı yerin Yükleniciye geç teslimi gibi nedenlerle işin süresinde bitmeyeceğinin anlaşılması durumunda, işin bir kısmına veya tamamına ilişkin süre, yeteri kadar uzatılır.
+27.1.4. İdare tarafından, montajda kullanılacak malzeme ve araçların konulacağı yerler ile yüklenici personelinin çalışacağı yerler için Yükleniciden bir ücret alınmaz.
+27.2. Montajlı işlerde plan ve projelerin yükleniciye teslimi
+27.2.1. İdare, malın cinsi ve niteliği gereği montaj sırasında ihtiyaç duyulacak plan ve projeleri Yükleniciye tutanakla teslim eder. Yüklenici masraflarını karşılamak kaydıyla söz konusu belgelerden birden fazla nüsha isteme hakkına sahiptir.
+27.2.2. Yüklenici; montaj projelerinin ve/veya teknik belgelerin ve montaj veya teslim için gösterilen yerin, sözleşmenin ifasına engel teşkil edecek nitelikte olduğunu veya teknik açıdan yetersiz olduğunu ileri sürerse, bu husustaki görüşlerini, talimat veya belgelerin teslim tarihinden başlayarak beş iş günü içinde İdareye yazı ile bildirmek zorundadır.
+27.3. İzinler ve ruhsatlar
+27.3.1. Sözleşme konusu malların teslim ve/veya montajı için gerekli izin, ruhsat ve onaylardan İdarenin yükümlülüğünde olanların alınması ve/veya bu konuda Yükleniciye gerekli yardımların yapılması İdarenin yükümlülüğü altındadır.
+27.4. İdarenin personeli
+27.4.1. Sözleşme konusu ile sınırlı olmak ve ihale dokümanında belirtilmiş olması kaydıyla; malların teslimi, montajı, işletmeye alınması ve bu mallarla ilgili eğitim verilmesi için Yüklenicinin İdarenin personelinden yardım alması veya birlikte çalışması gerekirse İdare; Yüklenicinin personeline gerekli yardımda bulunur ve/veya birlikte çalışacak personelinin adını, soyadını, çalıştıkları birimleri, yardım veya işin kapsamı ile süresini Yükleniciye yazılı olarak bildirir.
+Madde 28 - Bildirimler, olurlar, onaylar, belgeler ve tespitler
+28.1. İdare ve Yüklenici arasında sözleşmenin uygulanmasına yönelik her türlü işlem yazılı yapılır. Sözleşmeye göre taraflardan birinin işin yürütülmesi ve malın teslim edilmesine ilişkin bir izin, onay, belge, olur vermesi veya tespit yapması, ihbar, çağrı veya davette bulunması gerektiğinde bu işlemler taraflar arasında yazılı olarak yapılır.
+28.2. İdare veya Yüklenici, sözleşmenin yürütülmesi ve/veya malın teslim edilmesine ilişkin tespit yapılmasını gerektiren durumlarda, bu tespiti yazılı olarak yapar veya yaptırır ve tutanağa bağlar.
+Madde 29 - Yüklenicinin vekili
+29.1.Yüklenici, bu sözleşmeden kaynaklanan yükümlülüklerini yerine getirirken İdarenin onayı ile sorumlu bir vekil atayabilir. Bu durumda Yüklenici, sözleşmenin imzalanmasından sonra İdarenin uygun göreceği bildirim süreleri ve koşullar dahilinde noterlikçe tanzim edilecek yetki belgesi ile birlikte yetkili temsilcisinin (yüklenici vekili) adı, soyadı, adres ve telefonlarını İdareye bildirmekle yükümlüdür.
+29.2. Yüklenici vekili, muayene ve kabul işlemleri ya da montaj işlemleri sırasında, İdarenin yetkili birimleri veya komisyonları ile birlikte çalışacaktır.
+Madde 30 – Denetim, muayene ve kabul işlemleri
+30.1. ) İmalat veya üretim sürecinde ara denetim yapılmayacaktır.
+b) Ara denetim için hizmet alınmayacaktır
+c) Muayenede izlenecek yöntem,
+ç) Laboratuvar muayenesi yapılmayacaktır,
+d) İtiraz muayenesi için hakem laboratuvar belirlenmeyecektir.
+e) Muayene sonucunda uygun çıkmayan mallar idarenin deposundan 15 gün içerisinde geri alınacaktır.
+f) Kısmi, geçici ve kesin kabul yapılmayacaktır.
+30.2. Bu sözleşme ve eklerinde, muayene ve kabul işlemlerine ilişkin düzenlenmeyen hususlarda; Kamu İhale Kurumu tarafından yayımlanan Mal Alımları Denetim Muayene ve Kabul İşlemlerine Dair Yönetmelik’te hüküm bulunması halinde bu düzenlemeler esas alınacaktır.
+Madde 31 - Ödeme belgelerinin düzenlenmesi
+31.1. Yüklenicinin teslim edeceği mal götürü olarak, partiler veya bölümler halinde ya da tek bir seferde teslim alınacaksa, Yüklenici veya vekilinin hazır bulunması ile Komisyon tarafından; her teslimatta;
+a) Sözleşme başlangıcından itibaren teslim edilen malların miktarı,
+b) Malların ya da yapılan işin sözleşme ve ekinde yer alan teknik şartnameye uygunluğu,
+bir kabul tutanağı ile tespit edilir. Tutanak sonucunda komisyon malların kalitesini, teknik şartnamede belirtilen özelliklere uygunluğu ile varsa hatalı ve kusurlu olanları belirtir. Komisyon burada yazılanlarla sınırlı olmaksızın, kendi görev ve yetkileri dahilinde varsa ilave görüşlerine de sözleşme ve teknik şartname çerçevesinde komisyonun görev ve yetkileri dahilinde raporunda yer verir.
+31.2. Komisyon tarafından, raporun sonuç bölümünde malların hatasız kabulü ile malların/işlerin gerekli özellikleri taşımaması ya da teknik şartnamesine uymaması halinde reddini içerir rapor düzenlenir ve İdareye sunulur.
+31.3. İdare, kabule ilişkin belgeyi ödeme belgesinin eki yapmak suretiyle malın bedelinin ödenmesine ilişkin mevzuatına uygun bir ödeme belgesi düzenleyerek ödeme işlemlerini başlatır. Ancak akreditif ve avans ödemelerinde, ödeme yapılabilmesi muayene kabul işlemlerinden muaftır.
+31.4. Bu madde boş bırakılmıştır.
+Madde 32 - Sözleşmenin devir şartları
+32.1. Sözleşme, zorunlu hallerde ihale yetkilisinin yazılı izni ile başkasına devredilebilir. Ancak, devir alacaklarda ilk ihaledeki şartların aranması zorunludur. Ayrıca, isim ve statü değişikliği gereği yapılan devirler hariç olmak üzere, 4734 sayılı Kanun kapsamında gerçekleştirilen ihalelerde bir sözleşmenin devredildiği tarihi takip eden üç yıl içinde aynı yüklenici tarafından başka bir sözleşme devredilemez veya devir alınamaz. İzinsiz devredilen veya devir alınan veya bir sözleşmenin devredildiği tarihi takip eden üç yıl içinde devredilen veya devir alınan sözleşmeler feshedilerek, devreden ve devir alanlar hakkında 4735 sayılı Kanunun 20, 22 ve 26 ncı madde hükümleri uygulanır.
+32.2. İhale yetkilisince gerekli iznin verilmesi üzerine devir sözleşmesi imzalanmadan önce, sözleşmeyi devralan Yüklenici, 4734 sayılı Kanunda sayılan değerler üzerinden sözleşme bedelinin % 6’sı oranında kesin teminatı İdareye vermek zorundadır. Bu durumda İdare, devredenden almış olduğu kesin teminatı, devir sözleşmesinin imzalanmasını takip eden ilk iş günü içinde kendisine iade eder.
+Madde 33 - Sözleşme ve eklerine uymayan işler
+33.1. Yüklenici teslim, montaj ve ambalajlama şekli ve durumu, söz-leşme ve şartnamelere uymayan veya eksik ve kusurlu oldukları tespit edilen malları, İdarenin talimatı ile belirlenen süre içinde bedelsiz olarak değiştirmek veya düzeltmek zorundadır. Bundan dolayı bir gecikme olursa bu sözleşmenin gecikme cezasına ilişkin hükümleri uygulanır.
+33.2. Yüklenici tarafından teknik şartnamede yapılan düzenlemeden farklı olarak montaj veya imalatın daha etkin bir şekilde gerçekleştirilmesinin sağlanması için teknik ve sanat kurallarına ve istenen özelliklere uygun ve daha iyi özelliklere sahip bir imalat önerilebilir. Bu öneri, İdare tarafından onaylanması halinde kabul edilebilir. Ancak, bu takdirde Yüklenici ilave bedel isteyemez.
+Madde 34 - Gecikme halinde uygulanacak cezalar ve kesintiler ile sözleşmenin feshi
+34.1. İdare tarafından, bu sözleşmede belirtilen süre uzatımı halleri hariç, Yüklenicinin, sözleşmeye uygun olarak malı veya malları süresinde teslim etmemesi halinde 5 (Beş) gün süreli yazılı ihtar yapılarak gecikme cezası uygulanır.
+34.2. Yüklenicinin, sözleşmeye uygun olarak malı süresinde teslim etmemesi halinde, gecikilen her takvim günü için sözleşme bedelinin %2 (Onbindeiki) oranında gecikme cezası uygulanır.
+34.3. Gecikme cezası, ayrıca protesto çekmeye gerek kalmaksızın yükleniciye yapılacak ödemelerden kesilir. Bu ceza tutarı; ödemelerden ve kesin teminat ile varsa ek kesin teminatlardan karşılanamaması halinde Yükleniciden ayrıca tahsil edilir.
+34.4. İhtarda belirtilen sürenin bitmesine rağmen aynı durumun devam etmesi halinde, ayrıca protesto çekmeye gerek kalmaksızın kesin teminat ve varsa ek kesin teminatlar gelir kaydedilir ve sözleşme feshedilerek, alım konusu iş genel hükümlere göre tasfiye edilir.
+34.5. Sözleşmenin uygulanması sırasında yüklenicinin 4735 sayılı Kanunun 25 inci maddesinde sayılan yasak fiil veya davranışlarda bulunduğunun tespit edilmesi halinde ise ayrıca protesto çekmeye gerek kalmaksızın kesin teminat ve varsa ek kesin teminatlar gelir kaydedilir ve sözleşme feshedilerek hesabı genel hükümlere göre tasfiye edilir.
+34.6. İdareye süresi içerisinde teslim edilen malların muayene ve kabulü için İdare tarafından yapılan inceleme sırasında geçen süreler işin süresinden sayılmaz. Son teslim tarihinden önce teslim edilen ve sözleşme ve eklerine uygun olmayan malların sözleşme şartlarına uygun mallar ile değiştirilmesi için teslim süresi içerisinde 1 (Bir) defaya mahsus yükleniciye teslim imkanı verilir. Ancak verilen süre içerisinde yeni mal tesliminin yapılması halinde, İdare tarafından daha önce yapılan muayene ve kabul işlemleri ile yukarıdaki düzenlemeler çevresinde ihtar yapılır.
+Madde 35 - Sözleşmenin feshi ve işin tasfiyesi
+35.1. İdarenin sözleşmeyi feshetmesi
+35.1.1. İdare, aşağıda belirtilen hallerde sözleşmeyi fesheder:
+a) Yüklenicinin taahhüdünü ihale dokümanı ve sözleşme hükümlerine uygun olarak yerine getirmemesi veya işi süresinde bitirmemesi üzerine, bu sözleşmenin gecikme cezasını düzenleyen maddesinde belirlenen oranda gecikme cezası uygulanmak üzere, İdarenin bu sözleşmede belirlediği süreyi ve açıklamaları içeren ihtarına rağmen aynı durumun devam etmesi,
+b) Sözleşmenin uygulanması sırasında Yüklenicinin 4735 sayılı Kanunun 25 inci maddesinde sayılan yasak fiil veya davranışlarda bulunduğunun tespit edilmesi,
+hallerinde, ayrıca protesto çekmeye gerek kalmaksızın kesin teminat ve varsa ek kesin teminatlar gelir kaydedilir ve sözleşme feshedilerek hesabı genel hükümlere göre tasfiye edilir.
+35.2. Yüklenicinin sözleşmeyi feshetmesi
+35.2.1. Yüklenici, sözleşme yapıldıktan sonra, mücbir sebep halleri dışında, mali acz içinde bulunması nedeniyle taahhüdünü yerine getiremeyeceğini gerekçeleri ve bunları kanıtlayan belge ya da kararlar ile birlikte yazılı olarak İdareye bildirmesi halinde, ayrıca protesto çekmeye gerek kalmaksızın kesin teminat ve varsa ek kesin teminatlar gelir kaydedilir ve sözleşme feshedilerek hesabı genel hükümlere göre tasfiye edilir.
+35.3. Sözleşmeden önceki yasak fiil veya davranışlar nedeniyle fesih
+35.3.1. Yüklenicinin, ihale sürecinde 4734 sayılı Kanuna göre yasak fiil veya davranışlarda bulunduğunun sözleşme yapıldıktan sonra tespit edilmesi halinde, kesin teminat ve varsa ek kesin teminatlar gelir kaydedilir ve sözleşme feshedilerek hesabı genel hükümlere göre tasfiye edilir. Ancak, taahhüdün en az % 80’inin tamamlanmış olması ve taahhüdün tamamlattırılmasında kamu yararı bulunması kaydıyla;
+a) İvediliği nedeniyle taahhüdün kalan kısmının yeniden ihale edilmesi için yeterli sürenin bulunmaması,
+b) Taahhüdün başka bir yükleniciye yaptırılmasının mümkün olmaması,
+c) Yüklenicinin yasak fiil veya davranışının taahhüdünü tamamlamasını engelleyecek nitelikte olmaması,
+hallerinde, İdare sözleşmeyi feshetmeksizin yükleniciden taahhüdünü tamamlamasını isteyebilir ve bu takdirde yüklenici taahhüdünü tamamlamak zorundadır. Ancak bu durumda, Yüklenici hakkında 4735 sayılı Kanunun 26 ncı maddesi hükmüne göre işlem yapılır ve yükleniciden kesin teminat ve varsa ek kesin teminatların tutarı kadar ceza tahsil edilir. Bu ceza hakedişlerden kesinti yapılmak suretiyle de tahsil edilebilir.
+35.4. Mücbir sebeplerden dolayı sözleşmenin feshi
+35.4.1. Mücbir sebeplerden dolayı sözleşmenin feshedilmesi halinde, sözleşme konusu işlere ilişkin hesap genel hükümlere göre tasfiye edilerek, kesin teminat ve varsa ek kesin teminatlar iade edilir.
+Madde 36 - Fesih tarihinin belirlenmesi
+36.1. 4735 sayılı Kanunun 19 uncu maddesine göre Yüklenicinin fesih talebinin İdareye intikali, anılan Kanunun 20 nci maddesinin birinci fıkrasının (a) bendine göre belirlenen sürenin bitimi, 20 nci maddenin birinci fıkrasının (b) bendi ile 21 inci maddeye göre yapılan fesihlerde fesih sebebinin tespit tarihi itibariyle sözleşme feshedilmiş sayılır. Bu tarihleri izleyen yedi gün içinde İdare tarafından fesih kararı alınır. Bu karar, karar tarihini izleyen beş gün içinde Yükleniciye bildirilir.
+36.2. 4735 sayılı Kanunun 19, 20 ve 21 inci maddelerine göre sözleşmenin feshedilmesi halinde, kesin teminat ve varsa ek kesin teminatlar alındığı tarihten gelir kaydedileceği tarihe kadar Türkiye İstatistik Kurumu tarafından yayımlanan aylık toptan eşya fiyat endeksine göre güncellenir. Güncellenen tutar ile kesin teminat ve varsa ek kesin teminatların tutarı arasındaki fark Yükleniciden tahsil edilir. Ödemelerden kesinti yapılmak suretiyle teminat alınan hallerde, alıkonulan tutar gelir kaydedileceği gibi, sözleşmenin feshedildiği tarihten sonra yapılmayan iş miktarına isabet eden teminat tutarı da aynı şekilde güncellenerek Yükleniciden tahsil edilir. Gelir kaydedilen teminatlar, Yüklenicinin borcuna mahsup edilemez.
+36.3. 4735 sayılı Kanunun 19, 20 ve 21 inci maddelerine göre sözleşmenin feshedilmesi halinde, Yüklenici, hakkında anılan Kanunun 26 ncı maddesinde belirtilen hükümlere göre işlem yapılır. Ayrıca, sözleşmenin feshi nedeniyle İdarenin uğradığı zarar ve ziyan Yükleniciye tazmin ettirilir. İdare fesih işleminden sonra işi, 4734 sayılı Kanunda belirlenen usullerden uygun olan biri ile ihale etmekte serbesttir. Geri kalan işlerin başka bir yükleniciye yaptırılmasından dolayı Yüklenici, hiçbir hak iddiasında bulunamaz.
+Madde 37 - Fesih halinde yapılacak işlemler
+37.1. Sözleşmenin feshi halinde, Yüklenici, teslim işlemlerini durdurur. İdare tarafından ilgili mevzuata ve sözleşmeye uygun olarak verilen diğer talimatları yerine getirir. Yüklenici alım konusu işi İdarenin işyerinde yerine getirmesi durumunda işyerini terk eder. İdare tarafından kendisine verilen malzemeleri, araçları, tüm evrak ve belgeleri, iş için yaptırdığı tasarım ve çizimleri, İdarenin talebi üzerine yazılı bir tutanakla teslim eder. Yüklenici ve/veya alt yüklenici, işyerinin korunması ve alınması gereken güvenlik önlemleri konularında İdarenin vermiş olduğu talimatları derhal yerine getirir. İdarenin, sözleşmenin feshi nedeniyle işi başka bir yükleniciye tamamlatması halinde, Yüklenicinin belgeleri kullanılabilir. Bu durumda, Yüklenici herhangi bir hak iddia edemez.
+37.2. İdare, Yüklenicinin işyerindeki montaj malzemeleri ile geçici tesislerin teslim edileceği zamanı yazılı olarak bildirir. Bu ihbar üzerine, Yüklenici risk ve masrafları kendisine ait olmak üzere işyerini terk eder. Yüklenicinin, İdareye ödemesi gereken bir tutar bulunması halinde, İdare söz konusu malzemeler ve geçici tesisleri bu tutarı karşılamak üzere satabilir ve varsa bakiye tutar Yükleniciye ödenir. İdare bu işlemlerinde genel hukuk hükümlerini esas alır.
+37.3. Fesih tarihi itibariyle İdare, Yüklenici tarafından yapılan veya teslim edilen mal miktarlarını, hata ve eksiklerinin giderilme masrafları ile Sözleşme gereğince Yükleniciye ödenmesi gereken değerleri tespit eder.
+37.4. İdare, hata ve eksikler bulunan işte, hata ve eksikliklerin giderilmesi için yapılacak masraflar belirleninceye kadar Yükleniciye yapacağı ödemeleri durdurma hakkına sahiptir.
+37.5. Sözleşmede hüküm olmayan hallerde, genel hükümlere göre işlem yapılır.
+37.6. Sözleşmenin feshedilmesi halinde, Yüklenicinin kesin teminatı ve varsa ek kesin teminatı:
+a) Tedavüldeki Türk parası ise doğrudan doğruya,
+b) Banka teminat mektubu ise bankadan tahsil edilerek,
+c) Devlet tahvilleri, Hazine kefaletini haiz tahviller ise paraya çevrilmek suretiyle,
+gelir kaydedilir. Gelir kaydedilen kesin teminat, Yüklenicinin borcuna mahsup edilemez.
+Madde 38 - Sözleşmenin feshi halinde yüklenicinin mallarının tahliyesi
+38.1. Sözleşmenin feshi halinde, Yüklenici, işin teslimi veya montajı için gerekli olan ve İdarenin işyerinde bulunan malzeme ve ekipmanları ve/veya ihale dokümanına uygun olmayan teslim edilen mallarını İdarenin izni ile alabilir. İdare bu talepleri üç iş günü içerisinde inceleyip, sonuçlandırmak zorundadır.
+Madde 39 – Yüklenicinin ölümü, iflası, ağır hastalığı, tutukluğu veya mahkumiyeti
+39.1. Yüklenicinin ölümü, iflası, ağır hastalığı, tutukluluğu veya özgürlüğü kısıtlayıcı bir cezaya mahkumiyeti hallerinde 4735 sayılı Kanunun ilgili hükümlerine göre işlem tesis edilir.
+39.2. Ortak girişimce yerine getirilen taahhütlerde, ortaklardan birinin ölümü, iflası, ağır hastalığı, tutukluğu veya özgürlüğü kısıtlayıcı bir cezaya mahkumiyeti hallerinde de 4735 sayılı Kanunun ilgili hükümlerine göre işlem tesis edilir.
+Madde 40 - Kabulden sonraki hata ve ayıplardan sorumluluk
+40.1. İdare, teslim edilen malda/işte hileli malzeme kullanılması veya malın teknik gereklerine uygun olarak imal edilmemiş olması veya malda/işte gizli ayıpların olması halinde, malın teknik şartnameye uygun başkan bir mal ile değiştirilmesi veya işin teknik şartnameye uygun hale getirilmesini Yükleniciden talep eder. Malın/işin İdare tarafından kabul edilmesi veya işin üretim aşamasında ya da teslim öncesi imalat aşamasında denetlenmiş olması veya işin kabul edilmiş olması yüklenicinin sözleşme hükümlerine uygun mal teslimi veya iş yapma hususundaki sorumluluğunu ortadan kaldırmaz.
+40.2. Piyasa denetimi ve gözetimi konusunda yetkili kuruluşlar tarafından alım konusu malın veya malların piyasaya arzının yasaklanması, piyasadan toplanması veya ürünlerin güvenli hale getirilmesinin imkansız olduğunun tespit edilmesi durumlarında, yüklenici malı veya malları geri almak ve satış bedelini iade etmekle yükümlüdür. Ayrıca, bu mal veya malların kullanılmasından kaynaklanan zararları tazmin etmekle yükümlüdür. Yüklenici tarafından geri alınan malların piyasaya arz edilen yeni modellerlerle değiştirilmesinin talep edilmesi ve bu talebin İdare tarafından uygun görülmesi durumunda yeni model kabul edilebilir. Yeni model için ayrıca ek bir ödeme yapılmaz.
+Madde 41 - Yüklenicinin ceza sorumluluğu
+41.1. İş tamamlandıktan ve kabul işlemi yapıldıktan sonra tespit edilmiş olsa dahi, 4735 sayılı Kanunun 25 inci maddesinde belirtilen fiil veya davranışlardan, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununa göre suç teşkil eden fiil veya davranışlarda bulunan Yüklenici ile o işteki ortak veya vekilleri hakkında 5237 sayılı Türk Ceza Kanunu hükümlerine göre ceza kovuşturması yapılmak üzere yetkili Cumhuriyet Savcılığına suç duyurusunda bulunulur. Bu kişiler hakkında bir cezaya hükmedilmesi halinde, 4735 sayılı Kanunun 27 nci maddesi hükmü uygulanır.
+Madde 42 - Anlaşmazlıkların çözümü
+42.1 Bu sözleşme ve eklerinin uygulanmasından doğabilecek her türlü anlaşmazlığın çözümünde GÜNEŞLİ mahkemeleri ve icra daireleri yetkilidir.
+Madde 43 - Hüküm bulunmayan haller
+43.1. Bu sözleşme ve eklerinde hüküm bulunmayan hallerde, ilgisine göre 4734 sayılı Kanun ve 4735 sayılı Kanun hükümleri, bu Kanunlarda hüküm bulunmaması halinde ise Borçlar Kanunu hükümleri uygulanır.
+Madde 44 - Diğer hususlar
+44.1. Bu madde boş bırakılmıştır.
+Madde 45 - Yürürlük
+45.1. Bu sözleşme taraflarca imzalandığı tarihte yürürlüğe girer.
+Madde 46 - Sözleşmenin imzalanması
+46.1. Bu sözleşme 46 (Kırkaltı) maddeden ibaret olup, İdare ve Yüklenici tarafından tam olarak okunup anlaşıldıktan sonra …./…../20 tarihinde 1 (Bir) nüsha olarak imza altına alınmıştır. Ayrıca İdare, Yüklenicinin talebi halinde sözleşmenin “aslına uygun idarece onaylı suretini” düzenleyip yükleniciye verecektir.
+İDARE                                                                    YÜKLENİCİ

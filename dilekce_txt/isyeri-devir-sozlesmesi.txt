@@ -1,0 +1,18 @@
+İşyeri Devir Sözleşmesi
+Devir Edenlerin;
+Adı Soyadı   :
+TC No          :
+Adresi          :
+Devir Alanlar;
+Ad Soyad     :
+Adres           :
+TC No          :
+Devredilen İşyerinin Adresi:
+İşyeri Devrinin Bedeli   :
+1. Devir edenler yukarıda gösterilen bedel karşılığında işletme hakkının tamamı ve işyerinin içindeki demirbaşlar ile devir alana devir ve teslim etmeyi kabul ve beyan ederler.
+2. Devir edenler devir bedelini devir alanlardan nakten ve tamamen aldıklarını ve başkaca bir alacaklarının kalmadığını kabul ve beyan ederler.
+3. Devir alanlar yukarıda gösterilen bedel karşılığında işletme hakkının tamamı ve işyerinin içindeki demirbaşlar ile devir ve teslim aldıklarını kabul ve bayan ederler.
+4. Devir alanlar devir bedelini nakten ve tamamen ödediklerini, devir edene herhangi bir borçları kalmadığını kabul ve beyan ederler. ../../......
+DEVİR EDENLER                                                    DEVİR ALANLAR
+Ad Soyad                                                                 Ad Soyad
+İmza                                                                         İmza

@@ -1,0 +1,15 @@
+Alacağın Tahsili Nedeni ile Dosyanın İşlemden Kaldırılması İstemi
+Dosya Esas: …./….
+….. İCRA MÜDÜRLÜĞÜ’NE
+ALACAKLI                   :(Ad, Soyad, TC, Adres)
+VEKİLİ                          :(Ad, Soyad, Adres)
+BORÇLU                     : (Ad, Soyad, Adres)
+KONU                          : Dosyanın işlemden kaldırılmasına ilişkin dilekçedir
+AÇIKLAMALAR          :
+Yukarıda dosya numarası yazılı bulunan icra takip dosyasında alacağımızın tamamını haricen borçludan tahsil ettiğimizden yukarıda bilgileri bulunan icra takip dosyasının işlemden kaldırılması talep etme zarureti hâsıl olmuştur.
+HUKUKİ DELİLLER        :  her türlü delil.
+HUKUKİ SEBEPLER     :ilgili mevzuat.
+SONUÇ VE İSTEM         : Yukarıda kısaca izah edildiği üzere,yukarıda dosya numarası yazılı bulunan icra takip dosyasında alacağın tamamını haricen  borçludan tahsil edildiğinden dosyanın işlemden kaldırılmasına karar verilmesi hususunda  gereğini bilvekale talep ederim.
+(Tarih)
+ALACAKLI VEKİLİ
+(Ad, Soyad, İmza)

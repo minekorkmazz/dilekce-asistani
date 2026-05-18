@@ -1,0 +1,28 @@
+Görüşme Tutanağı (2) – Yazışmalar ve Formlar
+MÜDAFİ-ŞÜPHELİ GÖRÜŞME TUTANAĞI
+HUKUKİ YARDIM İSTEYEN                                    : (Ad, Soyad, TC, Adres)
+ADRES                                                          :
+TELEFON                                                     :
+GÖRÜŞME YERİ                                         :
+GÖRÜŞME TARİHİ                                      :
+GÖRÜŞME BAŞLAMA SAATİ                     :
+ŞÜPHELİNİN ADI SOYADI                          :
+YAKALANDIĞI YER                                     :
+YAKALAMA TARİHİ VE SAATİ                   :
+SUÇ İSNADI ANLATILMIŞ MI ?                  :
+YAKINLARINA HABER VERİLMİŞ Mİ ?     :
+MÜDAFİDEN YARARLANMA HAKKI ANLATILMIŞ MI ?:
+TEMEL İHTİYAÇLARI KARŞILANMIŞ MI ?           :
+KARŞILANMIŞSA HANGİLERİ                   :
+YAKALAMA ANINDA VE KARAKOLDA
+KÖTÜ MUAMELE/İŞKENCE GÖRMÜŞ MÜ ?:
+GÖRMÜŞSE TESPİT EDİLEN
+İZLER VE OLAYIN ANLATIMI                     :
+OLAY HAKKINDA İFADE VERMİŞ Mİ ?     :
+İFADE VERMEYE ZORLANMIŞ MI ?         :
+YER GÖSTERME YAPILMIŞ MI ?              :
+ARAMA YAPILMIŞ MI ?                               :
+ELKOYMA YAPILMIŞ MI ?                          :
+DOKTORLA YALNIZ GÖRÜŞTÜ MÜ ?      :
+GÖRÜŞME BİTİŞ SAATİ                             :
+AVUKAT                                                                      HUKUKİ YARDIM İSTEYEN

@@ -1,0 +1,32 @@
+İş İnceleme Raporu Örneği
+1-İnceleme Emri Veren Makamın
+Adı:
+Emir Tarihi:
+Emir Sayısı:(Buraya İnceleme emrini veren makam ile emrin tarih ve sayısı yazılır.)
+2-İncelemecinin
+Adı, Soyadı:
+İncelemecinin görevi:
+3- Hakkında İnceleme Yapılanın Bilgileri:
+Adı:
+Soyadı:
+TC Kimlik No:
+Resmi Görevi:
+Görev Yeri:
+4- Fiil Olay Hakkında:
+Olay Tarihi:
+Olay Yeri:
+Olayın Şekli: ……
+5- İncelemeye Başlama Tarihi: …/…/…
+6- İncelemenin Sona Erdiği Tarih: …/…/…
+7- Konu:
+İncelemenin konusu olan fiilin/olayın ayrıntılı açıklaması yapılır.
+8-Yapılan İşlemler:
+Bu bölümde, inceleme konusu olayın ne olduğunu açıklanarak incelemeye ne şekilde başlandığı, bu kapsamda nelerin inceleme konusu yapıldığı, şikâyetçi, sanık ve varsa tanık ifadeleriyle inceleme kapsamında yapılan diğer işlemler ve elde edilen bilgi ve belgeler özetlenir.
+9-Tahlil Münakaşa ve Kanaat:
+Bu bölümde incelenen deliller ışığında, olayın tahlili ve değerlendirilmesi yapılır.
+10-Sonuç :
+Bu bölümde yapılan değerlendirme ışığında, olayın suç teşkil edip etmediği, suç teşkil ediyorsa kim ya da kimler hakkında, hangi konularla ilgili soruşturma açılması gerektiği ifade edilir.
+Olay suç teşkil etmemekle birlikte ilgililerin davranışlarında, işin ya da görevin gereklerini yerine getirme hususunda daha dikkatli olmaları gerektiği değerlendiriliyor ise bu hususa da raporda ayrıca yer verilebilir.
+..…..…………….
+İNCELEMECİ
+(AD, SOYADI, İMZA)

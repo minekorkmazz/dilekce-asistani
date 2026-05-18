@@ -1,0 +1,75 @@
+Devir Hak Sahipliği Değişiliği Talep Formu[1]
+M106  DEVİR/ HAK SAHİPLİĞİ  DEĞİŞİKLİĞİ  TALEP   FORMU
+Referans No:
+Toplam  Sayfa Sayısı
+(Başvuru Sahibi Tarafından
+Doldurulacak)
+Toplam  Sayfa Sayısı
+(Kurum Tarafından
+Doldurulacak)
+Bu Alanı Boş Bırakınız
+(1)   MARKA BİLGİLERİ
+Başvuru/Tescil Numaraları
+Başvuru Sahibi
+(2)  TALEP EDİLEN İŞLEM TÜRÜ
+( Talep edilen işlem türünü seçiniz. Yalnız bir seçeneği işaretleyiniz.)
+Tam Devir
+Birleşme
+Miras Yoluyla İntikal
+Mahkeme Kararı İle Devir
+(3) YENİ  MARKA SAHİBİ
+Gerçek Kişi
+Tüzel Kişi
+TÜRKPATENT Müşteri No (*)
+Adı Soyadı/Unvanı
+Uyruğu
+Kayıtlı Olduğu Ülke
+T.C.Kimlik No
+Vergi Dairesi
+Vergi No
+Adres
+Semt
+İlçe
+İl
+Posta Kodu
+Telefon No.
+Faks No.
+Başvuru sahibi birden fazla ise bu kutucuğu işaretleyiniz ve diğer kişilere ait bilgileri ek sayfalarda belirtiniz. Sahip sayısı :
+(4) VEKİL
+Yok
+Var (Önceden Atanan)
+Var (Yeni Atanan)
+Vekil Sicil No (**)
+Adı Soyadı
+Firma Ünvanı
+Adres
+Semt
+İlçe
+İl
+Posta Kodu
+Telefon No.
+Faks No.
+Vekaletname(***)
+Ektedir
+(5) SUNULMASI ZORUNLU BELGELER
+Devir Sözleşmesi (varsa)
+Ektedir
+Türkçe Tercümesi ( devir sözleşmesinin yabancı dilde olması halinde)
+Ektedir
+Mirasçılık Belgesi
+Ektedir
+Diğer
+Ektedir
+(6) ÖDEME ve FATURA BİLGİLERİ
+Ödemeyi  Yapan
+Vekil
+Talep Sahibi
+Ödemenin Yapıldığı Banka ve Şubesi
+Dekont Numarası
+Dekont Tarihi
+Adı Soyadı/Unvanı
+Tarih
+İmza
+(7) EK SAYFA
+( Gerekiyorsa Kullanınız.)
+[1] Bu form, 30.07.2019 https://www.turkpatent.gov.tr/TURKPATENT/forms/informationDetail?id=100adresinden alınmıştır.

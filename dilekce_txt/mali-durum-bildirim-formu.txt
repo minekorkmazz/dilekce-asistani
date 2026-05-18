@@ -1,0 +1,57 @@
+Mali Durum Bildirim Formu[1]
+Ek:2
+MALİ DURUM BİLDİRİM FORMU
+………………………….Sosyal Güvenlik İl Müdürlüğüne
+……………………………….Sosyal Güvenlik Merkezine
+……………..
+Müdürlüğünüzde / Merkezinizde işlem gören  ……..……………  nolu işyerimden /sigortalılığımdan kaynaklanan ve .../…/……… tarihi itibariyle gecikme cezası ve zammı dahil toplam ….…………… TL tutarındaki borcumun 6183 sayılı Kanunun 48 inci maddesi gereği tecil ve taksitlendirilmesi için …./…./…. tarihi itibariyle mali durumumun tespitine ilişkin bilgiler aşağıda belirtilmiştir.
+Beyan ettiğim bilgilerin işyeri defter ve belgelerine uygun ve doğru olduğunu kabul ve taahhüt ederim.                 …./…./….
+Adı Soyadı
+Ünvanı
+İmza, Kaşe
+T.C.Kimlik No
+Adı , Soyadı ve Ünvanı
+*İşyeri sicil no
+*İşyeri sicil no
+Vergi dairesi ve no
+Ticaret sicil no
+İşyeri adresi
+İşyeri telefon no
+İkametgah adresi
+…./…./….     Tarihi İtibari İle Mali Durumu Gösterir Değerler (Toplam)**
+Kasa
+Banka
+Kısa Vadeli Alacaklar
+Kısa Vadeli Borçlar
+1- Bu formun arka sayfasındaki açıklamalar eksiksiz olarak doldurulacaktır.
+2-Mali durum tespitine  esas olmak üzere, formda belirtilen bilgilerin işyeri kayıt ve belgeleri ile uyumlu olup olmadığı konusunda  Kurum denetim elemanları inceleme yapmaya yetkili olup, beyan edilen bilgilerin doğru olmadığının anlaşılması halinde, borçlular bu tecil ve taksitlendirme işleminden yararlanma hakkını kaybedeceklerdir.
+Not:
+*  Bu bölüm birden fazla işyeri olanlar tarafından doldurulacaktır.
+**Bu bölümde yer alan değerler toplam olarak belirtilecektir.Ayrıca,ayrıntılı bilgiler arka sayfadaki bölümlerde yer verilecektir.
+Kısa Vadeli Alacaklar Hakkında Bilgi
+Borçlunun adı
+Alacağın türü
+Ödeme vadesi
+Toplam tutarı (TL)
+Kısa Vadeli Borçlar Hakkında Bilgi
+Alacaklının adı
+Borcun türü
+Ödeme vadesi
+Toplam tutar (TL)
+Banka Bilgileri
+Banka Şubesi
+Hesap Numarası
+Bakiye Tutarı (TL)
+1
+2
+3
+Açıklamalar
+KASA:
+Borçlunun Vergi Usul Kanunu gereği tutmak zorunda olduğu ticari defterlerine göre mevcut kasa yekunu veya deftere tabi değil ise …/…/……… tarihi itibariyle beyan edeceği kasa yekununu ifade etmektedir. Deftere tabi olan borçlularda bu hesap, borçlunun elinde bulunan ulusal ve yabancı paraların TL karşılığının izlenmesi için kullanılır. Tahsil olunan para tutarları borç, ödemeler ve bankaya yatırılan para tutarları alacak kaydedilir. Hesap daima borç bakiyesi verir veya sıfır olur. Hiçbir şekilde alacak bakiyesi vermez.
+BANKA BİLGİLERİ:
+Banka bilgileri kısmı borçluca yurt içi yurt dışı banka ve benzeri finans kurumlarına yatırılan ve çekilen paraların izlenmesini kapsar. Bankalara para olarak veya hesaben yatırılan değerler borç, çekilen tutarlar ile üçüncü kişilerce tahsil edilen anlaşılan çek ve ödeme emirleri alacak kaydedildiğinden, bu kısma, borçlunun bankalarda mevcut mevduat hesaplarının şube, banka hesap numarası ve bakiyesi yazılacaktır.
+KISA VADELİ ALACAKLAR:
+Kısa vadeli alacaklar, en çok bir yıl veya borçlunun normal faaliyet dönemi sonunda tahsil edilmesi gereken alacaklarını kapsar.
+KISA VADELİ BORÇLAR:
+Kısa vadeli alacaklar, en çok bir yıl veya borçlunun normal faaliyet dönemi sonunda ödenecek yabancı kaynakları kapsar. Mali borçlar, ticari borçlar, diğer borçlar, alınan avans, ödenecek vergi ve diğer yükümlülükler, borç ve gider karşılıkları, gelecek aylara ait gelirler ve gider tahakkukları ile diğer kısa vadeli borçlar gibi alt başlıklardan oluşur.
+[1] Bu form, 30.04.2019 tarihinde www.sgk.gov.tr adresinden alınmıştır.

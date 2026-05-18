@@ -1,0 +1,49 @@
+Diğer Belge Talepleri Formu[1]
+M128 DİĞER BELGE TALEPLERİ  FORMU
+Referans No:
+Toplam  Sayfa Sayısı
+(Başvuru Sahibi Tarafından
+Doldurulacak)
+Toplam  Sayfa Sayısı
+(Kurum Tarafından
+Doldurulacak)
+Bu Alanı Boş Bırakınız
+(1)  BELGE TALEP EDİLEN MARKA BİLGİLERİ
+Başvuru/Tescil Numarası
+Marka Adı
+TÜRKPATENT Müşteri No (*)
+T.C. Kimlik No
+Başvuru Sahibi
+Vergi No
+(2) TALEP EDİLEN BELGE
+Tescilli Marka için Yeniden Tescil Belgesi Talebi
+Tescil Belgesi Sureti
+Rüçhan Belgesi Düzenleme
+Sicil Sureti
+(3) VEKİL
+Yok
+Var (Önceden Atanan)
+Var (Yeni Atanan)
+Vekil Sicil No (**)
+Adı Soyadı
+Firma Ünvanı
+Adres
+Semt
+İlçe
+İl
+Posta Kodu
+Telefon No.
+Faks No.
+Vekaletname (***)
+Ektedir
+(4) ÖDEME ve FATURA BİLGİLERİ
+Ödemeyi  Yapan
+Vekil
+Başvuru Sahibi
+Ödemenin Yapıldığı Banka ve Şubesi
+Dekont/ Provizyon Numarası
+Dekont Tarihi
+Adı Soyadı/Unvanı
+Tarih
+İmza
+[1] Bu form, 09.09.2019 https://www.turkpatent.gov.tr/TURKPATENT/forms/informationDetail?id=100adresinden alınmıştır.

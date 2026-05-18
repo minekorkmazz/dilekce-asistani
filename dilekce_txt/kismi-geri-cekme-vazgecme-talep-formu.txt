@@ -1,0 +1,49 @@
+Kısmi Geri Çekme/Vazgeçme Talep Formu[1]
+Referans No:
+Toplam  Sayfa Sayısı
+(Başvuru Sahibi Tarafından
+Doldurulacak)
+Toplam  Sayfa Sayısı
+(KurumTarafından
+Doldurulacak)
+Bu Alanı Boş Bırakınız
+(1)  MARKA BİLGİLERİ
+Başvuru/Tescil Numaraları
+TÜRKPATENT Müşteri No (*)
+T.C.Kimlik No
+Başvuru Sahibi
+Vergi No
+(2) VEKİL
+Yok
+Var (Önceden Atanan)
+Var (Yeni Atanan)
+Vekil Sicil No (**)
+Adı Soyadı
+Firma Ünvanı
+Adres
+Semt
+İlçe
+İl
+Posta Kodu
+Telefon No.
+Faks No.
+Vekaletname
+Ektedir
+(3) SUNULMASI ZORUNLU BELGELER
+Noter Onaylı İmza Sirküleri (Tüzel kişiler)
+Ektedir
+Noter Onaylı İmza Beyannamesi (Gerçek kişiler)
+Ektedir
+Sicile kayıtlı hak sahipleri tarafından kısmi geri çekmeyi/vazgeçmeyi onaylayan beyan (varsa)
+Ektedir
+(4) MAL VE HİZMET BİLGİLERİ
+Aşağıda belirtilen mal ve / veya hizmetler için kısmi geri çekme/ vazgeçme talep edilmektedir. (Alan yeterli değilse ek sayfa kullanınız)
+Sınıf
+Mal ve Hizmetler
+Adı Soyadı/Unvanı
+Tarih
+İmza
+(5) MAL VE HİZMET BİLGİLERİ (Aşağıda belirtilen mal ve / veya hizmetler için kısmi geri çekme/ vazgeçme talep edilmektedir. Devamı)
+Sınıfı
+Mal ve Hizmetler  ( Veya Ek Bilgiler )
+[1] Bu form, 30.07.2019 https://www.turkpatent.gov.tr/TURKPATENT/forms/informationDetail?id=100adresinden alınmıştır.

@@ -1,0 +1,67 @@
+Lisans Verme Talep Formu[1]
+M110   LİSANS  VERME   TALEP   FORMU
+Referans No:
+Toplam  Sayfa Sayısı
+(Başvuru Sahibi Tarafından
+Doldurulacak)
+Toplam  Sayfa Sayısı
+(Kurum Tarafından
+Doldurulacak)
+Bu Alanı Boş Bırakınız
+(1)   MARKA BİLGİLERİ
+Başvuru/Tescil Numaraları
+Başvuru Sahibi
+Yukarıda belirtilen markalara ait mal ve hizmetlerin tamamı için lisans talep edilmektedir.
+Ekte belirtilen mal ve hizmetler için lisans talep edilmektedir.                                       ( Mal ve hizmetleri Bölüm 6’da belirtiniz )
+(2) LİSANS TÜRÜ
+İnhisari Lisans :
+İnhisari Olmayan Lisans :
+Alt  Lisans :
+(3) LİSANS ALAN
+GerçekKişi
+Tüzel Kişi
+TÜRKPATENT Müşteri No (*)
+Adı Soyadı/Unvanı
+Uyruğu
+Kayıtlı Olduğu Ülke
+T.C.Kimlik No
+Vergi Dairesi
+Vergi Numarası
+Adres
+Semt
+İlçe
+İl
+Posta Kodu
+Telefon No.
+Faks No.
+Lisans alan birden fazla ise bu kutuyu işaretleyiniz ve diğer sahipleri Ek Sayda belirtiniz.
+(4) VEKİL
+Yok
+Var (Önceden Atanan)
+Var (Yeni Atanan)
+Vekil Sicil No (**)
+Adı Soyadı
+Firma Ünvanı
+Adres
+Semt
+İlçe
+İl
+Posta Kodu
+Telefon No.
+Faks No.
+Vekaletname
+Ektedir
+(5) ÖDEME ve FATURA BİLGİLERİ
+Ödemeyi  Yapan
+Vekil
+Başvuru Sahibi
+Ödemenin Yapıldığı Banka ve Şubesi
+Dekont Numarası
+Dekont Tarihi
+Adı Soyadı/Unvanı
+Tarih
+İmza
+(6) LİSANSA KONU MAL VE HİZMETLER
+Sınıfı
+Mal ve Hizmetler  ( Veya Ek Bilgiler )
+[1] Bu form, 30.07.2019 https://www.turkpatent.gov.tr/TURKPATENT/forms/informationDetail?id=100adresinden alınmıştır.

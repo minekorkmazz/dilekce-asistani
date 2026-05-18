@@ -1,0 +1,21 @@
+Ödeme Anlaşması
+Madde 1- Taraflar
+İşbu sözleşme, ….. (borçlu) ile ….. (alacaklı) arasında imzalanmıştır.
+Madde 2- Ödeme Planı
+Taraflar, bu belgede ekli bulunan içeriğin (Ödeme Planı) beyanı ile ilgili olarak hazırlanmış ödeme planını kabul ederler. Borçlu, belirlenen programa uyacak ve Ödeme Planı tablosunda belirtilen meblağa istinaden, ödeme gününden önce veya ödeme gününde alacaklıya ödeme yapacaktır.
+Madde 3- Ödeme Yöntemi
+Ödeme, tercihen, Ödeme Planında belirtilen yönteme göre alacaklıya yapılacaktır. Ancak borçlu, ödeme yöntemini kendi uygunluğuna göre seçebilir.
+Madde 4- Güvence
+Bu sözleşme dikkate alındığında alacaklı, işbu sözleşmeden önceki mağduriyetinden veya herhangi bir zararından kaynaklanan ücretler ve cezalarla ilgili olarak borç verene karşı diğer tüm taleplerini iptal eder. Ancak, hiçbir mükellefiyet borçluyu buradaki yükümlülüklerinden kurtarmayacak veya alacaklının bu sözleşmede yer alan haklarını sınırlamayacaktır.
+Madde 5- Muacelliyet Hükmü
+Borçlunun, planlanan ödeme gününden on beş (15) gün sonra ödeme yapmaması halinde, ödenecek meblağın tamamı muaccel ve talep edilebilir hale gelir. Bundan sonraki herhangi bir başarısızlık, alacaklı için tazminat talep etme hakkını doğuracaktır.
+Madde 6- Hakların Devri
+Alacaklı, borçluya yazılı bir bildirimde bulunmak şartıyla, bu sözleşmeyi üçüncü bir tarafa devredebilir veya temlik edebilir. Böyle bir devir durumunda, devralan bu sözleşmede bulunan ödeme planını değiştirebilir.
+Madde 7- Bölünebilirlik
+Bu Sözleşmede bulunan herhangi bir hükmün; herhangi bir yetkili mahkeme tarafınca geçersiz, yasa dışı veya uygulanamaz olduğuna karar verilirse, bu karar yalnızca söz konusu hüküm için geçerli olacak ve buradaki hükümlerin geri kalanı geçerli ve uygulanabilir kalacaktır.
+Madde 8- Sözleşme Değişikliği
+Bu sözleşmede yapılacak hiçbir değişiklik, yazılı olarak yapılmadıkça ve her iki tarafça mutabık kalınmadıkça geçerli sayılmayacaktır.
+Alacaklı                                                                           Borçlu
+Ad- Soyad                                                                     Ad- Soyad
+İmza                                                                              İmza
+Ek- Ödeme Planı

@@ -1,0 +1,11 @@
+Soruşturma Dosyasını İnceleme Talebi - Dilekçe Örneği
+….. CUMHURİYET BAŞSAVCILIĞI’NA
+DAVACI                         :(Ad, Soyad, TC, Adres)
+VEKİLİ                          :Av. (Ad, Soyad, TC, Adres)
+DAVALI                        : (Ad, Soyad, TC, Adres)
+KONU                          : Soruşturma dosyasını inceleme talebi
+AÇIKLAMALAR          :
+Yukarıda soruşturma numarası yazılmış savcılığınız nezhindeki dosyanın incelenmek üzere tarafımıza açılmasını, görüntülenmesine izin verilmesini bilvekale saygılarımla arz ve talep ederim.
+(Tarih)
+DAVACI VEKİLİ
+(Ad, Soyad, İmza)

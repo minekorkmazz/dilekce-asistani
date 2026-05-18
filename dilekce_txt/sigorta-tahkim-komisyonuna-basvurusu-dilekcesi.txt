@@ -1,0 +1,33 @@
+Sigorta Tahkim Komisyonuna Başvurusu Dilekçesi[1]
+SİGORTA TAHKİM  KOMİSYONU’NA;
+Başvuru Sahibi
+:
+Başvuran Vekili
+:
+Sigorta Kuruluşu (Aynı uyuşmazlıkla ilgili birden fazla kuruluşla ilgili başvuru yapıldığında tüm kuruluşlar buraya yazılabilir)
+:
+Poliçe Türü (trafik, kasko, yangın, hayat branşı sağlık veya hastalık vb.)
+:
+Uyuşmazlığa Konu Poliçe No
+:
+Talep Konusu  (üstte bulunan poliçe türüne ek alt talep konusu örnek: -trafik – araç hasarı, trafik  değer kaybı, trafik – destekten yoksun kalma, trafik- sürekli maluliyet veya geçici maluliyet vb.)
+:
+Uyuşmazlık Tutarı   (Sisteme girilen uyuşmazlık tutarı ile bu alana girilen uyuşmazlık tutarı aynı olmalıdır
+:
+Plaka No (başvuru sahibinin plakası)
+:
+Plaka No (karşı tarafın plakası varsa )
+:
+Riziko (hasar) tarihi
+:
+Sigorta kuruluşu kısmi bir ödeme yaptı mı ?
+Yapıldı ise yapılan ödeme tutarı ve ödeme tarihi
+:
+Başvurunuzla ilgili olarak kusura ilişkin itirazınız var mı ?
+(Sadece kusur tespiti komisyonumuzun görev kapsamı dışındadır.)
+:
+UYUŞMAZLIK KONUSU :  …………………………………………………………………………………………………………………………………………………………………………………………………………………………
+NETİCE TALEP:
+Sistem üzerinden girilen ve başvuru harç hesabı yapılan uyuşmazlık tutarı ile bu alanda talep edilen tutarın aynı olması gerekmektedir.
+İSİM SOYİSİM                                                                                                                                İMZA
+[1] Bu form, 16/7/2024 tarihinde http://www.sigortatahkim.org.tr/ adresinden alınmıştır.

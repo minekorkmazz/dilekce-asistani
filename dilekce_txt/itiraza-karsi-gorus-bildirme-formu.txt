@@ -1,0 +1,47 @@
+İtiraza Karşı Görüş Bildirme Formu[1]
+M116  İTİRAZA  KARŞI  GÖRÜŞ  BİLDİRME  FORMU
+Referans No:
+Toplam  Sayfa Sayısı
+(Görüş Sahibi Tarafından
+Doldurulacak)
+Toplam  Sayfa Sayısı
+(Kurum Tarafından
+Doldurulacak)
+Bu Alanı Boş Bırakınız
+(1) KARŞI GÖRÜŞ BİLDİRİLEN MARKA
+Başvuru Numarası
+Marka Adı
+Bülten Tarihi ve Numarası
+-
+(2) İTİRAZA KARŞI GÖRÜŞ BİLDİRENİN BİLGİLERİ
+TÜRKPATENT Müşteri No[2]
+Unvanı veya Adı Soyadı
+(3) VEKİL
+Yok
+Var (Önceden Atanan)
+Var (Yeni Atanan)
+Vekil Sicil No[3]
+Adı Soyadı
+Firma Ünvanı
+Vekaletname[4]
+Ektedir
+Dosyadadır
+(4) KULANIM İSPATI TALEBİ
+Var
+Kullanım İspatı Talep Edilen Markaların Tescil Numaraları
+Kullanım İspatı Talep Edilen Mal/Hizmetler
+(Belirli mal veya hizmet için kullanım ispatı talep ediliyor ise söz konusu mal/hizmetin belirtilmesi gerekmektedir. Tescil kapsamıda yer alan bütün bir sınıfa ilişkin kullanım talebi var ise sınıf kodu da belirtilebilir. Tescil kapsamında yer alan tüm sınıflar için kullanım talep edilmesi durumunda “TÜM MAL VE HİZMETLER” ifadesinin yazılması yeterli olacaktır.)
+NOT 1: Kullanım ispatı talebi, 6769 Sayılı Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 29. Maddesine uygun olarak yapılması gerekmektedir. Aksi halde talep yapılmamış sayılır.
+NOT 2: Tüm bilgileri tabloyu genişleterek giriniz. Aksi halde dilekçenin başka bölümünde belirtilen marka/markalar ve mal/hizmetler değerlendirmeye alınmayabilir.
+NOT 3: Tablo, klavyedeki”tab” düğmesi ile ya da sağ tıklayıp yeni satır ekle komutu ile yeni satırlar oluşturmaktadır.
+NOT 4: KULLANIM İSPATI KILAVUZU ERİŞİM LİNKİ
+(5) KARŞI GÖRÜŞ BİLDİRME GEREKÇELERİ
+(Kullanım ispatı dışındaki diğer gerekçelere ilişkin görüşlerinizin bildirilmesi beklenmektedir.)
+AÇIKLAMALAR:
+Adı Soyadı
+Tarih
+İmza
+[1] Bu form, 30.07.2019 https://www.turkpatent.gov.tr/TURKPATENT/forms/informationDetail?id=100adresinden alınmıştır.
+[2] TÜRKPATENT tarafından önceki başvuruda verilmiş olan müşteri numarasıdır
+[3] TÜRKPATENTtarafından vekil için verilen sicil numarasıdır.
+[4] Vekil ile yürütülen işlemler bakımından vekil bilgisinin formda belirtilmesi yeterli olup; vekaletname sunma zorunluluğu bulunmamaktadır.

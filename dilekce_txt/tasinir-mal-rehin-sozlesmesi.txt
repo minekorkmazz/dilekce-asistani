@@ -1,0 +1,20 @@
+Taşınır Mal Rehin Sözleşmesi
+Rehin Verenin;
+Adı:
+Soyadı:
+T.C. Kimlik No:
+Adresi
+Tel No:
+Rehin Alanın;
+Adı:
+Soyadı:
+T.C. Kimlik No:
+Adresi
+Tel No:
+Rehin Bedeli:
+Rehnin Vadesi:
+Rehnedilen Taşınır Mallar (İsmi, Sayısı, Özellikleri vs):
+Yukarıda bilgileri yazılı olan Rehin Veren, .../…/…… tarihinde ..... TL borç aldığını ve ..... TL’ye karşılık olmak üzere, Yukarıda bilgileri yazılı olan rehin alacaklısına, yukarıda nitelik ve nicelikleri belirtilen taşınır malları …/…/…… tarihinde, geri almak üzere teslim ettiğini kabul, beyan ve taahhüt eder.
+Yukarıda bilgileri yazılı olan Rehin Alan, rehin edene .../…/…… tarihinde geri ödenmek üzere verdiği ..... TL borca karşılık olmak üzere yukarıda belirtilen taşınır malları …/…/….. tarihinde rehin ve teslim aldığını ve alacak tamamen tahsil edildiğinde taşınır malları aynen geri vermeyi kabul beyan ve taahhüt eder.
+Rehin Veren                                                           Rehin Alan
+(Ad Soyad İmza)                                                   (Ad Soyad İmza)

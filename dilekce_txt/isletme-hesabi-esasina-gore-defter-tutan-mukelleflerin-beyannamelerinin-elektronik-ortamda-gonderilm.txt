@@ -1,0 +1,29 @@
+İşletme Hesabı Esasına Göre Defter Tutan Mükelleflerin Beyannamelerinin Elektronik Ortamda Gönderilmesine Aracılık Yetkisi Talep Formu
+..../..../...........
+..............................................................Vergi Dairesi Müdürlüğüne
+Odamız/Birliğimiz üyelerinin beyannamelerini elektronik ortamda gönderilmesi konusunda meslek odası/birlikleri olarak aracılık yapmak istiyoruz. Aracılık yetkisi verilmesi talebimizin değerlendirilerek tarafımıza kullanıcı kodu, parola ve şifre verilmesini arz ederiz.
+MESLEK ODASININ/BİRLİĞİN BİLGİLERİ
+Meslek Odasının/Birliğinin Adı:
+Vergi Kimlik Numarası:
+Merkezi:
+Kuruluş Tarihi:
+Adresi:
+Telefon Numarası:
+Faks Numarası:
+Elektronik Posta Adresi:
+MESLEK ODASININ/BİRLİĞİN KANUNİ TEMSİLCİSİNİN
+Adı Soyadı/Unvanı:
+Vergi Kimlik Numarası( ):
+Meslek Odasının/Birliğinin Temsilcileri:
+Adı Soyadı:
+İmza:
+Tarih:
+İşletme hesabı esasına göre defter tutan mükelleflerin beyannamelerinin elektronik ortamda gönderilmesine aracılık yetkisi verilen meslek odalarının/birliklerin dikkat etmesi gereken hususlar:
+1. Beyannamelerin elektronik ortamda gönderilmesi ile ilgili kanuni düzenlemelerde yer alan usul ve esaslar doğrultusunda beyannamelerin elektronik ortamda gönderilmesi gerekmektedir.
+2.a) Beyannameleri elektronik ortamda göndermek üzere aracılık yetkisi verilmiş meslek odaları/birlikleri kendilerine verilen kullanıcı kodu, parola ve şifrenin kullanımından sorumludurlar.
+Bu nedenle kullanıcı kodu, parola ve şifrelerini; başka amaçlarla kullanamazlar, herhangi bir üçüncü kişiye açıklayamazlar ve kullanımına izin veremezler, meslek odasının/birliğin
+Aracılık yetkisi verilmiş meslek odaları/birlikler kendilerine verilen kullanıcı kodu, parola ve şifrenin kullanımından sorumlu olduklarından kullanıcı kodu, parola ve şifrenin yetkisiz kişilerce kullanıldığını öğrendikleri anda (kullanıcı kodu, parola ve şifrenin kaybedilmesi, çalınması vb. durumlar dahil) Gelir İdaresi Başkanlığı 444 0 435 no.lu Çağrı Merkezine telefonla veya bağlı oldukları vergi dairesine dilekçe ile derhal bilgi vermeleri gerekmektedir. Meslek odaları/birlikler bildirim anına kadar yapılan işlemlerden ve taraflarına verilen kullanıcı kodu, parola ve şifrenin kullanımından sorumlu olacaklardır.
+b) Kullanıcı kodu, parola ve şifrenin, aracılık yetkisi talep eden meslek odasının/birliğin yetki verdiği kişiye teslimi meslek odasına/birliğe teslim hükmündedir. Meslek odasının/Birliğin, yetki verdiği kişinin bu yetkilerini iptal etmesi halinde durumu derhal ilgili vergi dairesine dilekçe ile bildirmesi gerekmektedir. Bu bildirimin ilgili vergi dairesi kayıtlarına girdiği ana kadar yapılan işlemlerden doğacak hukuki ve mali sorumluluk, aracılık yetkisi verilmiş olan meslek odasına/birliğe ait olacaktır.
+c) Kullanıcı kodu, parola ve şifresi verilen meslek odasının/birliğin yetkilisinin bu yetkisinin sona erdirildiğine dair ilgili vergi dairesine yazılı bildirim yapılmadığı takdirde yetki verilen kişinin, aracılık yetkisi verilmiş olan meslek odasını/birliği temsil yetkisinin devam ettiği kabul edilecektir.
+3. Elektronik ortamda yapılan işlemlerin tespit ve tevsikinde Gelir İdaresi Başkanlığı/vergi dairesi kayıtları esas alınacaktır.
+4. Gelir İdaresi Başkanlığı/Vergi dairesi aracılık yetkisini kaldırmaya yetkilidir.

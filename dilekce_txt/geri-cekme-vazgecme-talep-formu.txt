@@ -1,0 +1,36 @@
+Geri Çekme/Vazgeçme Talep Formu[1]
+Referans No:
+Toplam  Sayfa Sayısı
+(Başvuru Sahibi Tarafından
+Doldurulacak)
+Toplam  Sayfa Sayısı
+(Kurum Tarafından
+Doldurulacak)
+Patent
+(1)  MARKA BİLGİLERİ
+Başvuru/Tescil Numaraları
+TÜRKPATENT Müşteri No (*)
+T.C.Kimlik No
+Başvuru Sahibi
+Vergi No
+(2) VEKİL
+Yok
+Var (Önceden Atanan)
+Var (Yeni Atanan)
+Vekil Sicil No (**)
+Adı Soyadı
+Firma Ünvanı
+Adres
+Semt
+İlçe
+İl
+Posta Kodu
+Telefon No.
+Faks No.
+Vekaletname
+Ektedir
+Belirtilen markalarda marka hakkından vazgeçme/başvurunun geri çekilmesi talep edilmektedir.
+Adı Soyadı/Unvanı
+Tarih
+İmza
+[1] Bu form, 30.07.2019 https://www.turkpatent.gov.tr/TURKPATENT/forms/informationDetail?id=100adresinden alınmıştır.

@@ -1,0 +1,101 @@
+Vakıflar Genel Müdürlüğü Muhtaç Aylığı Değerlendirme Kriteri Formu [1]
+Muhtacın     Adı Soyadı
+TC Kimlik No
+Baba Adı
+İli
+İlçesi
+Mahalle/Köy
+İkametgah Adresi
+Muhtaç Engelliler ile Muhtaç Yetim Çocukların Puanlaması
+YETİM
+PUAN
+ÖZÜRLÜ
+PUAN
+Muhtaç Yetim Çocuğun Durumu
+Annesi Ölü
+10
+Muhtaç Engelli Kişinin Özür Oranı
+% 40 ile %59 Arası
+5
+Babası Ölü
+15
+% 60 ile % 79 Arası
+15
+Babası/ Annesi Şehit
+30
+% 80 üstü
+25
+Kanunen Ayrı
+5
+Muhtaç Yetim Çocuğun Ailesinin İkameti
+Kendi Evlerinde
+0
+Muhtaç Engelli Kişinin Evli veya Bekar Olduğu
+Evli
+16
+Lojmanda
+5
+Bekar
+8
+Kirada
+15
+Muhtaç Yetim Çocuğun Kardeş Sayısı
+Bir
+6
+Muhtaç Engelli Kişinin Çocuk Sayısı
+Bir
+6
+İki
+12
+İki
+12
+Üç
+16
+Üç
+18
+Dört ve Yukarısı
+20
+Dört ve Yukarısı
+24
+Muhtaç Yetim Çocuğun Ailesinin Bir Aylık Geliri
+Geliri Yoktur
+20
+Muhtaç Engelli Kişinin İkameti
+Ailesinin Yanında
+0
+Geliri 100 YTL ye Kadar
+16
+Sığınma Evinde
+5
+Geliri 100-200 YTL  arası
+12
+Kirada
+10
+Geliri 200 YTL nin üstü
+8
+Muhtaç Engelli Kişinin Bir Aylık Geliri
+Geliri Yoktur
+20
+Muhtaç Yetim Çocuğun Okuyup Okumadığı
+Okuyor
+15
+Geliri 100 YTL ye Kadar
+16
+Okumuyor
+5
+Geliri 100-200 YTL Arası
+12
+Geliri 200 YTL nin Üstü
+8
+TOPLAM
+GENEL TOPLAM
+Şube Müdürü
+Memur
+Memur
+Adı Soyadı
+Adı Soyadı
+Adı Soyadı
+İmza
+İmza
+İmza
+[1] Bu metin, 18.02.2019 Tarihinde, wwwvgm.gov.tr sitesinden alınmıştır.

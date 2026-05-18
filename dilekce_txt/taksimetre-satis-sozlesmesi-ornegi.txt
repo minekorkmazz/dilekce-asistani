@@ -1,0 +1,11 @@
+Taksimetre Satış Sözleşmesi Örneği
+SATICI                         : (Ad, Soyad, TC, Adres)
+ALICI                            : (Ad, Soyad, TC, Adres)
+SATILAN                     : … Seri numaralı taksimetre
+SATIŞ BEDELİ                       : ……..  .-TL
+BELGESİ                     :
+Satıcı, yukarıda seri numarası (………….) belirtilen taksimetreyi …. … isimli kişiye yukarıda belirtilen bedel mukabilinde (…….. . – TL)sattım ve devrettim.Bedelini nakden ve tamamen aldım alıcıdan herhangi bir alacağım kalmamıştır.Seri numarası belirtieln taksimetrenin bugüne kadar olan tüm yasal yükümlülükleri tarafıma ait olup, işbu sözleşmenin yapıldığı …/…/…. Tarihinden itibaren ise alıcısı …. …. ‘ya aittir. Alıcı  …. ….. , bu tarihten itibaren taksimetreyi istediği aracına takabilir ve kendi adına kayıt ve tescil ettirebilir.
+Alıcı, yukarıda seri numarası (………….) belirtilen taksimetrenin, satıcı … ….. ‘nın malı olduğunu bilerek, mülkiyete dair hiçbir belge vs. Talep etmeksizin belirtilen bedel mukabilinde (…….. . – TL)satır ve devralmış bulunmaktayım. …. .- TL satış bedelinin tamamını nakten ödemiş bulunuyorum. Satıcıya herhangi bir nam altında bir borcum kalmamıştır.İşbu sözleşmenin yapıldığı  …/…/…. Tarihinden itibaren tüm yasal yükümlülükler y-tarafıma; öncesi alıcı … ….. ‘ya aittir.İşbu taksimetreyi kendi adıma kayıt ve tescil ettireceğimi beyan ederim.
+SATICI:                                                                                                          ALICI:
+(Ad, soyad)                                                                                                    (Ad, soyad)
+(imza)                                                                                                             (imza)

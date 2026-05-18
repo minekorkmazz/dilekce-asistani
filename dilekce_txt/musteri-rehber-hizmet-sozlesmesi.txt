@@ -1,0 +1,16 @@
+Müşteri-Rehber Hizmet Sözleşmesi
+REHBER
+Adı, Soyadı:
+Ruhsatname No :
+Çalışma Kartı No:
+Mobil Tel No:
+E-posta:
+Gezinin Başlangıç ve Bitiş Tarihi:
+Kişi Sayısı:
+Müşteri Milliyeti:
+Talep Edilen Dil/Diller :
+Ücret :
+Gezi Programı:
+Konu: Rehber tarafından gezi programına uyulacak ve Müşteri tarafından da işbu sözleşmede belirlenen ücret Rehber’e ödenecektir.
+Müşteri                                                                 Rehber
+Adı Soyadı, İmzası                                            Adı Soyadı, İmzası

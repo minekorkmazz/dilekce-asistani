@@ -1,0 +1,22 @@
+KEP Hesabı Kapatma Dilekçesi
+… KAYITLI ELEKTRONİK POSTA HİZMETLERİ A.Ş. GENEL MÜDÜRLÜĞÜ’ NE
+Şahsım veya şirketimiz adına alınan, aşağıda KEP adresi ve kapatma sebebi açıkça belirtilen KEP hesabı kapatma talebinin yerine getirilmesi konusunda gereğinin yapılmasını rica ederim.
+Kapatılacak KEP Adresi ...................................................@h03.kep.tr
+Kapatma sebebi olarak aşağıdaki seçeneklerden biri mutlaka işaretlenmelidir.
+KEP Hesap Sahibinin Talebi
+KEP hesabına ilişkin veri tabanında bulunan bilgilerin sahteliğinin veya yanlışlığının ortaya çıkması veya bilgilerin değişmesi
+KEP Hesabı sahibinin fiili ehliyetinin sınırlandığının, iflasının veya gaipliğinin ya da ölümünün öğrenilmesi
+KEP hesabı sahibinin hesaba erişime verisinin çalınması veya kaybolması
+KEP hesabı sahibinin hesaba erişme verisinin gizliliğini/güvenilirliğinin ortadan kalkması
+Diğer hizmet sağlayıcısından KEP adresi alınması
+Tüzel kişiliğin devredilmesi/sona ermesi/unvan değişikliği
+Başka bir KEP hesabının var olması
+Diğer (Firma tarafından açılması fakat birey tarafından kullanılmaması)
+Diğer (Hesap tipinin yanlış alınması)
+Diğer (KEP adresinin kullanım amacını bilmeden hesap açılmış olması)
+Diğer (KEP hesabının ücretli olması)
+KEP HESAP SAHİBİ /İŞLEM YETKİLİSİ ADI-SOYADI:
+(Kurumsal KEP Hesabı kapatma talebi İŞLEM YETKİLİSİ tarafından yapılabilir. Farklı bir yetkili talep etmesi durumunda güncel imza sirküleri eklenmelidir.)
+Talep Eden
+Adı ve Soyadı
+İmza

@@ -1,0 +1,64 @@
+Kısmi Devir Talep Formu[1]
+M107  KISMİ   DEVİR   TALEP   FORMU
+Referans No:
+Toplam  Sayfa Sayısı
+(Başvuru Sahibi Tarafından
+Doldurulacak)
+Toplam  Sayfa Sayısı
+(Kurum Tarafından
+Doldurulacak)
+Bu Alanı Boş Bırakınız
+(1)   KISMİ DEVİR YAPILACAK  MARKA BİLGİLERİ
+Başvuru/Tescil Numarası
+Marka Adı
+TÜRKPATENT Müşteri No (*)
+T.C.Kimlik No
+Başvuru Sahibi
+Vergi No
+(2) YENİ  MARKA SAHİBİ
+Gerçek Kişi
+Tüzel Kişi
+TÜRKPATENT Müşteri No (*)
+Adı Soyadı/Unvanı
+Uyruğu
+Kayıtlı Olduğu Ülke
+T.C.Kimlik No
+Vergi Dairesi
+Vergi No
+Adres
+Semt
+İlçe
+İl
+Posta Kodu
+Telefon No.
+Faks No.
+(3) VEKİL
+Yok
+Var (Önceden Atanan)
+Var (Yeni Atanan)
+Vekil Sicil No (**)
+Adı Soyadı
+Firma Ünvanı
+Adres
+Semt
+İlçe
+İl
+Posta Kodu
+Telefon No.
+Faks No.
+Vekaletname
+Ektedir
+(4) ÖDEME ve FATURA BİLGİLERİ
+Ödemeyi  Yapan
+Vekil
+Talep Sahibi
+Ödemenin Yapıldığı Banka ve Şubesi
+Dekont Numarası
+Dekont Tarihi
+(5) DEVİR TALEP EDİLEN MAL VE HİZMETLER
+Sınıfı
+Mal ve Hizmetler  ( Veya Ek Bilgiler )
+Adı Soyadı/Unvanı
+Tarih
+İmza
+[1] Bu form, 30.07.2019 https://www.turkpatent.gov.tr/TURKPATENT/forms/informationDetail?id=100adresinden alınmıştır.

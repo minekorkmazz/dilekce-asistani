@@ -1,0 +1,39 @@
+Ücret İadesi Talep Formu[1]
+M122  ÜCRET İADESİ TALEP  FORMU
+Referans No:
+Toplam  Sayfa Sayısı
+(Başvuru Sahibi Tarafından
+Doldurulacak)
+Toplam  Sayfa Sayısı
+(KurumTarafından
+Doldurulacak)
+Bu Alanı Boş Bırakınız
+(1)  ÜCRET İADESİ TALEP EDİLEN MARKA BİLGİLERİ
+Başvuru Numarası
+Marka Adı
+TÜRKPATENT Müşteri No (*)
+T.C.Kimlik No
+Başvuru Sahibi
+Vergi No
+(2) İADESİ TALEP EDİLEN ÜCRETE İLİŞKİN BİLGİLER
+Miktarı
+……… TL
+Ücretin Ödenmiş Olduğu İşlem
+Ödenmiş Ücrete İlişkin Dekont Bilgileri (varsa)
+Ücret İadesi Talebinin Gerekçesi
+(3) ÜCRETİN İADE EDİLMESİ İSTENİLEN BANKA HESABI BİLGİLERİ
+Banka / Şube Adı
+Hesap Sahibi
+Banka Hesap Numarası
+IBAN nuamrası
+(4) ÜCRET İADESİNE İLİŞKİN EK AÇIKLAMA/TALEP (VARSA)
+(5) VEKİL
+Yok
+Var (Önceden Atanan)
+Var (Yeni Atanan)
+Vekil Sicil No (**)
+Adı Soyadı
+Firma Ünvanı
+Vekaletname (***)
+Ektedir
+[1] Bu form, 30.07.2019 https://www.turkpatent.gov.tr/TURKPATENT/forms/informationDetail?id=100adresinden alınmıştır.

@@ -1,0 +1,19 @@
+Duruşma Tutanağı Örneği 2
+T.C.
+İSTANBUL
+9. ASLİYE CEZA MAHKEMESİ
+DURUŞMA TUTANAĞI
+ESAS NO                      :
+DURUŞMA NO                       :
+DURUŞMA TARİHİ   :
+HÂKİM                                    :
+KÂTİP                          :
+Belli gün ve saatte duruşma açıldı.
+Sanık gelmedi, açık olarak duruşmaya başlandı.
+Sanığın askerde olması nedeniyle gelemediği anlaşıldı.
+GEREĞİ DÜŞÜNÜLDÜ:
+1) Sanığın savunmasının alınması için kıt'ası komutanlığına talimat yazılmasına,
+2) Bu nedenle duruşmanın 14/04/2011 saat 9.40’a bırakılmasına karar verildi. 30/07/2010
+Hâkim 99999
+Kâtip 888888
+legalbank

@@ -1,0 +1,72 @@
+Yayıma İtiraz Formu[1]
+M103   YAYIMA   İTİRAZ   FORMU
+Referans No:
+Toplam  Sayfa Sayısı
+(Başvuru Sahibi Tarafından
+Doldurulacak)
+Toplam  Sayfa Sayısı
+(Kurum Tarafından
+Doldurulacak)
+Bu Alanı Boş Bırakınız
+(1)  İTİRAZ EDİLEN MARKA BİLGİLERİ
+Başvuru Numarası
+Marka Adı
+Bülten Tarihi ve Numarası
+-
+(2) İTİRAZ  SAHİBİ
+TÜRKPATENT Müşteri No (*)
+Adı Soyadı/Unvanı
+Adres
+Semt
+İlçe
+İl / Ülke
+Posta Kodu
+Telefon No
+Faks No
+Uyruğu
+E-Posta Adresi
+Kayıtlı Olduğu Ülke
+T.C.Kimlik No
+Vergi Dairesi
+Vergi No
+(3) VEKİL
+Yok
+Var (Önceden Atanan)
+Var (Yeni Atanan)
+Vekil Sicil No (**)
+Adı Soyadı
+Firma Ünvanı
+Adres
+Semt
+İlçe
+İl
+Posta Kodu
+Telefon No
+Faks No
+Vekaletname (***)
+Ektedir
+(4) ÖDEME ve FATURA BİLGİLERİ
+Ödemeyi  Yapan
+Vekil
+İtiraz Sahibi
+Ödemenin Yapıldığı Banka ve Şubesi
+Dekont Numarası
+Dekont Tarihi
+(5) İTİRAZ GEREKÇELERİ
+1- Benzerlik / Karıştırılma İhtimali (6/1)
+2- Temsilci Tarafından Yapılan İzinsiz Başvuru (6/2)
+3- Eskiye Dayalı Kullanım  (6/3)
+4- Paris Sözleşmesi Kapsamında Tanınmışlık (6/4)
+5- Tanınmışlık  (6/5)
+6- Diğer Fikri Haklar veya Kişi Hakları (6/6)
+7- Ortak/Garanti Markanın Yenilenmemesi (6/7)
+8- Tescilli  Markanın Yenilenmemesi (6/8)
+9-Kötü Niyet (6/9)
+10- Diğer
+İtiraz nedeni benzer marka ise neden olarak gösterilen marka numaraları
+İtiraz gerekçeleri ile birlikte ek delil , belge ve bilgiler sunulmuştur.
+İtiraz gerekçeleri:
+Adı Soyadı/Unvanı
+Tarih
+İmza
+[1] Bu form, 30.07.2019 https://www.turkpatent.gov.tr/TURKPATENT/forms/informationDetail?id=100adresinden alınmıştır.

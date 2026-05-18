@@ -1,0 +1,78 @@
+Fikri Sınai Mülkiyet Hakları Sözleşmesi[1]
+İşbu sözleşme (bundan böyle “SÖZLEŞME” olarak anılacaktır), aşağıda belirtilen taraflar arasında akdedilmiş ve yürürlüğe girmiştir.
+1. TARAFLAR
+İşbu Sözleşme,
+1.1. Gebze Teknik Üniversitesi Teknoloji Transfer Ofisi Müdürlüğü P.K. 141 41400 Gebze/Kocaeli adresinde bulunan Gebze Teknik Üniversitesi adına Gebze Teknik Üniversitesi Teknoloji Transfer Ofisi (İşbu Sözleşme’de “GTÜ TTO” olarak anılacaktır).
+1.2. ………………. adresinde mukim ……………….. (İşbu sözleşmede “BULUŞ SAHİBİ” olarak anılacaktır), arasında aşağıdaki şartlarda …./…./…… tarihinde imzalanmıştır.
+GTÜ TTO ve BULUŞ SAHİBİ beraberce “TARAFLAR”, tek başlarına “TARAF” olarak anılacaktır.
+2. TANIMLAR
+İşbu SÖZLEŞME’de geçen,
+2.1. BULUŞ: İşbu sözleşme kapsamında, BULUŞ SAHİBİ tarafından geliştirilmiş olan,  patent/faydalı model alım süreci ve/veya ticarileştirilmesi için gerekli masrafların karşılanacağı çalışma
+2.2. BULUŞ SAHİBİ: BULUŞ’u yapan kişi(ler)
+2.3. BAŞVURU SAHİBİ: İşbu SÖZLEŞME’ye konu BULUŞ ile ilgili resmi ofisler nezdinde yapılacak başvurularda adı geçen kurum (Gebze Teknik Üniversitesi)
+2.4. TPE: Türk Patent Enstitüsü
+2.5. PCT : Türkiye’nin taraf olduğu Patent İşbirliği Antlaşması (Patent Cooperation Treaty)
+2.6. WIPO : Dünya Fikri Mülkiyet Teşkilatı (World Intellectual Property Organization)
+2.7. EPO : Avrupa Patent Ofisi (European Patent Office)
+2.8. TÜBİTAK : Türkiye Bilimsel ve Teknolojik Araştırma Kurumu
+2.9. PATENT VEKİLİ: Ulusal ve uluslararası patent, faydalı model, endüstriyel tasarım, marka başvurusu yapan vekil belgesine sahip ve GTÜ TTO ile vekillik sözleşmesi yapmış gerçek ve/veya tüzel kişiler
+2.10. FSMHK: Gebze Teknik Üniversitesinin Fikri Sınai Mülkiyet Hakları Kurulu olarak tanımlanır.
+3. SÖZLEŞMENİN KONUSU VE KAPSAMI
+İşbu Sözleşmenin konusu, BULUŞ SAHİBİ tarafından geliştirilmiş olan “……………………..” konulu BULUŞ ile ilgili tüm patent/faydalı model başvuruları ve söz konusu BULUŞ’un sanayiye uygulama ve ticarileştirme faaliyetlerine ilişkin tarafların hak ve yükümlülüklerinin belirlenmesidir. BULUŞ ile ilgili detaylı bilgi işbu Sözleşme Eki’nde verilen Buluş Bildirim Formu’nda yer almaktadır.
+İşbu Sözleşme,
+- söz konusu BULUŞ ile ilgili Türkiye’de veya yurtdışında patent/faydalı model başvurusunun yapılması,
+- söz konusu BULUŞ’a ait patent/faydalı model başvurusu/belgesinin geçerli olduğu süre boyunca yapılması gereken işlemler neticesinde oluşacak TPE ya da yurtdışı diğer resmi kurum veya kuruluşlara ödenmesi gereken resmi ücretler ve vekillik hizmet bedelleri,
+- söz konusu BULUŞ ile ilgili elde edilecek hakların devir(ler) ya da lisans(lar) yolu ile başkalarına kullandırılması aşamalarındaki gelir ve gider paylaşımı koşullarını kapsamaktadır.
+İşbu Sözleşmeye konu BULUŞ’un ve/veya BULUŞ ile ilgili patent/faydalı modelin üçüncü şahıslara devrinden ya da lisans verilmesinden sonra devralan(lar)a ya da lisans alan(lar)a BULUŞ SAHİBİ tarafından verilecek muhtemel hizmetler ve bu hizmetlerle ilgili ücretler işbu Sözleşme kapsamı dışındadır.
+4. TARAFLARIN HAK ve YÜKÜMLÜLÜKLERİ
+4.1. BULUŞ SAHİBİ İLE İLGİLİ HAK ve YÜKÜMLÜLÜKLER
+- Bilgi Teslimi: BULUŞ SAHİBİ geliştirmiş olduğu patentlenebilir olsun veya olmasın BULUŞ ile ilgili tüm teknik detay ve bilgi dahil tam kaydını doğru ve eksiksiz bir biçimde GTÜ TTO’ya vermiş olduğunu ve bildiği kadar ile BULUŞ ile ilgili 551 sayılı “Patent Haklarının Korunması Hakkında Kanun Hükmünde Kararname” kapsamında “buluş sahibi” sıfatı ile tanımlanabilecek ve işbu sözleşmeye konu BULUŞ üzerinde somut katkısı bulunmuş ve “buluş sahibi” sıfatı ile hak talep edebilecek tüm kişileri GTÜ TTO’ya ifşa ettiğini taahhüt eder.
+- Başvuru Sahibi: BULUŞ SAHİBİ, yurtiçi veya yurtdışında yapılacak tescil başvurularında BAŞVURU SAHİBİ’nin Gebze Teknik Üniversitesi olacağını taahhüt eder.
+- Teknik Destek: İşbu sözleşme konusu BULUŞ ile ilgili patent başvuru dosyalarının oluşturulabilmesi için gerekli olan tarifname, istemler, şekiller ve özetin hazırlanmasında PATENT VEKİLİ’ne gerekli teknik bilgileri vermek, gerektiğinde onunla birlikte çalışmak ve bu dokümanların hazırlanmasına yardımcı olmayı taahhüt eder. Ayrıca patent başvuru işlemleri sırasında oluşacak araştırma ve inceleme raporlarına, üçüncü kişi itirazlarına karşı görüşlerin/cevapların hazırlanmasında, kendisine bildirilen süre zarfında gerekli bilgileri PATENT VEKİLİ’ne vereceğini ve hazırlanan bu dokümanların son hallerini kendisine bildirilen süre zarfında onaylayacağını taahhüt eder.
+- Gizlilik: BULUŞ SAHİBİ, GTÜ TTO’nun yazılı onayı olmaksızın işbu Sözleşmeye konu BULUŞ ile ilgili hiçbir konuda üçüncü şahıslara bilgi vermeyeceğini ve TARAFLAR’ın işbu Sözleşmeden doğan haklarına zarar verecek davranışlarda bulunmayacağını taahhüt eder.
+- Buluş Sahipleri Temsilcisi: BULUŞ SAHİBİ, BULUŞ ile ilgili KHK 551 kapsamında “buluş sahibi” sıfatı ile tanımlanabilecek ve işbu sözleşmeye konu BULUŞ üzerinde somut katkısı bulunmuş ve “buluş sahibi” sıfatı ile hak talep edebilecek birden fazla kişi olduğu durumda, aksi TARAFLAR arasında ayrı bir sözleşme ile öngörülmediği takdirde, “buluş sahibi” sıfatı ile tanımlanabilecek tüm kişiler arasında ittifak sağlamaktan sorumlu olduğunu taahhüt eder.
+- Görüşmelere Katılım: BULUŞ SAHİBİ, BULUŞ’un devir(ler) veya lisans(lar) yoluyla GTÜ TTO aracılığı ile pazarlanabilmesi aşamasında gerekli görüşmelere katılacağını taahhüt eder.
+- Ticari Karar Verme Yetkisi: TARAFLAR; BULUŞ ile ilgili patentlerin ticarileştirilmesi konusunda her iki tarafın da yazılı onayı olmadan ticari karar verme yetkisinin kullanılamayacağını taahhüt ederler.
+4.2. GTÜ TTO İLE İLGİLİ HAK VE YÜKÜMLÜLÜKLER
+- Gizlilik: GTÜ TTO, BULUŞ SAHİBİ’nin yazılı onayı olmaksızın işbu Sözleşmeye konu BULUŞ ile ilgili hiçbir konuda üçüncü şahıslara bilgi vermeyeceğini ve TARAFLAR’ın işbu Sözleşmeden doğan haklarına zarar verecek davranışlarda bulunmayacağını taahhüt eder.
+- Görüşmelere Katılım: GTÜ TTO, BULUŞ’un devir(ler) veya lisans(lar) yoluyla GTÜ TTO aracılığı ile pazarlanabilmesi aşamasında gerekli görüşmelere katılacağını taahhüt eder.
+- Ticari Karar Verme Yetkisi: TARAFLAR; BULUŞ ile ilgili patentlerin ticarileştirilmesi konusunda her iki tarafın da yazılı onayı olmadan ticari karar verme yetkisinin kullanılamayacağını taahhüt ederler.
+- Onay: GTÜ TTO, BULUŞ ile ilgili olarak patent/faydalı model başvuru işlemleri veya patent/faydalı modelin devri veya bu konuda lisans(lar) verilmesi ve bununla sınırlı kalmayan her türlü ticarileştirme aşamalarında gerekli belgeleri imzalamak, işbu sözleşme kapsamındaki işlerle ilgili BULUŞ SAHİBİ’ne işbu Sözleşmeden doğan haklarının garanti altına alınması ile ilgili her türlü yasal işlemleri yapacağını, yapılmasını sağlayacağını ve BULUŞ SAHİBİ’ne işler hakkında bilgiyi tamamen aktaracağını taahhüt eder.
+- Masraflar: GTÜ TTO; işbu sözleşmeye konu BULUŞ’a yönelik resmi başvuru öncesi ve başvuru sonrası süreçte oluşacak masrafları ve ilk üç seneyi kapsayan yıllık sicil ücretlerini ödeyeceğini taahhüt eder. Üç senelik sürenin sona ermesinden en az 2 ay önce FSMHK toplanarak, BULUŞ SAHİBİ’nin sözlü/yazılı görüşünü de alarak BULUŞ’un 4. yıl için sicil kayıt ücretini ödeyip ödeyemeyeceğine karar verir. Takip eden her yıl için aynı usul ve yöntem uygulanır.
+- Sekreterya: GTÜ TTO, BULUŞ’a veya BULUŞ’la ilgili patent/faydalı modele yönelik işlemlerin sekretaryasını gerçekleştireceğini, mali kayıtları oluşturacağını, yürütülen faaliyetlere ilişkin arşiv tutacağını işbu sözleşmenin imzası ile taahhüt ederler.
+4.3. GENEL HÜKÜMLER
+- İşbu sözleşmenin varsa ekleri, işbu Sözleşmenin ayrılmaz parçaları olup; TARAFLAR’ı bağlar.
+- TARAFLAR’dan her biri patent/faydalı modelden doğan haklarının üçüncü kişi tarafından ihlal edildiği veya edileceği şüphesini taşırsa vakit geçirmeden diğer TARAF’ı haberdar etmelidir. Böyle bir durumda GTÜ TTO masrafları karşılamak kaydıyla her türlü hukuki tedbirleri alacaktır.
+- Patent/faydalı model haklarına tecavüzler dolayısıyla elde edilecek tazminat tutarı da TARAFLAR arasında madde 7 kapsamında belirtilen oranlarda paylaşılacaktır.
+- Patent başvuruları ile ilgili olarak 20 yıllık incelemeli patent belgesinin alınması durumunda, TÜBİTAK tarafından başvuru sahibine verilecek ödül tutarının %80’i BULUŞ SAHİP(LERİ)’ne takdim edilir.
+- Patent hakkının kullanımı, lisanslanması ve ticarete konu olması gibi durumlarda üçüncü kişinin haklarına tecavüz meydana gelirse bu tecavüzden doğacak sorumluluk müştereken taraflara aittir. Sözleşme konusu patentin kullanımı, lisanslanması ve ticarete konu olması gibi durumlarda ortaya çıkan tecavüz eylemi TARAFLAR’dan birinin rızası/haberi ve bilgisi olmaksızın kendi tasarrufu dolayısıyla meydana gelmişse bu eylemden doğan sorumluluk tek başına eylemi gerçekleştiren TARAF’a aittir.
+5. SÖZLEŞMENİN SÜRESİ
+İşbu sözleşmeye konu BULUŞ ile ilgili patentin koruması devam ettiği süre boyunca ve işbu Sözleşmenin altıncı maddesindeki fesih hükümlerine uygun olarak feshedilmediği süre boyunca yürürlükte kalacak olup;
+- BULUŞ ile ilgili Türkiye’de veya yurtdışında ulusal, bölgesel veya uluslararası tüm başvurulara patent/faydalı model alınamayacağının anlaşıldığı tarihte ve taraflarca tutanak altına alınarak,
+- BULUŞ SAHİBİ, işbu Sözleşmeye konu BULUŞ’a ait patent/faydalı model başvuru işlemleri sırasında veya BULUŞ ile ilgili patent/faydalı modelin ticarileştirilme sürecini devam ettirmekten vazgeçtiği ve/veya işbu sözleşmenin feshini istediğini GTÜ TTO’ya yazılı olarak bildirdikten sonra ve GTÜ TTO’nun işbu Sözleşme konusu BULUŞ ile ilgili süreci tek başına devam ettirmeyeceği ve sona erdireceğini BULUŞ SAHİBİ’ne yazılı olarak bildirdiği tarihte, işbu Sözleşme sona erer.
+6. SÖZLEŞMENİN SÜREKLİLİĞİNİ SAĞLAMA, FESHİ ve CEZAİ ŞART
+6.1. Sürekliliği Sağlama:
+BULUŞ SAHİBİ’nin patent/faydalı model başvurusu ve sonrasında sürecin herhangi bir aşamasında patent/faydalı modeli sürecini devam ettirmekten vazgeçmesi durumunda patent/faydalı model alma işleminden vazgeçtiğini GTÜ TTO’ya yazılı olarak bildirildiği tarihten itibaren BULUŞ SAHİBİ patent/faydalı model ile ilgili bütün haklarını ücretsiz olarak GTÜ TTO’ya devrettiğini ve bu aşamadan sonra patent/faydalı model alma sürecini  devam ettirip ettirmeme yetkisinin GTÜ TTO’ya ait olduğunu taahhüt eder.
+6.2. İş bu sözleşme kapsamında 4.2 numaralı maddenin masraflar başlığı altındaki düzenlemeye uygun olarak, patent başvurusunun yapıldığı tarihten itibaren hesaplanacak olan üçüncü yıl ve/veya sonraki yıllarda yapılan FSMHK değerlendirmesi sonucunda, BULUŞ’un patent alma sürecinin finansal olarak desteklenmesine devam edilmeyeceğine karar verilmesi
+akabinde BULUŞ SAHİBİ’ne bildirim yapıldıktan sonra işbu sözleşme derhal feshedilebilir ve patent/faydalı modelden doğan tüm haklar BULUŞ SAHİBİ’ne devir edilebilir.
+6.3. İşbu Sözleşme, TARAFLAR’dan herhangi birinin kendileri ile ilgili hüküm ve yükümlülüklerden herhangi birine uymaması veya yerine getirmemesi halinde, konuya ilişkin TARAFa, diğeri tarafından yapılacak yazılı uyarı ile iletilen işlem tarihine kadar mevcut durumda iyileşme olmaması veya yerine getirilmeyen hüküm ve yükümlülüklerin telafisi mümkün olmayan zararlara yol açması halinde zarara yol açan TARAF; BULUŞ SAHİBİ ise; GTÜ TTO, işbu Sözleşmeyi tek yönlü feshedebilir. Bu durumda BULUŞ SAHİBİ, GTÜ TTO’nun işbu Sözleşmeyi tek taraflı fesh ettiğini BULUŞ SAHİBİ’ne bildirdiği tarihten itibaren, GTÜ TTO’nun yoksun kaldığı kazancının 2 (iki) katını ve masrafların 5 (beş) katını feshin bildirildiği tarihten itibaren en geç 1 (bir) ay içerisinde GTÜ TTO’ya öder.
+7. GELİRLERİN PAYLAŞIMI
+İşbu Sözleşmeye konu BULUŞ ile ilgili olarak devir(ler), lisans(lar) ile elde edilecek her türlü gelir ve işbu Sözleşmeye konu BULUŞ ile ilgili şirket veya şirketlerin kurulması durumunda elde edilecek her türlü gelir, işbu Sözleşmeye konu BULUŞ’a patent/faydalı model alınması ve ticarileşmesine yönelik her türlü masraf ve vergi, resim ve harçlar düşüldükten sonra %80 BULUŞ SAHİBİ, %20 Gebze Teknik Üniversitesi adına GTÜ TTO olarak paylaşılacaktır.
+8. TEBLİGAT
+TARAFLAR’ın tebligat adresleri MADDE 1’de belirtilen adreslerdir. TARAFLAR’ın tebligat adreslerindeki değişiklikleri adres değişikliğini takip eden 7 (yedi) gün içerisinde, yazılı olarak karşı tarafa bildirmeleri gereklidir, aksi takdirde eski adrese yapılan tebligat geçerli yapılmış sayılacak ve bundan kaynaklanan her türlü zarar ve sorumluluk adres değişikliğini bildirmeyen veya geç bildiren tarafa ait olacaktır.
+9. SÖZLEŞMENİN DEVRİ VE TEMLİK
+TARAFLAR, işbu Sözleşmeden doğan hak ve yükümlülüklerini diğer tarafın açık ve yazılı izni olmaksızın gerçek ve/veya tüzel üçüncü şahıslara devredemez. Ancak Üniversite’nin iştiraki olan tüzel kişilere Üniversite hakkını devredebilir.
+10. GİZLİLİK
+İş bu sözleşme konusu işlerin yürütülmesi sırasında TARAFLAR’ın diğer TARAF’a vermiş olduğu ticari veya teknolojik sır ve gizlilik niteliği taşıyan teknik, hukuki, ekonomik, maliyet, fiyat vs. gibi bilgiler taraflarca gizli tutulacak ve diğer TARAF’ın izni olmadan veya kendiliğinden aleniyet kazanmadan hiçbir surette üçüncü şahıslara verilmeyecektir.
+11. MÜCBİR SEBEPLER
+11.1. TARAFLAR’ın her ikisinin veya birinin çalışma imkânlarının kısmen veya tamamen, geçici veya daimi olarak durduracak şekilde ve derecede meydana gelen kanunlarla belirlenmiş doğal afetler, harp, seferberlik, yangın, infilak, grev ve lokavt v.b. hükümet veya resmi makamlarca alınmış kararlar gibi tarafların kontrolü haricinde zuhur eden hallerde iki taraf için mücbir sebep sayılır. Bu gibi durumlar karşısında TARAFLAR sorumlu olmayacaktır.
+11.2. TARAFLAR mücbir sebebin zuhurunu derhal yazılı olarak karşı tarafa bildirecek ve resmi belgeler ile tevsik edecektir. Bu halin 3 (üç) aydan fazla sürmesi halinde işbu Sözleşme kendiliğinden fesih olacaktır.
+11.3. TARAFLAR’dan hiçbiri, yukarıda açıklanan durumlar nedeniyle Sözleşmeyi feshetme ve/veya Sözleşmenin uygulanmaması veya gecikmesi nedeniyle uğradığı zararları talep etme hakkına sahip olamayacaktır.
+12. YETKİLİ MAHKEME VE İCRA DAİRESİ
+TARAFLAR arasında ihtilaf çıkması halinde Kocaeli (Gebze) Mahkemeleri ve İcra Daireleri münhasıran yetkili kılınmıştır.
+13. YÜRÜRLÜLÜK VE SAİR HÜKÜMLER
+13.1. İşbu Sözleşme, 13 (on üç) maddeden ve 8 (sekiz) sayfadan müteşekkil halde 2 (iki) nüsha olarak ..../..../20.... tarihinde imzalanmış olup, imza tarihinde yürürlüğe girmiştir.
+13.2. TARAFLAR işbu Sözleşmede belirtilen bütün hükümlere koşulsuz olarak uyacaklarını ve bu hükümlerin gerektirdiği şekilde davranacaklarını işbu Sözleşmenin imzası taahhüt ederler.
+BULUŞ SAHİBİ GEBZE TEKNİK ÜNİVERSİTESİ
+TEKNOLOJİ TRANSFER OFİSİ
+[1] Bu sözleşme 26.06.2023 tarihinde https://www.gtu.edu.tr/ sitesinden alınmıştır.

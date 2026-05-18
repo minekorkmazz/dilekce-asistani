@@ -1,0 +1,52 @@
+Rüçhan Belgesi Sunma Formu[1]
+M118  RÜÇHAN  BELGESİ SUNMA FORMU
+Referans No:
+Toplam  Sayfa Sayısı
+(Başvuru Sahibi Tarafından
+Doldurulacak)
+Toplam  Sayfa Sayısı
+(Kurum Tarafından
+Doldurulacak)
+Bu Alanı Boş Bırakınız
+(1)  RÜÇHAN TALEBİNDE BULUNULAN MARKA BİLGİLERİ
+Başvuru/Tescil No
+Marka Adı
+TÜRKPATENT Müşteri No (*)
+T.C.Kimlik No
+Başvuru Sahibi
+Vergi No
+(2) VEKİL
+Yok
+Var (Önceden Atanan)
+Var (Yeni Atanan)
+Vekil Sicil No (**)
+Adı Soyadı
+Firma Unvanı
+Adres
+Semt
+İlçe
+İl
+Posta Kodu
+Telefon No.
+Faks No.
+Vekaletname (***)
+Ektedir
+(3) RÜÇHAN  BİLGİLERİ
+Teşhire Dayanıyor :
+Başvuruya/Tescile Dayanıyor :
+Rüçhan hakkının doğduğu başvuru bilgileri
+Ülke
+Başvuru Numarası
+Tarihi
+Alanlar yeterli değilse  bu kutucuğu işaretleyiniz ve diğer rüçhanlara ilişkin bilgileri ekte belirtiniz.. Rüçhan Sayısı :
+(4) ÖDEME ve FATURA BİLGİLERİ
+Ödemeyi  Yapan
+Vekil
+Başvuru Sahibi
+Ödemenin Yapıldığı Banka ve Şubesi
+Dekont Numarası
+Dekont Tarihi
+Adı Soyadı/Unvanı
+Tarih
+İmza
+[1] Bu form, 30.07.2019 https://www.turkpatent.gov.tr/TURKPATENT/forms/informationDetail?id=100adresinden alınmıştır.

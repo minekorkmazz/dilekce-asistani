@@ -1,0 +1,45 @@
+Bilgi Talebi Formu[1]
+M126 BİLGİ TALEBİ   FORMU
+Referans No:
+Toplam  Sayfa Sayısı
+(Başvuru Sahibi Tarafından
+Doldurulacak)
+Toplam  Sayfa Sayısı
+(Kurum Tarafından
+Doldurulacak)
+Bu Alanı Boş Bırakınız
+(1) TALEP SAHİBİ BİLGİLERİ
+Gerçek Kişi
+Tüzel Kişi
+TÜRKPATENT Müşteri No:
+Adı Soyadı/Unvanı
+Uyruğu / Kayıtlı Olduğu Ülke
+T.C.Kimlik No
+Vergi Dairesi
+Vergi Numarası
+Adres
+Semt /İlçe
+İl
+Telefon No
+E-posta
+(2) VEKİL
+Var
+Yok
+Vekil Sicil No (**) :
+Vekaletname(*)
+Ektedir
+Adı Soyadı
+Firma Unvanı
+(3)   BİLGİ TALEBİNİN KONUSU
+Marka Başvurusu
+Başvuru no: ………………………………………………………………………………………………………………
+Tescilli Marka
+Tescil no: ………………………….……………………………………………………………………………………..
+Diğer
+Konu: ……………………………………………………………………………………………………………………..
+(4) BİLGİ TALEBİ
+(Talebin bu alana sığmaması halinde ek sayfalar oluşturulabilir)
+Adı Soyadı/Unvanı
+Tarih
+İmza
+[1] Bu form, 09.09.2019 https://www.turkpatent.gov.tr/TURKPATENT/forms/informationDetail?id=100adresinden alınmıştır.

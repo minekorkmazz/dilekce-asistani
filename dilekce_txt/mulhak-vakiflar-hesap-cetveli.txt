@@ -1,0 +1,198 @@
+Mülhak Vakıflar Hesap Cetveli [1]
+MÜLHAK VAKIFLAR HESAP CETVELİ
+…./…./20…
+…………………………….  VAKIFLAR BÖLGE MÜDÜRLÜĞÜNE
+Vakfımızın, ……/…./20… - ……/…./20...  tarihleri arasındaki Hesap Cetveli bilgileri aşağıdadır.
+Bilgilerinize arz ederim.
+1-KİMLİK BİLGİLERİ
+Vakıf Adı
+Vâkıfın (Kurucunun) Adı
+Vakfın Bağlı Olduğu Bölge Müdürlüğü
+İli
+İlçesi
+Hesap Yılı
+Yönetici Atanma Tarihi
+Yönetim Şekli (Yönetici, Temsilen, Kayyum)
+Yönetici Ad Soyad
+Yönetici Adres
+Yönetici Yrd. Ad Soyad
+Yönetici Yrd. Adres
+Vakfiye Tarihi (Hicri-Miladi )
+Vakfiyedeki Galle Fazlası Şartı
+Galleye Müstehak Evlat Sayısı
+2-VAKFIN MALÎ DURUMU (Gayrimenkul/Menkul)
+2.1 AKAR NİTELİĞİNDEKİ GAYRİMENKUL
+Adet
+Değeri ( TL )
+2.1.1
+Bina (ev, daire, dükkan, tesis, han, hamam, otel, fabrika, sera vb.)
+2.1.2
+Arsa, Arazi ve Bahçe
+2.1.3
+Zeytinlik (Ağaç Adeti)
+2.2 NAKİT VE NAKİT BENZERİ VARLIKLAR
+Tutarı ( TL )
+2.2.1
+Kasa
+2.2.2
+Banka
+2.2.2.1 Vadesiz Hesap Toplamı
+2.2.2.2 Vadeli Hesap Toplamı
+2.2.2.2.1 İhtiyat Akçesi Toplamı
+2.2.2.2.2 Akar Toprak Satış Bedeli hesabı toplamı
+2.2.2.2.3 Hayrat satış geliri hesabı toplamı
+2.2.2.2.4 Taviz Bedeli toplamı
+2.2.2.2.5 Döviz/Altın Hesabı Toplamı (TL)
+2.2.3
+Hisse Senedi
+2.2.4
+Vakıf Fazlası
+2.2.5
+Diğer
+TOPLAM
+3-ONARIM İHTİYACI OLAN HAYRAT NİTELİĞİNDEKİ GAYRİMENKULLER    (Cami, Mescit, Aşevi vb.)
+GAYRİMENKUL CİNSİ
+Adet
+Tahmini Onarım
+Bedeli ( TL )
+1
+2
+3
+4
+TOPLAM
+4-AMACA YÖNELİK GİDERLERİ
+VAKFİYE'DE YAZILI HAYIR ŞARTLARI
+Vakıflar Meclisi Karar Tarih ve Sayısı
+Güncel Tutarı ( TL )
+1
+2
+3
+4
+5
+6
+7
+8
+9
+TOPLAM
+Sayfa: 1/1
+GİDER
+TAHAKKUK
+HARCAMA
+GELİR
+TAHAKKUK
+TAHSİLAT
+1. İHTİYAT AKÇESİ (*)
+1. ÖNCEKİ YILDAN DEVREDEN
+2. YÖNETİM VE TEMSİL PAYI (**)
+1.1  Sigorta (Yangın, Deprem, personel, ssk, vb.)
+3. AMACA YÖNELİK GİDERLER
+1.2  Amaca Yönelik Giderler Karşılığı
+3.1  Sağlık
+1.3  İhtiyaç Akçesi
+3.2  Sosyal Hizmetler
+1.4  Akar ve Hayrat Onarımı Karşılığı
+3.3  Hayır işleri ve Gönüllü Faaliyetler
+1.5  Tevliyet
+3.4  Eğitim ve Araştırma
+1.6  Galle Fazlası Karşılığı
+3.5  Kültür, Sanat, Spor
+1.7  Yönetim ve Temsil Payı
+3.6  Ekonomik Sosyal ve Toplumsal Kalkınma
+1.8  Vakfın Borcu
+3.7  Hukuk İnsan Hakları ve Politika
+2.   ……… YILI GELİRLERİ
+3.8  Çevre (Doğa ve Hayvanları Koruma)
+2.1  Kira
+3.9  Uluslararası  faaliyetler
+2.2  Sabıka Kira
+3.10  Diğer
+2.3  Faiz
+3.10.1  Dini Amaçlı Yardımlar
+2.4  İşletme
+3.10.2  İmam Hatip ve Müezzin Ücreti
+2.5  İştirakler
+3.10.3  Tevliyet
+2.6  Mahsul Satış
+3.10.4  Diğer
+2.7  Temettü
+4. AKAR GİDERLERİ
+2.8  Diğer
+4.1  Bakım Onarım (Yılı içindeki gelirden yapılan)
+4.2  Vergi, Resim ve Harçlar
+4.3  Sigorta  (Yangın, Deprem vb.)
+4.4  Akar Toprak Satış Bedeli Hesabından Alımlar
+4.5  İhtiyat Akçesi Hesabından Onarım ve Alımlar
+4.6  Diğer
+5. HAYRAT GİDERLERİ
+3. SERMAYE HESAPLARI
+5.1  Bakım ve Onarım
+3.1  Akar ve Toprak Satış Bedeli
+5.2  Hayrat satış hesabından yapılan onarımlar veya alımlar
+3.2  Hayrat Satış Bedeli
+5.3  Akar Toprak Satış Bedeli Hesabından yapılan onarımlar
+3.3  Taviz Bedeli
+5.4  İhtiyat Akçesi Hesabından yapılan onarımlar
+3.4  Faiz Gelirleri (3.1, 3.2, 3.3)
+5.5  Diğer
+3.5  Alınan Borç
+6. GENEL YÖNETİM GİDERLERİ
+3.6  Yardım ve Bağışlar
+6.1  Elektirik,su, telefon vb.
+3.6.1  Yurtdışı
+6.2  Personel Giderleri
+3.6.2  Diğer
+6.3  Kırtasiye, Baskı Gideri
+3.7  İhtiyat akçesi hesabından onarım/gayrimenkul alımı için aktarılan
+6.4  Hizmet Giderleri (Avukat,Muhasebeci,vb.)
+3.8  Akar ve toprak hesabından onarım/gayrimenkul alımı için aktarılan
+6.5  Demirbaş Alımları
+3.9  Hayrat hesabından onarım/gayrimenkul alımı için aktarılan
+6.6  Gazete İlan Bedelleri
+3.9  Hisse senedi satış geliri
+6.7  Yönetici Harcırah Gideri (Yol ve Yemek)
+3.10  Beş yıl ödenemeyen galle fazlası
+6.8  Diğer Genel Yönetim Giderleri
+3.11  Vakıf Fazlası
+7. VAKFIN BORCU
+8. GALLE FAZLASI (***)
+9. GELECEK YILA DEVREDEN
+9.1  Sigorta (Yangın, Deprem, personel, ssk, vb.)
+9.2  Amaca Yönelik Giderler Karşılığı
+9.3  İhtiyaç Akçesi
+9.4  Akar ve Hayrat Onarımı Karşılığı
+9.5  Tevliyet
+9.6  Galle Fazlası Karşılığı
+9.7  Yönetim ve Temsil Payı
+9.8  Vakfın Borcu
+GENEL TOPLAM (1+2+3+4+5+6+7+8+9)
+GENEL TOPLAM (1+2+3)
+10. EMANET HESAPLAR
+4.EMANET HESAPLAR
+10.1  Evlat Hissesi
+4.1 Alınan Depozite Ve Teminatlar
+10.2  Ödenen Depozito ve Teminatlar
+4.2 Diğer
+10.3  Diğer
+(*)    Vakfın Gayri Safi Gelirlerinin %15'i
+(**)  Temsilen yönetilen vakıflarda gayri safi gelirinin %20 si
+(***) Vakfın gayrisafî gelirinden tüm giderleri çıkarıldıktan sonra kalan tutardır.
+VAKIF YÖNETİCİSİ
+KONTROL BİRİMİ
+ONAY BİRİMİ
+Adı ve Soyadı :
+(Bölge Müdürlüğü Yetkilisi)
+Strateji Geliştirme Dai. Bşk. Yetkilisi
+İmza                 :
+İmza
+İmza
+İmza
+İmza
+Adı Soyadı
+Adı Soyadı
+Adı Soyadı
+Adı Soyadı
+Unvanı
+Unvanı
+Unvanı
+Unvanı
+[1] Bu metin, 05.02.2019 Tarihinde, www.vgm.gov.tr sitesinden alınmıştır.

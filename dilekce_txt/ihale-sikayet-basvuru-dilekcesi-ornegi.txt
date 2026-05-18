@@ -1,0 +1,33 @@
+İhale - Şikayet Başvuru Dilekçesi Örneği
+_ _ / _ _ /201 _
+(İHALEYİ YAPAN İDARENİN ADI)
+(İDARENİN ADRESİ)
+Başvuru sahibi
+(Adı-soyadı/Ticaret unvanı, adresi ve faks numarası)
+TC Kimlik Numarası(Gerçek Kişi)/Vergi Kimlik Numarası (Tüzel Kişi)[1]
+Vekili/Temsilcisi
+(Adı-soyadı, adresi ve faks numarası)
+İhale Kayıt Numarası (İKN)
+Başvuru konusu ihalenin adı
+Şikayet konusu işlemin/durumun farkına varıldığı/tebliğ edildiği tarih [2]
+Şikayet konusu işlem ve şikayet nedenleri
+(Bu bölümde şikayet konusu işlemlerin hangi yönden ihale mevzuatına aykırı olduğu açıklanarak buna ilişkin kanıtların belirtilmesi gerekmektedir.)
+Yukarıda belirtilen hususlarla ilgili olarak 4734 sayılı Kamu İhale Kanunu İhalelere Yönelik Başvurular Hakkında Yönetmelik uyarınca şikayet başvurumuz hakkında inceleme yapılarak karar verilmesini arz ederim.
+Ad SOYAD/ Unvan-(Kaşe)
+İmza
+EKLER :
+I- TEMSİLE YETKİLİ OLUNDUĞUNA DAİR BELGELER
+a) Başvuranın gerçek kişi olması durumunda:
+1- Bizzat başvurması halinde temsile ilişkin herhangi bir belge istenilmeyecektir.
+2- Avukat olmayan temsilcisi aracılığı ile başvurmaları halinde: Şikayet başvurusunda bulunmaya yetkili olduğunu gösteren vekaletnamenin aslı veya noter tasdikli sureti ile vekilin imza beyannamesi/ sirküsü
+3- Avukat aracılığı ile başvurmaları halinde: Şikayet başvurusunda bulunmaya yetkili olduğunu gösteren baro pulu yapıştırılmış vekaletnamenin aslı veya avukat ya da noter tarafından onaylı sureti
+b) Başvuranın tüzel kişi olması durumunda:
+1- Aday/istekli/istekli olabileceklerin bizzat başvurması halinde: Tüzel kişiliği temsile yetkili olduğunu gösterir belgelerin aslı veya noter onaylı suretleri ile bu kişi ya da kişilerin noter onaylı imza sirküsü
+2- Avukat olmayan temsilcisi aracılığı ile başvurmaları halinde: Şikayet başvurusunda bulunmaya yetkili olduğunu gösterir noter onaylı vekaletname ile vekilin imza beyannamesi
+3- Avukat aracılığı ile başvurmaları halinde: Şikayet başvurusunda bulunmaya yetkili olduğunu gösteren baro pulu yapıştırılmış vekaletnamenin aslı veya avukat ya da noter tarafından onaylı sureti
+II- VARSA ŞİKAYET KONUSU İLE İLGİLİ DİĞER BİLGİ VE BELGELER
+NOT:
+1- Başvuru belgeleri veya teklif zarfı kapsamında idareye verilen ve yukarıda belirtilen hususları içeren belgelerin başvuru dilekçesine eklenmesine gerek bulunmamaktadır.
+2- Aynı kişi tarafından birden fazla ihaleye, birden fazla kişi tarafından aynı ihaleye veya birden fazla ihaleye tek dilekçe ile başvuruda bulunulamaz.
+[1] Ortak girişim adına yapılacak başvurularda, ortak girişimi oluşturan tüm ortakların TC Kimlik Numarası/Vergi Kimlik Numarası bilgisinin belirtilmesi zorunlu olup, bunun için tabloya gerektiği kadar satır eklenecektir.
+[2] İlana yönelik başvurularda ilk ilan tarihi başvuruya konu olan durumun farkına varıldığı veya bildirildiği tarih olarak belirtilir. Ön yeterlik veya ihale dokümanının ilana yansımayan hükümlerine yönelik başvurularda, dokümanın satın alındığı, danışmanlık hizmet alımı ihalelerinde ise dokümanın teslim alındığı tarih, başvuruya konu olan durumun farkına varıldığı veya bildirildiği tarih olarak belirtilir.

@@ -1,0 +1,27 @@
+Elektronik Beyanname Gönderme Talep Formu
+............................ Vergi Dairesi Müdürlüğüne / Başkanlığına
+Beyannamelerimi elektronik ortamda göndermek istiyorum. Talebimin değerlendirilmesini ve tarafıma parola, kullanıcı kodu ve kullanıcı şifresi verilmesini arz ederim.
+MÜKELLEF KİMLİK/ADRES BİLGİLERİ[1][2]
+Adı, Soyadı / Unvanı
+Vergi Kimlik Numarası
+Ticaret Sicil No
+Doğum Yeri /Tüzel Kişilerde Kanuni Merkezi
+Doğum Tarihi / Tüzel Kişilerde Kuruluş Tarihi
+Adresi
+Bağlı Bulunduğu Oda ve Sicil No
+Telefon Numarası
+Faks Numarası
+Elektronik Posta Adresi
+Elektronik beyanname göndereceklerin dikkat etmesi gereken hususlar:
+1. Beyannamelerin elektronik ortamda gönderilmesi ile ilgili kanuni düzenlemelerde yer alan usul ve esaslar doğrultusunda beyannamelerin elektronik ortamda gönderilmesi gerekmektedir.
+2. Beyannamelerini kendileri gönderebilecek mükellefler kendilerine verilen kullanıcı kodu, parola ve şifrenin kullanımından sorumludurlar.
+Bu nedenle kullanıcı kodu, parola ve şifrelerini; başka amaçlarla kullanamazlar, herhangi bir üçüncü kişiye açıklayamazlar ve kullanımına izin veremezler, işyerinin satışı, transferi ve işi bırakmada üçüncü kişilere devredemezler, kiralayamazlar ve satamazlar.
+3. Beyannamelerini kendileri gönderebilecek mükellefler kendilerine verilen kullanıcı kodu, parola ve şifrenin kullanımından sorumlu olduklarından kullanıcı kodu, parola ve şifrenin yetkisiz kişilerce kullanıldığını öğrendikleri anda (kullanıcı kodu, parola ve şifrenin kaybedilmesi, çalınması vb. durumlar dahil) Gelir İdaresi Başkanlığı 444 0 435 no.lu Çağrı Merkezine telefonla veya bağlı oldukları vergi dairesine dilekçe ile derhal bilgi vermeleri gerekmektedir. Söz konusu kişiler bildirim anına kadar yapılan işlemlerden ve taraflarına verilen kullanıcı kodu, parola ve şifrenin kullanımından bizzat sorumlu olacaklardır.
+4. Elektronik ortamda yapılan işlemlerin tespit ve tevsikinde Gelir İdaresi Başkanlığı/vergi dairesi kayıtları esas alınacaktır.
+5. Kullanıcı kodu, parola ve şifre kullanılarak elektronik ortamda gönderilen ve onaylanan beyanname/bildirimler mükelleflerce imzalanmış sayılacaktır.
+Mükellef / Kanuni Temsilci
+Adı Soyadı
+İmza
+Tarih
+[1] Adi ortaklık şeklindeki mükellefiyetlerde ortaklığa ait bilgiler yazılacaktır.
+[2] T.C. vatandaşı olan gerçek kişilerde T.C. kimlik numarası yazılacaktır.

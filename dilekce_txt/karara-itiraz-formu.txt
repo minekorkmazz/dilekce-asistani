@@ -1,0 +1,50 @@
+Karara İtiraz Formu[1]
+M104   KARARA   İTİRAZ   FORMU
+Referans No:
+Toplam  Sayfa Sayısı
+(Başvuru Sahibi Tarafından
+Doldurulacak)
+Toplam  Sayfa Sayısı
+(Kurum Tarafından
+Doldurulacak)
+Bu Alanı Boş Bırakınız
+(1)  İTİRAZA KONU  MARKA BİLGİLERİ
+Başvuru Numarası
+Marka Adı
+TÜRKPATENT Müşteri No (*)
+T.C.Kimlik No
+Başvuru Sahibi
+Vergi No
+(2) VEKİL
+Yok
+Var (Önceden Atanan)
+Var (Yeni Atanan)
+Vekil Sicil No (**)
+Adı Soyadı
+Firma Ünvanı
+Adres
+Semt
+İlçe
+İl
+Posta Kodu
+Telefon Nmr.
+Faks Nmr.
+Vekaletname (***)
+Ektedir
+(3) MUVAFAKATNAME
+Yok
+Var (Ektedir)
+(4) ÖDEME ve FATURA BİLGİLERİ
+Ödemeyi  Yapan
+Vekil
+Başvuru Sahibi
+Ödemenin Yapıldığı Banka ve Şubesi
+Dekont Numarası
+Dekont Tarihi
+(5) İTİRAZ GEREKÇELERİ
+Adı Soyadı/Unvanı
+Tarih
+İmza
+(6) İTİRAZ GEREKÇELERİ  (EK SAYFA)
+(Gerekli ise kullanınız.)
+[1] Bu form, 30.07.2019 https://www.turkpatent.gov.tr/TURKPATENT/forms/informationDetail?id=100adresinden alınmıştır.

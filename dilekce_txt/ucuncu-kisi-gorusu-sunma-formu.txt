@@ -1,0 +1,64 @@
+Üçüncü Kişi Görüşü Sunma Formu[1]
+M129  ÜÇÜNCÜ KİŞİ GÖRÜŞÜ  SUNMA  FORMU
+Referans No:
+Toplam  Sayfa Sayısı
+(Başvuru Sahibi Tarafından
+Doldurulacak)
+Toplam  Sayfa Sayısı
+(Kurum Tarafından
+Doldurulacak)
+Bu Alanı Boş Bırakınız
+(1) GÖRÜŞ SUNULAN MARKA BİLGİLERİ
+Başvuru Numarası
+Marka Adı
+Bülten Tarihi ve Numarası
+-
+(2) GÖRÜŞ SAHİBİ
+TÜRKPATENT Müşteri  No (*) (varsa)
+Adı Soyadı/Unvanı
+Adres
+Semt
+İlçe
+İl / Ülke
+Posta Kodu
+Telefon No
+Faks No
+Uyruğu
+E-Posta Adresi
+Kayıtlı Olduğu Ülke
+T.C.Kimlik No
+Vergi Dairesi
+Vergi Numarası
+(3) VEKİL
+Yok
+Var
+Vekil Sicil No (**)
+Adı Soyadı
+Firma Ünvanı
+Adres
+Semt
+İlçe
+İl
+Posta Kodu
+Telefon No
+Faks No
+Vekaletname (***)
+Ektedir
+(4) SMK MD. 17 ÇERÇEVESİNDE MARKANIN TESCİL EDİLMESİNE ENGEL GÖRÜLEN GEREKÇELER
+5/1(a)
+5/1(b)
+5/1(c)
+5/1(d)
+5/1(e)
+5/1(f)
+5/1(g)
+5/1(ğ)
+5/1(h)
+5/1(ı)
+5/1(i)
+(5) GÖRÜŞE İLİŞKİN AÇIKLAMALAR
+Görüşe ilişkin diğer delil, belge ve bilgiler ekte sunulmuştur.
+Adı Soyadı/Unvanı
+Tarih
+İmza
+[1] Bu form, 09.09.2019 https://www.turkpatent.gov.tr/TURKPATENT/forms/informationDetail?id=100adresinden alınmıştır.

@@ -1,0 +1,55 @@
+Hata Düzeltme Talep Formu[1]
+M1125 HATA DÜZELTME TALEP   FORMU
+Referans No:
+Toplam  Sayfa Sayısı
+(Başvuru Sahibi Tarafından
+Doldurulacak)
+Toplam  Sayfa Sayısı
+(Kurum Tarafından
+Doldurulacak)
+Bu Alanı Boş Bırakınız
+(1)   MARKA BİLGİLERİ
+Başvuru Numarası
+Marka Örneğindeki Yazılı İbare
+Başvuru Sahibi
+TÜRKPATENT Müşteri No
+T.C.Kimlik No / Vergi No
+(2)   HATA BİLGİLERİ
+HATANIN KAYNAĞI
+Başvuru Sahibi / Vekil
+Kurum
+HATANIN YAPILDIĞI BELGE/BAŞVURU/TALEP/DİLEKÇE
+../../…. tarihli başvuru/dilekçe/talep
+… Belgesi
+HATALI BİLGİNİN TÜRÜ
+Ad Soyadı
+Unvan
+T.C. No
+Vergi No
+Vergi Dairesi
+Adres
+Telefon
+Vekil Bilgileri
+Diğer …….
+Hatalı Bilgi
+Doğru Bilgi
+(3) VEKİL
+Yok
+Var (Önceden Atanan)
+Var (Yeni Atanan)
+Vekil Sicil No (**)
+Adı Soyadı
+Firma Ünvanı
+Vekaletname
+Ektedir
+(5) EKLER
+Ticaret Sicil Gazetesi
+Vekaletname
+Kimlik Fotokopisi
+Vergi Levhası
+Diğer
+(6) VARSA EK BEYAN
+Adı Soyadı/Unvanı
+Tarih
+İmza
+[1] Bu form, 09.09.2019 https://www.turkpatent.gov.tr/TURKPATENT/forms/informationDetail?id=100adresinden alınmıştır.

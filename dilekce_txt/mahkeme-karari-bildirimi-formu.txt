@@ -1,0 +1,51 @@
+Mahkeme Kararı Bildirimi Formu[1]
+M132 MAHKEME KARARI BİLDİRİMİ FORMU
+Referans No:
+Toplam  Sayfa Sayısı
+(Başvuru Sahibi Tarafından
+Doldurulacak)
+Toplam  Sayfa Sayısı
+(Enstitü Tarafından
+Doldurulacak)
+Bu Alanı Boş Bırakınız
+(1)  MAHKEME KARARINA KONU  MARKA BAŞVURUSUNUN / TESCİLLİ MARKANIN
+Başvuru veya Tescil No.
+Marka Adı
+Marka Sahibi
+(2) MAHKEME KARARINI SUNAN TARAFIN
+Adı Soyadı  / Ünvanı
+TC Kimlik No / Vergi No
+TC Kimlik No / Vergi No
+Adres
+Telefon
+(3)  VEKİL
+Var:
+Yok:
+Vekil Sicil No (**)
+Adı Soyadı
+Firma Ünvanı
+Vekaletname
+Ektedir :
+(4)  MAHKEME KARARI BİLGİLERİ:
+Mahkeme Adı
+Esas No
+Karar No
+Karar  Tarihi
+Kesinleşme  Tarihi
+Mahkeme Kararının Kesinleşme Şerhini İçerir Bir Örneği Ektedir :
+Mahkeme Kararı  ( Lütfen ilgili kutucuğu işaretleyiniz.)
+Dava açılmamış sayılmıştır
+Dava ret
+YİDK Kararı İptal
+YİDK Kararı Kısmen İptal
+Markanın Hükümsüzlüğü
+Markanın Kısmen Hükümsüzlüğü
+Mahkeme Kararı ile Yayın
+Mahkeme Kararı ile Kısmen Yayın
+Tanınmış Marka Tespiti
+Diğer
+(5) VARSA MAHKEME KARARINA İLİŞKİN AÇIKLAMALAR
+Adı Soyadı
+Tarih
+İmza
+[1] Bu form, 30.11.2016 tarihinde http://www.tpe.gov.tr/TurkPatentEnstitusu/forms/informationDetail?id=100 adresinden alınmıştır.

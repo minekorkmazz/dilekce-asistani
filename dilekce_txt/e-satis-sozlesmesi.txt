@@ -1,0 +1,37 @@
+E-Satış Sözleşmesi
+1.Madde: Taraflar
+1.1 Alıcı; …………………..(TC Numarası/Vergi Numarası/Aderes/Telefon Numarası) ve Satıcı;…………………………. (TC Numarası/Vergi Numarası/Aderes/Telefon Numarası) aşağıda yer alan şartlarda mutabık kalarak işbu “E-Satış Sözleşmesini akdetmişlerdir.
+2. Madde: Sözleşmenin Konusu
+2.1. İşbu sözleşmenin konusu, Alıcının Satıcıya ait …………... internet sitesinden elektronik ortamda siparişini yaptığı aşağıda nitelikleri ve satış fiyatı belirtilen ürünün satışı ve teslimi ile ilgili olarak 4077 sayılı Tüketicilerin Korunması Hakkındaki Kanun ve Mesafeli Sözleşmeleri Uygulama Esas ve Usulleri Hakkında Yönetmelik hükümleri gereğince tarafların hak ve yükümlülüklerinin saptanmasıdır.
+3. Madde: Sözleşmeye Konu Olan Ürün
+3.1. Ürünlerin;
+Cinsi ve türü:
+Miktarı:
+Markası/Modeli:
+Rengi:
+Satış Bedeli:
+Ödeme Şekli:
+Teslim Edilecek Adresi:
+Teslim Edilecek Kişi:
+Fatura Adresi:
+4. Madde: Genel Hükümler
+4.1- Alıcı, ………….. internet sitesinde sözleşme konusu ürünün 3. Madde’de yer alan ön bilgileri okuyup bilgi sahibi olduğunu ve elektronik ortamda gereken onayı verdiğini kabul ve beyan eder.
+4.2- Satıcı, sözleşme konu ürünü; yasal 30 günlük süreyi aşmamak şartıyla ürünler için alıcının yerleşim adresini uzaklığına bağlı olarak internet sitesinde ön bilgiler içinde açıklanan süre içinde alıcı veya gösterdiği adresteki kişi ya da kuruluşa teslim etmekle yükümlüdür.
+4.3- Sözleşme konu ürün, alıcının talebiyle alıcıdan başka bir kişi/kuruluşa teslim edilecekse teslim edilecek kişi ya da kuruluşun teslimatı kabul etmemesininden satıcı sorumlu tutulamaz.
+4.4- Satıcı, sözleşme konusu ürünü; siparişte belirtilen niteliklere uygun olarak sağlam, eksiksiz şekilde ve varsa garanti belgeleri ve kullanım klavuzları ile teslim edilmesinden sorumlu olduğunu kabul, beyan ve taahhüt eder.
+4.5- Sözleşme konusu ürünün teslimatı için işbu sözleşmenin imzalı nüshasının satıcıya ulaştırılmış olması ve bedelinin alıcının tercih ettiği ödeme şekli ile ödenmiş olması şarttır. Herhangi bir nedenle ürün bedeli ödenmez veya banka kayıtlarında iptal edilir ise satıcı ürünün teslimi yükümlülüğünden kurtulmuş kabul edilir.
+4.6- Ürünün tesliminden sonra alıcıya ait kredi kartının alıcının kusurundan kaynaklanmayan bir şekilde yetkisiz kişilerce haksız veya hukuka aykırı olarak kullanılması nedeni ile ilgili banka veya finans kuruluşun ürün bedelini satıcı'ya ödememesi halinde, alıcı'nın kendisine teslim edilmiş olması kaydıyla ürünün 3 gün içinde satıcı'ya gönderilmesi zorunludur. Bu takdirde nakliye giderleri alıcı'ya aittir.
+4.7- Satıcı mücbir sebepler veya nakliyeyi engelleyen hava durumu, ulaşım ile ilgili problemler gibi olağanüstü durumlar nedeniyle sözleşme konusu ürünü süresi içinde teslim edemezse durumu alıcıya bildirmekle yükümlü olduğunu kabul eder. Böyle bir durumda alıcı siparişinin iptal edilmesini, sözleşme konusu ürünün varsa bir benzeri ile değiştirilmesini, ve/veya teslimat tarihini engelleyici durumun ortadan kalkmasına kadar ertelenmesi haklarından birini kullanabilir. alıcının siparişi iptal etmesi halinde ödediği tutar … gün içinde kendisine nakten ve defaten ödenir.
+4.8- Garanti belgesi ile satılan ürünlerden olan veya olmayan ürünlerin arızalı veya bozuk olanlar, garanti şartları içinde gerekli onarımın yapılması için satıcı'ya gönderilebilir, bu takdirde kargo giderleri satıcı tarafından karşılanacaktır.
+4.9- İşbu sözleşme, alıcı tarafından imzalanıp satıcıya posta yolu, e-posta veya faks ile ulaştırılmasından sonra geçerlilik kazanır.
+5.Madde: Cayma Hakkı
+5.1. Alıcı, sözleşme konusu ürünün kendisine veya gösterdiği adresteki kişi ya da kuruluşa tesliminden itibaren 7 gün içinde cayma hakkına sahiptir. Cayma hakkının kullanılması için bu süre içinde satıcıya faks, email veya telefon ile bildirimde bulunulması ve ürünün kullanılmamış olması şarttır. Bu hakkın kullanılması halinde, üçüncü kişiye veya alıcıya teslim edilen ürünün satıcıya gönderildiğine ilişkin kargo teslim tutanağı örneği ile fatura aslının iadesi zorunludur. Bu belgelerin ulaşmasını takip eden 7 gün içinde ürün bedeli alıcıya iade edilir. Fatura aslı gönderilmez ise KDV ve varsa sair yasal yükümlülükler iade edilemez.
+5.2. Cayma hakkı nedeni ile iade edilen ürünün kargo bedeli satıcı tarafından karşılanır.
+6. Madde: Cayma Hakkı Kullanılamayacak Ürünler
+6.1. Niteliği itibarıyla iade edilemeyecek ürünler, tek kullanımlık ürünler, kopyalanabilir yazılım ve programlar, hızlı bozulan veya son kullanım tarihi geçen ürünler için cayma hakkı kullanılamaz.
+7. Madde: Yetkili Mahkeme
+7.1. İşbu sözleşmeden doğan uyuşmazlıklarda; Sanayi ve Ticaret Bakanlığı tarafından ilan edilen değere kadar Tüketici Hakem Heyetleri ile alıcının veya satıcı'nın yerleşim yerindeki Tüketici Mahkemeleri yetkilidir.
+Alıcının vediği siparişin gerçekleşmesi durumunda alıcı işbu sözleşmenin tüm şartlarını kabul etmiş sayılır. …/…/20..
+Satıcı                                                                              Alıcı
+Kaşe                                                                               Kaşe
+İmza                                                                                İmza

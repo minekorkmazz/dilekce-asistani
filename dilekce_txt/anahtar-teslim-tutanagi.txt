@@ -1,0 +1,7 @@
+Anahtar Teslim Tutanağı
+KİRALAYAN                :(Ad, Soyad, TC, Adres)
+KİRACI                         : (Ad, Soyad, TC, Adres)
+KONU                          : Kiralanan taşınmaza ilişkin anahtar teslimi hk.
+AÇIKLAMALAR          :
+Kiracı, yapılan görüşme neticesinde kiralananı .../…/2025 tarihinde tahliye edeceğini taahhüt etmiştir. Kiracı .../…/2025 tarihinde … Cad. … Sitesi D Blok Daire 7 Kartal/İstanbul adresindeki kiralananı tahliye etmiştir. Mecur boş ve borçsuz olarak aynı gün kiralayana anahtarlarıyla birlikte teslim edilmiştir.(Tarih)
+KİRALAYAN                                                                                                  KİRACI

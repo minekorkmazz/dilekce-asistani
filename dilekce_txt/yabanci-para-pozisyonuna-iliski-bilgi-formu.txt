@@ -1,0 +1,31 @@
+Yabancı Para Pozisyonuna İlişki Bilgi Formu[1]
+USD TL KARŞILIĞI
+EURO TL KARŞILIĞI
+DİĞER DÖVİZ TL KARŞILIĞI
+1 - AKTİF (VARLIKLAR) YABANCI PARA TOPLAMI
+1. Kasa
+2. Bankalar
+3. Menkul Kıymetler
+4. Kısa Vadeli Ticari Alacaklar
+5. Uzun Vadeli Ticari Alacaklar
+6. Kısa Vadeli Verilen Sipariş Avansları
+7. Ortaklardan, İştiraklerden Ve Bağlı Ortaklıklardan Alacaklar
+8. Diğer Döviz Alacakları
+II - PASİF (KAYNAKLAR) YABANCI PARA TOPLAMI
+1. Kısa Vadeli Mali Borçlar
+1.1. Kısa Vadeli Banka Kredileri
+1.2. Diğer Kısa Vadeli Mali Borçlar
+2. Uzun Vadeli Mali Borçlar
+2.1. Uzun Vadeli Banka Kredileri
+2.2. Diğer Uzun Vadeli Mali Borçlar
+3. Kısa Vadeli Ticari Borçlar
+4. Uzun Vadeli Ticari Borçlar
+5. Kısa Vadeli Alınan Sipariş Avansları
+6. Ortaklara, İştiraklere Ve Bağlı Ortaklıklara Borçlar
+7. Diğer Döviz Borçları
+III - NET BİLANÇO İÇİ YABANCI PARA POZİSYONU (I-II)
+IV - BİLANÇO DIŞI TÜREV ENSTRÜMANLARI NET POZİSYONU
+1. Bilanço Dışı Türev Enstrümanları  (+)
+2. Bilanço Dışı Türev Enstrümanları  (-)
+V - NET YABANCI PARA POZİSYONU (lll+IV)
+[1] Bu form “http://www.gib.gov.tr/yardim-ve-kaynaklar/beyanname-formlari-bildirimler” adresinden 07.06.2017 tarihinde alınmıştır.

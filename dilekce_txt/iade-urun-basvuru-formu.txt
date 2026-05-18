@@ -1,0 +1,28 @@
+İade Ürün Başvuru Formu[1]
+…………………………. MÜDÜRLÜĞÜNE
+İade edilmek istenen aşağıda bilgileri yazılı ürünlerin resmi kontrollerinin yapılarak yurda giriş izninin verilmesini arz ederim. ... /…/…
+Firma Kaşe
+İHRAÇ EDİLEN BİTKİYE AİT BİLGİLER
+İhracatçının Adı ve Adresi:
+Alıcının Adı ve Adresi:
+Ürün Cins ve Çeşidi:
+GTİP NO:
+Ambalaj Şekli ve Sayısı:
+Ürünün Miktarı:
+Taşıma Aracı:
+Çıkış Gümrüğü:
+Gönderilen Ülke:
+Bitki Sağlık Sertifikasının Tarihi ve Numarası:
+İhracat Beyannamesi Tarihi ve Numarası:
+İADE EDİLEN BİTKİYE AİT BİLGİLER
+Geri Dönüş Tarihi:
+Hangi Ülkeden Geldiği:
+Ürün Cins ve Çeşidi:
+GTİP NO:
+Ambalaj Şekli ve Sayısı:
+Ürünün Miktarı:
+Taşıma Aracı:
+İade Sebebi:
+Giriş Gümrüğü:
+Giriş Beyannamesi Tarihi ve Numarası:
+[1] Bu dilekçe 24.11.2023 tarihinde zkm.tarimorman.gov.tr sitesinden alınmıştır.

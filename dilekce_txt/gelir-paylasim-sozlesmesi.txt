@@ -1,0 +1,41 @@
+Gelir Paylaşım Sözleşmesi
+Madde 1- Sözleşmenin Konusu ve Tarafları
+….. Sendikaları Konfederasyonu ihtiyacı olan ….. hizmetinin ….. A.Ş. tarafından sağlanmasıdır.
+Madde 2- Taraflara İlişkin Bilgiler
+….. Sendikası Bilgileri
+Adresi    :  …..
+Telefonu :  …..
+e-mail     :  …..
+Yüklenici Bilgileri
+Adresi    :  …..
+Telefonu :  …..
+e-mail     :  …..
+Taraflar yukarda belirtilen adreslerini tebligat adresleri olarak kabul etmişlerdir. Adres değişiklikleri usulüne uygun şekilde karşı tarafa tebliğ edilmedikçe en son bildirilen adrese yapılacak tebliğ geçerli olur ve ilgili tarafa yapılmış sayılır.
+Taraflar yazılı tebligatı daha sonra süresi içinde yapmak kaydıyla, elektronik posta ya da elden teslim, posta veya posta kuryesiyle bildirimde bulunabilir.
+Madde 3- Sözleşmenin Bedeli
+Sözleşme gelir paylaşım modeli esasına dayalı bir çerçeve sözleşme olup, üzerinde mutabık kalınan gelir paylaşım oranları ekteki dokümanda belirtilmiştir.
+Sözleşme yürürlükte iken ortaya çıkabilecek özel kampanyalar kapsamında Şirket Gelir Oranı ….. ve Şirket ile oluşturulacak ortak mutabakat ile artırılıp/azaltılabilecek olup, bu durumda Şirket’ya ödenecek bedeller bu mutabakat sonucunda ortaya çıkan Şirket Gelir Oranı üzerinden yeniden hesaplanabilecektir.
+1- İşe Başlama, İş Programı, İşin Süresi
+Sözleşmenin imzalanması ile işe başlanacak ve karşılıklı mutabakat ile feshedilene kadar devam edecektir.
+2- Ödeme
+Üye iş yerleri ile yapılan anlaşmalar çerçevesinde belirlenen Şirket gelir oranı üye iş yeri tarafından Şirket’ya ödenecektir. Şirket ile ….. arasında belirlenen ve ekte de yer alan gelir paylaşımı modeline uygun olarak Şirket, …..’in payına düşen oranı …..’e aktaracaktır.
+3- Şirket’nın Sorumlulukları
+1. Üye iş yerlerinin bulunması ve karar verilmesi konusunda Şirket, ….. ile ortak hareket edecektir.
+2. Üye iş yerleri ile oluşturulacak kampanyalar, projeler de Şirket, ….. ile ortak hareket edecektir.
+3. Üye iş yerleri ile sözleşmeler imzalamak Şirketin sorumluluğundadır.
+4. Şirket bu sözleşme kapsamında projenin ana çatısını oluşturacak Web ve Mobil uygulama geliştirecektir. Bu uygulamanın geliştirilmesi konusunda ….. ile ortak hareket edecektir.
+Madde 4- İdarenin Sorumlulukları
+1- İdare projenin yürütülmesi sırasında projenin koordinasyonu için bir kişi görevlendirecektir.
+2- İdare sözleşme yürürlükte olduğu sürece bu sözleşme kapsamına giren konularda farklı bir firma ile işbirliği yapmamayı taahhüt eder.
+Madde 5- Hizmet Standardı
+Şirket, Sözleşme konusu işlerin ifasını ve Sözleşme altındaki yükümlülüklerinin icrasını etkin, profesyonel, ehil bir şekilde, uluslararası alanda benimsenen ve genel olarak kabul edilen en son tekniklere ve uygulamalara uygun olarak gerçekleştirecektir.
+Şirket, Sözleşme konusu işlerin icra edilmesi esnasında başta Sağlık, Çevre ve İş Güvenliği mevzuatı olmak üzere yürürlükteki ilgili bütün yasalara, kurallara, emirlere, yönetmeliklere ve yönergelere uygun hareket edecektir.
+Madde 7- Onaylar ve Yetkilendirmeler
+Şirket, Sözleşme konusu işlerin icra edilmesi için gerekli olan teçhizatın, yazılımın, ayrıca Şirket’ya ait teçhizatın ve diğer malzemeler ile donanımların ithalatı, ihracatı ve yeniden ihracatı için ihtiyaç duyulan bütün onayların alınmasından ve yapılan bütün işlemlerin elektronik haberleşme güvenliği de dâhil olmak üzere tüm mevzuat ve düzenlemelere uygun olmasından sorumlu olacaktır.
+Madde 8- Tadilatlar ve Feragatlar
+Sözleşme kapsamında gerçekleştirilecek tadilatlar ya da eklentiler yazılı olarak tarafların her birisinin usulen yetkilendirilmiş temsilcileri tarafından imzalanmadığı sürece yürürlüğe girmeyecek ya da geçerli sayılmayacaktır.
+Sözleşmede yer alan hükümlere ilişkin ihlaller ya da işbu Sözleşme kapsamındaki temerrütlere ilişkin tatbik edilecek haklardan edilen feragatler, söz konusu feragat yazılı olarak düzenlenmediği ve feragat eden tarafından imzalanmadığı sürece yürürlüğe girmeyecektir. Herhangi bir ihlalden ya da temerrütten feragat edilmesi, daha sonraki ihlallerden ya da temerrütlerden de feragat edildiği anlamını taşımayacaktır.
+Madde 9- Sözleşmenin Bütünlüğü
+Sözleşme içerisinde işaret edilen bütün belgeler, Sözleşme konusu işlerin tamamına ilişkin olarak taraflar arasında akdedilen bütün Sözleşmeyi içermektedir ve ister sözlü ister yazılı olsun tarafların daha önceden gerçekleştirdiği bütün mutabakatları ve bütün açıklamaları iptal etmekte ve/veya yerini almaktadır. Bu Sözleşme’nin herhangi bir hükmü veya hükümleri yürürlükteki kanunlar nezdinde herhangi bir surette yasadışı, geçersiz veya ifa edilemez ise veya bu hale gelirse, bu Sözleşme Tarafların amaçlarına uygun olduğu sürece Sözleşmenin diğer hükümleri geçerli ve yürürlükte kalacaktır. Bu durumda, Taraflar, geçersiz sayılan veya ifa edilemeyen kısım veya hükmün yerine, geçersiz bölüm veya hükmün amacına uygun yeni bir hüküm veya bölüm eklemek için ellerinden gelen azami çabayı sarf edeceklerdir.
+Sendika Yetkilisi                                    Yüklenici
+(Adı, Soyadı, İmza)                              (Adı, Soyadı, İmza)

@@ -1,0 +1,15 @@
+Tüketici – Hakem Heyetine Başvuru
+… KAYMAKAMLIĞI
+TÜKETİCİ SORUNLARIN HAKEM HEYETİNE BAŞKANLIĞI’NA
+ŞİKAYET EDEN                     : (Ad, Soyad, TC, Adres, Diğer iletişim bilgileri)
+ŞİKAYET EDİLEN                 : (Unvan, Adres, Diğer iletişim bilgileri)
+ŞİKAYETİN PARASAL
+DEĞERİ                                               :
+ŞİKAYET KONUSU               : (Şikayet konusu mal veya hizmet hakkında bilgiler)
+AÇIKLAMALAR
+(Şikayet konusu hakkında açıklamalar ve olay hakkında ayrıntılı bilgi)
+SONUÇ ve İSTEM :
+Saygılarımla,
+Tarih
+ŞİKAYET EDEN
+(Ad, Soyad, İmza)

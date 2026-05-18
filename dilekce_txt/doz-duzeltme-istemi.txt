@@ -1,0 +1,27 @@
+Doz Düzeltme İstemi[*]
+T.C.
+…  Sosyal Güvenlik İl Müdürlüğü
+.. Sağlık Sosyal Güvenlik Merkezine
+HASTANIN
+Adı ve Soyadı
+T.C. Kimlik Numarası
+DÜZELTME İSTENİLEN
+İlacın Adı
+Yanlış Yazılan İlacın Reçete Kayıt Tarihi veya Yeni Doza Geçildiği Tarih
+İlaç Kullanım Dozu
+(İlacın doğru kullanım dozu yazılacaktır.)
+[(birim(adet,mg,IU..) ve periyot( gün,,ay..)] belirtiniz.
+(Kür protokolü ile ilaç uygulanıyor ise ayrıntılı olarak belirtilmesi)
+Yukarıda bilgileri yazılı hasta söz konusu ilacı yukarıda belirtilen dozda kullanmaktadır. Hatalı girilen ilaç dozunun düzeltilerek hasta mağduriyetinin giderilebilmesi için gereğini arz ederim.
+Tarih
+HEKİM
+Adı, Soyadı ve İmzası
+Başvuru bilgim dahilinde yapılmıştır.
+HASTA VEYA YAKINI İMZA:
+Yakını ise,
+Adı ve Soyadı:
+T.C.Kimlik No:
+BAŞVURU SAHİBİ ECZANE KAŞE VE İMZA
+ECZANE SİCİLİ:
+TEL NO:
+[*] Bu dilekçe https://www.aydineczaciodasi.org.tr/2dosyalar-8 adresinden alınmıştır. Erişim Tarihi: 20.10.2023

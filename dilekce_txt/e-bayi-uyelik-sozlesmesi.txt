@@ -1,0 +1,74 @@
+E-Bayi Üyelik Sözleşmesi
+MADDE 1- SÖZLEŞMENİN TARAFLARI
+İş bu sözleşme; ……. Bilgisayar Malzemeleri Ticaret A.Ş. (Bundan böyle kısaca ‘ŞİRKET’ olarak anılacaktır) İle …………………………………………………………… (Bundan böyle kısaca ‘E-BAYİ’ olarak anılacaktır) arasında yapılmış olup, tarafların Ticaret Siciline kayıtlı açık adresleri aşağıda olduğu gibidir.
+ŞİRKET ADRES:…..
+E-BAYİ ADRES:…
+MADDE 2- SÖZLEŞMENİN KONUSU
+İş bu sözleşme ŞİRKET’in internet üzerinden bayilerine online olarak ürün satışı yaptığı www…….com, (Bundan böyle “ www…..com PAZAR ” olarak anılacaktır.) adreslerinden bu sözleşmenin ekinde bulunan formda seçeceği bir veya birkaçına üyelik sistemi ve bu üyelik sisteminin sağladığı elektronik ortamda alış-veriş, ürün fiyatlarıyla ilgili bilgiler, elektronik posta, elektronik ortamda finansal işlemler için ödeme araçları ve ilgili ödeme koşulları ile gizlilik, çalışma yöntemi, mücbir sebepler, sözleşmenin devri, feshi ve uyuşmazlıkların çözümü ile ilgili kurallar ve ŞİRKET ile E-BAYİ’nin karşılıklı yükümlülüklerini belirler.
+MADDE 3- ÜYELİK SİSTEMİ
+a) Bayi Kodu : Sözleşmenin yürürlüğe girmesiyle ŞİRKET tarafından belirlenecektir. Aynı bayi kodu iki farklı bayiye verilemeyeceği gibi aynı şekilde bir bayiye de birden fazla kod verilemez.
+b) Yönetici Kullanıcı Adı : Sözleşmenin yürürlüğe girmesiyle birlikte ŞİRKET tarafından belirlenecektir. E-BAYİ’nin ilk kullanım esnasında bu adı değiştirme yükümlülüğü vardır. E-BAYİ istediği takdirde değişik yetkilere sahip kullanıcı adları belirleyebilir ve bunların şirketi içinde yetki vermek istediği kişilerce kullanılmasını, www.....com Pazar adreslerinde belirli işlemlerin bu kişilerce yapılmasını sağlayabilir. Bu kişilerin yapacakları işlemlerden doğabilecek tüm sorumluluk E-BAYİ’nin kendisine aittir.
+c) Şifre : İlk kullanımda geçici şifre ŞİRKET tarafından belirlenir. E-BAYİ bu şifreyi ilk kullanımda mutlaka değiştirme yükümlülüğü altındadır. Şifrenin değiştirilmesi ve korunması tamamen E-BAYİ’nin sorumluluğunda olup ŞİRKET şifre kullanımıyla ilgili doğabilecek problemlerden sorumlu olmayacaktır.
+d) Kullanım : E-BAYİ’nin www.....com Pazar üyeliği gerektiren servislere bağlanabilmesi için bayi kodu, kullanıcı adı ve şifresini girmesi gerekmektedir. ŞİRKET kendi takdirine bağlı olarak önceden bildirmeksizin E-BAYİ’ye bu hizmeti vermekten sakınabilir.
+MADDE 4- TARAFLARIN YÜKÜMLÜLÜKLERİ
+A-ŞİRKET’İN YÜKÜMLÜLÜKLERİ
+1. ŞİRKET www.....com Pazar’ın sürekli ve güvenli çalışmasını sağlamak amacıyla gerekli olan teknik altyapıyı kurarak çalışmasını sağlar.
+2. ŞİRKET www.....com Pazar‘dan verilen siparişlerin mevcut stok ve lojistik imkanlarına göre hızlı bir şekilde E-BAYİ’ye teslimini gerçekleştirmekle yükümlüdür.
+3. ŞİRKET siparişlerin teslimi konusunda sipariş tarihini göz önüne alarak bayilere teslimi gerçekleştirecektir.
+4. Bu sözleşme dahilinde kullanılacak kredi kartları ile ilgili her türlü bilgi ŞİRKET’in güvenliğinde olup, ŞİRKET bu bilgileri her ne maksatla olursa olsun üçüncü kişilerle paylaşamaz.
+B-E-BAYİ’NİN YÜKÜMLÜLÜKLERİ
+1. E-BAYİ kendisi tarafından doldurulacak kayıt formunun ve vereceği her türlü bilginin doğru olduğunu, bu bilgilerin hatalı veya noksan olmasından dolayı doğabilecek her türlü zarar ve ziyandan dolayı sorumlu olacağını ve söz konusu durumlarda e-bayilik üyeliğinin ŞİRKET tarafından tek taraflı olarak derhal sona erdirileceğini,
+2. E-BAYİ tarafından ŞİRKET’e işbu sözleşme kapsamında iletişimin sağlanacağı mail adresi bilgisi verilecektir.E-BAYİ geçerli mail adresi bilgisini bildirmediği sürece şifre tanımı yapılamayacak dolayısıyla sözleşme konusu sistemden yararlanamayacaktır. ŞİRKET’in E-BAYİ ile sözleşme süresince iletişiminde bu mail adresi kullanılacak olup; E-BAYİ’ye şifre sağlanması ve her türlü duyuru ve bildirim bu e-mail adresi üzerinden yapıldığında E-BAYİ’ye ulaşmış sayılacaktır. E-BAYİ’nin mail adresinde bir değişiklik olması halinde bu değişikliği derhal ŞİRKET’ne yazılı olarak bildirmekle yükümlüdür. Aksi takdirde doğabilecek zararlardan tamamen E-BAYİ sorumlu olacaktır.
+3. Verilen siparişlerde ŞİRKET’in belirleyeceği kredi limitleri dahilinde ve satış şartlarına uygun olarak işlem yapabileceğini, kredi limiti yetersiz veya hiç yok ise ödemeyi kredi kartı ile yada mal tesliminde nakit olarak yapmak zorunda olduğunu, kredi kartı geçerliliği onaylanmadan sipariş giremeyeceğini, bu işlemlerden dolayı ŞİRKET’in doğabilecek bütün zararlarını tazmin edeceğini,
+4. Sisteme tanımladığı ‘Yönetici Kullanıcı’ veya kendi tanımladığı ‘Kullanıcı Adı’ ile yapacağı tüm işlemlerden bizzat kendisin kayıtsız şartsız sorumlu olacağını,
+5. Servis kullanımı esnasında E-BAYİ’den kaynaklanan bir sebeple kaybolacak ve/veya eksik alınacak, yanlış adrese iletilecek mesaj ve bilgilerden ...’in sorumlu olmayacağını, www.....com Pazar‘da sunulan hizmetlere ŞİRKETtarafından belirlenen şartlar dışında yetkisiz bir şekilde girmemeyi ve yazılımı hiçbir surette değiştirmemeyi, bu kurallara uyulmaması halinde, ŞİRKET’in uğrayabileceği her türlü zararı tazmin etmeyi,
+5. Diğer kullanıcıları rahatsız ve tehdit etmemeyi, genel ahlaka aykırı, kanun dışı, kişi veya kurumların isimlerini lekeleyici nitelikte materyal ve bilgiler ile başkalarına ait bilgileri kayıt etmemeyi, yayımlamamayı, dağıtmamayı,
+6. ŞİRKET’in izni olmadan bu servislerde doğrudan ya da dolaylı olarak hiçbir surette reklâm yapmamayı, herhangi bir mal veya hizmet satmamayı, bu amaca yönelik tekliflerde bulunmamayı,
+7. Türkiye Cumhuriyeti Anayasası, uluslararası anlaşmalar ve kanunlara göre suç teşkil edecek mesaj ve dosyalar göndermeyeceğini, 8,9 ve 10. maddelerin ihlali halinde sözleşmenin derhal ve tek taraflı olarak ŞİRKETtarafından feshedileceğini ve üyeliğinin iptal edileceğini kabul ve Taahhüt eder.
+MADDE 5- YETKİLER
+Bu sözleşme kapsamında ŞİRKET aşağıdaki yetkilere kayıtsız ve şartsız sahiptir.
+a) ŞİRKET www.....com Pazar sitelerinden bir veya birkaçının çalışmasını önceden haber verme yükümlülüğü olmaksızın geçici bir süreyle sınırlı olarak veya tamamen durdurabilir.
+b) www.....com Pazar üzerinden satışa sunulan ürünlerin fiyatlarını, ürün özelliklerini, teslim şeklini ve teslim şartını belirlemeye ve değiştirmeye ŞİRKET yetkilidir. ŞİRKET yukarıda belirtilen değişiklikleri sipariş girildikten sonra da yapabilir, bu durumda ŞİRKET sipariş iptali seçeneğini kullanabilecektir. Sistem üzerinden yapılacak satışların tamamı ŞİRKET’in stok yapısı ile sınırlıdır.
+c) Bu sözleşme ve bu sözleşmeye ek sözleşmeler ile belirlenen kredi kartı kullanımı ile ilgili ŞİRKET tek taraflı olarak herhangi bir kredi kartı kullanımını iptal etme hakkına sahiptir.
+d) ŞİRKET sistem üzerinden almış olduğu siparişleri kendi belirleyeceği kargo veya diğer taşıma araçları ile EBAYİ’ye ulaştırabilir.
+e) ŞİRKET E-BAYİ’in www.....com Pazar web sitelerinden başka web sitelerine geçişini sağlayabilir. Bu durumda geçiş yapılan web sitesinin içeriğinden ve güvenliğinden ŞİRKET sorumlu olmayacaktır.
+f) İş bu sözleşme E-BAYİ tarafından, geçerli imza sirkülerinde yetkili bulunan kişilerce onaylanıp ŞİRKET’e gönderildikten sonra ‘Yönetici Kullanıcı Adı’ ve geçici şifre E-Bayi’ye gönderilecektir.
+g) ŞİRKET, www.....com Pazar servislerinin güvenli, hatasız, zamanında kullanımını, servis kalitesini sağlamak ve bu hususlarda doğabilecek aksaklıkları çözmek için azami çaba gösterecektir.
+h) ŞİRKET üyelerinin dosyalarının saklanması için kendisinin uygun göreceği kota tahsisi yapabilir. Mevcut ihtiyaçlara göre bu kotaları artırma veya eksiltme hakkına sahiptir. Ortamda bulunacak dosyaların saklanması, silinmesi, yedeklenmesi işleminden dolayı ŞİRKET sorumlu değildir.
+i) ŞİRKET gerekli gördüğü takdirde üyelik gerektirmeyen servisleri, üyelik gerektiren servisler halinde dönüştürebileceği gibi üyelik gerektiren servisleri de üyelik gerektirmeyen servisler haline dönüştürme hakkına sahiptir. İlave yeni servisler açabileceği gibi, mevcut servisleri ücretli hale getirebilir veya tamamen kullanımdan kaldırabilir. ŞİRKET bu konularda yapılacak değişiklikleri www.....com Pazar adreslerinde duyuracaktır.
+MADDE 6- KAYITLARIN GEÇERLİLİĞİ
+İş bu sözleşmeden doğabilecek ihtilaflarda her iki tarafın defter kayıtları ile mikrofilm, mikrofiş ve bilgisayar kayıtlarının HMK 193. madde anlamında muteber, bağlayıcı, kesin ve münhasır delil teşkil edeceğini ve bu maddenin delil sözleşmesi niteliğindeolduğunu, belirtilen kayıtlara her türlü itiraz ve bunların usulüne uygun tutulmadığı hususunda yemin teklif etme hakkından peşinen feragat ettiklerini taraflar beyan ve taahhüt eder.
+MADDE 7- GİZLİLİK
+E-BAYİ sözleşme süresince ve sözleşmenin her ne sebeple olursa olsun sona ermesinden iki yıllık süre içerisinde www.....com Pazarsistemi ile ilgili hiçbir bilgiyi, şifre ve kodlarını üçüncü kişi ve kuruluşlara vermeyeceğini, bu bilgileri üçüncü kişilere veya kuruluşlara verdiğinin tespit edilmesi halinde, üyelik sözleşmesinin derhal iptal edileceği ve bu durumda ŞİRKET’in uğrayabileceği her türlü zararı tazmin edeceğini taahhüt eder.
+MADDE 8- ÜRÜN TESLİMATI
+ŞİRKET sistem üzerinden almış olduğu siparişleri, giriş sıralamasına uyarak, mevcut stok yapısına göre kendi belirleyeceği dağıtım yöntemini kullanarak E-BAYİ’ye teslim eder. Ürün teslimatı E-BAYİ’nin seçeneğine göre başka bir kargo şirketi veya ...’in anlaşmalı olmadığı bir kargo şirketi ile yapıldığı takdirde taşıma koşulları ŞİRKET tarafından belirlenmediği için bu teslimatlarla ilgili doğabilecek zararlardan ŞİRKET sorumlu olmayacaktır.Taşıma ücretlerinin ŞİRKET ya da E-BAYİ tarafından ödenmesi konusunda ŞİRKET tek taraflı olarak istediği zaman değişiklik yapma hakkına sahiptir. Taşıma ücretinin … tarafından ödenmesi halinde, birinci defada E-BAYİ yerinde bulunamayıp teslim gerçekleşmez ise bu siparişle ilgili olarak bu aşamadan sonraki taşıma ücretlerinin tamamı E-BAYİ tarafından ödenir. E-BAYİ’nin malı teslim almak istememesi veya yerinde bulunamaması halinde taşıma ücreti E-BAYİ’nin cari hesabına borç kayıt edilecek, siparişin kredi kartı ile yapılması halinde, bu tutar kredi kartından tahsil edilecektir. Bu durumlarda sipariş iptal edilmiş sayılacak ve ...’in bu siparişten dolayı uğramış olduğu zararlar E-BAYİ tarafından tazmin edilecektir.
+MADDE 9- VERGİLENDİRME
+ŞİRKET’nin www.....com Pazar üzerinden yapmış olduğu tüm işlemler Türkiye’de mevcut vergi kanunlarına göre vergilendirilir. Yatırım Teşvik Belgesi kapsamında ve ihracata dayalı satışlar bu sistem üzerinden yapılmayacaktır. Vergi kanunlarında ileride yapılabilecek tüm değişiklikler kendiliğinden bu sözleşme kapsamında hüküm ifade edecektir. Vergi kanunları uyarınca E-BAYİ’nin kayıt düzeni ile ilgili tüm sorumlulukları kendilerine ait olacaktır.
+MADDE 10- SANAL POS TEMLİKNAME İŞLEYİŞİ
+-E-BAYİ’nin yaptığı peşin ve taksitli işlemlerde, işlemin sonunda SANALPOS TEMLİK BEYANI’nda kendilerine ait bölümü bayii ve kart sahibi imzalamalıdır.
+-Kart sahibinin kimlik ve kredi kartının önlü arkalı fotokopisi alınmalıdır.
+-Kart sahibine faturası, kendisine imzalatılarak teslim edilmeli eğer kart sahibi başka yerde ise kargo fişinde kart sahibininimzası olmalıdır.
+-Kart sahibine banka ekstresinde Şirket’in adının çıkacağı bilgisi verilmelidir.
+*** Bu yükümlülükler yerine getirilmediği takdirde doğabilecek her türlü sorundan E-BAYİ sorumludur.
+-Bayi bu evrakları, gerekli gördüğü durumda, Şirket’e ibraz etmek üzere saklamalıdır.
+MADDE 11- YETKİ
+İşbu sözleşmeden doğacak tüm ihtilaflarda İstanbul Çağlayan Mahkemeleri ve İcra Daireleri yetkilidir.
+MADDE 12- YÜRÜRLÜK
+www.....com Pazar E-BAYİ ÜYELİK SÖZLEŞMESİ, Ek-1’de bulunan Müşteri Adresine Sevk Sözleşmesi E-BAYİ tarafından eksiksiz doldurulup, sözleşme karşılıklı imzalandıktan sonra taraflar arasında sürekli olarak yürürlüğe girer.
+MADDE 13- SÖZLEŞMENİN FESHİ
+İş bu sözleşme ŞİRKET veya E-BAYİ’nin dilediği zamanda karşı tarafa yazılı bildirimi ile sona erdirilebilir.
+KREDİ KARTI KULLANIMI
+GEÇİCİ MADDE 1 – E-BAYİ’nin siparişini kredi kartı ile gerçekleşmesi durumunda, E-BAYİ öncelikle kendi şirketine ait kredi kartını kullanabilecektir. Eğer şirkete ait kredi kartı mevcut değil ise, bu durumda şirketi temsil ve ilzama yetkili olanların kişisel kredi kartını da kullanabileceklerdir. Kişisel kredi kartlarının kullanılması durumunda, ŞİRKET ürün teslimini bu sözleşmede imzası bulunan E-BAYİ’den yapacak, bu işlemlerden dolayı çıkabilecek bütün sorunlardan dolayı E-BAYİ sorumlu olacak, ve ŞİRKET’in hiçbir sorumluluğu olmayacaktır. Bu sözleşmenin 1 nolu eki olan kredi kartı ile ödeme formu, kart hamilleri ve E-BAYİ tarafından eksiksiz olarak doldurulacak ve imza edilecektir. Kredi Kartı hamillerinin değişmesi veya ilavesi halinde bu durum Ek-1 Kredi Kartı ile Ödeme Formu ŞİRKET’e ulaştığı tarihten itibaren yapılabilecektir.
+İş bu sözleşme 13 (on üç) ve 1 Geçici maddeden ibaret olup, iki nüsha olarak tanzim edilmiş, aşağıda yazılı ekleri ile birlikte taraflarca okunarak …/…/….. tarihinde karşılıklı imza altına alınmıştır.
+ŞİRKET                                                           E-BAYİ
+(imza)                                                               (imza)
+EK-1
+Kredi Kartı ile Ödeme Formu
+E-BAYİ Firma İsmi:
+Kredi Kartı Sahibinin: (adı soyadı adresi anne baba adı telefonu maili)
+Kart numaras:
+Hangi bankanın kredi kartı olduğu:
+Kredi kartı son kullanma tarihi:
+Kart tipi:
+Kart türü:
+Kaşe/imza

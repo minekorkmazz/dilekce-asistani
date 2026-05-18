@@ -1,0 +1,38 @@
+Yazılım Hizmet Sözleşmesi  – Sözleşme
+Madde 1: TARAFLAR VE TANIMLAR
+İş bu sözleşme …/…/…… tarihinde ticari merkezi ……adresinde mukim ….. ŞİRKETi (ŞİRKET olarak anılacaktır) ile ……… Adresinde mukim ……… (MÜŞTERİ olarak anılacaktır) arasında imzalanmıştır.
+Madde 2: SÖZLEŞMENİN KONUSU
+İşbu sözleşme MÜŞTERİ’nin iş süreçleri, kurum içi yönetim sistemleri, takip sistemleri vb. kısaca ticari faaliyetlerini sürdürürken ki ihtiyaç duyduğu tüm yazılım hizmetleri yürütebilmek amacıyla ihtiyaç duyduğu yazılımlarının  ŞİRKET tarafından hazırlaması hizmetini kapsamaktadır.
+Madde 3: MÜŞTERİ’NİN YÜKÜMLÜLÜKLERİ
+3.1. MÜŞTERİ, masa üstü ve web tabanlı yazılımların yükleneceği sunucu (sunucu / hosting) sistemini ve bu sistemin çalışabilmesi için gerekli donanım/yazılım gereksinimlerini kendisi tedarik etmekle yükümlüdür. Müşteri barındırma hizmetini ve alan adı tescilini ŞİRKET ’den talep ederse o yılın ücret tablosu üzerinden hesaplanacak ve ek ücret sözleşme bedeline yansıtılacaktır.
+3.2. Yazılım süresi boyunca ŞİRKET’in talep ettiği bilgi,evrak ve yazılı dokümanları kendisi tedarik etmeli veya ettirmelidir. Müşterinin gerekli dokümanları zamanında vermemesinden kaynaklanan gecikmeden dolayı ŞİRKET sorumlu tutulamaz.
+3.3. MÜŞTERİ, ŞİRKET tarafından üretilen yazılımlarda kullanılan özel yazılım tekniklerinin telif hakkının ŞİRKET ‘e ait olduğunu, bu yazılımların hiçbir şekilde çoğaltılıp, dağıtılmayacağını kabul ve beyan eder.
+3.4. MÜŞTERİ, dile getirdiği tüm fikir, düşünce, ifade, yorum ve yazıların kendisine ait olduğunu, ŞİRKET’in hiçbir şekilde sorumlu olmadığını kabul ve beyan eder.
+Madde 4: ŞİRKETİN YÜKÜMLÜLÜKLERİ
+4.1. Müşteri’nin ihtiyaç duyduğu yazılımları hazırlamakla yükümlüdür.
+4.2. Müşteri’ye sağlanmakta olan hizmetlerle ilgili oluşabilecek yazılım hatalarını ve sorunları 1 hafta içerisinde düzeltmekle yükümlüdür. Bu düzeltmeler için ücret talep edilmeyecektir.
+4.3. Müşteri için hazırlanmış tasarımdaki mevcut bölümlerdeki basit değişiklikler (komple tasarım ve kod/blok/div değişikliği gerektirmeyen düzeltmeler) için, gerekli çalışmayı tamamladıktan sonra ŞİRKET ’in belirleyeceği en kısa süre içinde gerekli düzenleme ve ilaveleri sisteme entegre edeceğini beyan eder. Bu düzeltmeler için ücret talep edilmeyecektir.
+4.4. Müşteri tarafından talep edilen ek tasarım (tasarım ve kod değişikliği gerektiren düzeltmeler, sayfa eklemeler) için, gerekli çalışmayı tamamladıktan sonra belirleyeceği en kısa süre içinde gerekli düzenleme ve ilaveleri ek ücret mukabilinde sisteme entegre edeceğini beyan eder.
+4.5. Müşteri tarafından iş süreçlerini yazılımsal olarak entegre etmekle yükümlü olup, istenilen işleyişin yerine getirmesiyle yükümlüdür.
+Madde 5: GİZLİLİK VE GÜVENLİK
+Hem ŞİRKET hem de MÜŞTERİ birbirlerinin gizlilik kurallarına saygı göstermelidir. Üçüncü şahıslarla paylaşılması zorunlu olmayan ve zaten diğer kişilerin ulaşımına açık olmayan tüm bilgiler gizli kabul edilip başka kişilerle paylaşılmamalıdır.
+5.1. ŞİRKET, Dosya Transfer Yetkisi (FTP), Veri tabanı, Yönetim Kontrol Paneli şifreleri ile yazılım içeriğine ve veri tabanına kayıtlı bilgileri ve özel bilgileri 3. kişi ve kuruluşlarla paylaşmayacağını ve kullandırmayacağını beyan ve taahhüt eder.
+5.2. MÜŞTERİ, kendi çalışanlarının, herhangi bir kasıt, ihmal ya da kusurundan dolayı şifrelerin 3. kişi veya kuruluşların eline geçmesi halinde doğabilecek zararlardan ŞİRKET mesul değildir.
+Madde 6: ELEKTRONİK KAYITLARIN GEÇERLİLİĞİ
+Taraflar arasında ve tarafların yetkililerince yapılan e-posta, anlık mesaj ve faks gibi elektronik yazışma kayıtları, kanunen geçerli delil sayılarak, usul hukuku bağlamında kesin ve bağlayıcı delil olarak kabul edilmiştir.
+Madde 7: TEBLİGATLAR
+İşbu sözleşme ve uygulanması ile ilgili olarak yapılacak her türlü tebligat için, taraflar, işbu sözleşmede yazılı adresleri, yasal ikametgâh olarak belirlemişlerdir. Taraflar, bu adreslerde vaki değişiklikleri, diğer tarafa, noter kanalı veya iadeli taahhütlü mektup yolu ile bildirmedikleri takdirde, bu adreslerine yapılacak tebligatların geçerli, usulüne uygun ve kendilerine yapılmış sayılacağını kabul, beyan ve taahhüt ederler.
+Madde 8: GARANTİ
+Yazılımın, istenilen her türlü fonksiyonu yerine getirecek şekilde testleri tamamlandıktan sonra çalışır durumda yayımlandığı tarihten itibaren başlayacak ve toplam garanti süresi 1 yıl olacaktır.
+ŞİRKET tarafından titizlikle geliştirilecek ve test aşamasında olası hatalardan arındırılacak yazılımda, 1 yıllık garanti süresi içerisinde olabilecek yazılım veya tasarım hatalarının düzeltilmesinde veya yazılımın çalışmaması durumunda müdahale edilip çalışır duruma getirilmesi esnasında herhangi bir ücret talep edilmeyecektir.
+Madde 9: İŞİN TAMAMLANMASI & İPTALİ
+Sistemin hazırlanması Müşteri haricinde bir sebepten dolayı iş tamamlanmayacak ise ŞİRKET aldığı tüm ücretleri iade etmek zorundadır.
+9.1 Müşteri için yapılmış olan tüm fonksiyonel ve tasarımsal ürünler/çalışmalar sözleşme sonrasında dijital olarak veya mail ile Müşteri’ye iletildiğinde / sunulduğunda ŞİRKET işin %100’ünü tamamlamamış / teslim etmemiş olsa dahi peşin olarak aldığı sözleşme tutarında belirtilen %50’lik ön ödeme kısmını müşteri talep etmeyecektir.
+Madde 10: PROJE AMACI
+Günümüz teknolojisine uygun gerek görsel gerekse de teknolojik olarak kurumu en iyi şekilde işleyişini sürdürecek ve yönetimsel marj sağlayacak müşterinin ihtiyaçları doğrultusunda yazılımın müşteriye hazırlanıp sunulmasını ve kurulum start-up kapsamaktadır..
+Madde 11: PROJE YAPI ŞEKLİ ve SÜRECİ
+ŞİRKET müşteriye sağlayacağı internet adresi aracılığıyla müşterinin yazılım yapım aşamasını ve yapılan çalışmayı takip edebilmesini sağlayacaktır.
+Madde 12: YETKİLİ MAHKEME VE İCRA DAİRELERİ
+İşbu sözleşmenin uygulanmasından doğabilecek her türlü uyuşmazlıkların çözümünde …. Mahkemeleri ve İcra Daireleri yetkilidir. 12 (on iki) maddeden oluşan işbu sözleşme …/…/…… tarihinde 2 (İki) nüsha olarak düzenlenmiş olup, okunmuş ve altına imza alınmıştır.
+MÜŞTERİ                                                ŞİRKET YETKİLİSİ
+………………………                               ………………………….

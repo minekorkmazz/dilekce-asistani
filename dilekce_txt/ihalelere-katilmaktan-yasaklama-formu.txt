@@ -1,0 +1,52 @@
+İhalelere Katılmaktan Yasaklama Formu[1]
+İHALELERE KATILMAKTAN YASAKLAMA FORMU[2]
+1. İhale Kayıt Numarası (İKN)
+2. Yasaklama Kararı Veren Bakanlık/Kurum
+3. İhaleyi Yapan İdarenin
+Adı
+İl/İlçe
+Adresi
+Tel-Faks
+Posta Kodu
+E-Mail
+4. İhalelere Katılmaktan Yasaklanan Gerçek veya Tüzel Kişi
+5. Ortak ve/veya Ortaklıkların
+Adı/Unvanı
+Adresi
+T.C. Kimlik No.
+Vergi Kimlik/ Mükellefiyet No.
+Kayıtlı Olduğu Ticaret/Esnaf Odası
+Ticaret/Esnaf Sicil No.
+6. Yasaklama Süresi
+Ay
+(?)
+Yıl
+(?)
+7. Yasaklamanın Dayanağı ve Kapsamı
+a-4734
+KİK
+(  )
+b-4735
+KİSK
+(  )
+c-2886 DİK
+(  )
+(  )
+Tüm İhalelerden
+(  )
+Tüm İhalelerden
+(  )
+Bakanlık İhalelerinden
+(  )
+Bakanlık İhalelerinden
+(  )
+Kurum İhalelerinden
+(  )
+Kurum İhalelerinden
+(  )
+[1] Bu belge, 20.06.2022 tarihinde “https://www.ihale.gov.tr/’’ sitesinden alınmıştır.
+[2] Yasaklama Kararı Aşağıdaki Açıklamalar Dikkate Alınarak Doldurulacaktır.
+1 - İKN : İstisna kapsamındakiler dahil 4734 ve 4735 sayılı Kanunlara göre yapılan yasaklamalarda doldurulacaktır.
+2 - T.C. Kimlik No : Yasaklananın gerçek kişi olması durumunda doldurulacaktır.
+3 - Kayıtlı Olduğu Ticaret/Esnaf Odası ve Ticaret Esnaf Sicil No : Herhangi bir Ticaret veya Esnaf Odasına kayıtlı olmaması halinde kayıtlı olmadığı belirtilecektir.
+5 - Ortak ve/veya Ortaklıkların : 4734 sayılı Kanunun 58/2 nci maddesi ile 4735 sayılı Kanunun 26/2 nci maddesinde sayılan ortak ve/veya ortakların bulunması halinde bu bölüm doldurulacaktır. Bu bölümde yer alan kişinin birden fazla olması durumunda ek yapılabilir.

@@ -1,0 +1,50 @@
+İnternet Sitesi Güncelleme ve Bakım Sözleşmesi
+Bir TARAFta …………………………… adresinde mukim …….. (kısaca HİZMET VEREN olarak anılacaktır), diğer TARAFta …………………………. adresinde mukim ………………………….  (kısaca HİZMET ALAN olarak anılacaktır) HİZMET VEREN ve HİZMET ALAN (birlikte TARAFLAR olarak anılacaktır) aşağıdaki şartlar üzerinde tam bir mutabakata varma suretiyle işbu sözleşmeyi imzalamışlardır.
+MADDE 1 –
+a) Bakım ve İNTERNET SİTESİ Yönetimi: İNTERNET SİTESİ güncellenmesi ve rutin kullanımı sırasında yapılacak olağan bakımları,
+b) Güncelleme: İNTERNET SİTESİ’ne eklenecek yeni bilgi, haber, tasarım ya da iş için gerekli işlemlerin yapılması sürecini,
+c) İnternet Sitesi: HİZMET ALAN için Teknik Şartname’ye uygun olarak güncelleme ve bakımı yapılacak olan aşağıda yazılı İNTERNET SİTESİ’nin tümünü,
+………………………………………………………………………………………………
+d) Kod: İNTERNET SİTESİ’nin oluşturulması, güncellenmesi ve bakımı için gerekli programlama diline/dillerine ait kodları,
+e) Teknik Şartname: Ek – 1’da belirtilen ve HİZMET VEREN’in yerine getirmesi ve uyması zorunlu olan teknik şartları
+Ifade etmektedir.
+MADDE 2 –
+İşbu sözleşmenin konusunu HİZMET VEREN’in, HİZMET ALAN işbu sözleşme Madde 1’de yazılı internet sitesinin , Ek - 1’de belirtilen Teknik Şartname çerçevesinde İNTERNET SİTESİ’ni planlanması, dizaynı, ifa edecek modüllerin çalışması için gerekli güncellemelerin sağlanması ve bakımların yapılması ve idaresini gerçekleştirmesi oluşturmaktadır.
+MADDE 3 –
+Sözleşme veya TEKNİK ŞARTNAME’de herhangi bir hükmünde yapılacak değişiklikler ancak TARAFLAR’ın iradelerinin karşılıklı uyuşması ve bu değişikliği yazılı olarak yapmadıkları sürece geçerli olmayacaktır.
+MADDE 4 –
+HİZMET VEREN, anahtar konumdaki bir personelinin işten ayrılması, hastalanması veya büyük ekipman arızaları gibi durumlar sebebiyle sözleşme ile yükümlendiği edimleri ifa etmesini geciktirecek veya gerektiği gibi ifa etmesini engelleyecek bir durumun ortaya çıkması halinde, bu durumu derhal ve sebeplerini açıklayarak HİZMET ALAN’e bildirecektir.
+MADDE 5 –
+Sözleşmenin süresi .../.../.... tarihinden başlamak üzere ….aydır.
+MADDE 6 –
+Ek- 1’daki Teknik Sözleşme’de belirtilen hizmetlerin hukuki ve teknik ayıplardan ari olarak HİZMET VEREN tarafından yerine getirilmesi karşısında HİZMET ALAN tarafından HİZMET VEREN’a her ay .................. TL + KDV ödenecektir. İNTERNET SİTESİ’nin geliştirilmesinde kullanılacak yazılımlardan veya donanımlardan kaynaklanabilecek lisans ücreti, vergi, resim, harç vb. sözleşmenin imzası anında mevcut veya ileride ortaya çıkabilecek yükümlülüklerden HİZMET VEREN sorumlu olacaktır.
+MADDE 7 –
+a) TARAFlardan birinin bu sözleşme ile yükümlendiği edimlerini yerine getirmemesi, eksik yerine getirmesi veya gereği gibi yerine getirmemesi halinde yazılı olarak bildirimde bulunarak yerine getirmesi için makul bir süre verilmesine rağmen yerine getirilmemesi halinde,
+b) TARAFlardan birine karşı iflas davası açılması veya TARAFlardan birinin iflas etmesi,
+c) TARAFlardan birinin sözleşme ile yükümlendiği edimleri yerine getiremeyecek şekilde aciz haline düşmesi,
+hallerinde TARAFlardan biri sözleşmeyi tek TARAFlı olarak feshedebilir.
+d) Yukarıdaki hükümler saklı kalmak kaydıyla HİZMET ALAN işbu sözleşmeyi herhangi bir neden göstermeden istediği bir zamanda feshetmek hakkına sahiptir. Böyle bir fesih sebebiyle HİZMET VEREN HİZMET ALAN’ten herhangi bir nam altında tazminat talep etmeyeceğini, başkaca herhangi bir hak talebinde bulunmayacağını kabul ve taahhüt etmektedir.
+MADDE 8 –
+a) HİZMET VEREN Ek- …’da belirtilen teknik şartname doğrultusunda sözleşme süresi boyunca HİZMET ALAN’e bakım, idare ve güncelleme hizmetleri sunacağını kabul ve taahhüt etmektedir.. Bakım, güncelleme ve İNTERNET SİTESİ’nin idaresindeki değişiklik için gerekli masraflar HİZMET VEREN’e ait olmak üzere HİZMET VEREN tarafından sağlanacağını kabul etmektedir.
+b) HİZMET ALAN tarafından tespit edilen tüm hatalar yazılı olarak derhal HİZMET VEREN’e bildirilecek ve bu hatalar HİZMET VEREN tarafından derhal, derhal olması mümkün olmadığı takdirde … işgünü içerisinde düzeltilecektir.
+MADDE 9 –
+a) HİZMET VEREN, İNTERNET SİTESİ’ni güncellemek ve bakımını ve idaresini yapmak için kullanacağı tüm yazılım ve donanım unsurlarının yasal hak sahibi olduğunu kabul ve taahhüt etmektedir.. Hukuka aykırı bir kullanım olması halinde HİZMET ALAN’e karşı bir talepte bulunması halinde bu taleplerden tek başına sorumlu olacağını HİZMET VEREN kabul ve taahhüt etmektedir. HİZMET ALAN’in böyle bir talep sebebiyle bir zarara uğraması halinde HİZMET VEREN, HİZMET ALAN’in tüm zarar ve ziyanını ödemenin yanında cezai şart olarak ……… - TL bedeli HİZMET ALAN’e ihtar veya ihbara gerek kalmaksızın ödeyeceğini kabul ve taahhüt etmektedir.
+b) HİZMET ALAN İNTERNET SİTESİ içeriğine dahil etiği ve kendisi tarafından sağlanan unsurların hak sahibi olduğunu kabul ve taahhüt etmektedir..
+c) HİZMET VEREN, İNTERNET SİTESİ’ni güncellemede kullandığı yöntem metod ve ürünlerin yürürlükteki hiçbir yasayı, tüzüğü, yönetmeliği ve diğer mevzuatı ihlal etmediğini kabul ve taahhüt etmektedir.
+d) HİZMET VEREN, İNTERNET SİTESİ’ni geliştirirken sınai ile fikri hukuktan kaynaklanan hak sahipliği, şahısvarlığı ve malvarlığı haklarına tecavüz etmediğini kabul ve taahhüt etmektedir.
+e) HİZMET VEREN, İNTERNET SİTESİ’ni geliştirirken kullandığı yöntem metod ve ürünlerin Yeni Türk Ceza Kanunu’nu uyarınca suç teşkil edecek kötü amaçlı kodları içermediğini kabul ve taahhüt etmektedir.
+MADDE 10 –
+İşbu sözleşme çerçevesinde yapılacak tüm bildirimler TARAFların yetkilileri tarafından ve yazılı olarak ve karşı tarafından alındığı teyit edilmek şartıyla posta, faks veya elektronik posta ile yapılacaktır. Bu maddeye göre gönderilen bildirimler gönderilen TARAFça sözleşmenin başında belirtilen adreste alınmasıyla etkilerini doğuracaktır. TARAFlar işbu sözleşmenin başında belirtilen adreslerine yapılacak tebligatların geçerli bir tebligatın tüm hüküm ve sonuçlarını doğuracağını kabul etmektedir.ler. Adreslerdeki değişiklik karşı TARAFa yazılı olarak bildirilmedikçe işbu sözleşmede belirtilen adreslere yapılan tebligatlar geçerli olacaktır.
+MADDE 11 –
+HİZMET VEREN, İNTERNET SİTESİ ile ilgili olarak Ek- 1’daki Teknik Şartname kapsamında yazdığı web İNTERNET SİTESİ’nin; KOD’ları, dizaynı ve içeriğinde kullanılan tüm ürünlerin ile birlikte HİZMET ALAN’in mülkiyetinde olduğunu, 5846 SAYILI Fikir ve Sanat Eserleri Kanunu anlamında tek başına eser sahibi olduğunu, HİZMET ALAN’in eser sahipliğinden kaynaklanan hiçbir hakkına müdahale edemeyeceğini kabul ve taahhüt etmektedir.
+MADDE 12 –
+İşbu sözleşmeden kaynaklanacak damga vergisi TARAFlarca eşit olarak ödenecektir.
+MADDE 13 –
+İşbu sözleşme Türk hukukuna tabi olacaktır. Herhangi bir uyuşmazlık durumunda, uyuşmazlığın çözümünde İstanbul Merkez Mahkemeleri ve İcra Daireleri yetkili olacaktır.
+MADDE 14 –
+TARAFlar işbu sözleşme ile birbirleri hakkında edindikleri bilgileri işbu sözleşmenin süresi içinde veya sözleşmenin bitiminden sonra hiçbir üçüncü gerçek veya tüzel kişiye açıklamamayı kabul ve taahhüt etmektedir.
+MADDE 15 –
+İşbu sözleşme, imza tarihinden itibaren …. süre için akdedilmiştir. Bu sözleşme 15 (madde) madde ve …. nüsha olarak .../.../.... tarihinde düzenlenmiş ve imzalanarak TARAFlarca teyit edilmiştir.
+HİZMET ALAN                                                                             HİZMET VEREN
+ADI SOYADI                                                                                 FİRMA BİLGİSİ
+UNVANI

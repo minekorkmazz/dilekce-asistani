@@ -1,0 +1,71 @@
+Referans No:
+Toplam  Sayfa Sayısı
+(Başvuru Sahibi Tarafından
+Doldurulacak)
+Toplam  Sayfa Sayısı
+(Enstitü Tarafından
+Doldurulacak)
+Bu Alanı Boş Bırakınız
+(1)   MARKA BİLGİLERİ
+Başvuru / Tescil Numaraları
+Marka Sahibi
+(2)  TALEP EDİLEN İŞLEM TÜRÜ
+( Talep edilen işlem türünü seçiniz. Yalnız bir seçeneği işaretleyiniz.)
+Tam Devir
+Birleşme
+Veraset İle İntikal
+Mahkeme Kararı İle Devir
+(3) YENİ  MARKA SAHİBİ
+Özel Kişi
+Tüzel Kişi
+TPE Sahip No (*)
+Unvanı veya Adı Soyadı
+Uyruğu
+Kayıtlı Olduğu Ülke
+T.C.Kimlik No
+Vergi Dairesi
+Vergi Numarası
+Adres
+Semt
+İlçe
+İl
+Posta Kodu
+Telefon No.
+Faks No.
+Başvuru sahibi birden fazla ise bu kutucuğu işaretleyiniz ve diğer kişilere ait bilgileri ek sayfalarda belirtiniz. Sahip sayısı :
+(4) VEKİL
+Yok
+Var (Önceden Atanan)
+Var (Yeni Atanan)
+Vekil Sicil No (**)
+Adı Soyadı
+Firma Ünvanı
+Adres
+Semt
+İlçe
+İl
+Posta Kodu
+Telefon No.
+Faks No.
+Vekaletname
+Ektedir
+TPE’de bulunmaktadır
+Vekaletnamenin Kayıt No(***)
+(5) ÖDEME ve FATURA BİLGİLERİ
+Ödemeyi  Yapan
+Vekil
+Başvuru Sahibi
+Ödemenin Yapıldığı Banka ve Şubesi
+Dekont Numarası
+Dekont Tarihi
+Adı Soyadı
+Tarih
+İmza
+(*) TPE tarafından önceki başvuruda verilmiş sahip numarasıdır.
+(**) TPE tarafından vekil için verilen sicil numarasıdır.
+(***)  Önceden TPE ye verilmiş olan vekaletnamenin kayıt numarası
+Sayfa No :  1
+(6) EK SAYFA
+( Gerekiyorsa Kullanınız.)
+Sayfa No :  2
+Marka Mülkiyet Değişikliği Talep Formu

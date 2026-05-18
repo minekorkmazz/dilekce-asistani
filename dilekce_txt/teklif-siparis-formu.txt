@@ -1,0 +1,21 @@
+Teklif/ Sipariş Formu
+Tarih
+Teklif/ Sipariş Formu
+Firma Adı:
+İlgili:                Vergi Dairesi:
+Tel / Faks:       Vergi No:
+Adres:
+Malzeme Cinsi
+Miktar
+Birim Fiyat
+Tutar
+Toplam
+KDV (% 18)
+Genel Toplam
+Birim Fiyatlarında KDV Hariçtir
+Ödeme ve İskonto:
+Teslim Süresi:
+Teslim Yeri:
+….. A.Ş.
+Müşteri
+Lütfen siparişin kabul edildiğine dair kaşe ve onayıdan sonra formu firmamıza teyit için gönderiniz.

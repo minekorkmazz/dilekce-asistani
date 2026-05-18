@@ -1,0 +1,45 @@
+Çevre Temizlik Vergisi Bildirim Dilekçesi
+… BELEDİYE BAŞKANLIĞI MALİ HİZMETLER MÜDÜRLÜĞÜ’NE
+…………………………..sicil numaralı mükellefim …………………….. Mahallesi ……… sokak …………..numarada bulunan işyeri bilgilerini sunarak, gereğinin  yapılmasını arz ederim.
+1-MÜKELLEFİN KİMLİK VE ADRES BİLGİLERİ
+Adı Soyadı veya Unvanı
+Mahalle / Semt
+İkametgah
+İşyeri
+Baba Adı
+Doğum Yeri
+Cadde
+Doğum Tarihi
+Sokak
+Telefon No
+Bina / Daire No
+e-mail adresi
+İL/İLÇE
+II-BİNAYA VE VERGİLENDİRMEYE AİT BİLGİLER
+1.BİNA
+2.BİNA
+3.BİNA
+Bina Sahibinin Adı-Soyadı
+Emlak Vergisi Sicil No
+Bulunduğu Köy / Mahallenin Adı
+Cadde / Sokak
+Kapı ve Daire No
+Kullanış Şekli Konut / İşyeri
+İşyerinde Faaliyetin Türü
+Mükellefiyetin Başlangıç Tarihi
+Kullanmaya Başlanıldığı Tarih
+Bina Hisseli ise Hisse Nispeti
+Öğrenci Sayısı
+Yatak Kapasitesi
+Kullanım Alanı
+Koltuk Sayısı
+Personel Sayısı
+Gurubu
+Derecesi
+Aylık Vergi Tutarı
+Yıllık Vergi Tutarı( Aylık Tutarı x 12)
+Bildirimde Bulunan
+İSİM/SOYİSİM
+(İMZA)
+Adres: ….
+Tel: ….

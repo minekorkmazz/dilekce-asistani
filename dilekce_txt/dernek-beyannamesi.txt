@@ -1,0 +1,69 @@
+Dernek Beyannamesi[1]
+DERNEK BEYANNAMESİ2
+……………..…………. DERNEĞİ
+Sayı
+:
+…/…/…
+Konu
+:
+..... Yılı Beyannamesi
+..................... VALİLİĞİNE/KAYMAKAMLIĞINA
+BÖLÜM I - KİMLİK BİLGİLERİ
+1.
+Kuruluşun adı
+2.
+Kuruluşun (varsa) kısaltılmış adı
+3.
+Kuruluş tarihi
+4.
+Kütük No
+5.
+Açık Adresi
+5.1.
+İli:
+5.2.
+İlçesi:
+5.3.
+Bucağı:
+5.4.
+Mahallesi:
+5.5.
+Meydan, Bulvar ve Cadde:
+5.6.
+Sokak ya da Küme Adı:
+5.7.
+Dış Kapı No:
+5.8.
+İç Kapı No:
+6.
+6.1.
+Telefon No:
+Yok
+0
+6.2.
+Faks No:
+Yok
+0
+6.3.
+İnternet Sitesi:
+Yok
+0
+6.4.
+e-posta Adresi :
+Yok
+0
+7.
+Yönetim Kurulu Başkanının Adı ve Soyadı:
+7.1.
+Cep Telefon No:
+Yok
+0
+7.2.
+e-posta Adresi:
+Yok
+0
+[1] Bu metin, 05.02.2019 Tarihinde, www.dernekler.gov.tr sitesinden alınmıştır.
+2 (1) Açıklama:
+a) Beyannamedeki tüm soruların cevaplanması zorunludur. Ancak, dernek beyannamesi örneğinde gösterilen yönlendirmeler gereğince bazı sorular ve/veya alt bölümleri doldurulmaz. Örneğin: Beyannamenin VII inci Bölümün "1. Defterlerinizi hangi usulde tutuyorsunuz?" sorusuna "İşletme Hesabı Esası" kutucuğunun işaretlenerek cevap verilmesi durumunda, bu bölümün yalnızca 2 ve 3 üncü sorularına cevap verilecek 4, 5, 6 ve 7 nci soruları ise cevaplanmayacaktır. Cevaplanmayan soruların beyannamede gösterilmesi zorunlu değildir.
+b) Beyannamede her bölümün ayrı bir sayfadan başlatılması zorunlu değildir. İzleyen bölüm, önceki bölümün bulunduğu sayfadan da başlatılabilir.
+c) Beyannamede cevaplanacak bölümün yeterli olmaması halinde bu bilgiler, satırlar aşağıya kaydırılmak suretiyle çoğaltılarak veya cevap için öngörülen şekle uygun olarak beyanname ekinde verilebilir.

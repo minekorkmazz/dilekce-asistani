@@ -1,0 +1,29 @@
+Kamu İhale Kurumu’na Şikâyet Başvurusu Üzerine İdare Tarafından Alınacak Karar[*]
+(İHALEYİ YAPAN İDARENİN ADI)
+Tebligatın yapılış şekli[1]
+İadeli taahhütlü mektupla gönderilme tarihi     ¨ Tarih: ../… /
+İmza karşılığı elden teslim tarihi                       ¨ Tarih: ../… /
+Faksla gönderilme tarihi                                    ¨ Tarih: ../… /
+EKAP üzerinden* gönderilme tarihi                 ¨ Tarih: ../… /
+Başvuru konusu ihalenin adı ve ihale kayıt numarası
+İhale tarihi
+İhale kararının onaylandığı tarih
+Başvuru sahibi
+(Adı-soyadı/Ticaret unvanı, adresi)
+Vekili/Temsilcisi
+(Adı-soyadı, adresi)
+Başvuru sahibinin ehliyeti
+(Aday / İstekli / İstekli olabilecek / Diğer)
+Başvuru dilekçesinin idare kayıtlarına alındığı tarih ve sayı
+Başvuru üzerine hangi tarihte karar alındığı
+Varsa başvuru üzerine alınan diğer kararlar ve yapılan işlemlerin özeti
+(Bu bölümde şikayet başvurusu üzerine, varsa raportör tayini veya diğer idarelerden bilgi belge istenilmesi gibi alınan ara kararlar ve yapılan işlemlerin özetine yer verilecektir.)
+Başvuru sahibinin ileri sürdüğü iddiaların, olayların ve hukuki dayanaklarının özeti:
+Başvuru sahibinin iddialarının değerlendirilmesi:
+Kararın dayandığı hukuki sebepler, gerekçeleri ve sonucu:
+Şikâyetin haklı bulunması halinde, yapılması gereken düzeltici işlemler:
+Karara karşı başvuru yapılabilecek itiraz mercii ve başvuru süresi[2]
+[1] Bu kısım şikayet başvurusu üzerine alınan kararın gönderildiği tarihte uygun kutucuk işaretlenerek doldurulacaktır. (…)* faksla yapıla bildirimler, aynı gün idare tarafından iadeli taahhütlü mektupla bildirime çıkılmak suretiyle teyit edilecektir.
+[2] 4734 sayılı Kanunun 56 ncı maddesinin birinci fıkrasında idareye şikâyet başvurusunda bulunan veya idarece alınan kararı uygun bulmayan aday, istekli veya istekli olabilecekler tarafından 55 inci maddenin dördüncü fıkrasında belirtilen hallerde ve sürede, sözleşme imzalanmadan önce itirazen şikâyet başvurusunda bulunulabileceği belirtildiğinden, kararın bildirimini izleyen on gün içinde Kamu İhale Kurumuna itirazen şikayet başvurusunda bulunulabileceğinin belirtilmesi gerekmektedir.
+* Bu standart form 07/06/2014-29023 R.G./7. md. ile değiştirilmiştir.
+[*] Bu dilekçe https://www.kik.gov.tr/dilekce_ornekleri_ve_formlar-146-1.html adresinden alınmıştır. Erişim Tarihi: 04.06.2024

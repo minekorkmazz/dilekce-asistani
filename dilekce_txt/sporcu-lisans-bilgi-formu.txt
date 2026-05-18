@@ -1,0 +1,35 @@
+Sporcu Lisans Bilgi Formu[1]
+Kimlik Bilgileri
+T.C Kimlik No
+Ad
+Soyad
+Baba Ad
+Ana Ad
+Doğum İl
+Doğum İlçe
+Doğum Tarih
+Meslek
+Nüfus Bilgileri
+Nüfus İl
+Nüfus İlçe
+Mahalle/Köy
+Cilt No
+Aile Sıra No
+Hane No
+Veriliş Tarih
+Veriliş Yer
+Diğer Bilgiler
+Okulu/Kurumu
+Aldığı Ödüller
+Aldığı Cezalar
+Açıklama
+Telefon
+Cep Telefon
+e-posta
+Adres
+Cinsiyeti
+Uyruğu
+Pasaport
+No
+Alındığı Tarih
+[1] Bu belge 30.05.2023 tarihinde https://tvf.org.tr sitesinden alınmıştır.

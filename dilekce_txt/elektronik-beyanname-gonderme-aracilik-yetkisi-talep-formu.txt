@@ -1,0 +1,42 @@
+Elektronik Beyanname Gönderme Aracılık Yetkisi Talep Formu
+..../..../...........
+.............................................Vergi Dairesi Müdürlüğüne / Başkanlığına
+Beyannamelerin elektronik ortamda gönderilmesi konusunda aracılık yapmak istiyorum. Aracılık yetkisi verilmesi talebimin değerlendirilerek tarafıma kullanıcı kodu, parola ve şifre verilmesini arz ederim.
+MESLEK MENSUBU KİMLİK / ADRES BİLGİLERİ([1])
+(Şirket şeklinde çalışılması halinde tüzel kişiliğe ait bilgiler verilecektir.)
+Adı Soyadı / Unvanı
+Vergi Kimlik Numarası ([2])
+Ticaret Sicil No
+Doğum Yeri / Tüzel Kişilerde
+Kanuni Merkezi
+Doğum Tarihi / Tüzel Kişilerde
+Kuruluş Tarihi
+Adresi
+Telefon Numarası
+Faks Numarası
+Elektronik Posta Adresi
+Kurumun Sorumlu Yetkilisinin
+Adı Soyadı Unvanı ([3])
+Vergi Kimlik Numarası ([4])
+Mühür / Kaşe Numarası
+Bağlı Bulunduğu
+Meslek Odası ve Sicil No
+Aracılık yetkisi verilen gerçek ve tüzel kişilerin dikkat etmesi gereken hususlar:
+1. Beyannamelerin elektronik ortamda gönderilmesi ile ilgili kanuni düzenlemelerde yer alan usul ve esaslar doğrultusunda beyannamelerin elektronik ortamda gönderilmesi gerekmektedir.
+2.a) Beyannameleri elektronik ortamda göndermek üzere aracılık yetkisi verilmiş gerçek ve tüzel kişiler kendilerine verilen kullanıcı kodu, parola ve şifrenin kullanımından sorumludurlar.
+Bu nedenle kullanıcı kodu, parola ve şifrelerini; başka amaçlarla kullanamazlar, herhangi bir üçüncü kişiye açıklayamazlar ve kullanımına izin veremezler, işyerinin satışı, transferi ve işi bırakmada üçüncü kişilere devredemezler, kiralayamazlar ve satamazlar.
+Aracılık yetkisi verilmiş gerçek ve tüzel kişiler kendilerine verilen kullanıcı kodu, parola ve şifrenin kullanımından sorumlu olduklarından kullanıcı kodu, parola ve şifrenin yetkisiz kişilerce kullanıldığını öğrendikleri anda (kullanıcı kodu, parola ve şifrenin kaybedilmesi, çalınması vb. durumlar dahil) Gelir İdaresi Başkanlığı 444 0 435 no.lu Çağrı Merkezine telefonla veya bağlı oldukları vergi dairesine dilekçe ile derhal bilgi vermeleri gerekmektedir. Söz konusu kişiler bildirim anına kadar yapılan işlemlerden ve taraflarına verilen kullanıcı kodu, parola ve şifrenin kullanımından sorumlu olacaklardır.
+b) Kullanıcı kodu, parola ve şifrenin, aracılık yetkisi talep eden tüzel kişiliğin yetki verdiği kişiye teslimi tüzel kişiliğe teslim hükmündedir. Tüzel kişiliğin, yetki verdiği kişinin bu yetkilerini iptal etmesi halinde durumu derhal ilgili vergi dairesine dilekçe ile bildirmesi gerekmektedir. Bu bildirimin ilgili vergi dairesi kayıtlarına girdiği ana kadar yapılan işlemlerden doğacak hukuki ve mali sorumluluk, aracılık yetkisi verilmiş olan tüzel kişiliğe ait olacaktır.
+c) Kullanıcı kodu, parola ve şifresi verilen tüzel kişilik yetkilisinin bu yetkisinin sona erdirildiğine dair ilgili vergi dairesine yazılı bildirim yapılmadığı takdirde yetki verilen kişinin, aracılık yetkisi verilmiş olan tüzel kişiliği temsil yetkisinin devam ettiği kabul edilecektir.
+3. Elektronik beyanname gönderme aracılık yetkisi verilmiş Serbest Muhasebeci, Serbest Muhasebeci Mali Müşavir ve Yeminli Mali Müşavirler, mükelleflerle aralarında düzenlemiş oldukları hizmet sözleşmeleri gereğince, mükelleflerin beyannamelerinde yer alan bilgilerin defter kayıtlarına ve bu kayıtların dayanağını teşkil eden belgelere uygun olmamasından dolayı ortaya çıkacak vergi ziyaı ve buna bağlı olarak salınacak vergi, kesilecek ceza ve hesaplanacak faizlerin ödenmesinden mükelleflerle birlikte müştereken ve müteselsilen sorumludurlar.
+Sadece aracılık hizmeti alan mükellefler veya kanuni temsilcileri, beyannameye yansıması gereken her türlü bilgiyi aracılık hizmeti veren gerçek ve tüzel kişilere, tam ve doğru olarak sunmakla yükümlüdürler. Aracılık hizmeti veren gerçek ve tüzel kişiler de verilen bu bilgiler doğrultusunda elektronik beyanname formatına uygun olarak beyannameleri düzenlemek zorundadırlar. Bu bilgilerin elektronik ortamda gönderilerek onaylanan beyannameye doğru yansıtılmaması halinde, ortaya çıkacak vergi ziyaı ve buna bağlı olarak salınacak vergi, kesilecek ceza ve hesaplanacak faizlerin ödenmesinden mükelleflerle birlikte müştereken ve müteselsilen sorumludurlar.
+4. Elektronik beyannamelerin gönderilmesinde mesleki kurallara uyulması gerekmektedir.
+5. Elektronik ortamda yapılan işlemlerin tespit ve tevsikinde Gelir İdaresi Başkanlığı/vergi dairesi kayıtları esas alınacaktır.
+6. Gelir İdaresi Başkanlığı/Vergi dairesi aracılık yetkisini kaldırmaya yetkilidir.Meslek Mensubu/Kanuni Temsilci
+Adı Soyadı
+İmza
+Tarih
+[1] Adi ortaklık şeklindeki mükellefiyetlerde ortaklığa ait bilgiler yazılacaktır.
+[2] T.C.vatandaşı olan gerçek kişilerde T.C.kimlik numarası yazılacaktır.
+[3] Şirketlerde sorumlu yetkili birden fazla kişi ise yetkililerden ikisine ait bilgiler yazılacaktır.
+[4] T.C.vatandaşı olan gerçek kişilerde T.C.kimlik numarası yazılacaktır.

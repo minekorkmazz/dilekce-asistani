@@ -1,0 +1,38 @@
+Vekil Azletme Talep Formu[1]
+M119  VEKİL  AZLETME  TALEP  FORMU
+Referans No:
+Toplam  Sayfa Sayısı
+(Başvuru Sahibi Tarafından
+Doldurulacak)
+Toplam  Sayfa Sayısı
+(Kurum Tarafından
+Doldurulacak)
+Bu Alanı Boş Bırakınız
+(1)   VEKİLİ AZLEDİLEN  MARKA / BAŞVURU  BİLGİLERİ
+Başvuru/Tescil Numaraları
+Marka Adları
+TÜRKPATENT Müşteri No (*)
+T.C.Kimlik No
+Başvuru Sahibi
+Vergi No
+(2) AZLEDİLEN VEKİL
+Vekil Sicil No (**)
+Adı Soyadı
+Firma Ünvanı
+(3) VARSA YENİ ATANAN VEKİL
+Vekil Sicil No (**)
+Adı Soyadı
+Firma Ünvanı
+Adres
+Semt
+İlçe
+İl
+Posta Kodu
+Telefon Nmr.
+Faks Nmr.
+Vekaletname
+Ektedir
+Adı Soyadı/Unvanı
+Tarih
+İmza
+[1] Bu form, 30.07.2019 https://www.turkpatent.gov.tr/TURKPATENT/forms/informationDetail?id=100adresinden alınmıştır.

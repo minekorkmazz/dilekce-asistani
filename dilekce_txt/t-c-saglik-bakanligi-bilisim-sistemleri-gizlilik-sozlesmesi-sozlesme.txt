@@ -1,0 +1,63 @@
+T.C. Sağlık Bakanlığı Bilişim Sistemleri Gizlilik Sözleşmesi - Sözleşme[1]
+1. TANIM ve KAPSAM
+İşbu sözleşme, T.C. Sağlık Bakanlığı (bundan böyle Bakanlık olarak anılacaktır) ile yazılım üreticisi  … (bundan böyle Firma olarak anılacaktır) arasında 2 (iki) asıl nüsha olarak düzenlenmiştir. İş bu sözleşme, veri/bilginin bulunduğu ortamdan bağımsız olarak gizliliğini sağlamak konusunda Bakanlık ile Firma’nın karşılıklı sorumluluk ve haklarını tanımlar. İş bu sözleşme Bakanlığın çalışanları da dahil ve bunlarla sınırlı olmamak üzere Bakanlık için doğrudan ya da dolaylı hizmet eden tüm personeli, danışmanları ve diğer yetkilileri tarafından Firmaya temin edilen veya Firmanın temin ettiği kişi ve bilgileri de kapsar.
+2. GİZLİ BİLGİNİN TANIMI
+Gizli bilgi, çalışma ile ilgili olanlarla sınırlı olmamak üzere Firma tarafından edinilen her türlü bilgiyi ifade eder.
+Buna göre işbu sözleşmede Gizli Bilgi;
+2.1. Yürürlükteki mevzuat ve iç düzenlemeler uyarınca Bakanlık ve personeli tarafından gizli tutulması gereken elektronik ortamdaki veya kağıt ortamdaki resmi ya da özel her tür bilgi, belge, veri ve kayıtları, uygulama yazılım kodları, veri tabanı şemaları ve bunlarla ilgili dokümantasyonu,
+2.2. İşbu sözleşme kapsamında doğrudan ya da dolaylı, sözlü veya yazılı şekilde elde edilen veya elektronik ortamda bulunan resmi ya da özel, teknik, mali, hukuki, idari her türlü bilgi, belge ve veri kayıtları,
+2.3. Sözleşmeler, taahhütnameler ve saire her türlü hukuki evrakı,
+2.4. Projeyle ilgili doğrudan ya da dolaylı, elektronik ortamda olan ya da olmayan her türlü bilgi belge ve veri kayıtlarını,
+2.5. Firmanın ulaşabildiği bilgiden yeni derlenmiş bilgileri,
+2.6. Bunun yanında sözlü, yazılı, grafiksel veya bilgisayar ortamında okunabilecek türde fakat henüz yayımlanmamış, kamuya duyurulmamış yönetsel kararlar ya da gizli tutulan her türlü belirleme, tasarım, planlama, çizim, bilgi, buluş, oluşum, metot, süreç, prosedür, geliştirme, know-how, araştırma, iş planı, strateji, finansal bilgiyi,
+2.7. İşbu Sözleşmenin imzalanmasından önce veya sonra Tarafların birbirinden, temsilcilerinden, çalışanlarından, yardımcılarından ve ilgili diğer üçüncü kişilerden yazılı veya sözlü olarak edindikleri, gizli olduğu açıkça ifade edilen veya edilmeyen, İş’le ve Taraflarla ilgili ticari olup olmadığına bakılmaksızın her türlü kişisel veriyi,
+2.8. Veri öznelerine ya da yasal vasi/vekillerine ait kişisel sağlık verilerini ve iletişim bilgilerini 2.9. İş’in yapılması sırasındaki yazışmaları,
+2.10. Sistemde yer alan ürün, yazılımlar ve yazılımlara ait ticari sır niteliği taşıyan bilgileri,
+2.11. Sisteme kaydedilen her türlü veri/bilgiyi
+2.12. Tersine Mühendislik(reverse engineering) yöntemleriyle elde edilecek veri/bilgiyi ifade eder.
+3.GENEL ŞARTLAR
+3.1. Tüm sistemlerin (yazılımlar dahil) Sağlık Bakanlığı’nın bilgi güvenliği politikalarına ve kişisel verilerin mahremiyetinin korunması ile ilgili mevzuata uygun olması şarttır.
+3.2. Sistemde kullanılacak sunucular (server), Bakanlığın belirlediği sunucu ortamlarında ve belirlediği şartlara uygun ortamlarda konumlandırılacaktır. Kişisel sağlık verileri özel niteliği olan veri kategorisinde yer almaktadır. Bu nedenle bu sözleşme kapsamında, Bakanlık veya 2 Bakanlığın onayladığı ortamlarda bulunan veri tabanı dışında hiçbir veri tabanı yönetim sistemine kişisel sağlık verileri başta olmak üzere hiçbir kişisel veri, (otomatik olup olmadığına bakılmaksızın) gönderilmez ve kaydedilemez.
+3.3. Sunuculara kaydedilen kişisel sağlık verileri, ancak Bakanlıkça istenilen sunuculara aktarılabilir. Bu aktarma, mutlak olarak güvenli şekilde yapılacaktır.
+3.4. Sisteme erişim denetimi, kullanıcı tanımlama ve yetkilendirme işlemleri tümüyle Bakanlığın yetkisindedir. Aile hekimleri, aile sağlığı elemanları ile bu sistemin bakım ve onarımında görevli personel ancak görevlerinin gereği kadar sistemdeki verilere ulaşabilirler. Bu kimseler, “tanımlı kullanıcı” olarak anılacak olup; tanımlı kullanıcıların Bakanlıkça tespiti ve belgelendirilmesi gereklidir.
+3.5. Erişim yetkisi verilenler ve Firma, Sistemde, vatandaşlara ait veriler dahil tüm verilerinin gizlilik, bütünlük, güvenlik ve mahremiyetini sağlamak bakımından ilgili tüm mevzuat ile genel toplumsal değerlere aykırı hiçbir işlem tesis edemez.
+3.6. Kullanılacak yazılımların kod yapısında, sisteme kaydedilen verilerin bir başka ortama kopyalanmasına, aktarılmasına neden olabilecek kod dizgesi ve/veya servis yer alamaz.
+3.7. Sistem, doğrudan ya da dolaylı olarak rekabeti ortadan kaldıran belli bir ürün (ilaç, tıbbi malzeme, vb) ya da hizmete yönlendirici, reklam amaçlı unsurlar barındıramaz.
+3.8. Sistem aracılığıyla; Bakanlığın yetki ve bilgisi haricinde web servisleri, web siteleri, eposta, sabit diskler, taşınabilir diskler, kağıda yazdırılmış veri ve bilgiler vb aracılığıyla ya da sözlü olarak Bakanlığın denetiminde olan sunucu bilgisayarlar haricinde başka sunucu bilgisayar(lar)daki veri tabanı yönetim sistemlerine, görevi gereği bu verilere erişim hakkı bulunan gerçek ya da tüzel kişiler haricindeki diğer kişilere kimlik ve kişisel sağlık verilerinin aktarılması ve/veya kaydedilmesi yasaktır.
+3.9. Herhangi bir vatandaşa ait kişisel veriler ile kişisel sağlık verilerinin Bakanlığın onayladığı sunucu merkezindeki sunucular haricindeki başka bir ortama kaydedildiğinin tespit edilmesi halinde, Firma’ya herhangi bir ihtarda bulunulmaksızın sistemin kullanımına derhal son verilir.
+3.10. Kişisel verilerin ve kişisel sağlık verilerinin; otomatik olsun veya olmasın toplanması, kaydedilmesi, organize edilmesi, depolanması, uyarlanması veya değiştirilmesi, geri erişimi, konsültasyonu, kullanılması, iletim yoluyla açıklanması, yayılması veya diğer herhangi bir şekilde kullanılır halde bulundurulması, sıralanması veya kombinasyonu, bloke edilmesi, silinmesi veya yok edilmesi veri işleme olarak kabul edilecektir. Hukuka aykırı olarak kişisel verilerin işlenmesi hâlinde gerekli hukuki işlemler başlatılacaktır.
+3.11. Kişisel sağlık verilerinin hukuka aykırı olarak işlenmesi ve/veya ifşası halinde Firma, tazminat sorumluluğunu kabul eder. Gizlilik ihlali halinde Bakanlık, söz konusu sistemin kullanımdan kaldırılması için her tür haber verme ve duyuru yolunu kullanabilir.
+3.12. Firma, veri tabanında yer alan hiçbir kayıt üzerinde hak iddia edemez.
+3.13. Yazılım, kullanıcılarına, sağlık hizmeti sunumunun sürekliliğinin sağlanması, iyileştirilmesi ve geliştirilmesi amacını aşan ve bilimsel literatür haricinde kalan hiçbir veri sunamaz, öneride bulunamaz.
+3.14. Sistemde tutulan veriler, anonimleştirilmiş olsa bile doğrudan ya da dolaylı olarak hiçbir surette ticarete konu edilemez. Haksız rekabete sebep olacak çalışmalarda kullanılamaz.
+3.15. Firma, sahip olduğu her türden kullanıcı hesap bilgilerini korumakla ve 3. Kişiler ile paylaşmamakla yükümlüdür.
+3.16. Firma projenin veri güvenliğini sağlamakla yükümlüdür.
+3.17. Firma kendi personeliyle (ve varsa alt yüklenicisi ile) gerekli gizlilik sözleşmesini imzalamakla yükümlüdür. Firma alt yüklenicilerinin her türlü hukuka aykırı fillerinden Bakanlığa karşı Firma sorumludur.
+3.18. Bakanlık veya sağlık kurum ve kuruluşları için ister internet ortamında, ister masa üstü ve ister diğer ortamlarda yapılan çalışmalarda verilerin depolandığı veya uygulamaların sunulduğu sistemlerde sunucular Bakanlık Merkezinde, İl Sağlık Müdürlüklerinde, Hastanelerde ya da Bakanlığın belirlediği veya onayladığı fiziki mekânlarda konumlandırılacaktır.
+3.19. Sistemde yer alan sunuculara yapılacak her türlü müdahale ve yedekleme ‘Bakanlık, İl Sağlık Müdürlüğü, Hastane, Laboratuvar gibi kurumların kendi Sunucu Sorumluları’ gözetiminde ve izniyle yapılacaktır.
+3.20. Bu sözleşmede belirtilen şartlar, felaket ve acil durum merkezleri ve bu merkezlerde bulunan sunucular için de geçerlidir
+3.21. Bilişim projeleri kapsamında hizmet tedarikçisi ve ekipmanları tarafından oluşturulan verilerden her ne amaçla olursa olsun hizmet tedarikçisi için yeni veri üretilemez.
+3.22. Sağlık Hizmeti sunum kalitesinin ve performansının artırılması amacıyla başka bir sistem ile entegrasyonun gerekli olduğu durumlarda gizliliği sağlamaya yönelik teknik ve idari tedbirler alınmak suretiyle bu entegrasyon gerçekleştirilir.
+3.23. Bakanlık herhangi bir zamanda herhangi bir sıklıkta güvenlik testleri yaptırabilir ve tespit edilen açıklar bu sözleşme kapsamında Firma tarafından derhal ve bila bedel giderilir.
+4.MÜLKİYET HAKKI
+Bakanlık tarafından işbu sözleşme uyarınca Firma’ya sağlanan gizli bilgiyi Firma, kullanma izni çerçevesinde veya başka suretle herhangi bir lisans, marka, patent ya da buna benzer bir fikri mülkiyet hakkı tesisine konu edemez. Söz konusu bilgi üzerinde mutlak mülkiyet hakkı Bakanlığa aittir. Dolayısıyla, İdare tarafından Gizli Bilgi’nin Firma’ya sağlanması, hiçbir surette Firma’ya böyle bir hak sağlamaz. Bakanlık yazılımların lisans haklarının korunması konusunda 5846 Sayılı Kanun gereklerine uygun hareket eder.
+5.SÖZLEŞMENİN FESHİ
+Aşağıdaki hallerde bu gizlilik sözleşmesinin bağlı olduğu ana sözleşme ve diğer sözleşmeler başka bir hükme, ihtara, ihbara gerek olmaksızın bozucu şartla kendiliğinden sona erer. Ancak bu Gizlilik Sözleşmesi’nden doğan yükümlülükler hiçbir surette sona ermez.
+5.1. Her tür gizli bilginin Bakanlık ya da Bakanlığı Temsile Yetkili Kurum haricinde diğer 3. kişiler ile paylaşımı veya 3. kişiler tarafından sunuculardan alınması.
+5.2. Firmanın sorumluluğu kapsamında olan kullanıcı erişim bilgilerinin ve kullanıcı bilgilerinin paylaşılması veya paylaşılmasına olanak tanınması.
+5.3. Gizli bilginin, konumlanma merkezi ya da Bakanlık ya da Bakanlığı Temsile Yetkili Kurum’un talebi dışında başka bir ortama gönderilmesi veya depolanması.
+5.4. Kullanıcı şifrelerinin ve bilgilerinin başkaları tarafından kullanılması.
+6.SAİR HÜKÜMLER
+6.1. Bakanlığın, ortaya çıkan ihtiyaçlar doğrultusunda bu sözleşmeye ek bir Gizlilik Sözleşmesi yapmak istemesi halinde, durum gerekçeleriyle birlikte Firmaya/Firmalara bildirilir. Bu bildirimde, tespit edilen aksaklık veya ihtiyacın aciliyetine göre Firmaya/Firmalara Bakanlıkça 4 belirlenen süre kadar mehil verilir. Firmanın/firmaların, haklı bir sebep olmaksızın ek sözleşmeyi kabul etmediği durumda, Tespit olunan aksaklık veya istenilen düzeltme:
+a) Veri güvenliği gibi önemli hususlara taalluk ediyorsa derhal hizmet ya da ürün sözleşmesi feshedilir.
+b) Esaslı unsurlara taalluk etmiyorsa sözleşme döneminin sonunda hizmet veya ürün sözleşmesi yenilenmez. Her iki durumda da Firmaya/Firmalara verilen güvenlik kodu iptal edilir.
+6.2. Firmanın güvenlik kodunun iptal edilmesi, daha önce edindiği bilgilerin gizliliğini muhafaza yükümlülüğünü ortadan kaldırmaz ve süre sınırı getirmez.
+6.3. Firma’nın bu sözleşmede belirtmiş olduğu adres akdi tebligat adresi olup bu adrese yapılacak tebligatlar iade olsa bile yapılmış sayılır.
+6.4. Tarafların isim ve unvanlarının ve iş bu sözleşmeyi imza etmiş yetkililerinin değişmesi, bu sözleşmeden doğan yükümlülükleri ortadan kaldırmaz.
+6.5. Bu sözleşmeden doğacak anlaşmazlıklarda Ankara icra daireleri ve mahkemeleri yetkilidir.
+6.6. Anlaşmazlıklarda münhasıran Türkiye Cumhuriyeti Kanunları uygulanır.
+6.7. Bu sözleşmenin örneği, taraflardan birinin diğerinden yazılı talebi halinde aslının aynı olduğu onaylanarak talep eden tarafa teslim edilir.
+Tarih: …/…/…
+FİRMA ADINA                                                         T.C. SAĞLIK BAKANLIĞI ADINA YETKİLİNİN
+(UNVAN/İSİM/ KAŞE/İMZA)                                           (YETKİLİNİNUNVAN/İSİM/KAŞE/İMZASI)
+[1] Bu Sözleşme 05.10.2022 tarihinde T.C. Sağlık Bakanlığı’nın sitesinden alınmıştır. (https://sbsgm.saglik.gov.tr/Eklenti/662/0/ek-3-gizlilik-sozlesmesipdf.pdf)

@@ -1,0 +1,31 @@
+İş Güvenliği Uzmanlığı Sözleşmesi
+İşyerinin;
+Unvanı   :
+Adresi    :
+Telefon  :
+e-posta   :
+Çalışma ve Sosyal Güvenlik
+Bölge Sicil No   :
+SSK Sicil No     :
+Faaliyet Alanı    :
+Yer Aldığı Risk Grubu   :
+Çalışan İşçi Sayısı        :
+İş Güvenliği Uzmanının;
+Adı Soyadı   :
+Mesleği  :
+Diploma No :
+Sertifika Sınıfı ve No    :
+Çalışma Süresi :
+Adres     :
+Telefon  :
+Faks       :
+e-posta   :
+Çalıştığı diğer işyerlerinin          :
+Unvanı   :
+Çalışma ve Sosyal Güvenlik
+Bakanlığı Bölge Sicil No           :
+SSK Sicil No     :
+Özel Hükümler:
+Taraflar arasında çıkacak herhangi bir uyuşmazlıkta ….. Mahkemeleri yetkilidir.
+İşveren                                                     İş Güvenliği Uzmanı
+(Adı, Soyadı, İmzası)                                          (Adı, Soyadı, İmzası)

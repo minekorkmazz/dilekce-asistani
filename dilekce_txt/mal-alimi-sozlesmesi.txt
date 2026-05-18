@@ -1,0 +1,35 @@
+Mal Alımı Sözleşmesi[1]
+Bir tarafta
+<sözleşme imzalamaya yetkili kişi> tarafından temsil edilen, bundan böyle “Sözleşme Makamı” olarak anılacak olan <kuruluşunuzun ad>
+diğer tarafta
+<firmanın yasal temsilcis> tarafından temsil edilen, bundan böyle “Tedarikçi” olarak anılacak <ihale üzerinde kalan istekli> aşağıdaki şartlar dahilinde anlaşmıştır.
+Sözleşmenin konusu: <kullanım kılavuzu, yedek parça ve diğer> ve <eğer söz konusu ise malların doğru kullanımı için verilecek teknik eğitim vs> ile birlikte <satın alınan kalemlerin listesi ve sayısı. Eğer liste uzunsa tablo haline getirebilirsiniz>’ nin temin edilmesi ve  kurulumu.
+1. MALLARIN TANIMI
+Tedarik edilmesi istenen malların tanımı Ek 1 “Teknik Şartname ve Gereksinimler”de verilmiştir. Bu ek “Tedarikçi” tarafından verilen teklifle değiştirilir”
+2. SÖZLEŞME BEDELİ
+Sözleşme miktarı ……. Avro / (veya YTL) ile sabittir.“Sözleşme Makamı” KDV’den muaf olup bu KDV’siz tutardır ve herhangi bir değişikliğe tabi olamaz.
+3. TESLİMAT SÜRESİ ve YERİ
+Malların teslim süresi bu sözleşmenin her iki tarafça imzalandığı tarihten itibaren …………(gün, hafta veya yıl)’dır. Mallar [teslimatın yapılacağı açık adres]’e teslim edilecektir.
+4. MENŞEİ
+Söz konusu mallar ancak AB Üyesi Ülkeler, AB’ ne Aday Ülkeler, MEDA Akdeniz Ülkeleri ve Avrupa Birliği Ekonomik Bölgesi Ülkelerinin programından yararlanan ülkelerden temin edilebilir (Bkz. İhaleye Davet Mektubu). Türkiye’de üretilen mallar için Ticaret ve Sanayi Odalarından “Yerli Malı Belgesi” alınması gereklidir.
+Tedarikçiler 5000€’nun üzerindeki alımlarda, Sözleşme Makamı (Hibe Faydalanıcısı)’na en geç kabul sırasında “menşei şahadetnamesi (belgesi)” sunmalıdır. Bu belge sunulmadan kabul yapılamaz.   5000€’nun altındaki mallar için de menşei kuralı geçerli olmakla birlikte belge istenmeyebilir.
+5. GEÇİCİ KABUL
+Bu sözleşme kapsamındaki tüm malların Tedarikçi tarafından teslimat, kurulum, işletme, muayene, deneme/test ve eğitim işlerinin tamamlanmasını müteakip Tedarikçinin yazılı başvurusu üzerine Sözleşme Makamınca atanacak üç kişilik bir Komisyon tarafından geçici kabul işlemleri gerçekleşir. İtibari kabul tarihi Kabul tutanağının düzenlendiği tarihtir. Kabul İşlemleri Tedarikçinin başvurusunu müteakip en geç bir (1) ay içerisinde tamamlanır.
+6. TİCARİ GARANTİ ve SATIŞ SONRASI HİZMET
+Garanti süresi, geçici kabulün gerçekleşme tarihinden itibaren (X) ay/yıl olarak belirlenir. Garanti süresinde, mevcut bakım hariç, hatalı malzemeden kaynaklanan tüm tamirat, parça değiştirme ve genel giderler dahil, tedarikçi tarafından karşılanacaktır. Tedarikçi bakım hizmetleri ile hızlı ve düzenli yedek parça temin edilmesini garanti etmek amacıyla satış sonrası hizmetleri taahhüt edecektir.
+7.   KESİN KABUL
+Kesin Kabul garanti süresinin sonunda yapılır.
+8. GECİKME CEZALARI
+Sözleşmede belirtilen süre zarfında herhangi bir gecikme olması durumunda tedarikçi her bir gecikme (takvim) günü için sipariş edilen malların 1/1000’i tutarında gecikme cezası ödemek zorundadır.  Ancak en yüksek ceza bedeli, toplam sipariş bedelinin % 10’u kadardır. Gecikme cezasının bu oranın da üzerine çıkması durumunda, “Sözleşme Makamı” sözleşmeyi feshetme hakkını saklı tutar.
+9. ÖDEME ŞARTLARI
+Geçici kabul işlemlerinin tamamlanmasını müteakip en geç bir ay içerisinde, sözleşme bedelinin tamamı Tedarikçi tarafından bildirilen banka hesabına yatırılır.
+10. ÖDEME EMRİ
+Ödeme emri Sözleşme Makamı’nın yetkili temsilcisi tarafından onaylanır.
+Tedarikçi adına                                              Sözleşme Makamı adına
+Adı Soyadı                                                     Adı Soyadı
+Görevi                                                            Görevi
+İmzası                                                            İmzası
+Tarih                                                               Tarih
+Ek                    1: Hibe Faydalanıcısının teknik şartnamesi
+2: Tedarikçinin teklifi
+[1] Bu dilekçe 18.09.2023 tarihinde https://www.ab.gov.tr/ sitesinden alınmıştır.

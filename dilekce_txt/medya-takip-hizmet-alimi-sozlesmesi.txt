@@ -1,0 +1,54 @@
+Medya Takip Hizmet Alımı Sözleşmesi
+Madde 1- Taraflar
+İdarenin
+Adı         :
+Adresi    :
+Telefon Numarası         :
+Elektronik Posta Adresi (varsa):
+Yüklenicinin
+Ticaret Unvanı  :
+Vergi Dairesi     :
+Vergi Kimlik No :
+Tebligata Esas Adresi   :
+Telefon Numarası         :
+Elektronik Posta Adresi            :
+Her iki taraf yukarıda belirtilen adreslerini tebligat adresleri olarak kabul etmişlerdir. Adres değişiklikleri usulüne uygun şekilde karşı tarafa tebliğ edilmedikçe en son bildirilen adrese yapılacak tebliğ ilgili tarafa yapılmış sayılır.
+Taraflar, yazılı tebligatı daha sonra süresi içinde yapmak kaydıyla, kurye veya elektronik posta gibi diğer yollarla da bildirim yapabilirler.
+Madde 2- Sözleşmenin Konusu
+Bu sözleşmenin konusu, sözleşmede belirtilen süre içerisinde, yüklenici firma tarafından idareye yüklenici firmanın yükümlülükleri maddesinde belirlenen hizmetlerin idareye verilmesi karşılığında bu sözleşmede kararlaştırılan ücretin idare tarafından yüklenici firmaya verilmesidir.
+Madde 3- Sözleşmenin Süresi
+İşbu sözleşme .. / .. / …. ile .. / .. / …. tarihleri arasında geçerlidir. İdare, süresi henüz dolmadan, haklı sebep olmaksızın yüklenici firma tarafından usulüne uygun verilmekte olan hizmetin durdurulmasını ve/veya sözleşmenin feshini talep ederse, hizmet talebin yapıldığı ayın sonu itibariyle durdurulur. Ücretin tamamının peşin ödenmiş olması durumunda, hizmetin durdurulması ile sözleşme bitimi arasında kalan aylara tekabül eden ücretin tamamının iadesi, talep tarihini müteakip azami 60 gün içerisinde gerçekleştirilir. Ödemelerin aylık olarak yapılıyor olması halinde ise, hizmetin durdurulması ile sözleşme bitimi arasında kalan aylara tekabül eden ücret tahsilat prosedürüne sokulmaz.
+Madde 4- Yüklenicinin Yükümlülüğü ve Hizmet Kapsamı
+Yazılı Basın Takibi: Yayında olan ve sözleşme süresince yayına girecek bütün ulusal gazeteler, bunların ekleri, Türkiye’de yayınlanan güncel içerikli dergiler ile önde gelen yerel basın organları taranarak; siyasi ve ekonomik gündeme ilişkin haberler derlenerek resmi tatil günleri dahil, günlük sabah saat ….’a kadar T.C. ….. Bakanlığı, Bakanı ve yukarıdaki konular ile ilgili önemli haberler 1 nüsha renkli ile 2 takım siyah beyaz fotokopisi idareye teslim edilecektir. Teslim edilecek haberler yayın adı, yayın tarihi, sayfa no bilgilerini içerecek biçimde hazırlanacaktır. Büyük haberler A4 kağıt formatına uygun ve okunaklı olacak şekilde sunulacaktır. A4'ten büyük haberler küçültme yapılmadan ve gerekirse sayfa yerleşimi yeniden yapılarak birden fazla sayfa şeklinde hazırlanacaktır. Yerleşim haber mantığı kaybedilmeden yapılacaktır.
+Söz konusu haberler resmi tatil günleri dahil günlük sabah saat …’a kadar bilgisayar ortamına aktarılacak ve internet üzerinden sadece idare bünyesinde uygun görülen kullanıcılar tarafından erişilebilecek biçimde şifreli olarak sunulacaktır.
+Internet üzerinden sunulacak yazılı basın kupürleri A4 kağıt formatına uygun ve okunaklı olacak şekilde de sunacaktır. Kupür orijinalinin yanı sıra bu formatta hazırlanacak dosyalarda A4'ten büyük haberler küçültme yapılmadan ve gerekirse sayfa yerleşimi yeniden yapılarak birden fazla sayfa hazırlanacaktır. Kullanıcı istemesi halinde bu dosyaları tek tek ya da topluca bir dosya olarak kaydedip çıktı alabilmelidir. Çıktılarda gazete sayfasının rengi zemin olarak görünmeyecektir. Ayrıca, dosya içeriğini ve haberlerin tarih aralığını belirten sayfa kapak ve içindekiler bölümü dosyada bulunacaktır. İlgili haberler ve textleri tek tek veya topluca mail atılabilecektir.
+Web sitesi üzerinden sunulacak haberlerin içerisinde hangi anahtar kelime ya da kelimelerin geçtiği haber imajının yanında liste olarak verilecektir. Haberde bulunan her bir anahtar kelime haber imajı üzerinde farklı renk ile işaretlenecek ve ilgili anahtar kelimenin haberin hangi sayfasında yer aldığı listede belirtilecektir. Listede belirtilen sayfa no üzerine tıklandığında ilgili sayfa otomatik olarak açılacaktır. Ayrıca, listede yer alan her bir anahtar kelime için sayfa üzerine gösterilip gösterilmeyeceği hususunda bir seçme kutusu olacaktır. Bu sayede kullanıcı sayfa üzerinde sadece görmek istediği anahtar kelimelerin işaretlenmesini sağlayacaktır. Bu özellik haber imajlarının kaydedilmesi ve çıktı alınması durumunda da geçerli olacaktır.
+Web sitemiz üzerinden sunulacak haber ve köşe yazıları bölgesel, ulusal ve yerel ayrımı yapılarak bakılacağı gibi tek bir tuşla haberlerin çıktısı da alınabilecektir.
+Bu haberler internet üzerinden en az 1 yıl boyunca erişilebilir olarak arşivlenecektir. Ayrıca, her ay sonunda tüm haberlerin bilgisayar ortamına aktarılmış hali DVD içerisinde idareye teslim edilecektir.
+Yüklenici firma, tarama listesinde bulunan dergi ve yerel gazeteleri de şirket merkezine geliş süresine göre tarayarak yukarıdaki anahtar kelimeler ile ilgili haber ve köşe yazılarını idareye sunacaktır.
+İdarenin Talepleri üzerine tarama anahtar kelimelerinde değişiklikler olabilir. Bu değişiklikler ve eklemeler için ücret talep edilmez.
+Görsel Medya Takibi: Yayında olan ve sözleşme süresince yayma girecek bütün Ulusal televizyon kanallarının yayınları izlenerek;
+T.C. ….. Bakanlığı, Bakanı ve diğer konularla ilgili her türlü haber, ve programlar tespit edilerek resmi tatil günleri dahil haber veya programlar gün içerisinde idareye web sitemiz üzerinden raporlanacak ve MPEG4 formatında izlenmesine olanak sağlayacaktır. Söz konusu raporda ilgili haber ve programların yayınlandığı tarih, kanal adı, program adı, saat, süre ve haber/program başlığı bilgileri belirtilecektir. İstenmesi halinde görüntü dosyaları MPEG4 formatında yerel bilgisayara indirilip kaydedilebilmelidir.
+Ayrıca, günlük olarak teslim edilen görüntü ve haberlere ait DVD'ler toplu olarak arşivlenerek DVD kalitesinde ve DVD format şeklinde hazırlanarak idareye teslim edilecektir.
+İdaremizce gün içerisinde acilen televizyon görüntüsü talep edilmesi halinde, görüntü 30 dakika içerisinde DVD kalitesinde ve DVD formatında hazırlanarak idareye teslim edilecektir.
+Televizyon Arşivi: Yüklenici firma sözleşme dönemi boyunca en az 20 ulusal TV kanalının sözleşme başlangıç tarihinden itibaren en az 1  yıl süreyle geriye dönük tüm haber ve programları internet sitesi üzerinden izlenmesine imkan sağlayacaktır. İdarenin belirleyeceği kullanıcılar tarafından erişilebilir olarak sunulacak TV arşiv hizmeti, kanalların yayınlarını yayın akışına uygun olarak, haber ve program başlıkları ve süreleri belirtilmiş halde sunulacaktır. Yüklenici firma, haber bültenlerinde yer alan her bir haberi ayrı bir satır olarak gösterecek, bu kayıtlarda ilgili haberin başlığı ve süresi ayrı ayrı belirtilecektir. İlgili haber ya da programın internet üzerinden izlenebilmesine olanak sağlanacaktır.
+İnternet Takibi: Türkiye Kaynaklı yayın yapan ve önde gelen en az … haber portalı takip edilerek;
+T.C. ….. Bakanlığı ve Bakanı ile ilgili haberler tespit edilerek resmi tatil günleri dahil gün içerinde idareye yüklenici firmanın internet sitesi üzerinden uygun görülen kullanıcılar tarafından erişilebilecek biçimde şifreli olarak sunulacaktır. Söz konusu haberler PDF formatında da hazırlanarak ilgili haberlerin yanına bağlantı olarak verilecektir. Bu haberler internet üzerinden en az 1 yıl boyunca erişilebilir olarak arşivlenecektir. Ayrıca, her takvim ayı sonunda tüm haberlerin bilgisayar ortamına aktarılmış hali CD içerisinde idareye teslim edilecektir.
+Deşifre Hizmeti: İdare tarafından sözleşme süresi kapsamında her gün 24 saat içerisinde talep edilecek bant çözümleri yüklenici firma tarafından metin haline dönüştürülerek talep yapıldığı andan itibaren, talep edilen deşifre saatinin 2 katı zamanda idareye veya idarenin belirleyeceği adrese teslim edecektir.
+Sosyal Medya Hizmeti
+Yüklenici firma, T.C. ….. Bakanlığı, Bakanı ve gündemdeki önemli gelişmelerle ilgili sosyal medya (Twitter, Facebook, vs.) yansımalarını idareye sistem üzerinden bildirecektir.
+Arşiv Olanakları: Yüklenici firma, idareye geriye dönük arşiv olanaklarından ücretsiz ve sınırsız yararlanma sunacaktır.
+Madde 5- İdarenin Yükümlülüğü
+1- İdare, bu sözleşme ile alacağı hizmetler karşılığında her ay fatura kesim tarihinden itibaren 15 gün içinde Yüklenici firmaya ….. TL + KDV ödeme yapacaktır.
+2- Sözleşme dışında yer alan özel/ek istekler, ayrıca faturalandırılacaktır.
+3- İdare, hizmeti internet üzerinden elektronik yolla takip etmesi için yüklenici firma tarafından kendisine verilen kullanıcı adı ve şifrenin bünyesi dışında üçüncü şahıslara kontrolsüz dağılımını engelleyici tedbirler almayı, bu şifreyi ifşa etmemeyi ve paylaşmamayı kabul ve taahhüt eder. İdareye verilen şifrenin üçüncü kişiler tarafından usulsüz olarak kullanıldığının ya da kullandırıldığının tespit edilmesi durumunda idare, yüklenici firmanın şifre yenilenmesini ve yeni şifreyi kendisine iletmesini sağlar.
+4- Söz konusu hizmetten yararlanacak kurumlar ….. Bakanlığı ve yazılı basın kısmından Yargıtay ve Danıştay'dır. Bu kurumlar dışındaki kişiler üçüncü kişi olarak değerlendirilecektir.
+5- İdare, yükümlülüklerini yerine getirmediği takdirde Yüklenici firma, … gün önceden yazılı olarak bildirmek kaydıyla hizmeti durdurma hakkına sahiptir.
+Madde 6- Tebligat
+Tarafların kanuni tebligat ve yazışma adresleri bu sözleşmede belirtilen adreslerdir. Taraflar bu adreslerdeki herhangi bir değişimi diğer tarafa usulüne uygun olarak bildirmedikleri takdirde, sözleşmede belirtilen bu adreslere yapılan tebligatların, tebliğ edilmiş sayılacağını kabul, beyan ve taahhüt ederler.
+Madde 7- Sözleşmenin Feshine İlişkin Şartlar
+İdare herhangi bir gerekçe göstermeksizin … gün öncesinden yazılı olarak bildirimde bulunmak kaydıyla sözleşmeyi tek taraflı olarak feshedebilir. Yüklenici firma herhangi bir hak talebinde bulunamaz.
+Madde 8- Uyuşmazlıkların Çözüm Yeri
+Uyuşmazlıkların çözümünde ….. Mahkemeleri ve İcra Dairelerinin görev ve yetkisini kabul ve beyan ederler.
+İdare                                                                                      Yüklenici Firma Yetkilisi
+(Adı, Soyadı, İmza)                                                                (Adı, Soyadı, İmza)

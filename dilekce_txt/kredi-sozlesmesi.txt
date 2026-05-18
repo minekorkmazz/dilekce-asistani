@@ -1,0 +1,68 @@
+Kredi Sözleşmesi
+Madde 1
+Taraflar ve Sözleşmenin Konusu:
+Kredi Veren :
+Adresi:
+Satıcı Adı Soyadı/Ünvanı :
+Borçlu Adı Soyadı/Ünvanı :
+Kredi Tutarı :
+Baz Faiz Oranı :
+Temerrüt Faizi :
+Banka ve Sigorta Muamele Vergisi Oranı : %
+Kaynak Kullanımını Destekleme Fonu Oranı : %
+Tahsis Ücreti : … TL
+Vade / Aylık Taksit Oranı / Toplam Borç Tutarı : Geri ödeme planında belirtilmiştir.
+Madde 2
+Erken Kapama/Ödeme:
+Borçlu, herhangi bir tarihte krediden doğan bakiye borcunu, geri ödeme planında belirtilen taksit ödeme tarihinden önce veya tümüyle kapatmak isterse, kredinin kapatılmasına ilişkin yazılı talebin Şirkete iletildiği tarih itibariyle kalan anapara üzerinden yüzde iki erken kapama komisyonu ödemeyi kabul ve taahhüt eder.
+Madde 3
+Servis Hizmeti:
+Borçlu Sözleşme ile birlikte satın almış olduğu servis hizmetine ilişkin ürünün kredi taksitlerine yansıtılacağını, ilgili ürünün iptal edilmesi halinde; Sözleşme’nin imza tarihinden itibaren geçerli olacak ve bu kez baz faiz üzerinden yeniden hesaplanacak geri ödeme planına uygun olarak ödemelerini yapacağını ve iptal işlemi sebebiyle oluşan iade bedelinin kredi geri ödemelerine yansıtılacağını kabul, beyan ve taahhüt eder.
+Madde 4
+Sigorta:
+Şirket, işbu Sözleşme’nin esasları içinde tesis edilmesi ve/veya verilmesi gerekli bütün teminatların, yangına, kazaya ve Şirketin gerekli göreceği diğer her türlü rizikolara karşı, Şirket lehine ve dilediği sigorta şirketine sigorta ettirilmesini, sürelerinin bitmesi halinde serbestçe tayin edeceği şartlarla yenilenmesini talep edebilir. Sigorta ettirilmiş teminatlar daha önce sigorta ettirilmiş bulunuyorsa, Borçlu bunlara ait poliçeleri Şirkete devir ve ciro etmeyi, bununla ilgili ihbar ve işlemleri gerçekleştirmeyi, sürelerinin bitiminde yenilemeyi kabul ve taahhüt eder. Hasar vukuunda sigortacı tarafından ödenen sigorta tazminatlarının Şirkete ait olduğu, Şirketin muaccel olsun ya da olmasın alacağının tasfiyesi için kullanılacağı, artan bir kısım var ise Borçluya ödeneceğinde tam bir mutabakata varılmıştır. Ödenen tazminat Şirketin alacağını tamamen kapatmaya yetmezse, aradaki fark Borçlu tarafından üstlenilecek ve bakiyesi Şirkete derhal nakden ödenecektir. Borçlu, Şirketinin sigorta şirketine tazminat konusunda çıkacak anlaşmazlıklar nedeniyle dava açması halinde doğacak tüm masraflardan kendisinin sorumlu olduğunu ve ayrıca söz konusu davanın Şirketinin/Borçlunun aleyhine sonuçlanması halinde dahi Şirketten herhangi bir talepte bulunmayacağını beyan, kabul ve taahhüt eder. Borçlu, Şirketin talebi üzerine Şirketinin uygun göreceği bedel ve şartlarla sigorta yaptırmayı, daha önceden sigortasının bulunması halinde de ilgili sigorta poliçesinde bankayı rehin alacaklısı olarak göstermeyi, Şirketin bu sigortalarla ilgili prim tutarlarını Şirket nezdindeki hesaplarından tahsile yetkili olduğunu, vefatı halinde mezkûr sigorta sonucu ödenecek tazminattan o tarihte Şirkete olan borcun mahsubundan sonra kalacak meblağın mirasçılarına ödenmesini beyan, kabul ve taahhüt eder. Borçlu, bu şekilde imzalanmış olan sigorta poliçelerinin kapsam, prim ve süresinde, Şirketin önceden yazılı onayını almadan hiçbir değişiklik yapmayacağını, poliçeleri yenilemesi halinde ise ilgili belgelerin tamamını Şirkete ibraz edeceğini kabul, beyan ve taahhüt eder. Borçlu, ayrıca sigorta poliçelerine ilişkin yapacağı her türlü temlik, yeniden düzenleme ve sair işlemleri, ilgili sigorta şirketine ve Şirkete bildirmeyi beyan, kabul ve taahhüt etmektedir.
+Borçlunun bu taahhütlerini kısmen ve/veya tamamen yerine getirmemesi sözleşmeye aykırılık teşkil eder. Borçlu, bir yıldan uzun poliçelerin kredilendirilmesi ve sigorta konusu aracın ilk yılda ve/veya sonraki yıllarda tam zarara uğraması halinde ise kalan yıllara ait poliçe bedelinin krediden düşülmesinden sonra bakiye kredi borcunu herhangi bir bildirim ve ihbara gerek kalmadan nakden ve defaten ödeyeceğini kabul, beyan ve taahhüt eder. Borçlu, bu maddeye ek olarak kredi kullandırımı sırasında kendi talebiyle aldığı bir veya birden çok sigorta ürününün herhangi bir sebeple iptal edilmesi halinde; Sözleşme’nin imza tarihinden itibaren geçerli olacak ve bu kez baz faiz üzerinden yeniden hesaplanacak geri ödeme planına uygun olarak ödemelerini yapacağını ve iptal işlemi sebebiyle oluşan iade bedelinin kredi geri ödemelerine yansıtılacağını kabul, beyan ve taahhüt eder.
+Madde 5
+Geri Ödeme:
+Kredinin geri ödemesi, taksit ödeme tarihinde, geri ödeme planında belirtilen taksitteki tutarın tamamının ödenmesi suretiyle gerçekleştirilecektir. Taksitlerin yabancı para cinsi üzerinden belirlenmiş olması halinde geri ödeme planında belirtilen vade tarihindeki T.C. Merkez Bankası döviz satış kuru esas alınacaktır. Borçlu, kredinin dövize endeksli olarak kullanması halinde ileride kurdaki her türlü değişimden doğrudan etkileneceğini bildiğini, kabul, beyan ve taahhüt eder.
+Madde 6
+Temerrüt Faizi:
+Borçlu, Şirket tarafından baz olarak alınacak olan uygulanan temerrüt faiz oranlarının en yükseğinin iki katı oranında temerrüt faizi uygulamasını kabul etmekle, bu faiz oranı esas alınarak kendi aleyhine dava ve takip açılabileceğini, bu temerrüt faizi üzerinden ayrıca hesaplanacak Banka ve Sigorta muameleleri vergisi ve sair vergi, Kaynak Kullanımını Destekleme Fonu, harç ve masraflarını ödemeyi, borç bakiyelerinin tamamı ödeninceye kadar faiz, komisyon, gider vergisi, masraf ve diğer hususların, kredinin verilmesi anında geçerli olan şartlar dairesinde işlemeye devam edeceğini, ayrıca Şirketin dilediği şekilde temerrüt faizi oranlarında değişiklik yapmaya yetkili olduğunu bildiğini beyan, kabul ve taahhüt eder.
+Madde 7
+Borçlunun Temerrüde Düşmesinin Hukuki Sonuçları:
+Borçlu, geri ödeme planında belirtilen, herhangi bir taksiti kısmen ve/veya tamamen ödemediği takdirde veya aleyhinde iflas veya icra takibine girişilmesi, ihtiyati haciz/ihtiyati tedbir kararı alınması, borçlarını ödemede acze düşmesi, alacaklılarına ödeme planı yapmayı teklif etmesi/yapması, iflas, iflas erteleme talebinde bulunması, herhangi bir aktifi üzerinde haciz veya benzeri bir işlem yapılması, tasfiyeye gitmesi, herhangi bir yetkili mahkemede tasfiyesine yönelik dava açılması veya benzeri hallerden herhangi birisinin mevcudiyeti halinde, Şirketin herhangi bir bildirim ve ihbarına gerek kalmadan temerrüde düşmüş sayılacaktır.  Geri ödeme planına göre ödenmeyen tüm kredi muaccel hale gelecektir.
+Madde 8
+Kampanya Krediler:
+Şirket, uygun bulması halinde krediyi Borçluya Kampanya Kredi olarak da kullandırabilir. Bu durumda Sözleşme gereği ödenmesi gereken akdi faizin bir bölümü veya tamamı, geri ödeme planında belirtilen şekilde kredinin kullandırılması esnasında veya sonrasında Şirketinin öngördüğü 3. kişi, kurum ve/veya Borçlu tarafından ödenecektir.
+Borçlu akdi faizin bir bölümünün veya tamamının 3. kişi, kurum ve/veya bizzat kendisi tarafından ödeneceğini, ancak buna rağmen kendi açısından akdi faizin, sözleşmede belirtilen oran olduğunu kabul, beyan ve taahhüt eder.
+Madde 9
+Faiz, Vergi, Resim, Harç ve Masraflar:
+Sözleşme gereğince açılacak kredi ve hesaplar ile birlikte diğer her türlü kredi ve teminatlara, önceden bir ihbara ihtiyaç olmaksızın yetkili merciler tarafından tespit edilmiş, edilecek veya serbestçe tayin edeceği oranlarda faiz, temerrüt faizi, komisyon, fon, ücret, kaynak kullanımını destekleme fonu gibi ve her ne nam altında olursa olsun sair teferruat ve ayrıca gider vergisi sair vergi, resim ve harçları uygulama ve bu oranları dilediği zaman ve miktarlarda tek yanlı olarak, bir ihbarda bulunmaksızın arttırma hakkına sahiptir. Borçlu bu hususta hiçbir iddia, itiraz ve şikayet hakkının bulunmadığını beyan ile bu iddia ve taleplerinden şimdiden gayrikabili rücu feragat etmektedir. Borçlu, Şirketin mevcut hükümleri her zaman değiştirebileceğini ve bundan önceki uygulamaların izleyen dönemler için kazanılmış hak oluşturmayacağını şimdiden beyan, kabul ve taahhüt eder.
+Ayrıca, işbu Sözleşme, bilcümle ekleri ve bu nedenle verilen veya verilecek her türlü teminatlarla ilgili muamelelerin gerektirdiği ve gerektireceği her türlü masrafların ve halen mevcut veya ileride konulacak, arttırılacak her türlü vergi, resim ve harçlarla, tarh edilecek cezaların, sigorta, prim ve masraflarının bunlarda vuku bulacak artışların Borçlu’ya ait olacağı ve bunların Şirketin aksini belirtmiş olmadığı müddetçe nakden ödeneceği taraflarca kararlaştırılmıştır.
+Borçlu, işbu Sözleşme’nin ilgili maddelerinde yer alan faiz, komisyon, masraf ve sair giderlerin tahsiline ilişkin maddeler ile ilgili olmak üzere, işbu kalemlerin tahsil edilen paralardan öncelikle mahsup edildikten sonra arta kalan bir meblağ olması hainde ancak bu meblağın anapara borcundan düşüleceği ilkesini ve Şirketin takas mahsup yetkisini bu yönde kullanmaya ehil olduğunu peşinen beyan ve kabul etmektedir.
+Bu maddeye ilaveten herhangi bir yanlış yoruma mahal verilmemesi adına iş bu Sözleşme’nin imzalanması ve uygulanması ile ilgili ortaya çıkabilecek her türlü resim, harç ve vergiden Borçlu sorumlu olacaktır.
+Madde 10
+Uygulanacak Hukuk ve Yetkili Mahkeme:
+İşbu Sözleşmeye Türk Hukuku uygulanacaktır. Sözleşmeden doğan her türlü anlaşmazlıklarda, … Mahkeme ve İcra Daireleri yetkili olacaktır.
+Kanuni İkametgâh: Borçlu, kanuni ikametgâhının ve tebligat adresinin aşağıdaki yazılı adres olduğunu, adres gösterilmemiş ise Ticaret Sicilinde kayıtlı son adreslerinin tebligat adresleri olduğunu ve bu adrese ya da içlerinden herhangi birine yapılacak tebligatların usulüne uygun bir şekilde yapılmış addedileceğini beyan etmektedir. Bu adreste vaki olacak değişiklikler Şirkete yazılı olarak bildirilmiş olmadıkça bilinen son, ikametgâh ve tebligat adresine gönderilecek tebligatlar da usulüne uygun şekilde yapılmış addedilecektir. Bu Sözleşme ile ilgili yapılacak tebligatlar ikametgâh adresi veya bilinen son adrese bırakılmak veya posta ile gönderilmiş suretiyle yapılabilir.
+Madde 11
+Delil Sözleşmesi:
+Borçlu, işbu Sözleşme tahtında ortaya çıkabilecek uyuşmazlıklarda, Şirketin ve kredi geri ödemelerinin yapılacağı banka ve finans kuruluşlarının defter kayıtları ve bu defter kayıtlarından çıkarılmış ve Şirketin bir yetkilisi veya yetkilileri tarafından imzalanmış bir belgenin, bilgisayar kayıt ve çıktılarının, faks talimat metinlerinin, başkaca bir belge veya kâğıdın ibrazına gerek olmaksızın münhasır, kesin ve nihai delil olarak kabul ettiğini beyan ve kabul etmektedir.
+Madde 12
+Müteselsil Kefalet:
+İşbu Sözleşme’nin altında isim, unvan ve adresleri yer alan ve imza vazetmiş müşterek müteselsil borçlu ve müteselsil kefiller, Borçlunun işbu Sözleşme ve ekleri ile borçlanacağı bütün bedelleri ödemeyi taahhüt etmektedir.
+Madde 13
+Rehin Sözleşmesi:
+Rehin Veren ile Şirket arasında akdedilen kredi sözleşmeleri ile kullandırılmış her türlü kredilerden doğan borçlarının teminatını teşkil etmek üzere aşağıda markası, modeli, plaka, motor ve şasi no’su kayıtlı taşıt veya taşıtları Medeni Kanun’un 940. maddesi uyarınca Şirkete rehin etmiştir.
+Rehin Veren, tesis edilen bu rehnin; kredi anaparası, akdi faizleri, temerrüt faizleri, gider vergisi, her türlü vergi, resim harç, komisyon ve masraflar ile icra takibinden kaynaklanan her türlü alacak ile ayrıca adı geçen şahsın/şirketin kefil sıfatıyla imzalamış olduğu kredi sözleşmelerinden kaynaklanan borçların teminatını teşkil edeceğini kabul, beyan ve taahhüt eder.
+Kural olarak Rehin Alan, borç sona ermedikçe araçlar üzerindeki rehin hakkını kaldırmayacaktır. Ancak Rehin Alan dilerse dilediği araç üzerinde rehin hakkını kaldırabilir. Bu durum listedeki diğer araçlar üzerindeki rehin hakkına zarar vermez.
+Rehin Veren, Şirketin muaccel hale gelmiş alacaklarının tasfiyesi için işbu sözleşme ile rehnedilen aracı İcra İflas Kanunu’nun menkul rehninin paraya çevrilmesi yolu ile satışını yaparak paraya çevirmeye, bedelini muaccel hale gelmiş alacaklarına mahsuba yetkili bulunduğunu, işbu Rehin Sözleşmesinde düzenlenmemiş hususlarda ilgili kredi sözleşmeleri hükümlerinin uygulanmasını kabul ettiğini kabul, beyan ve taahhüt eder.
+Rehin Veren, başta “Uygulanacak Hukuk ve Yetkili Mahkeme” ve “Kanuni İkametgâh” hükümleri olmak üzere iş bu Rehin Sözleşmesi’nde düzenlenmemiş hususlarda ise ilgili “Şirket Kredi Sözleşmesi” hükümlerinin uygulanacağını kabul, beyan ve taahhüt eder.
+REHİN KONUSU TAŞITIN
+MARKASI :
+MODELİ :
+PLAKA NO :
+MOTOR NO :
+ŞASİ NO :
+Borçlu                                                                                                                        Kefil
+(Adı, Soyadı, İmza)                                                                                                    (Adı, Soyadı, İmza)
